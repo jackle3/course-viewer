@@ -28,12 +28,7 @@ module.exports = async (req, res) => {
     const sanitizedCode = code.replace(/\s+/g, "").toLowerCase();
     const regex = new RegExp(`^${sanitizedCode}`);
 
-    const projection =
-      "subject code title description unitsMax sections gers objectID number";
-    const course = await Course.find(
-      { sanitizedNumber: { $regex: regex } },
-      projection
-    );
+    const course = await Course.find({ sanitizedNumber: { $regex: regex } });
 
     if (course && course.length > 0) {
       res.json(course);
