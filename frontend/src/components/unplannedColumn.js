@@ -12,7 +12,7 @@ import {
 } from "./styles";
 import debounce from "lodash.debounce";
 
-import { useState, useMemo, useEffect } from "react";
+import { useMemo, useEffect } from "react";
 import CourseItem from "./courseItem";
 
 function UnplannedColumn({ columnTitle, data, handleSearch, onDelete }) {

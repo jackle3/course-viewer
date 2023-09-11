@@ -3,10 +3,8 @@ import { DragDropContext } from "react-beautiful-dnd";
 import { GridBoard } from "./styles";
 import Column from "./column";
 import UnplannedColumn from "./unplannedColumn";
-import { v4 as uuidv4 } from "uuid";
-import apiRequest from "../../helpers/apiRequest";
-
-import { useMouseSensor } from "react-beautiful-dnd";
+import { v4 as uuid } from "uuid";
+import apiRequest from "../helpers/apiRequest";
 
 const grid = {
   "1A": { name: "Search", items: [] },
@@ -90,7 +88,7 @@ function Planner() {
         "1A": {
           ...cells["1A"],
           items: filteredCourses.map((course) => ({
-            id: uuidv4(),
+            id: uuid(),
             course: course,
           })),
         },
