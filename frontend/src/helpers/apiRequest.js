@@ -1,7 +1,7 @@
 let API_URL = "http://localhost:4005";
 
 
-// API_URL = "https://course-viewer-backend.vercel.app";
+API_URL = "https://course-viewer-backend.vercel.app";
 
 export class HTTPError extends Error {
   /* status is the HTTP status, message is a user-facing error message. */
