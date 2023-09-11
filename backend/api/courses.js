@@ -17,6 +17,7 @@ const courseSchema = new mongoose.Schema({
   number: String,
   units: Array,
   totalSections: Number,
+  sanitizedNumber: String, // Adding the sanitized field
 });
 
 const Course = mongoose.model("Course", courseSchema);
@@ -25,11 +26,16 @@ module.exports = async (req, res) => {
   try {
     const code = req.query.code || req.params.code;
     const sanitizedCode = code.replace(/\s+/g, "").toLowerCase();
-    const regex = new RegExp(`^${sanitizedCode}`); // Prefix search on the sanitized field
+    const regex = new RegExp(`^${sanitizedCode}`);
 
-    const course = await Course.find({ sanitizedNumber: { $regex: regex } });
+    const projection =
+      "subject code title description unitsMax sections gers objectID number";
+    const course = await Course.find(
+      { sanitizedNumber: { $regex: regex } },
+      projection
+    );
 
-    if (course) {
+    if (course && course.length > 0) {
       res.json(course);
     } else {
       res.status(404).json({ message: "Course not found" });
