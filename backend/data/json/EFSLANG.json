@@ -1,0 +1,1995 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "197",
+        "title": "Directed Study",
+        "description": null,
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27416",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29330",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29032",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "11467",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Geda, K.",
+                                "sunet": "kgeda"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "10676",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Geda, K.",
+                                "sunet": "kgeda"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "205293",
+        "number": "EFSLANG 197",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "397",
+        "title": "Directed Study",
+        "description": null,
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26817",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28643",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28319",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "7678",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Geda, K.",
+                                "sunet": "kgeda"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "8330",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Geda, K.",
+                                "sunet": "kgeda"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "8162",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Geda, K.",
+                                "sunet": "kgeda"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "121493",
+        "number": "EFSLANG 397",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "683R",
+        "title": "Workshop in Reading and Vocabulary for International Students",
+        "description": "(1-2 units). Provides support in the development of English reading skills for academic purposes, including work on comprehension, speed, and critical interpretation,  along with strategies for improving vocabulary. Students taking the course for 2 units will have additional individual assignments and a 50-minute tutorial each week. Limited to visiting undergraduates and students in the High School Summer College program.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "211837",
+        "number": "EFSLANG 683R",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "683S",
+        "title": "Workshop in Oral Communication for International Students",
+        "description": "(1-2 units) Provides support in the development of listening and speaking skills in English, including academic listening, small group discussion, oral presentation, and intercultural communication. Students taking the course for 2 units will have additional individual assignments and a 50-minute tutorial each week. Limited to visiting undergraduates and students in the High School Summer College program.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "210697",
+        "number": "EFSLANG 683S",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "683W",
+        "title": "Workshop in Written Communication for International Students",
+        "description": "Provides support in the development of English writing skills for non-natives. Writing assignments are negotiated with the instructor and may include practice in composition, SAT or TOEFL writing, and writing university application essays and statements of purpose.  Students taking the course for 2 units will have additional individual assignments and a 50-minute tutorial each week. Limited to visiting undergraduates and students in the High School Summer College program.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "206836",
+        "number": "EFSLANG 683W",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "684C",
+        "title": "Communicating in the Sciences and Engineering",
+        "description": "Provides instruction and practice for international students in essential spoken and written skills to succeed in the sciences and engineering in both academics and industry. Students develop their ability to communicate effectively across the English-speaking world with both scientists and engineers as well as with others outside their fields. Students taking the course for 2 units will have additional individual assignments and a weekly 50-minute tutorial. Intended for visiting undergraduates and students in the High School Summer College program. Graduate students may attend by permission.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "220257",
+        "number": "EFSLANG 684C",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "684D",
+        "title": "Effective Negotiation and Persuasion",
+        "description": "Provides for learning, practicing, and refining essential debate and discussion skills, abilities in high demand in both academia and industry and central to effective negotiation and persuasion. The course provides practice and feedback in class and covers a range of words, phrases and discourse structures for improving English proficiency and functioning effectively in academic and industry contexts as well as familiarity with commonly accepted interactional patterns. Students taking the course for 2 units will have additional individual assignments and a weekly 50-minute tutorial. Intended for visiting undergraduates and students in the High School Summer College program. Graduate students may attend by permission",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "220258",
+        "number": "EFSLANG 684D",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "686A",
+        "title": "Academic Speaking and Listening",
+        "description": "Online Only. Taken in conjunction with EFSLANG 686B. Focuses on oral/aural skills in the context of university study in the United States; an online program for those beginning a graduate program in the US, especially those at Stanford. The main purpose of this program is to prepare students for the graduate experience common to universities in the US, improving their spoken English as well as familiarizing them with some of the most important aspects of success in universities.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "224079",
+        "number": "EFSLANG 686A",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "686B",
+        "title": "Academic Writing and Reading",
+        "description": "Online Only. Taken in conjunction with EFSLANG 686A. Focuses on written/reading skills in the context of university study in the United States; an online program for those beginning a graduate program in the US, especially those at Stanford. The main purpose of this program is to prepare students for the graduate experience common to universities in the US, improving their written English as well as familiarizing them with some of the most important aspects of success in universities.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "224075",
+        "number": "EFSLANG 686B",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "687X",
+        "title": "American Language and Culture: Silicon Valley First Session",
+        "description": "Closed enrollment. Intensive English language and U.S. culture program. Enrollment limited to 14.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "200003",
+        "number": "EFSLANG 687X",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "687Y",
+        "title": "American Language and Culture: Silicon Valley, Second Session",
+        "description": "Closed enrollment. Intensive English language and U.S. culture program. Enrollment limited to 14. Course may be repeated once.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "200002",
+        "number": "EFSLANG 687Y",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "688",
+        "title": "Intensive English and Academic Orientation for Foreign Graduate Students",
+        "description": "Goal is to prepare incoming international graduate students for full-time study. Academic orientation and instruction in academic writing, listening, discussion, oral presentation, and spoken usage. Enrollment limited to 14. Course may be repeated once.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [],
+        "gers": [],
+        "objectID": "121506",
+        "number": "EFSLANG 688",
+        "units": [
+            6
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "688A",
+        "title": "Intensive Spoken English",
+        "description": "For current graduate students. Includes work on listening, oral presentation, discussion, and conversational interaction. May fulfill any two of the following EFS requirements, subject to approval by the EFS Coordinator: EFSLANG 690A, 690B, 691, 693B.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "209737",
+        "number": "EFSLANG 688A",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "688B",
+        "title": "Intensive Academic Writing",
+        "description": "For current graduate students.  Focus on academic writing, with some work in reading and vocabulary development. Engineering, science, humanities, and social science students prepare a research paper; business students write one or more case studies. Fulfills requirement for EFSLANG 697 or 698A, subject to approval by the EFSLANG coordinator.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "209738",
+        "number": "EFSLANG 688B",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "688V",
+        "title": "Intensive English and Academic Orientation for Stanford Visiting Scholars",
+        "description": "Goal is to improve English proficiency and introduce the university environment. Writing, pronunciation, listening, discussion, oral presentation, and spoken usage. Enrollment limited to 14.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "121510",
+        "number": "EFSLANG 688V",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "689B",
+        "title": "Building Communication Skills through Improvisation",
+        "description": "Focus on building a range of English communication skills through improvisation activities. Participants explore theatrical techniques that teach collaboration, spontaneity, team building, storytelling, and confident public speaking with connections to academic, professional, and personal situations. No previous improvisation or theater experience necessary.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "215631",
+        "number": "EFSLANG 689B",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "689H",
+        "title": "American Humor",
+        "description": "Analysis of jokes, humorous stories, and situations through modern media. Practice in advanced listening comprehension and English idioms.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "121517",
+        "number": "EFSLANG 689H",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "689L",
+        "title": "Living in the USA",
+        "description": "Life and relationships outside the University classroom. Goal is to familiarize international students with the cultural expectations and forms of language use in a variety of situations in the University community and in other social situations.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "121518",
+        "number": "EFSLANG 689L",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "689P",
+        "title": "Pronunciation",
+        "description": "The sounds of English, and stress, intonation, and rhythm patterns important to natural-sounding speech.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "121519",
+        "number": "EFSLANG 689P",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "689S",
+        "title": "Exploring Silicon Valley Language and Culture",
+        "description": "Focus on developing communicative skills in the context of Silicon Valley with its unique culture and language patterns. Through analysis and discussion of language and content from authentic materials, such as popular blogs and videos, students gain familiarity with local norms for interacting with the people who live and work in this region. Includes topics relevant to entrepreneurs, tech professionals, and students as well as a short individual project. Intended for both new and continuing international graduate students.Undergraduate and visiting high school students may attend with permission.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "215608",
+        "number": "EFSLANG 689S",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "689T",
+        "title": "Interacting in California's Vineyard Culture",
+        "description": "Focuses on communicative skills in the context of California's renowned wine culture.  Emphasis on the language of wine using appropriate terminology, and interacting knowledgeably with restaurant and retail wine staff.  Topics include learning the fundamentals of vineyard techniques, varietal characteristics, tasting techniques, drinking and ordering etiquette. Course is co-taught by a wine expert and an ESL instructor. Class consists of a short interactive lecture, a communicative activity such as role playing, and a tasting of four specially selected wines. Participants must be at least 21 years old.  Fee.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "209538",
+        "number": "EFSLANG 689T",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "689V",
+        "title": "Vocabulary and Idiom",
+        "description": "Building vocabulary for academic success. Idiomatic language, and what idioms and metaphors reflect about American culture. Enrollment limited to 14.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "121521",
+        "number": "EFSLANG 689V",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "690A",
+        "title": "Interacting in English",
+        "description": "Strategies for communicating effectively in social and academic settings. Informal and formal language used in campus settings, including starting and maintaining conversations, asking questions, making complaints, and contributing ideas and opinions. Simulations and discussions, with feedback on pronunciation, grammar, and usage.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14461",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14438",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "121523",
+        "number": "EFSLANG 690A",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "690B",
+        "title": "Academic Discussion",
+        "description": "Skills for effective participation in classroom settings, seminars, and research group meetings. Pronunciation, grammar, and appropriateness for specific tasks. Feedback on language and communication style. May be repeated once for credit. Prerequisite: EFSLANG 690A or consent of instructor.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Go to efs.stanford.edu for enrollment information.",
+                "classId": "7659",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29112",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "110-114",
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "121524",
+        "number": "EFSLANG 690B",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "690C",
+        "title": "Advanced Interacting in English",
+        "description": "Communication skills for extended discourse such as storytelling and presenting supported arguments. Development of interactive listening facility and overall intelligibility and accuracy. Goal is advanced fluency in classroom, professional and social settings. Identification of and attention to individual patterned errors. May be repeated once for credit. Prerequisite: EFSLANG 690B or consent of instructor. Enrollment limited to 14.nhttps://language.stanford.edu/programs/efs/l",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29024",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "205220",
+        "number": "EFSLANG 690C",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "691",
+        "title": "Oral Presentation",
+        "description": "For advanced graduate students. Practice in academic presentation skills; strategy, design, organization, and use of visual aids. Focus is on improving fluency and delivery style, with videotaping for feedback on language accuracy and usage.  May be repeated once for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Go to efs.stanford.edu for enrollment information.",
+                "classId": "7660",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "https://language.stanford.edu/programs/efs/l.",
+                "classId": "7487",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Go to www.stanford.edu/group/efs for enrollment info.",
+                "classId": "7208",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "260-004",
+                        "instructors": [
+                            {
+                                "name": "Geda, K.",
+                                "sunet": "kgeda"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "121526",
+        "number": "EFSLANG 691",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "691S",
+        "title": "Oral Presentation",
+        "description": "For advanced graduate students. Practice in academic presentation skills; strategy, design, organization, and use of visual aids. Focus is on improving fluency and delivery style, with video recording for feedback on language accuracy and usage. Fulfills the requirement for EFSLANG 691.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "217882",
+        "number": "EFSLANG 691S",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "692",
+        "title": "Speaking and Teaching in English",
+        "description": "This course is an opportunity for international students to develop their oral communication and teaching skills to be a course assistant, teaching assistant, or instructor, especially those planning an academic career in an English-speaking context. It focuses on understanding the culture of the classroom and on developing clarity and communicative effectiveness through periodic micro-teaching presentations and role plays simulating typical teaching situations, including short lectures, problem set and review sessions, office hours, discussion leading, and student project consultations. Extensive feedback is provided on comprehensibility and accuracy along with development of interpersonal and intercultural communication skills. The instructor will meet with students regularly throughout the quarter for one-on-one tutorials. May be repeated once for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "28321",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "26819",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "540-103",
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "121530",
+        "number": "EFSLANG 692",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "693A",
+        "title": "Listening Comprehension",
+        "description": "This course focuses on strategies for effective listening to university lectures and other academic content, such as seminars and group discussions. It extends beyond listening for main ideas and details, providing practice in identifying discourse markers common in academic settings and in recognizing and accommodating implied information, hesitations, and reduced forms, such as contractions. It also covers challenging areas such as processing numbers and adapting to unfamiliar vocabulary. Listening practice is complemented by instruction in effective note-taking and study strategies to retain and review comprehended information. Additionally, the course has a significant discussion component, giving students the opportunity to interpret what they hear to develop a deeper and more critical understanding of the content and to link that understanding to their own spoken English production and interaction. Materials include recorded lectures from Stanford faculty and other relevant sources.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11178",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "110-101",
+                        "instructors": [
+                            {
+                                "name": "Lockwood, R.",
+                                "sunet": "rbrinks"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11468",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "110-101",
+                        "instructors": [
+                            {
+                                "name": "Lockwood, R.",
+                                "sunet": "rbrinks"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "121532",
+        "number": "EFSLANG 693A",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "693B",
+        "title": "Advanced Listening Comprehension, and Vocabulary Development",
+        "description": "Listening strategies and vocabulary for understanding English in academic and non-academic contexts. Discussion and interpretation of communicative intent. Computer-based and video exercises across a range of genres; individual project. May be repeated once for credit. Prerequisite: EFSLANG 693A or consent of instructor.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Go to efs.stanford.edu for enrollment information.",
+                "classId": "7701",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lockwood, R.",
+                                "sunet": "rbrinks"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "https://language.stanford.edu/programs/efs/l.",
+                "classId": "7296",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lockwood, R.",
+                                "sunet": "rbrinks"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11179",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "10:50:00 AM",
+                        "location": "80-113",
+                        "instructors": [
+                            {
+                                "name": "Geda, K.",
+                                "sunet": "kgeda"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 39000.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "121533",
+        "number": "EFSLANG 693B",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "694",
+        "title": "English for Business, Industry and Professional Life",
+        "description": "For advanced graduate students. Task-based practice of language appropriate for professional settings in industry and related teamwork. Simulation of the roles of manager, applicant, subordinate, and coworker. Prerequisite: EFSLANG 693A, or consent of instructor. Enrollment limited to 14.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "201647",
+        "number": "EFSLANG 694",
+        "units": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "695A",
+        "title": "Pronunciation and Intonation",
+        "description": "This course provides training in recognizing and practicing American English sounds, stress, and intonation patterns in connected speech in order to improve comprehension and enhance intelligibility in a variety of settings. After receiving an individualized analysis of speech patterns, students engage in directed practice both with online software and in class, receiving immediate feedback. Through these in-class activities and practice assignments, students will improve their ability to pronounce English clearly and to self-monitor and self-correct. The instructor will meet with students regularly throughout the quarter for one-on-one tutorials. Enrollment limited to 12.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14462",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wang, D.",
+                                "sunet": "dominicw"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "https://language.stanford.edu/programs/efs/l.",
+                "classId": "7488",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wang, D.",
+                                "sunet": "dominicw"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "121538",
+        "number": "EFSLANG 695A",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "695B",
+        "title": "Advanced Pronunciation and Intonation",
+        "description": "Continuation of EFSLANG 695A, focusing on American English sounds, stress, rhythm, and intonation patterns. Emphasis is on self-monitoring, integrated with short presentations. Biweekly tape assignments and tutorials. Enrollment limited to 14. May be repeated for credit three times. Prerequisite: EFSLANG 695A.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "121539",
+        "number": "EFSLANG 695B",
+        "units": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "695S",
+        "title": "Pronunciation and Intonation",
+        "description": "Recognition and practice of American English sounds, stress, and intonation patterns for greater comprehension and intelligibility. Analysis of problem areas. Biweekly tape assignments and tutorials. Fulfills the requirement for EFSLANG 695A.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "217883",
+        "number": "EFSLANG 695S",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "696",
+        "title": "Understanding American Humor",
+        "description": "Recognizing rhetorical devices, jokes, and character types common to spoken humor in film and television programs. Crosscultural discussion. Prerequisite: EFSLANG 690B, EFSLANG 693B or consent of the instructor. Repeatable once for credit. Enrollment limited to 14.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "204750",
+        "number": "EFSLANG 696",
+        "units": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "697",
+        "title": "Gateway to Graduate Writing",
+        "description": "Focus is on improving grammatical accuracy and vocabulary, building fluency, and learning the structure and conventions of English correspondence, reports, and short academic papers. Enrollment limited to 14.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Go to efs.stanford.edu for enrollment information.",
+                "classId": "11149",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Geda, K.",
+                                "sunet": "kgeda"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 46200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7302",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Geda, K.",
+                                "sunet": "kgeda"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11193",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "200-124",
+                        "instructors": [
+                            {
+                                "name": "Wang, D.",
+                                "sunet": "dominicw"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206239",
+        "number": "EFSLANG 697",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "698A",
+        "title": "Writing Academic English",
+        "description": "Strategies and conventions for graduate writing. Emphasis is on fluency, organization, documentation, and appropriateness for writing tasks required in course work.  May be repeated once for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Go to efs.stanford.edu for enrollment information.",
+                "classId": "7662",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lockwood, R.",
+                                "sunet": "rbrinks"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Go to  \"www.stanford.edu/group/efs\" for enrollment information.",
+                "classId": "8163",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lockwood, R.",
+                                "sunet": "rbrinks"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Go to www.stanford.edu/group/efs for enrollment info.",
+                "classId": "7207",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "80-113",
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "Go to efs.stanford.edu for enrollment information.",
+                "classId": "7663",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14269",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14870",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "260-012",
+                        "instructors": [
+                            {
+                                "name": "Streichler, S.",
+                                "sunet": "seths1"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "121542",
+        "number": "EFSLANG 698A",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "698B",
+        "title": "Advanced Graduate Writing",
+        "description": "Focus on clarity, accuracy, and appropriate style. For graduate students experienced in English writing and currently required to write for courses and research. Class meetings and individual conferences. Prerequisite: EFSLANG 698A.  May be repeated once for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "121543",
+        "number": "EFSLANG 698B",
+        "units": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "698C",
+        "title": "Writing and Presenting Research",
+        "description": "For advanced graduate students completing major research projects. Revising and editing strategies for preparing papers, conference abstracts, and poster presentations. Practice adapting written and oral presentational content and style to different audiences. Students present their research and receive instructor and peer feedback, with regular individual tutorials in addition to class work. Enrollment limited to 12. May be repeated twice for credit. Prerequisite: Students required by the EFS Placement Exam to take EFSLANG 691, 697, 698A, or 698B may not enroll in 698C until those requirements have been fulfilled. Others may sign up directly.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "205221",
+        "number": "EFSLANG 698C",
+        "units": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "698S",
+        "title": "Writing Academic English",
+        "description": "Strategies and conventions for graduate writing. Emphasis is on fluency, organization, documentation, and appropriateness for writing tasks required in course work and in producing research papers. Fulfills the requirement for EFSLANG 698A.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "217884",
+        "number": "EFSLANG 698S",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "699W",
+        "title": "Individual Writing Projects",
+        "description": "This tutorial-based course is aimed as a follow-up to EFSLANG writing courses to support a students' continuing growth as writers in their fields. It provides weekly individual meetings with an EFS instructor of around 50 minutes on one or more major writing projects, such as qualifying papers, grant proposals, papers for publication, or dissertation chapters. The meetings are structured around the student's individual writing needs. During the sessions, students receive detailed feedback on organization, style, and grammar, along with training on how to revise and edit more effectively. Space is limited, and priority is given to those who have completed one or more of the following ENGR 202W or EFSLANG 688, 698A, 698B, or 698C. Others will be considered if space remains. For information on how to apply, see http://efs.stanford.edu or email kgeda@stanford.edu. Students with outstanding EFS writing requirements must complete them before applying.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": ". For information on how to apply, see http://efs.stanford.edu or email efs@stanford.edu.  Students with outstanding EFS writing requirements must complete them before applying. nn.",
+                "classId": "12943",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lockwood, R.",
+                                "sunet": "rbrinks"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "13498",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lockwood, R.",
+                                "sunet": "rbrinks"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "13676",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lockwood, R.",
+                                "sunet": "rbrinks"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221993",
+        "number": "EFSLANG 699W",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "701",
+        "title": "Online Coaching: Writing",
+        "description": "This short course allows intensive work on a single written text of the student's choice. Students produce two drafts of their text (1000-2000 words) and meet individually with the instructor to receive substantive feedback; additionally, they review exercises and live video lessons to improve their accuracy in written English. The course meets online over three weeks.  Students with requirements in EFSLANG 697, 698A, or 698B must complete them before enrolling in 701.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "30175",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wang, D.",
+                                "sunet": "dominicw"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29981",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wang, D.",
+                                "sunet": "dominicw"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222107",
+        "number": "EFSLANG 701",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "702",
+        "title": "Online Coaching: Presentation",
+        "description": "This short course provides focused instruction in delivering effective oral presentations. Students create two recorded presentations and meet individually with the instructor to discuss detailed feedback; additionally, they gain proficiency with Zoom technology and strategies for improved audience engagement. The course meets online over three weeks and is recommended for those who have already taken EFSLANG 691. Students with requirements in EFSLANG 690A, 690B, or 691 must complete them before enrolling in 702. nNote: Section 1 meets in weeks 2, 3, and 4. Section 2 meets in weeks 7, 8, and 9.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "30176",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222108",
+        "number": "EFSLANG 702",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "EFSLANG",
+        "code": "703",
+        "title": "Online Coaching: Accent Reduction",
+        "description": "This short course provides focused instruction and practice on speaking English in personal, academic, and professional situations with greater clarity and effectiveness. Using an online approach with students selecting the times to work through the materials, they learn the key sound patterns of North American English, focusing on word stress, linking, rhythm, intonation and prosody. Over the five-week course, students improve their speaking clarity through the use of short video lectures, dictation exercises, and practice with an online pronunciation software package. They also receive individualized pronunciation coaching from the instructor via weekly 20-minute tutorials. Students with a requirement in EFSLANG 695A must complete it before enrolling: a prior course in pronunciation for others is recommended but not required.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "13743",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wang, D.",
+                                "sunet": "dominicw"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14077",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wang, D.",
+                                "sunet": "dominicw"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222256",
+        "number": "EFSLANG 703",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    }
+]

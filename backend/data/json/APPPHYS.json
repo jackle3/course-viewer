@@ -1,0 +1,3527 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "13N",
+        "title": "A Taste of Quantum Physics (PHYSICS 13N)",
+        "description": "What is quantum physics and what makes it so weird? We'll introduce key aspects of quantum physics with an aim to explain why it differs from everyday 'classical' physics. Quantum-enabled devices like the laser and atomic clocks for GPS will be explained.  We will also discuss the breakthroughs driving the 2nd quantum technology revolution surrounding quantum simulators, sensors, and computers.  Seminar discussions and a laser lab will help illustrate core principles, including the atomic clock mechanism. Visits to campus laboratories will introduce cutting-edge quantum experiments. This IntroSem is designed for those likely to go on to major in the humanities or in a STEM program outside of the natural sciences. (Likely STEM majors are instead encouraged to take 100-level quantum courses upon completion of pre-requirements.) While basic familiarity with high school physics is recommended, qualitative explanations will be emphasized. By the end of the quarter, you will be able to explain the key tenets of quantum physics, how it has enabled current technology, and what new technologies might emerge from the 2nd quantum revolution.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ISF",
+                "notes": "Introductory Seminar. Preference to first-year students; sophomore and new transfer students admitted if space available. Advance sign-up process and deadlines at https://exploreintrosems.stanford.edu/.",
+                "classId": "14409",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "SpilkerEngAppliedSci317",
+                        "instructors": [
+                            {
+                                "name": "Lev, B.",
+                                "sunet": "benlev"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SMA"
+        ],
+        "objectID": "223975",
+        "number": "APPPHYS 13N",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "77N",
+        "title": "Functional Materials and Devices",
+        "description": "Preference to freshmen. Exploration via case studies how functional materials have been developed and incorporated into modern devices. Particular emphasis is on magnetic and dielectric materials and devices. Recommended: high school physics course including electricity and magnetism.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ISF",
+                "notes": "Introductory Seminar. Preference to first-year students; sophomore and new transfer students admitted if space available. Advance sign-up process and deadlines at https://exploreintrosems.stanford.edu/.",
+                "classId": "11023",
+                "currentClassSize": "0",
+                "maxClassSize": "22",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Green Earth Sciences150",
+                        "instructors": [
+                            {
+                                "name": "Suzuki, Y.",
+                                "sunet": "ysuzuki1"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-EngrAppSci",
+            "WAY-SMA"
+        ],
+        "objectID": "213260",
+        "number": "APPPHYS 77N",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "79N",
+        "title": "Energy Options for the 21st Century",
+        "description": "Preference to frosh. Choices for meeting the future energy needs of the U.S. and the world. Basic physics of energy sources, technologies that might be employed, and related public policy issues. Trade-offs and societal impacts of different energy sources. Policy options for making rational choices for a sustainable world energy economy.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ISF",
+                "notes": "Introductory Seminar. Preference to first-year students; sophomore and new transfer students admitted if space available. Advance sign-up process and deadlines at https://exploreintrosems.stanford.edu/.",
+                "classId": "11796",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "Lathrop 294",
+                        "instructors": [
+                            {
+                                "name": "Fox, J.",
+                                "sunet": "jdfox"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-EngrAppSci",
+            "WAY-SMA"
+        ],
+        "objectID": "109366",
+        "number": "APPPHYS 79N",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "100",
+        "title": "The Questions of Clay: Craft, Creativity and Scientific Process (ARTSINST 100)",
+        "description": "Students will create individual studio portfolios of ceramic work and pursue technical investigations of clay properties and the firing process using modern scientific equipment. Emphasis on development of creative process; parallels between science and traditional craft; integration of creative expression with scientific method and analysis. Prior ceramics experience desirable but not necessary. Limited enrollment. Prerequisites: any level of background in physics, Instructor permission.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "WAY-CE",
+            "WAY-SMA"
+        ],
+        "objectID": "216006",
+        "number": "APPPHYS 100",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "100B",
+        "title": "The Questions of Cloth: Weaving, Pattern Complexity and Structures of Fabric (ARTSINST 100B)",
+        "description": "Students will learn to weave on a table loom while examining textile structures from historic, artistic and scientific perspectives.  Emphasis on analyzing patterns and structures generated by weaving, with elementary introductions to information-scientific notions of algorithmic complexity, image compression, and source coding.  This class is primarily intended for non-STEM majors with little or no prior experience in working with textiles.  Limited enrollment.  Prerequisites: Instructor permission.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-FR"
+        ],
+        "objectID": "222694",
+        "number": "APPPHYS 100B",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "100Q",
+        "title": "INDIGO",
+        "description": "Preference to sophomores.  Indigo as a plant, biomolecule, dye, ancient craft material, and organic semiconductor; the interest of natural dyes for both biomimetic engineering and indigenous artistic practices.  Students will plant and tend an indigo crop, harvest and process indigo leaves for dyestuffs, and dye textiles using an organic vat process.  Lectures, readings and discussions will focus on the biochemistry and physics of indigo dye, traditional indigo textile arts, environmental impacts of industrial-scale indigo dyeing of denim, roles of indigo in upcycling, craft-washing, and the aesthetics of indigo in western and non-western cultural frames.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-A-II"
+        ],
+        "objectID": "222755",
+        "number": "APPPHYS 100Q",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "188",
+        "title": "Matter and Mattering: Transdisciplinary Thinking about Things (ANTHRO 188, ANTHRO 288, ARCHLGY 188)",
+        "description": "Things sit at the nexus of cross-cutting heterogeneous processes; tracing the entanglements of any prominent thing or class of things demands a transdisciplinary approach that recruits expertise from the natural sciences, social sciences and humanities.  For example, carbon is a key factor in global warming for reasons that are as much socio-historical as bio-physical, and we could not begin to sketch the full significance of carbon without considering such diverse frames of reference.  Our growing appreciation in the social sciences and humanities of the agency, polyvalence and catalytic role of things has given rise to The New Materialist and Post-Humanist movements, which in turn raise questions about intra-action and observational perspective that are echoed in the modern physical and life sciences.  In this class we will explore these theoretical convergences in considering themes such as `things-in-themselves&iquest;, networks and open systems, assemblages and entanglements.  We will also examine specific examples such as oil, metal (guns), dams, viruses, electricity, mushrooms; each thing will be explored both in terms of its social and ethical entanglements and in terms of its material properties and affordances. There will also be hands-on encounters with objects in labs and a couple of local field trips. The key question throughout will be `why and how does matter matter in society today?",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "220403",
+        "number": "APPPHYS 188",
+        "units": [
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "189",
+        "title": "Physical Analysis of Artworks (ARCHLGY 189)",
+        "description": "Students explore the use of Stanford Nano Shared Facilities (SNSF) for physical analysis of material samples of interest for art conservation, technical art history and archaeology. Weekly SNSF demonstrations will be supplemented by lectures on intellectual context by Stanford faculty/staff and conservators from the Fine Arts Museums of San Francisco (FAMSF). Students will undertake analysis projects derived from ongoing conservation efforts at FAMSF, including training on the use of relevant SNSF instruments and data analysis.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LAB",
+                "notes": null,
+                "classId": "30141",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-AQR",
+            "WAY-SMA"
+        ],
+        "objectID": "221595",
+        "number": "APPPHYS 189",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "201",
+        "title": "Electrons and Photons (PHOTON 201)",
+        "description": "Applied Physics Core course appropriate for graduate students and advanced undergraduate students with prior knowledge of elementary quantum mechanics, electricity and magnetism, and special relativity. Interaction of electrons with intense electromagnetic fields from microwaves to x- ray, including electron accelerators, x-ray lasers and synchrotron light sources, attosecond laser-atom interactions, and x-ray matter interactions. Mechanisms of radiation, free-electron lasing, and advanced techniques for generating ultrashort brilliant pulses. Characterization of electronic properties of advanced materials, prospects for single-molecule structure determination using x-ray lasers, and imaging attosecond molecular dynamics.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "14770",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shen, Z.",
+                                "sunet": "zxshen"
+                            },
+                            {
+                                "name": "Marinelli, A.",
+                                "sunet": "ago9582"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212404",
+        "number": "APPPHYS 201",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "203",
+        "title": "Atoms, Fields and Photons",
+        "description": "Applied Physics Core course appropriate for graduate students and advanced undergraduate students with prior knowledge of elementary quantum mechanics, electricity and magnetism, and ordinary differential equations. Structure of single- and multi-electron atoms and molecules, and cold collisions. Phenomenology and quantitative modeling of atoms in strong fields, with modern applications. Introduction to quantum optical theory of atom-photon interactions, including quantum trajectory theory, mechanical effects of light on atoms, and fundamentals of laser spectroscopy and coherent control.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "11466",
+                "currentClassSize": "0",
+                "maxClassSize": "35",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Littlefield 107",
+                        "instructors": [
+                            {
+                                "name": "Simon, J.",
+                                "sunet": "jonsimon"
+                            },
+                            {
+                                "name": "Safavi-Naeini, A.",
+                                "sunet": "safavi"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212406",
+        "number": "APPPHYS 203",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "204",
+        "title": "Quantum Materials",
+        "description": "Applied Physics Core course appropriate for graduate students and advanced undergraduate students with prior knowledge of elementary quantum mechanics. Introduction to materials and topics of current interest. Topics include superconductivity, magnetism, charge and spin density waves, frustration, classical and quantum phase transitions, multiferroics, and interfaces. Prerequisite: elementary course in quantum mechanics.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "11251",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Suzuki, Y.",
+                                "sunet": "ysuzuki1"
+                            },
+                            {
+                                "name": "Fisher, I.",
+                                "sunet": "irfisher"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213255",
+        "number": "APPPHYS 204",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "205",
+        "title": "Introduction to Biophysics (BIO 126, BIO 226)",
+        "description": "Core course appropriate for advanced undergraduate students and graduate students with prior knowledge of calculus and a college physics course. Introduction to how physical principles offer insights into modern biology, with regard to the structural, dynamical, and functional organization of biological systems. Topics include the roles of free energy, diffusion, electromotive forces, non-equilibrium dynamics, and information in fundamental biological processes.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "14521",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Schnitzer, M.",
+                                "sunet": "mschnitz"
+                            },
+                            {
+                                "name": "Good, B.",
+                                "sunet": "bhgood"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213259",
+        "number": "APPPHYS 205",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "207",
+        "title": "Laboratory Electronics",
+        "description": "Lecture/lab emphasizing analog and digital electronics for lab research. RC and diode circuits. Transistors. Feedback and operational amplifiers. Active filters and circuits. Pulsed circuits, voltage regulators, and power circuits. Precision circuits, low-noise measurement, and noise reduction techniques. Circuit simulation tools. Analog signal processing techniques and modulation/demodulation. Principles of synchronous detection and applications of lock-in amplifiers. Common laboratory measurements and techniques illustrated via topical applications. Prerequisites: undergraduate device and circuit exposure.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "This course includes two sessions: the in-person lecture session and the in-person lab session.",
+                "classId": "13728",
+                "currentClassSize": "0",
+                "maxClassSize": "32",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fox, J.",
+                                "sunet": "jdfox"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LBS",
+                "notes": "This course includes two sessions: the in-person lecture session and the in-person lab session (choose between lab section #2 or lab section #3).",
+                "classId": "14485",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fox, J.",
+                                "sunet": "jdfox"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "LBS",
+                "notes": "This course includes two sessions: the in-person lecture session and the in-person lab session (choose between lab section #2 or lab section #3).",
+                "classId": "14487",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fox, J.",
+                                "sunet": "jdfox"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "109384",
+        "number": "APPPHYS 207",
+        "units": [
+            4
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "208",
+        "title": "Laboratory Electronics",
+        "description": "Lecture/lab emphasizing analog and digital electronics for lab research. Continuation of APPPHYS 207 with emphasis on applications of digital techniques. Combinatorial and synchronous digital circuits. Design using programmable logic. Analog/digital conversion. Microprocessors and real time programming, concepts and methods of digital signal processing techniques. Current lab interface protocols. Techniques commonly used for lab measurements. Development of student lab projects during the last three weeks. Prerequisites: undergraduate device and circuit exposure.  Recommended: previous enrollment in APPPHYS 207.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "109385",
+        "number": "APPPHYS 208",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "217",
+        "title": "Estimation and Control Methods for Applied Physics",
+        "description": "Recursive filtering, parameter estimation, and feedback control methods based on linear and nonlinear state-space modeling. Topics in: dynamical systems theory; practical overview of stochastic differential equations; model reduction; and tradeoffs among performance, complexity, and robustness. Numerical implementations in MATLAB. Contemporary applications in systems biology and quantum precision measurement. Prerequisites: linear algebra and ordinary differential equations.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "207447",
+        "number": "APPPHYS 217",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "219",
+        "title": "Solid State Physics Problems in Energy Technology",
+        "description": "Technology issues for a secure energy future; role of solid state physics in energy technologies. Topics include the physics principles behind future technologies related to solar energy and solar cells, solid state lighting, superconductivity, solid state fuel cells and batteries, electrical energy storage, materials under extreme condition, nanomaterials.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "208729",
+        "number": "APPPHYS 219",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "222",
+        "title": "Principles of X-ray Scattering (PHOTON 222)",
+        "description": "Provides a fundamental understanding of x-ray scattering and diffraction. Combines pedagogy with modern experimental methods for obtaining atomic-scale structural information on synchrotron and free-electon laser-based facilities. Topics include Fourier transforms, reciprocal space; scattering in the first Born approximation, comparison of x-ray, neutron and electron interactions with matter, kinematic theory of diffraction; dynamical theory of diffraction from perfect crystals, crystal optics, diffuse scattering from imperfect crystals, inelastic x-ray scattering in time and space, x-ray photon correlation spectroscopy. Laboratory experiments at the Stanford Synchrotron Radiation Lightsource.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29880",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218426",
+        "number": "APPPHYS 222",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "223",
+        "title": "Stochastic and Nonlinear Dynamics (BIO 223, BIOE 213, PHYSICS 223)",
+        "description": "Theoretical analysis of dynamical processes: dynamical systems, stochastic processes, and spatiotemporal dynamics. Motivations and applications from biology and physics. Emphasis is on methods including qualitative approaches, asymptotics, and multiple scale analysis. Prerequisites: ordinary and partial differential equations, complex analysis, and probability or statistical physics.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27496",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:50:00 AM",
+                        "location": "Thornton 211",
+                        "instructors": [
+                            {
+                                "name": "Fisher, D.",
+                                "sunet": "dsfisher"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 39000.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "207908",
+        "number": "APPPHYS 223",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "225",
+        "title": "Probability and Quantum Mechanics",
+        "description": "Structure of quantum theory emphasizing states, measurements, and probabilistic modeling. Generalized quantum measurement theory; parallels between classical and quantum probability; conditional expectation in the Schr&ouml;dinger and Heisenberg pictures; covariance with respect to symmetry groups; reference frames and super-selection rules. Classical versus quantum correlations; nonlocal aspects of quantum probability; axiomatic approaches to interpretation. Prerequisites: undergraduate quantum mechanics, linear algebra, and basic probability and statistics.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "208698",
+        "number": "APPPHYS 225",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "228",
+        "title": "Quantum Hardware",
+        "description": "Review of the basics of quantum information. Quantum optics: photon counting, detection, and amplification. Quantum noise in parametric processes. Quantum sensing: standard quantum limits, squeezed light, and spin squeezing. Gaussian quantum information. Quantum theory of electric circuits, electromagnetic components, and nanomechanical devices. Integrated quantum systems: superconductivity and Josephson qubits, measurement-based quantum computing with photons, spin qubits, topological systems. Prerequisites: PHYSICS 130/131 and APPPHYS 203.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "14192",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Safavi-Naeini, A.",
+                                "sunet": "safavi"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219297",
+        "number": "APPPHYS 228",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "232",
+        "title": "Advanced Imaging Lab in Biophysics (BIO 132, BIO 232, BIOE 232, BIOPHYS 232, GENE 232)",
+        "description": "Laboratory and lectures. Advanced microscopy and imaging, emphasizing hands-on experience with state-of-the-art techniques. Students construct and operate working apparatus. Topics include microscope optics, Koehler illumination, contrast-generating mechanisms (bright/dark field, fluorescence, phase contrast, differential interference contrast), and resolution limits. Laboratory topics vary by year, but include single-molecule fluorescence, fluorescence resonance energy transfer, confocal microscopy, two-photon microscopy, microendoscopy, and optical trapping. Limited enrollment. Recommended: basic physics, basic cell biology, and consent of instructor.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Enrollment strictly limited to 12 students. Admission to this course will be based on attendance and evaluation on the first day of class. Students not able to attend the first class will not be eligible to apply for enrollment. Admitted students will receive a permission number to officially enroll in the course. This course will take place in the Bass Biology Research Building, Room 028.",
+                "classId": "12704",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ehrhardt, D.",
+                                "sunet": "ehrhardt"
+                            },
+                            {
+                                "name": "Greenleaf, W.",
+                                "sunet": "wjg"
+                            },
+                            {
+                                "name": "Schnitzer, M.",
+                                "sunet": "mschnitz"
+                            },
+                            {
+                                "name": "McKinney, J.",
+                                "sunet": "jmckinn"
+                            },
+                            {
+                                "name": "Liphardt, J.",
+                                "sunet": "jliphard"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "204030",
+        "number": "APPPHYS 232",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "235",
+        "title": "Biotransport Phenomena (BIOE 235, BIOPHYS 235, ME 235)",
+        "description": "The efficient transport of energy, mass, and momentum is essential to the normal function of living systems. Changes in these processes often result in pathological conditions. Transport phenomena are also critical to the design of instrumentation for medical applications and biotechnology. The course aims to introduce the integrated study of transport processes and their biological applications. It covers the fundamental driving forces for transport in biological systems and the biophysics across multiple length scales (molecules, cells, tissues, organs, whole organisms). Topics include chemical gradients, electrical interactions, fluid flow, mass transport. Pre-requisites: Calculus, MATLAB, basic fluid mechanics, heat transfer, solid mechanics.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "221260",
+        "number": "APPPHYS 235",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "237",
+        "title": "Quantitative Evolutionary Dynamics and Genomics (BIO 251)",
+        "description": "The genomics revolution has fueled a renewed push to model evolutionary processes in quantitative terms. This course will provide an introduction to quantitative evolutionary modeling through the lens of statistical physics. Topics will range from the foundations of theoretical population genetics to experimental evolution of laboratory microbes. Course work will involve a mixture of pencil-and-paper math, writing basic computer simulations, and downloading and manipulating DNA sequence data from published datasets. This course is intended for upper level physics and math students with no biology background, as well as biology students who are comfortable with differential equations and probability.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "14528",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Good, B.",
+                                "sunet": "bhgood"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220425",
+        "number": "APPPHYS 237",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "270",
+        "title": "Magnetism and Long Range Order in Solids",
+        "description": "Cooperative effects in solids. Topics include the origin of magnetism in solids, crystal electric field effects and anisotropy, exchange, phase transitions and long-range order, ferromagnetism, antiferromagnetism, metamagnetism, density waves and superconductivity. Emphasis is on archetypal materials. Prerequisite: PHYSICS 172 or MATSCI 209, or equivalent introductory condensed matter physics course.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "200268",
+        "number": "APPPHYS 270",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "272",
+        "title": "Solid State Physics (PHYSICS 172)",
+        "description": "Introduction to the properties of solids. Crystal structures and bonding in materials. Momentum-space analysis and diffraction probes. Lattice dynamics, phonon theory and measurements, thermal properties. Electronic structure theory, classical and quantum; free, nearly-free, and tight-binding limits.  Electron dynamics and basic transport properties; quantum oscillations. Properties and applications of semiconductors. Reduced-dimensional systems. Undergraduates should register for PHYSICS 172 and graduate students for APPPHYS 272.  Prerequisites: PHYSICS 170 and PHYSICS 171, or equivalents.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "The class will take place in two locations: Wednesdays: Varian Building, Room 355 Fridays, Physics and Astrophysics Building, room 102/103.",
+                "classId": "15045",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kapitulnik, A.",
+                                "sunet": "aharonk"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "122696",
+        "number": "APPPHYS 272",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "273",
+        "title": "Solid State Physics II",
+        "description": "Introduction to the many-body aspects of crystalline solids. Second quantization of phonons, anharmonic effects, polaritons, and scattering theory. Second quantization of Fermi fields. Electrons in the Hartree-Fock and random phase approximation; electron screening and plasmons. Magnetic exchange interactions. Electron-phonon interaction in ionic/covalent semiconductors and metals; effective attractive electron-electron interactions, Cooper pairing, and BCS description of the superconducting state. Prerequisite: APPPHYS 272 or PHYSICS 172.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "11057",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "McCullough 122",
+                        "instructors": [
+                            {
+                                "name": "Hwang, H.",
+                                "sunet": "hyhwang"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "109425",
+        "number": "APPPHYS 273",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "280",
+        "title": "Phenomenology of Superconductors",
+        "description": "Phenomenology of superconductivity viewed as a macroscopic quantum phenomenon. Topics include the superconducting pair wave function, London and Ginzburg-Landau theories, the Josephson effect, type I type II superconductivity, and the response of superconductors to currents, magnetic fields, and RF electromagnetic radiation. Introduction to thermal fluctuation effects in superconductors and quantum superconductivity.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29179",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "201867",
+        "number": "APPPHYS 280",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "282",
+        "title": "ULTRACOLD QUANTUM PHYSICS (PHYSICS 182, PHYSICS 282)",
+        "description": "Introduction to the physics of quantum optics and atoms in the ultracold setting.  Quantum gases and photons are employed in quantum simulation, sensing, and computation.  Modern atomic physics and quantum optics will be covered, including laser cooling and trapping, ultracold collisions, optical lattices, ion traps, cavity QED, BEC and quantum degenerate Fermi gases, and quantum phase transitions in quantum gases and lattices.  Prerequisites:  Undergraduate quantum and statistical mechanics courses.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Undergraduate students register for Physics 182 and graduate students register for Physics 282.",
+                "classId": "13106",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lev, B.",
+                                "sunet": "benlev"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "DIS",
+                "notes": null,
+                "classId": "15512",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218435",
+        "number": "APPPHYS 282",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "283",
+        "title": "Ultrafast Quantum Physics (PHOTON 283)",
+        "description": "Intended for first-year graduate students who are interested in understanding the basic concepts of ultrafast quantum science to prepare for research in AMO physics, condensed matter physics, physical chemistry or quantum information science.The topics in this course are distinct from and complementary to AP 201 (Laser and X-ray Sources and Science) and AP 203 (AMO Physics and Quantum Optics). Topics for this course:  - Atomic structure probed in the time domain: Wave packets and quantum  entanglement.- Molecular structure probed in the time domain: Building up and then breaking down the Born-Oppenheimer picture.- Extended quantum systems probed in the time domain: Band structure, phonons, and ultrafast disturbances- Laser-matter interactions:  From multi-photon absorption to tunnel-ionization. - X-ray-matter interactions: Excitation, ionization, and linear and nonlinear scattering.- Attosecond science:  Impulsive excitation, Auger-Meitner decay, charge migration within molecules.- Extreme time-domain quantum physics: high-field environments, and matter tunneling from the quantum vacuum.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "15050",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bucksbaum, P.",
+                                "sunet": "phbuck"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223440",
+        "number": "APPPHYS 283",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "290",
+        "title": "Directed Studies in Applied Physics",
+        "description": "Special studies under the direction of a faculty member for which academic credit may properly be allowed. May include lab work or directed reading.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "15",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26631",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28429",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28074",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "7588",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baer, T.",
+                                "sunet": "tmbaer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "8235",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baer, T.",
+                                "sunet": "tmbaer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "8053",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baer, T.",
+                                "sunet": "tmbaer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "7589",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beasley, M.",
+                                "sunet": "beasley"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "8236",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beasley, M.",
+                                "sunet": "beasley"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "8054",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beasley, M.",
+                                "sunet": "beasley"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "7590",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bienenstock, A.",
+                                "sunet": "arthurb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "8237",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bienenstock, A.",
+                                "sunet": "arthurb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "8055",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bienenstock, A.",
+                                "sunet": "arthurb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "7591",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Block, S.",
+                                "sunet": "sblock"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "8238",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Block, S.",
+                                "sunet": "sblock"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "8056",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Block, S.",
+                                "sunet": "sblock"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "7592",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brongersma, M.",
+                                "sunet": "markb29"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "8239",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brongersma, M.",
+                                "sunet": "markb29"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "8057",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brongersma, M.",
+                                "sunet": "markb29"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "7593",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bucksbaum, P.",
+                                "sunet": "phbuck"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "8240",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bucksbaum, P.",
+                                "sunet": "phbuck"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "109428",
+        "number": "APPPHYS 290",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "totalSections": 285
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "291",
+        "title": "Practical Training",
+        "description": "Opportunity for practical training in industrial labs. Arranged by student with research adviser's approval. Summary of activities required.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26632",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12958",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Reed, E.",
+                                "sunet": "evanreed"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "13958",
+                "currentClassSize": "0",
+                "maxClassSize": "2",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Dror, R.",
+                                "sunet": "rondror"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "14220",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fan, S.",
+                                "sunet": "shanhui"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "14788",
+                "currentClassSize": "0",
+                "maxClassSize": "2",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Schnitzer, M.",
+                                "sunet": "mschnitz"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "109430",
+        "number": "APPPHYS 291",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "293",
+        "title": "Theoretical Neuroscience (PSYCH 242)",
+        "description": "Survey of advances in the theory of neural networks, mainly (but not solely) focused on results of relevance to theoretical neuroscience.Synthesizing a variety of recent advances that potentially constitute the outlines of a theory for understanding when a given neural network architecture will work well on various classes of modern recognition and classification tasks, both from a representational expressivity and a learning efficiency point of view. Discussion of results in the neurally-plausible approximation of back propagation, theory of spiking neural networks, the relationship between network and task dimensionality, and network state coarse-graining. Exploration of estimation theory for various typical methods of mapping neural network models to neuroscience data, surveying and analyzing recent approaches from both sensory and motor areas in a variety of species. Prerequisites: calculus, linear algebra, and basic probability theory, or consent of instructor.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27613",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "200-303",
+                        "instructors": [
+                            {
+                                "name": "Ganguli, S.",
+                                "sunet": "sganguli"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212448",
+        "number": "APPPHYS 293",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "294",
+        "title": "Cellular Biophysics (BIO 294, BIOPHYS 294)",
+        "description": "Physical biology of dynamical and mechanical processes in cells. Emphasis is on qualitative understanding of biological functions through quantitative analysis and simple mathematical models. Sensory transduction, signaling, adaptation, switches, molecular motors, actin and microtubules, motility, and circadian clocks. Prerequisites: differential equations and introductory statistical mechanics.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29450",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "207924",
+        "number": "APPPHYS 294",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "300",
+        "title": "Department Colloquium",
+        "description": "May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "COL",
+                "notes": null,
+                "classId": "15371",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "COL",
+                "notes": null,
+                "classId": "30379",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "COL",
+                "notes": null,
+                "classId": "28469",
+                "currentClassSize": "0",
+                "maxClassSize": "200",
+                "schedules": [
+                    {
+                        "startTime": "3:30:00 PM",
+                        "endTime": "4:50:00 PM",
+                        "location": "Hewlett Teaching Center 201",
+                        "instructors": [],
+                        "startTimestamp": 55800.0,
+                        "endTimestamp": 60600.0,
+                        "days": "Tuesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224840",
+        "number": "APPPHYS 300",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "302",
+        "title": "Experimental Techniques in Condensed Matter Physics",
+        "description": "Cryogenics; low signal measurements and noise analysis; data collection and analysis; examples of current experiments. Prerequisites: PHYSICS 170, PHYSICS 171, and PHYSICS 172, or equivalents.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "207670",
+        "number": "APPPHYS 302",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "322",
+        "title": "Advanced Topics in x-ray scattering (PHOTON 322)",
+        "description": "This course covers advanced topics in x-ray scattering including: diffuse scattering from static and dynamic disorder such as from defects or phonons;  inelastic methods such as x-ray Raman and Compton scattering for measuring electronic structure and elementary excitations;  and inelastic scattering in the time and frequency domain.  Course combines lectures on basic principles with a review of foundational and current literature. May be repeat for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "220424",
+        "number": "APPPHYS 322",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "324",
+        "title": "Introduction to Accelerator Physics",
+        "description": "Physics of particle beams in linear and circular accelerators. Transverse and longitudinal beam dynamics, equilibrium emittances in electron storage rings, high-brightness electron sources, RF acceleration and emittance preservation, bunch compression and associated collective effects, accelerator physics design for x-ray FELs, advanced accelerator concepts.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28075",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "109446",
+        "number": "APPPHYS 324",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "325",
+        "title": "Synchrotron Radiation and Free Electron Lasers: Principles and Applications. (PHOTON 325)",
+        "description": "Synchrotron radiation sources for scientific exploration, and x-ray FELs for studies of ultrafast processes at the atomic scale. Fundamental concepts in electron and photon beams, bending magnet and undulator radiation, one-dimensional and three-dimensional FEL theory and simulations, self-amplified spontaneous emission, seeding and other improvement schemes, x-ray methodology, techniques and instrumentation for the study of ultrafast phenomena. Includes selected laboratory tours of the Linac Coherent Light Source and/or Stanford Synchrotron Radiation Lightsource at SLAC. Prerequisite: graduate-level electrodynamics, or consent of instructor.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27637",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "10:50:00 AM",
+                        "location": "Lathrop 190",
+                        "instructors": [
+                            {
+                                "name": "Marinelli, A.",
+                                "sunet": "ago9582"
+                            },
+                            {
+                                "name": "Kling, M.",
+                                "sunet": "kling"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 39000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213257",
+        "number": "APPPHYS 325",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "345",
+        "title": "Advanced Numerical Methods for Data Analysis and Simulation",
+        "description": "Gaussian and unit sphere quadrature, singular value decomposition and principal component analysis, Krylov methods, non-linear fitting and super-resolution, independent component analysis, 3d reconstruction, &quot;shrink-wrap&quot;, hidden Markov methods, support vector machines, simulated annealing, molecular dynamics and parallel tempering, Markov state methods, Monte Carlo methods for constrained systems.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "212408",
+        "number": "APPPHYS 345",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "376",
+        "title": "Literature of Quantum Simulation",
+        "description": "This course will explore key literature regarding quantum simulation, the use of atoms and qubits to emulate complex quantum matter of relevance to condensed matter physics, high-energy physics, and quantum information processing.  Advanced topics including optical lattice-based and ion-trap quantum simulation, synthetic gauge fields, low-dimensional systems, nonequilibrium quantum many-body physics, and many-body cavity QED will be addressed in a seminar format.  Presentations and a final paper will be required.  Prerequisites:  Quantum mechanics at the advanced undergraduate or 1st-year graduate level.  May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "208782",
+        "number": "APPPHYS 376",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "383",
+        "title": "Introduction to Atomic Processes",
+        "description": "Atomic spectroscopy, matrix elements using the Coulomb approximation, summary of Racah algebra, oscillator and line strengths, Einstein A coefficients. Radiative processes, Hamiltonian for two- and three-state systems, single- and multi-photon processes, linear and nonlinear susceptibilities, density matrix, brightness, detailed balance, and electromagnetically induced transparency. Inelastic collisions in the impact approximation, interaction potentials, Landau-Zener formulation. Continuum processes, Saha equilibrium, autoionization, and recombination.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "109496",
+        "number": "APPPHYS 383",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "384",
+        "title": "Advanced Topics in AMO Physics (PHOTON 384)",
+        "description": "This course will develop the subject of Strong-Field QED. Topics to be covered include: The structure of the quantum vacuum;relativistic laser-vacuum interactions;linear and non-linear Compton and Breit-Wheeler pair-production processes;vacuum polarization and vacuum tunneling; the radiation reaction problem in strong fields;applications in astrophysics and cosmology. The course will also cover experimental methods, including petawatt lasers with focused intensities sufficient to destabilize the vacuum. Prerequisites: familiarity with quantum mechanics, electrodynamics, and special relativity.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "220430",
+        "number": "APPPHYS 384",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "390",
+        "title": "Dissertation Research",
+        "description": null,
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "15",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "26633",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "28430",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "28076",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7542",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baer, T.",
+                                "sunet": "tmbaer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8188",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baer, T.",
+                                "sunet": "tmbaer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8005",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baer, T.",
+                                "sunet": "tmbaer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7543",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beasley, M.",
+                                "sunet": "beasley"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8189",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beasley, M.",
+                                "sunet": "beasley"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8006",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beasley, M.",
+                                "sunet": "beasley"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7544",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bienenstock, A.",
+                                "sunet": "arthurb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8190",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bienenstock, A.",
+                                "sunet": "arthurb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8007",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bienenstock, A.",
+                                "sunet": "arthurb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7545",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Block, S.",
+                                "sunet": "sblock"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8191",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Block, S.",
+                                "sunet": "sblock"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8008",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Block, S.",
+                                "sunet": "sblock"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7546",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brongersma, M.",
+                                "sunet": "markb29"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8192",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brongersma, M.",
+                                "sunet": "markb29"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8009",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brongersma, M.",
+                                "sunet": "markb29"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7547",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bucksbaum, P.",
+                                "sunet": "phbuck"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8193",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bucksbaum, P.",
+                                "sunet": "phbuck"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "109503",
+        "number": "APPPHYS 390",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "totalSections": 212
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "392",
+        "title": "Topics in Molecular Biophysics: Biophysics of Functional RNA (BIOPHYS 392) (BIOPHYS 392)",
+        "description": "Survey of methods used to relate RNA sequences to the structure and function of transcribed RNA molecules. Computation of contributions of the counter-ion cloud to the dependence of free energy on conformation of the folded RNA. The relation of structure to function of  ribozymes, riboswitches, and the formation of ribosomal proteins.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "109506",
+        "number": "APPPHYS 392",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "470",
+        "title": "Condensed Matter Seminar",
+        "description": "Current research and literature; offered by faculty, students, and outside specialists. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "7273",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Devereaux, T.",
+                                "sunet": "tpd"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 60600.0,
+                        "days": "Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "7447",
+                "currentClassSize": "0",
+                "maxClassSize": "80",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Suzuki, Y.",
+                                "sunet": "ysuzuki1"
+                            },
+                            {
+                                "name": "Kivelson, S.",
+                                "sunet": "kivelson"
+                            },
+                            {
+                                "name": "Fisher, I.",
+                                "sunet": "irfisher"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 60600.0,
+                        "days": "Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "11122",
+                "currentClassSize": "0",
+                "maxClassSize": "80",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:50:00 PM",
+                        "location": "McCullough 115",
+                        "instructors": [
+                            {
+                                "name": "Suzuki, Y.",
+                                "sunet": "ysuzuki1"
+                            },
+                            {
+                                "name": "Kivelson, S.",
+                                "sunet": "kivelson"
+                            },
+                            {
+                                "name": "Fisher, I.",
+                                "sunet": "irfisher"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 60600.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "109514",
+        "number": "APPPHYS 470",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "483",
+        "title": "Optics and Electronics Seminar",
+        "description": "Current research topics in lasers, quantum electronics, optics, and photonics by faculty, students, and invited outside speakers. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "7448",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fejer, M.",
+                                "sunet": "fejer"
+                            },
+                            {
+                                "name": "Solgaard, O.",
+                                "sunet": "solgaard"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Monday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Some seminars meet in person and some seminars meet online synchronous.",
+                "classId": "7274",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fejer, M.",
+                                "sunet": "fejer"
+                            },
+                            {
+                                "name": "Fan, S.",
+                                "sunet": "shanhui"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Monday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "11128",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": "SpilkerEngAppliedSci232",
+                        "instructors": [
+                            {
+                                "name": "Fejer, M.",
+                                "sunet": "fejer"
+                            },
+                            {
+                                "name": "Digonnet, M.",
+                                "sunet": "silurian"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Monday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "109519",
+        "number": "APPPHYS 483",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "APPPHYS",
+        "code": "802",
+        "title": "TGR PhD Dissertation",
+        "description": null,
+        "repeatable": "true",
+        "grading": "TGR",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "26634",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "28431",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "28077",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7496",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baer, T.",
+                                "sunet": "tmbaer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8098",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baer, T.",
+                                "sunet": "tmbaer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7956",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baer, T.",
+                                "sunet": "tmbaer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7497",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beasley, M.",
+                                "sunet": "beasley"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8099",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beasley, M.",
+                                "sunet": "beasley"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7957",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beasley, M.",
+                                "sunet": "beasley"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7498",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bienenstock, A.",
+                                "sunet": "arthurb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8100",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bienenstock, A.",
+                                "sunet": "arthurb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7958",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bienenstock, A.",
+                                "sunet": "arthurb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7499",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Block, S.",
+                                "sunet": "sblock"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8101",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Block, S.",
+                                "sunet": "sblock"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7959",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Block, S.",
+                                "sunet": "sblock"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7500",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brongersma, M.",
+                                "sunet": "markb29"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8102",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brongersma, M.",
+                                "sunet": "markb29"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7960",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brongersma, M.",
+                                "sunet": "markb29"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "7501",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bucksbaum, P.",
+                                "sunet": "phbuck"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "8103",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bucksbaum, P.",
+                                "sunet": "phbuck"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "109530",
+        "number": "APPPHYS 802",
+        "units": [
+            0
+        ],
+        "totalSections": 237
+    }
+]

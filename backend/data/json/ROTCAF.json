@@ -1,0 +1,357 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "ROTCAF",
+        "code": "1",
+        "title": "Air Force ROTC Lab",
+        "description": "Practical leadership exercises including physical fitness training. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Instructor: Carnovale; Course held at San Jose State University (SJSU) campus; SJSU is on the semester system; SJSU Course - AS 1A lab, AS 2A lab, AS 131A lab, AS 141A lab.",
+                "classId": "15024",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "15242",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Neubauer, M.",
+                                "sunet": "marshaln"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213967",
+        "number": "ROTCAF 1",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCAF",
+        "code": "11",
+        "title": "Heritage and Values",
+        "description": "The course allows students to examine general aspects of the Department of the Air Force, leadership fundamentals, service benefits, and opportunities for officers.  The course also lays the foundation for becoming an Air or Space professional by outlining our heritage and values.  As a foundational course, the course also provides a historical perspective such as lessons on war and US military, AF operations, principles of war, and airpower (see the complete lesson list below).  As a whole, this course provides students with a knowledge-level understanding for the employment of air and space power, from an institutional, doctrinal, and historical perspective.  The students will be introduced to the military way of life and gain knowledge on what it means to be an Air or Space professional.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Instructor: Hudson; Course held at San Jose State University (SJSU) campus; SJSU is on the semester system; SJSU Course - AS 1A.",
+                "classId": "15022",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "15240",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Neubauer, M.",
+                                "sunet": "marshaln"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213962",
+        "number": "ROTCAF 11",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCAF",
+        "code": "21",
+        "title": "Team and Leadership Fundamentals",
+        "description": "This course is designed to provide a fundamental understanding of both leadership and team building. It is imperative that cadets are taught from the beginning that there are many layers to leadership, including aspects that don't always jump to mind.  Such things include listening, understanding themselves, being a good follower and problem solving efficiently. The students will apply these leadership perspectives when completing team building activities and discussing things like conflict management.  Students should demonstrate basic verbal and written communication skills.  Cadets will apply these lessons at Field Training.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: Pecher; Course held at San Jose State University (SJSU) campus; SJSU is on the semester system; SJSU Course - AS 2A.",
+                "classId": "15014",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15232",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Neubauer, M.",
+                                "sunet": "marshaln"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213963",
+        "number": "ROTCAF 21",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCAF",
+        "code": "131",
+        "title": "Leading People and Effective Communication",
+        "description": "This course designed to build on the leadership fundamentals taught in ROTC21.  The cadets will have the opportunity to utilize their skills as they begin more of a leadership role in the detachment. The goal is for cadets to have a more in-depth understanding of how to effectively lead people, and provide them with the tools to use throughout their detachment leadership roles.  Secondly, cadets will hone their writing and briefing skills.  Many of the cadets will be uncomfortable with public speaking, and this semester is designed to get them used to briefing.  The second semester is centered on leadership and ethics, and is mostly guided discussion.  The goal here is to get cadets thinking about leadership through their own lens, and give them some tools to work on their leadership skills.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: Carnovale; Course held at San Jose State University (SJSU) campus; SJSU is on the semester system; SJSU Course - AS 131A.",
+                "classId": "15015",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15233",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Neubauer, M.",
+                                "sunet": "marshaln"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213964",
+        "number": "ROTCAF 131",
+        "units": [
+            2
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCAF",
+        "code": "141",
+        "title": "National Security Affairs",
+        "description": "A cadet should comprehend the basic elements of national security policy and process.  The student should know basic Department of the Air Force operations as well as understand selected roles of the military in society and current domestic and international issues affecting the military profession. Cadets should understand the responsibility, authority, and functions of a Department of the Air Force commander and selected provisions of the military justice system.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: Pecher; Course held at San Jose State University (SJSU) campus; SJSU is on the semester system; SJSU Course - AS 141A.",
+                "classId": "15016",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213965",
+        "number": "ROTCAF 141",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCAF",
+        "code": "142",
+        "title": "Leadership Responsibilities & Commissioning Preparation",
+        "description": "The final portion of the ROTC Air Force sequence is designed to prepare cadets for life as a second lieutenant.  This is a great time for instructors to include any information they feel would help their cadets as they transition from civilian life to military life.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: Lomsdalen; Course held at San Jose State University (SJSU) campus; SJSU is on the semester system; SJSU Course - AS 141B.",
+                "classId": "15299",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Neubauer, M.",
+                                "sunet": "marshaln"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214108",
+        "number": "ROTCAF 142",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    }
+]

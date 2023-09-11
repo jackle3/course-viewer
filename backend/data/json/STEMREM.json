@@ -1,0 +1,3934 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "199",
+        "title": "Undergraduate Research",
+        "description": "Students undertake investigations sponsored by individual faculty members. Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "18",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27630",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29617",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29326",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "23368",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "20382",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "17451",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "23369",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "20383",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bertozzi, C.",
+                                "sunet": "bertozzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "17452",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bertozzi, C.",
+                                "sunet": "bertozzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "23370",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diehn, M.",
+                                "sunet": "diehn"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "20384",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brunet, A.",
+                                "sunet": "abrunet1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "17453",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brunet, A.",
+                                "sunet": "abrunet1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "23371",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heilshorn, S.",
+                                "sunet": "sarah7"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "20385",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "17454",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "23372",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Longaker, M.",
+                                "sunet": "longaker"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "20386",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "17455",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "23373",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Majeti, R.",
+                                "sunet": "rmajeti"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "20387",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crabtree, G.",
+                                "sunet": "crabtree"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212869",
+        "number": "STEMREM 199",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "totalSections": 105
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "200",
+        "title": "Stem Cell Intensive",
+        "description": "Open to first year Stem Cell Biology and Regenerative Medicine graduate students or consent of Instructor. Introductory lectures given by faculty in the Stem Cell Biology and Regenerative Medicine interdisciplinary graduate program are intended to provide students with insight into potential rotation labs. Includes some hands-on laboratory exercises covering basic methods of tissue culture, mouse embryo fibroblast (MEF) preparation, embryonic stem and induced pluripotent stem (ES/iPS) cell culture, differentiation, DNA isolation, polymerase chain reaction (PCR), sequencing, flow cytometry, and basic microscopy.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "23993",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "2:30:00 PM",
+                        "location": "Lokey Stem Cell Rsch G1161",
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            },
+                            {
+                                "name": "Desai, T.",
+                                "sunet": "tdesai"
+                            },
+                            {
+                                "name": "Gifford, C.",
+                                "sunet": "caseyg21"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 52200.0,
+                        "days": "Tuesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213391",
+        "number": "STEMREM 200",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "201A",
+        "title": "Stem Cell Biology & Regenerative Medicine",
+        "description": "For Ph.D., M.D., and advanced undergraduate students. Prepares students for the future of regenerative medicine by exploring central concepts in stem cell biology and the actual experiments that led to these concepts. Provides educational foundation for future physician-scientists to understand mechanisms underlying regenerative therapies. The latest advances in stem cell research will be discussed, including tissue regeneration; how stem cells are discovered by lineage tracing or transplantation; how stem cells differentiate and form organized tissues; stem cell niches; signaling centers and extracellular signals; chromatin and cellular reprogramming; organoids; cancer stem cells; gene therapy; and stem cell ethics; with emphasis on unresolved issues in the field.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Course open to M.D. Students.",
+                "classId": "23992",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": "Lokey Stem Cell Rsch G1161",
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            },
+                            {
+                                "name": "Loh, K.",
+                                "sunet": "kyleloh"
+                            },
+                            {
+                                "name": "Nusse, R.",
+                                "sunet": "rnusse"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213401",
+        "number": "STEMREM 201A",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "201B",
+        "title": "Ethical Issues in Stem Cell Biology",
+        "description": "The contents of this course address NIH- and CIRM-mandated training in the responsible conduct of research and includes special content that explores specific ethical issues in the fields of stem cell biology and regenerative medicine. Covered topics include conflicts of interest, human and animal subjects in research, mentorship, collaborative research including industry collaborations, peer review, data acquisition and management, research misconduct, responsible authorship and publication, and the role of the scientist in society. Class meets one hour per week for 10 weeks, time and day to be determined.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27642",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213403",
+        "number": "STEMREM 201B",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "202",
+        "title": "Stem Cells and Translational Medicine",
+        "description": "For graduate, undergraduate and medical students. Focus is on the fundamentals of stem cell biology and stem cell applications in basic research and translational medicine. Topics include exploration of the well-studied system of hematopoiesis, molecular pathways of pluripotency and tissue-specific stem cells and ends with coverage of aging as related to stem cell dynamics. Lectures are topically paired to cover the basic science of each topic, followed by clinical applications within each field of study. Students will use lecture and literature content to construct a research proposal based on biological or clinical concepts learned during the quarter.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "The schedule will be determined by the availability of interested stem cell students; please contact the course instructor for more information.",
+                "classId": "17307",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "207788",
+        "number": "STEMREM 202",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "203",
+        "title": "Stem Cells Immersion: Applications in Medicine, Business and Law",
+        "description": "For graduate and medical students enrolled in the SCBRM PhD program or other students by permission from the Instructor. Career-development immersions are custom designed by the student and advisor to provide clinical, pharmaceutical, biotechnology or business insights into the world of stem cell biology and regenerative medicine from multiple vantage points. The Immersion sets the stage for students to explore research and translation beyond the academic sphere and gain the necessary knowledge to move their career forward when completing the PhD.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "Clinical immersion; times and locations various. Prerequisites: STEMREM 201A and STEMREM 202.",
+                "classId": "24008",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            },
+                            {
+                                "name": "Desai, T.",
+                                "sunet": "tdesai"
+                            },
+                            {
+                                "name": "Palmer, T.",
+                                "sunet": "tpalmer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "17388",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            },
+                            {
+                                "name": "Desai, T.",
+                                "sunet": "tdesai"
+                            },
+                            {
+                                "name": "Palmer, T.",
+                                "sunet": "tpalmer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "27710",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "PRA",
+                "notes": null,
+                "classId": "26438",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            },
+                            {
+                                "name": "Desai, T.",
+                                "sunet": "tdesai"
+                            },
+                            {
+                                "name": "Palmer, T.",
+                                "sunet": "tpalmer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "PRA",
+                "notes": null,
+                "classId": "28186",
+                "currentClassSize": "0",
+                "maxClassSize": "0",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Desai, T.",
+                                "sunet": "tdesai"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "PRA",
+                "notes": null,
+                "classId": "28187",
+                "currentClassSize": "0",
+                "maxClassSize": "0",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Palmer, T.",
+                                "sunet": "tpalmer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "PRA",
+                "notes": null,
+                "classId": "28188",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gifford, C.",
+                                "sunet": "caseyg21"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213390",
+        "number": "STEMREM 203",
+        "units": [
+            3
+        ],
+        "totalSections": 7
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "205",
+        "title": "Bioinformatics for Stem Cell and Cancer Biology (BIODS 205)",
+        "description": "For graduate and medical students. High-throughput technologies and data science are essential tools in modern stem cell biology and cancer research. Students will gain practical exposure to bioinformatics concepts and techniques required to address biological questions within these research areas. The beginning of the quarter is focused on foundational principles underlying bioinformatics and genomics. Focus for the remainder of the quarter is on direct, hands-on experience with applications to common research problems. Topics include analysis of bulk and single-cell sequencing data, single gene to whole-genome analysis, machine learning, and data visualization. Intended for biology students without a background in computer science, or for students in a quantitative discipline interested in gaining exposure to key challenges in stem cell and cancer genomics. Basic programming experience is recommended but not required.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "31271",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "11:00:00 AM",
+                        "endTime": "1:00:00 PM",
+                        "location": "Lokey Stem Cell Rsch G1161",
+                        "instructors": [
+                            {
+                                "name": "Newman, A.",
+                                "sunet": "amnewman"
+                            }
+                        ],
+                        "startTimestamp": 39600.0,
+                        "endTimestamp": 46800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222896",
+        "number": "STEMREM 205",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "223",
+        "title": "Biology and Disease of Hematopoiesis (IMMUNOL 223)",
+        "description": "Hematopoiesis is the formation, development, and differentiation of blood cells. Lecture and journal club. Topics will include definitive and adult hematopoiesis, myeloid and lymphoid development, hematopoietic diseases, stem cell niche, bone marrow transplant, and methods and models used to study hematopoiesis. For upper level undergraduates or graduate students. Pre-requisite for undergraduates: Biology or Human Biology core, or consent of instructor.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27427",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Jaiswal, S.",
+                                "sunet": "sjaiswal"
+                            },
+                            {
+                                "name": "Czechowicz, A.",
+                                "sunet": "aneeshka"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221647",
+        "number": "STEMREM 223",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "250",
+        "title": "Regenerative Medicine Seminar Series",
+        "description": "A forum for Stanford researchers to meet, hear about what is going on in Stem Cell Biology and Regenerative Medicine at Stanford, and spark collaborations. Topics include all areas of regenerative medicine, broadly defined, ranging from fundamental biological principles and basic science advances to novel applications in biotechnology, stem cell biology, and human disease.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "In-person attendance required for this course starting on Thursday, September 29, 2022 at Noon in Munzer Auditorium. n.",
+                "classId": "26370",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course is open to Stem Cell PHD Students ONLY. REMOTE.",
+                "classId": "17345",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course is open to SCBRM PhD Students Only.",
+                "classId": "16893",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213392",
+        "number": "STEMREM 250",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "280",
+        "title": "Stem Cell Biology and Regenerative Medicine Journal Club",
+        "description": "Review of current literature in both basic and translational medicine as it relates to stem cell biology and/or regenerative medicine in a seminar format consisting of both faculty and student presentations. Includes discussions led by faculty experts in the area covered for that particular session. Topics may range widely, depending on the available literature and students' interests. Students are expected to review the chosen article before class presentations and participate in discussion. Discussion includes methodology and statistical analysis of each study and its relevance to stem cell biology and/or regenerative medicine.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "17346",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course is for SCBRM PhD Students Only.",
+                "classId": "16894",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Open to Stem Cell Ph.D. Student Only. Five units required for the course requirement.",
+                "classId": "23366",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "5:00:00 PM",
+                        "endTime": "8:00:00 PM",
+                        "location": "Lokey Stem Cell Rsch G1161",
+                        "instructors": [
+                            {
+                                "name": "Spangrude, G.",
+                                "sunet": "spangrud"
+                            }
+                        ],
+                        "startTimestamp": 61200.0,
+                        "endTimestamp": 72000.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213402",
+        "number": "STEMREM 280",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "299",
+        "title": "Directed Reading in Stem Cell Biology and Regenerative Medicine",
+        "description": "Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "18",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27644",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29635",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29333",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "24019",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Engleman, E.",
+                                "sunet": "edgareng"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "20415",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "17484",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "24020",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fuller, M.",
+                                "sunet": "mtfuller"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "20416",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bertozzi, C.",
+                                "sunet": "bertozzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "17485",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bertozzi, C.",
+                                "sunet": "bertozzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "24021",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khavari, P.",
+                                "sunet": "khavari"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "20417",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brunet, A.",
+                                "sunet": "abrunet1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "17486",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brunet, A.",
+                                "sunet": "abrunet1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "24022",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nakauchi, H.",
+                                "sunet": "nakauchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "20418",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "17487",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "24023",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rando, T.",
+                                "sunet": "casco"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "20419",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "17488",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "20420",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crabtree, G.",
+                                "sunet": "crabtree"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "17489",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crabtree, G.",
+                                "sunet": "crabtree"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213416",
+        "number": "STEMREM 299",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "totalSections": 91
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "370",
+        "title": "Medical Scholars Research",
+        "description": "Provides an opportunity for student and faculty interaction, as well as academic credit and financial support, to medical students who undertake original research. Enrollment is limited to students with approved projects.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "4",
+        "unitsMax": "18",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27645",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29636",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29334",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "24028",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Engleman, E.",
+                                "sunet": "edgareng"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "20448",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "17517",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "24029",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fuller, M.",
+                                "sunet": "mtfuller"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "20449",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bertozzi, C.",
+                                "sunet": "bertozzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "17518",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bertozzi, C.",
+                                "sunet": "bertozzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "24030",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khavari, P.",
+                                "sunet": "khavari"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "20450",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brunet, A.",
+                                "sunet": "abrunet1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "17519",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brunet, A.",
+                                "sunet": "abrunet1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "24031",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nakauchi, H.",
+                                "sunet": "nakauchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "20451",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "17520",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "24032",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rando, T.",
+                                "sunet": "casco"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "20452",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "17521",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "20453",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crabtree, G.",
+                                "sunet": "crabtree"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "17522",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crabtree, G.",
+                                "sunet": "crabtree"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213420",
+        "number": "STEMREM 370",
+        "units": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "totalSections": 87
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "399",
+        "title": "Graduate Research",
+        "description": "Students undertake investigations sponsored by individual faculty members. Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "18",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29604",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29309",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27616",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "23381",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "20481",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "17583",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "23382",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "20482",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gifford, C.",
+                                "sunet": "caseyg21"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "17584",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gibson, E.",
+                                "sunet": "egibson1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "23383",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diehn, M.",
+                                "sunet": "diehn"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "20483",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brunet, A.",
+                                "sunet": "abrunet1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "17585",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brunet, A.",
+                                "sunet": "abrunet1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "23384",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heilshorn, S.",
+                                "sunet": "sarah7"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "20484",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "17586",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "23385",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Longaker, M.",
+                                "sunet": "longaker"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "20485",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "17587",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "23386",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Majeti, R.",
+                                "sunet": "rmajeti"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "20486",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crabtree, G.",
+                                "sunet": "crabtree"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212610",
+        "number": "STEMREM 399",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "totalSections": 150
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "801",
+        "title": "TGR Project",
+        "description": null,
+        "repeatable": "true",
+        "grading": "TGR",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "27646",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29637",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29335",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24043",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Engleman, E.",
+                                "sunet": "edgareng"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20514",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17550",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24044",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fuller, M.",
+                                "sunet": "mtfuller"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20515",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bertozzi, C.",
+                                "sunet": "bertozzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17551",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bertozzi, C.",
+                                "sunet": "bertozzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24045",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khavari, P.",
+                                "sunet": "khavari"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20516",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brunet, A.",
+                                "sunet": "abrunet1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17552",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brunet, A.",
+                                "sunet": "abrunet1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24046",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nakauchi, H.",
+                                "sunet": "nakauchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20517",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17553",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24047",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rando, T.",
+                                "sunet": "casco"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20518",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17554",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20519",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crabtree, G.",
+                                "sunet": "crabtree"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17555",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crabtree, G.",
+                                "sunet": "crabtree"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213421",
+        "number": "STEMREM 801",
+        "units": [
+            0
+        ],
+        "totalSections": 86
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STEMREM",
+        "code": "802",
+        "title": "TGR Dissertation",
+        "description": null,
+        "repeatable": "true",
+        "grading": "TGR",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29605",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29310",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "27617",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20547",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17616",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Beachy, P.",
+                                "sunet": "pbeachy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20548",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bertozzi, C.",
+                                "sunet": "bertozzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17617",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bertozzi, C.",
+                                "sunet": "bertozzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24054",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khavari, P.",
+                                "sunet": "khavari"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20549",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Red-Horse, K.",
+                                "sunet": "kredhors"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17618",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brunet, A.",
+                                "sunet": "abrunet1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24055",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nakauchi, H.",
+                                "sunet": "nakauchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20550",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17619",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chang, H.",
+                                "sunet": "howchang"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20551",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17620",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clarke, M.",
+                                "sunet": "mfclarke"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20552",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crabtree, G.",
+                                "sunet": "crabtree"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17621",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crabtree, G.",
+                                "sunet": "crabtree"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "08",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24057",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Roncarolo, M.",
+                                "sunet": "mg1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "T/D",
+                "notes": null,
+                "classId": "20553",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diehn, M.",
+                                "sunet": "diehn"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "08",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17622",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diehn, M.",
+                                "sunet": "diehn"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212611",
+        "number": "STEMREM 802",
+        "units": [
+            0
+        ],
+        "totalSections": 113
+    }
+]

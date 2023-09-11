@@ -1,0 +1,1914 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "1",
+        "title": "First-Year Russian, First Quarter",
+        "description": "A beginning Russian course. Proficiency based communicative approach. Introduction to essential vocabulary and grammar, Russian culture and the Russian view of reality.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11160",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "240-201",
+                        "instructors": [
+                            {
+                                "name": "Alterman, E.",
+                                "sunet": "evanalt"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "119603",
+        "number": "SLAVLANG 1",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "1A",
+        "title": "Accelerated First-Year Russian, Part 1",
+        "description": "First quarter of the two-quarter accelerated sequence. For students with little or no prior experience studying Russian. Students acquire beginning proficiency in Russian at an accelerated pace through intensive studying of basic Russian grammar and functional vocabulary. The course emphasis is put on practice in speaking, reading, and writing Russian with special insight into Russian culture. Completion of 2A fulfills the University Language Requirement",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "33218",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Virker, A.",
+                                "sunet": "virker"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216463",
+        "number": "SLAVLANG 1A",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "2",
+        "title": "First-Year Russian, Second Quarter",
+        "description": "Continuation of SLAVLANG 1.A beginning Russian course.Proficiency based communicative approach. Introduction to essential vocabulary and grammar, Russian culture and the Russian view of reality.Active practice in speaking, reading and writing Russian.  Prerequisite: Placement Test or SLAVLANG 1",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7648",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "31059",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "119604",
+        "number": "SLAVLANG 2",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "2A",
+        "title": "Accelerated First-Year Russian, part 2",
+        "description": "Continuation of  Slavlang 1A. Continuation of SLAVLANG1A. Completes the first-year sequence in two rather than three quarters. Students develop basic level proficiency in Russian at an accelerated pace through intensive studying of essential Russian grammar, functional vocabulary and active language practice. Speaking, reading and writing skills in Russian are developed through diverse materials in appropriate cultural contexts. The course fulfills the University foreign language requirement. Prerequisite: Slavlang 1A or placement Test",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "11780",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "216686",
+        "number": "SLAVLANG 2A",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "3",
+        "title": "First-Year Russian, Third Quarter",
+        "description": "Continuation of SLAVLANG 2.A beginning Russian course. Proficiency based communicative  approach. Introduction to essential vocabulary and grammar, Russian culture and the Russian view of reality.Active practice in speaking, reading and writing Russian. The course fulfills the University foreign language requirement. Prerequisite: Placement Test or SLAVLANG 2.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "7461",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Virker, A.",
+                                "sunet": "virker"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "14398",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Page, S.",
+                                "sunet": "srpage"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119606",
+        "number": "SLAVLANG 3",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "5",
+        "title": "Russian for Heritage Speakers, First Quarter",
+        "description": "Self-paced.Emphasis on reading and writing skills in Russian. Developing communication in formal and informal settings. Does not fulfill the University foreign language requirement. Prerequisite: placement test",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14328",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "200-219",
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203641",
+        "number": "SLAVLANG 5",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "6",
+        "title": "Russian for Heritage Speakers, Second Quarter",
+        "description": "Self-paced.Emphasis on reading and writing skills in Russian. Developing communication in formal and informal settings. Does not fulfill the University foreign language requirement.Does not fulfill the University foreign language requirement. Prerequisite: SLAVLANG 5 or placement test",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "203642",
+        "number": "SLAVLANG 6",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "7",
+        "title": "Russian for Heritage Speakers, Third Quarter",
+        "description": "Self-paced.Emphasis on reading and writing skills in Russian. Developing communication in formal and informal settings.  Does not fulfill the University foreign language requirement. Prerequisite: SLAVLANG 6 or placement test",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "203643",
+        "number": "SLAVLANG 7",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "10",
+        "title": "Old Church Slavonic",
+        "description": "The first written language of the Slavic people.  Grammar.  Primarily a skills course, with attention to the historical context of Old Church Slavic",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "218770",
+        "number": "SLAVLANG 10",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "51",
+        "title": "Second-Year Russian, First Quarter",
+        "description": "Developing Russian language communicative proficiency from beginning to intermediate level. The course is based on active practice of speaking, writing reading and listening skills in a variety of situations through multiple texts and cultural materials. Intensive grammar review and vocabulary build up. Prerequisite: Placement Test, SLAVLANG 3.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11161",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "540-103",
+                        "instructors": [
+                            {
+                                "name": "Khassina, E.",
+                                "sunet": "eugeniak"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119617",
+        "number": "SLAVLANG 51",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "52",
+        "title": "Second-Year Russian, Second Quarter",
+        "description": "Continuation of 51. Developing Russian language communicative proficiency from beginning to intermediate level. The course is based on active practice of speaking, writing reading and listening skills in a variety of situations through multiple texts and cultural materials. Intensive grammar review and vocabulary build up. Prerequisite: placement test or  51",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7633",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khassina, E.",
+                                "sunet": "eugeniak"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119618",
+        "number": "SLAVLANG 52",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "53",
+        "title": "Second-Year Russian, Third Quarter",
+        "description": "Continuation of 52. Developing Russian language communicative proficiency from beginning to intermediate level. The course is based on active practice of speaking, writing reading and listening skills in a variety of situations through multiple texts and cultural materials. Intensive grammar review and vocabulary build up.Increased level of self-confidence and fluency Prerequisite: placement test or 52.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7462",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khassina, E.",
+                                "sunet": "eugeniak"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119620",
+        "number": "SLAVLANG 53",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "55",
+        "title": "Intermediate Russian Conversation",
+        "description": "Russian conversation practice at intermediate level. Based on developing Russian speaking skills through multiple situations and a variety of contexts.May be repeated twice for credit. Prerequisite: SLAVLANG3 or equivalent placement.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "204904",
+        "number": "SLAVLANG 55",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "60",
+        "title": "Ukrainian Language for Slavic Speakers",
+        "description": "A Ukrainian language crash course designed for Slavic language speakers at the intermediate level or higher. This course uses contemporary media as well as political and cultural sources to maximize students' exposure and rapidly build vocabulary and familiarity with the language. The course will be tailored and adjusted to meet students' specific goals and expectations. Pre-requisite Intermediate level or higher of Russian.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "31549",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "Littlefield 104",
+                        "instructors": [
+                            {
+                                "name": "Virker, A.",
+                                "sunet": "virker"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225527",
+        "number": "SLAVLANG 60",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "60T",
+        "title": "Teaching Slavic Conversation",
+        "description": null,
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "203694",
+        "number": "SLAVLANG 60T",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "70",
+        "title": "Reading in Russian",
+        "description": "The course is designed to develop reading competence in Russian. This is not a traditional language course that takes an integrated four-skill approach. The goal of the course is to reach proficiency of advanced level in reading Russian authentic materials pertinent to history and culture. The emphasis is on vocabulary building, reading comprehension, and translation. Intermediate level of Russian is required. Placement test or consent of Instructor",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14247",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "12609",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216464",
+        "number": "SLAVLANG 70",
+        "units": [
+            2
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "99",
+        "title": "Language Specials",
+        "description": "Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26797",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28616",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28300",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "119622",
+        "number": "SLAVLANG 99",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "111",
+        "title": "Third-Year Russian, First Quarter",
+        "description": "A snapshot of Russian life. Reading comprehension, conversational competence, grammatical accuracy, and cultural sophistication. Prerequisite: Placement Test or SLAVLANG53. Prerequisite: Placement Test or SLAVLANG 53.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11162",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": "120-314",
+                        "instructors": [
+                            {
+                                "name": "Marcos, M.",
+                                "sunet": "mmarcos"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119625",
+        "number": "SLAVLANG 111",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "112",
+        "title": "Third-Year Russian, Second Quarter",
+        "description": "Continuation of SLAVLANG 111. A snapshot of Russian life. Reading comprehension, conversational competence, grammatical accuracy, and cultural sophistication. Prerequisite: Placement Test or  SLAVLANG 111.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7634",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119626",
+        "number": "SLAVLANG 112",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "113",
+        "title": "Third-Year Russian, Third Quarter",
+        "description": "Continuation of SLAVLANG 112. A snapshot of Russian life. Reading comprehension, conversational competence, grammatical accuracy, and cultural sophistication. Prerequisite: Placement Test or SLAVLANG 112.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7463",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119627",
+        "number": "SLAVLANG 113",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "177",
+        "title": "Fourth-Year Russian, First Quarter",
+        "description": "Continuation of SLAVLANG 113. Culture, history, and current events. Films, classical and contemporary writers, newspaper articles, documentaries, radio and TV programs, and music. Review and fine-tuning of grammar and idiomatic usage. Prerequisite: Placement Ttest, SLAVLANG 113.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11163",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "380-381U",
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119665",
+        "number": "SLAVLANG 177",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "178",
+        "title": "Fourth-Year Russian, Second Quarter",
+        "description": "Continuation of SLAVLANG 177. Culture, history, and current events. Films, classical and contemporary writers, newspaper articles, documentaries, radio and TV programs, and music. Review and fine-tuning of grammar and idiomatic usage. Prerequisite: Placement Test, SLAVLANG 177.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7635",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119666",
+        "number": "SLAVLANG 178",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "179",
+        "title": "Fourth-Year Russian, Third Quarter",
+        "description": "Continuation of SLAVLANG 178. Culture, history, and current events. Films, classical and contemporary writers, newspaper articles, documentaries, radio and TV programs, and music. Review and fine-tuning of grammar and idiomatic usage. Prerequisite: Placement Test, SLAVLANG 178.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7464",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119667",
+        "number": "SLAVLANG 179",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "181",
+        "title": "Fifth-Year Russian, First Quarter",
+        "description": "Language proficiency maintenance; appropriate for majors and non-majors with significant language experience.  Discussions, oral presentations, and writing essays on contemporary Russia. Prerequisite: Placement Test, or SLAVLANG 179.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11164",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "260-012",
+                        "instructors": [
+                            {
+                                "name": "Khassina, E.",
+                                "sunet": "eugeniak"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119668",
+        "number": "SLAVLANG 181",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "182",
+        "title": "Fifth-Year Russian, Second Quarter",
+        "description": "Continuation of SLAVLANG181. Language proficiency maintenance; appropriate for majors and non-majors with significant language experience. Discussions, oral presentations, and writing essays on contemporary Russia. Prerequisite: Placement Test or SLAVLANG 181.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7636",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khassina, E.",
+                                "sunet": "eugeniak"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119669",
+        "number": "SLAVLANG 182",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "183",
+        "title": "Fifth-Year Russian, Third Quarter",
+        "description": "Continuation of SLAVLANG 182. Language proficiency maintenance; appropriate for majors and non-majors with significant language experience. Discussions, oral presentations, and writing essays on contemporary Russia. Prerequisite: Placement Test or SLAVLANG 182.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7546",
+                "currentClassSize": "0",
+                "maxClassSize": "8",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khassina, E.",
+                                "sunet": "eugeniak"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "119670",
+        "number": "SLAVLANG 183",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "184A",
+        "title": "Russian Reading Conversation and Composition",
+        "description": "Proficiency in reading, spoken and written Russian through literary and non-literary texts, movies, and contemporary media. Emphasis is on debate, oral presentations, and essay writing.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "208882",
+        "number": "SLAVLANG 184A",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "184B",
+        "title": "Russian Advanced Conversation and Composition",
+        "description": "Proficiency in spoken and written Russian through literary and non-literary texts, movies, and contemporary media. Emphasis is on debate, oral presentations, and essay writing.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "30602",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "20-21B",
+                        "instructors": [
+                            {
+                                "name": "Gorshkova, M.",
+                                "sunet": "magorsh"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "208883",
+        "number": "SLAVLANG 184B",
+        "units": [
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "199",
+        "title": "Individual Work",
+        "description": "Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27276",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29180",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "8560",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "8561",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khassina, E.",
+                                "sunet": "eugeniak"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "202028",
+        "number": "SLAVLANG 199",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 4
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "220",
+        "title": "Russian for Slavic PhD Students",
+        "description": "For DLCL graduate students who will teach Russian language and literature. Course objective is to improve spoken Russian on literary and pedagogical topics. Prerequisite: consent of instructor. May be repeated for credit",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29059",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:20:00 PM",
+                        "location": "260-002",
+                        "instructors": [
+                            {
+                                "name": "Khassina, E.",
+                                "sunet": "eugeniak"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 51600.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "215372",
+        "number": "SLAVLANG 220",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "299",
+        "title": "Independent Study",
+        "description": null,
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27331",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29233",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28922",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203621",
+        "number": "SLAVLANG 299",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "394",
+        "title": "Graduate Studies in Russian Conversation",
+        "description": null,
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27604",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29583",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29284",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "14206",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "11005",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "10818",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "211800",
+        "number": "SLAVLANG 394",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SLAVLANG",
+        "code": "395",
+        "title": "Graduate Studies in Russian",
+        "description": "Prerequisite: consent of instructor. (Staff)",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29240",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28931",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27339",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "11707",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khassina, E.",
+                                "sunet": "eugeniak"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "8562",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12620",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khassina, E.",
+                                "sunet": "eugeniak"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "13821",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "8563",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Khassina, E.",
+                                "sunet": "eugeniak"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "12628",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Greenhill, R.",
+                                "sunet": "rima"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203796",
+        "number": "SLAVLANG 395",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 9
+    }
+]

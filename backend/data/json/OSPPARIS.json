@@ -1,0 +1,3416 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "1A",
+        "title": "Accelerated First-Year French, Part 1",
+        "description": "Completes first-year language sequence in two rather than three quarters. All-in-French communicative and interactive approach. Emphasis on the development of French in a contemporary cultural context. Interpretation of diversified materials, written and oral presentations.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15815",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Molkou, E.",
+                                "sunet": "emolkou"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "16025",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Al Tabara, A.",
+                                "sunet": "asaltaba"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216975",
+        "number": "OSPPARIS 1A",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "2",
+        "title": "Paris through the lens of your Smartphone",
+        "description": "The aim of this course is to allow students to conceive, produce, direct and edit a short film that explores their experience in Paris using the basic smartphone technology. They will be introduced to the fundamentals of visual storytelling and basic technics of filmmaking and be encouraged to apply those techniques through a variety of practical exercises and training seminars. At the end of the trimester, the students will have acquired basic notions of visual storytelling and directed a short movie allowing them to express their own idiosyncratic vision of the world and their personal experience in a foreign city. Primary language: French",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "28516",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "calefas-strebelle, a.",
+                                "sunet": "acalefas"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-CE"
+        ],
+        "objectID": "225174",
+        "number": "OSPPARIS 2",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "2A",
+        "title": "Accelerated First-Year French, Part 2",
+        "description": "Continuation of FRENLANG 1A. Completes first-year language sequence in two rather than three quarters.  All-in-French communicative and interactive approach. Emphasis is on the development of French in a contemporary cultural context. Interpretation of diversified materials, written and oral presentations. Prerequisite: French 1A",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15814",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Balavoine, C.",
+                                "sunet": "cbalavoi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "216974",
+        "number": "OSPPARIS 2A",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "3",
+        "title": "Fluctuat nec mergitur: Key moments in Paris History",
+        "description": "This survey course on the history of Paris from its earliest human settlement to the present day explores the history of the people, immigration and events that have shaped the contemporary city and the role of Paris in constructing French political and cultural identity. Fluctuat nec mergitur: &quot;tossed by the waive but does not sink&quot;, the motto of Paris shows the resilience of the city though history and adversity. This course seeks to present the role of Paris in the global history of France and how the city testifies to the hardships and the glory of its past. It also aspires to challenge some preconceived ideas surrounding the city and its main reputation as a global capital of art and literature presenting Paris as a capital of technology, scientific developments, and sustainability.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "225172",
+        "number": "OSPPARIS 3",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "10",
+        "title": "Art and migration in France: picturing displacement and the displaced",
+        "description": "Since the turn of the 20th century, Paris has attracted both artists and migrants in large numbers, thanks to France's reputation as a haven for those seeking refuge from persecution and conflict, and its capital's longtime status as a global artistic center. This course will focus on the confluence of these two communities by exploring the art of migration from the 20th century to today&iquest;including painting, sculpture, drawing, street art, photography and video--with a focus on works representing France, or produced in France or by French artists.Beyond aesthetic considerations, many of the artists who formed part of the successive generations of the legendary 20th century &quot;School of Paris&quot;, and continue to enrich the Parisian art scene today, have also come fleeing various forms of persecution or turmoil in their home countries, from war to anti-Semitism to fascism to colonialism to terrorism.  The ways that these &quot;cultural migrants&quot; have represented their journey and negotiated their multi-layered identities in their work, both then and now, will be explored.  Current day migration in a post-colonial context will also be studied, as a means to discover the various strategies used by contemporary artists to humanize and give visibility to the struggle of the displaced, while addressing societal concerns fueling displacement today, including racial, social, religious and gender inequality, conflict, and climate change.Instructional format will include in-class lectures, discussions with contemporary artists, and above all, site visits to Parisian museums, neighborhoods and relevant socio-cultural institutions.  Students will be evaluated through in-class participation and attendance, an in-class presentation on an assigned artwork, and a research paper on a topic relevant to the course scope.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-A-II"
+        ],
+        "objectID": "224935",
+        "number": "OSPPARIS 10",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "10A",
+        "title": "Engineering Research Internship",
+        "description": "For Paris Program students with academic experience in electronics, telecommunications or signal and image processing. Under direct guidance of  researchers at Institut Sup&eacute;rieur d'Electronique de Paris (ISEP), and where applicable, in collaboration with other French and international graduate students, contribute to the ISEP's ongoing research projects. In French or English",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29523",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29205",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "210355",
+        "number": "OSPPARIS 10A",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "10B",
+        "title": "Biology and Bio-Engineering Research Internship",
+        "description": "Biology research opportunity at the Brain &amp; Spinal Cord Institute (ICM) located within the Hospital Piti&eacute;-Salpetri&egrave;re. Team focuses on understanding the disease mechanism of  Amyotrophic Lateral Sclerosis (ALS or Lou Gehrig's disease). Direct access to patient samples. Cutting-edge experimental methods. Prior research experience in biology lab work required.  Students will be expected to work actively two full days a week in the lab, and provide a research report to the instructor at the end of the quarter. Language of instruction: French or English according to student's proficiency.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29606",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29311",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212679",
+        "number": "OSPPARIS 10B",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "11",
+        "title": "Special Internship",
+        "description": "These internships are often initiated by personal special contacts made between students and people in the professional world in France. Prerequisites: written permission from the program director is necessary before any enrolling in this experience can be envisaged.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29574",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29275",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "211739",
+        "number": "OSPPARIS 11",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "12",
+        "title": "Paris Photography Workshop",
+        "description": "Exploration of Paris through camera and lab techniques. Both theoretical and practical aspects of creative photography. Extensive field work. Students must bring camera or phone with camera. Enrollment limited. Taught in English.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15816",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baudouin, N.",
+                                "sunet": "nicobaud"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-CE"
+        ],
+        "objectID": "211740",
+        "number": "OSPPARIS 12",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "13A",
+        "title": "Internship",
+        "description": "Internship",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "31848",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224707",
+        "number": "OSPPARIS 13A",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "13B",
+        "title": "Internship",
+        "description": "Internship",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "31847",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224706",
+        "number": "OSPPARIS 13B",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "13C",
+        "title": "Internship",
+        "description": "Internship",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "31849",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224705",
+        "number": "OSPPARIS 13C",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "14",
+        "title": "Media Internship",
+        "description": "Case studies and independent research as groundwork for comparative analysis of media on both sides of the Atlantic. Nature of media in the U.S and in France. Media as a means for understanding culture.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29521",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29203",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "210353",
+        "number": "OSPPARIS 14",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "15",
+        "title": "Hospital Mentoring",
+        "description": "Observation of medical services in Paris hospitals. How hospital teams work in France; how medical decisions are made; how patients are treated by nurses and doctors.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29522",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29204",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "210354",
+        "number": "OSPPARIS 15",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "16A",
+        "title": "French Schooling Internship",
+        "description": "Working with French schoolchildren in one of three settings: a neighborhood support association in the outskirts of Paris; or two after-school support association in the city. Commitment for a minimum of three hours a week on site plus meetings with internship instructor and a final paper. Number of placements depends on the needs of the sponsoring institutions. Previous work with children advised. Prerequisite: placement into French 22 or higher upon arrival in Paris.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29612",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29323",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212770",
+        "number": "OSPPARIS 16A",
+        "units": [
+            2,
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "17",
+        "title": "Green Urban Planning Internship",
+        "description": "Intern in a local public company that oversees the city of Issy-les-Moulineaux's communication and innovation services in the immediate vicinity of Paris. Projects related to the Smart City Project (smart grid, smart mobility, smart government, etc.). Possible projects include: contributing to the city's editorial initiatives, taking active part in organizing events or conferences, doing documentary research on innovation, helping with European Union's co-funded projects. Speaking French a plus, but not a requirement.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "30153",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29955",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221774",
+        "number": "OSPPARIS 17",
+        "units": [
+            4
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "18",
+        "title": "Health Policy and Health Care System Design",
+        "description": "This course examines the structures of health care systems, from the perspective of the choices that those designing health care systems face.  Topics include the overall goals of health care systems, health insurance programs and government programs financing care, the structure and organization of health care providers like doctor practices and hospitals, provider payment, patient cost sharing, coverage of new and emerging treatments and technology, and quality improvement.  We particularly emphasize examples from the US and France.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "222455",
+        "number": "OSPPARIS 18",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "19",
+        "title": "Arranged Internship 1",
+        "description": "Two-quarter stay required unless student places into French 23P or above upon arrival. Internships can be arranged in a number of areas including the arts, architecture, politics, engineering, marketing and PR, media and journalism, health and psychological services, IT, NGO's, research, and hospitality administration.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29524",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "29206",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "210356",
+        "number": "OSPPARIS 19",
+        "units": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "20",
+        "title": "A Journey Through Medieval Paris",
+        "description": "From economic expansion in 11th century Paris and flourishing of Gothic religious architecture in the 12th century, to the establishment of Europe's principal university in Paris, making it the academic center of the region in the 13th century. Through onsite sessions, discover how Paris became a true capital in all meanings of the term, and explore the historical reasons for this phenomenal growth and expansion.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "221329",
+        "number": "OSPPARIS 20",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "21",
+        "title": "France in Crisis & Revolution: Historical Political Economics through a French Lens",
+        "description": "France has been one of the world's great innovators in introducing new political ideas, often born out of economic or social crises, that have driven not only its own economic and political development but have also influenced institutions around the world. From the trauma of the Great Revolution to the modern emergence of the Extreme Right, the experience of France has much to teach us: not only about how societies develop economically, and how to manage the political polarization and conflict that can often result, but also the role of new ideas in shaping the institutions of nations. In this course, we will study the latest ideas in Political Economics and Historical Political Economy in light of ideas and examples that draw from the French experience in comparative perspective. Each week we will pair a core concept in political economics with a detailed study of how the methods of social science history can shed new light on a particular crisis or episode in France&iquest;s development. The aim will be to understand what lessons we might draw for reducing political polarization and conflict not only in France but around the world.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "28517",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Jha, S.",
+                                "sunet": "saumitra"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "225175",
+        "number": "OSPPARIS 21",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "22",
+        "title": "Exploring Sustainability: Ecological, Economics and Environmental Humanities",
+        "description": "Sustainability, which in broad terms aims at advancing human well-being within planetary boundaries, is a vital necessity in the 21st century but also a 'wicked problem' that demands to be studied from different angles. This innovative class offers two perspectives on sustainability: first, it pairs ecological economics with environmental humanities to allow for an interdisciplinary approach of sustainability's challenges; second, it offers a practical perspective on sustainability focused on the city of Paris to apply analytical insights on the ground and convert theory into sustainable practices. The course aims at equipping students with sustainability analytical toolbox from an ecological economics and environmental humanities perspectives: students will learn the fundamental of sustainability economics as well as put them in perspective with the help of philosophy, literature and art. Students will also learn, within the 'Paris sustainability lab' how to apply sustainability tools on the ground by engaging in a practical sustainability challenge facing Paris; energy, water supply, climate risks, social and environmental inequality, the Seine flooding, etc. Each of the 10 two hours and a half session will be organized as follows: 1 hour lecture on ecological economics; 30 minutes counterpoint on environmental humanities; 15 minutes break and 45 minutes of 'Paris sustainability lab' with a student presentation and collective Forum on sustainability challenges facing the city of Paris.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-ER",
+            "WAY-SI"
+        ],
+        "objectID": "224885",
+        "number": "OSPPARIS 22",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "22P",
+        "title": "Intermediate French I",
+        "description": "Prerequisite: one year of college French if completed within two quarters of arriving in Paris, or FRENLANG 21C",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "14995",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ricci, M.",
+                                "sunet": "mricci2"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15753",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Molkou, E.",
+                                "sunet": "emolkou"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15243",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Reychman, P.",
+                                "sunet": "reychman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "106055",
+        "number": "OSPPARIS 22P",
+        "units": [
+            4
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "23P",
+        "title": "Intermediate French II",
+        "description": "Prerequisite: FRENLANG 21C within two quarters of arriving in Paris, or FRENLANG 22C or OSPPARIS 22P",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "14996",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fizet, J.",
+                                "sunet": "jfizet"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15754",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ricci, M.",
+                                "sunet": "mricci2"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15244",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ricci, M.",
+                                "sunet": "mricci2"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "106056",
+        "number": "OSPPARIS 23P",
+        "units": [
+            4
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "24",
+        "title": "Introduction to French Society",
+        "description": "Required for Paris program participants. Exploration of meaningful aspects of French society and culture through lectures on history of France, participation in on-site cultural projects with French students, and a series of special encounters, venues and activities through the quarter. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15780",
+                "currentClassSize": "0",
+                "maxClassSize": "0",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hmed, C.",
+                                "sunet": "chmed"
+                            },
+                            {
+                                "name": "Sick, K.",
+                                "sunet": "kpsick"
+                            },
+                            {
+                                "name": "Molkou, E.",
+                                "sunet": "emolkou"
+                            },
+                            {
+                                "name": "calefas-strebelle, a.",
+                                "sunet": "acalefas"
+                            },
+                            {
+                                "name": "Taraud, C.",
+                                "sunet": "ctaraud"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15224",
+                "currentClassSize": "0",
+                "maxClassSize": "0",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hmed, C.",
+                                "sunet": "chmed"
+                            },
+                            {
+                                "name": "Sick, K.",
+                                "sunet": "kpsick"
+                            },
+                            {
+                                "name": "Molkou, E.",
+                                "sunet": "emolkou"
+                            },
+                            {
+                                "name": "calefas-strebelle, a.",
+                                "sunet": "acalefas"
+                            },
+                            {
+                                "name": "Taraud, C.",
+                                "sunet": "ctaraud"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "14988",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hmed, C.",
+                                "sunet": "chmed"
+                            },
+                            {
+                                "name": "Sick, K.",
+                                "sunet": "kpsick"
+                            },
+                            {
+                                "name": "Molkou, E.",
+                                "sunet": "emolkou"
+                            },
+                            {
+                                "name": "calefas-strebelle, a.",
+                                "sunet": "acalefas"
+                            },
+                            {
+                                "name": "Taraud, C.",
+                                "sunet": "ctaraud"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "209142",
+        "number": "OSPPARIS 24",
+        "units": [
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "25",
+        "title": "Bon App\u00e9tit, Marie Curie! The Science behind French Cooking",
+        "description": "Science and biology behind the cooking techniques and the taste buds. Each class includes a lecture, a food demonstration/experiment with student participation, and food preparation or tasting components explored together. Topics include: the five main tastes, aromatics, texture/mouthfeel, psychology, and genetics (why some people can't stand cilantro, for example); why we cook food; what heat does to meat and vegetables; the central role microbes play in cooking and eating; sauces and foams; molecular gastronomy; and of course, the science of dessert! This course meets the STEM track requirement for the Paris Program during Winter Quarter 2019-2020.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "30118",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221334",
+        "number": "OSPPARIS 25",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "27",
+        "title": "Art and Politics in Modern France",
+        "description": "This course proposes to explore art and politics in France from the revolution to the present. Through a multimedia approach - including sculptures, paintings, prints, commemorative monuments, architecture, street art and photographs - we will retrace the changing forms that some of the most salient political messages have taken in modern French art. The course will follow a chronological progression, from Revolution to Empire, followed by the rise and fall of the IInd Empire, and the resulting thirst for revenge. We will then broach the 20th century, including the politics of the avant-garde, the art of colonialism, the varied aesthetic responses to the rise of totalitarianism, on display at the 1937 World's Fair in Paris, and evident in the art of collaboration and resistance produced in Occupied and Vichy France during the Second World War. The art of 1960s countercultural contestation - anti-capitalist, anti-colonial, feminist, etc.--will then be studied, before examining recent initiatives in the realm of commemorative art and cultural display that approach issues facing contemporary French society today, including terrorism and constructively confronting its colonial legacy.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15906",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Herold, A.",
+                                "sunet": "agherold"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-A-II"
+        ],
+        "objectID": "223833",
+        "number": "OSPPARIS 27",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "30",
+        "title": "The Avant Garde in France through Literature, Art, and Theater",
+        "description": "Multiple artistic trends and esthetic theories from Baudelaire to the Nouveau Roman, from the Surrealists to Oulipo, from the theater of cruelty to the theater of the absurd, from the Impressionists to Yves Klein. Interdisciplinary approach to reflect on the meaning of avant garde and modernity in general, and on the  question of why revolutionary artists in France remained in search of institutional recognition, nonetheless.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15001",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Quenault, G.",
+                                "sunet": "quenault"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-Hum",
+            "WAY-A-II"
+        ],
+        "objectID": "210122",
+        "number": "OSPPARIS 30",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "32",
+        "title": "French History and Politics: Understanding the Present through the Past",
+        "description": "Key aspects of French politics including the constitutional framework, institutions, political parties and ideology, elections, political cultures, religion and politics, political elites and public policy-making, grass-root citizen participation, decentralization and local politics, and the major issues that structure and inform public debate, including attitudes and policies vis-&agrave;-vis the US.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "GER:DB-SocSci"
+        ],
+        "objectID": "210813",
+        "number": "OSPPARIS 32",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "36",
+        "title": "French Writing Workshop",
+        "description": "Offered upon request for students who have completed an Advanced French course. Focus on French writing style, enabling students to understand and master the subtleties of French writing.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "31850",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Molkou, E.",
+                                "sunet": "emolkou"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-CE"
+        ],
+        "objectID": "211583",
+        "number": "OSPPARIS 36",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "37",
+        "title": "Paris, Maghrebi Capital City",
+        "description": "This course explores the ways in which Paris can be seen as a cultural capital city of the Maghreb in the 20th and 21st centuries. It will center on the understanding of the place of the French capital city in the production of writers (including food writers), filmmakers, visual artists, architects, public intellectuals from Algeria, Morocco, and Tunisia, and from the French citizens of the so-called 'second and third generations' of migrant parents from the Maghreb. We will examine foundational works while considering their engagement with the historical and political contexts in which they were produced, conveying the changing aspects of Parisian social landscape in the broader Francophone cultures of Paris (e.g. examining the dialogue with Francophone artists from Sub-Saharan Africa). The diverse topics discussed will include migration, colonialism and decolonization, political and social dissent, national and cultural identity, the politics of language, race and class, gender and sexuality, orality and textuality, and transmediterranean dynamics. We will analyse recent initiatives in the realm of commemorative events of the colonial past and its legacy, specifically of diverse controversies facing contemporary French and North African societies today. We will also have the opportunity to interact with some of the authors as special guests: Benjamin Stora, Le&iuml;la Slimani, Sophia Aouine, Tarik Oualalou. Class-visits to the Institut du Monde Arabe, Great Mosque of Paris, Palais de la Porte Dor&eacute;e, Jewish North African quarters (Le Marais, Belleville), cooking class and couscous lunch in the Latin Quarter",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-A-II",
+            "WAY-EDP"
+        ],
+        "objectID": "224230",
+        "number": "OSPPARIS 37",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "40",
+        "title": "Studio Art: General",
+        "description": "The studio art class are offered by a reputed preparatory arts practice school in Paris, the &quot;Ecole d'Arts Plastiques&quot; (EAP). Classes include perspective, sculpture, computer art, art history, among others. ). The classes are year-long, but given the individual attention offered to Stanford participants by the instructors, our students can begin the classes in the middle of the year. All the studio art classes are primarily intended for students with good language skills who are majoring or minoring in Art, Art History, Product Design, Architecture or STS. These students have priority for attending the class. Auditors are not accepted. Stanford students enrolled at the EAP will be encouraged to participate in collaborative projects with their French counterparts. For more specifics about the school and its program, see http://eapseine.fr (in French).",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "31856",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224703",
+        "number": "OSPPARIS 40",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "40M",
+        "title": "An Intro to Making: What is EE",
+        "description": "Is a hands-on class where students learn to make stuff. Through the process of building, you are introduced to the basic areas of EE. Students build a &quot;useless box&quot; and learn about circuits, feedback, and programming hardware, a light display for your desk and bike and learn about coding, transforms, and LEDs, a solar charger and an EKG machine and learn about power, noise, feedback, more circuits, and safety. And you get to keep the toys you build. Prerequisite: CS 106A.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29563",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SMA"
+        ],
+        "objectID": "217696",
+        "number": "OSPPARIS 40M",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "41",
+        "title": "EAP: Perspective, Volume, and Design",
+        "description": "Mastering the techniques of spatial representation and developing a good visualization of volume. Offered by a major studio arts school in Paris, the &quot;Ecole d'Arts Plastiques&quot; (EAP). Preference for Art Practice, Art History, Product Design, Architecture or STS majors or minors with good language skills. In French. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "29197",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "28881",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "202651",
+        "number": "OSPPARIS 41",
+        "units": [
+            2
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "41E",
+        "title": "EAP: Sculpture",
+        "description": "Control of volume through use of materials such as clay or plaster in order to master three dimensioned representations.  Offered by a major studio arts school in Paris, the &iquest;Ecole d&iquest;Arts Plastiques&iquest; (EAP).Preference for Art Practice, Art History, Product Design, Architecture or STS majors or minors with good language skills. In French. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "29731",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "29413",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214929",
+        "number": "OSPPARIS 41E",
+        "units": [
+            2
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "42",
+        "title": "Studio Art: Drawing with Live Model",
+        "description": "This course will allow the students to acquire a solid foundation in drawing and to grasp concepts of proportions, composition and analysis through observation. Students develop perception of space, movement and forms. The techniques used include among others: graphite, charcoal, chalk, pastel, watercolor, monotype, markers. It is offered by a reputed preparatory arts practice school in Paris, the &quot;Ecole d'Arts Plastiques&quot; (EAP). The course is year-long, but given the individual attention offered to Stanford participants by the instructor, our students can begin the classes in the middle of the year. All the studio art classes are primarily intended for students with good language skills who are majoring or minoring in Art, Art History, Product Design, Architecture or STS. These students have priority for attending the class. Auditors are not accepted. Stanford students enrolled at the EAP will be encouraged to participate in collaborative projects with their French counterparts. For more specifics about the school and its program, see http://eapseine.fr (in French).",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "31851",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "202652",
+        "number": "OSPPARIS 42",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "43",
+        "title": "Studio Art: Painting",
+        "description": "This course covers different painting techniques for pictorial representation through various themes and enables students to develop their creativity. The work of each student is evaluated on a case-by-case basis, and the class structure can be more open or more directed based on their needs. It is offered by a reputed preparatory arts practice school in Paris, the &quot;Ecole d'Arts Plastiques&quot; (EAP). The course is year-long, but given the individual attention offered to Stanford participants by the instructor, our students can begin the classes in the middle of the year. All the studio art classes are primarily intended for students with good language skills who are majoring or minoring in Art, Art History, Product Design, Architecture or STS. These students have priority for attending the class. Auditors are not accepted. Stanford students enrolled at the EAP will be encouraged to participate in collaborative projects with their French counterparts. For more specifics about the school and its program, see http://eapseine.fr (in French).",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "31857",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "202653",
+        "number": "OSPPARIS 43",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "44",
+        "title": "Studio Art: Analytical Drawing",
+        "description": "This drawing course focuses on observation of a model to be copied. It encourages students to analyze one aspect of a general structure, while using various materials and techniques in a limited amount of time. It is offered by a reputed preparatory arts practice school in Paris, the &quot;Ecole d'Arts Plastiques&quot; (EAP). The course is year-long, but given the individual attention offered to Stanford participants by the instructor, our students can begin the classes in the middle of the year. All the studio art classes are primarily intended for students with good language skills who are majoring or minoring in Art, Art History, Product Design, Architecture or STS. These students have priority for attending the class. Auditors are not accepted. Stanford students enrolled at the EAP will be encouraged to participate in collaborative projects with their French counterparts. For more specifics about the school and its program, see http://eapseine.fr (in French).",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "31859",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "202654",
+        "number": "OSPPARIS 44",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "44E",
+        "title": "EAP: Computer Art",
+        "description": "Learn and develop efficient technique of modern graphic design. Offered by a major studio arts school in Paris, the &quot;Ecole d'Arts Plastiques&quot; (EAP).Preference for Art Practice, Art History, Product Design, Architecture or STS majors or minors with good language skills. In French. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "29732",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "29414",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214930",
+        "number": "OSPPARIS 44E",
+        "units": [
+            2
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "50",
+        "title": "The Writing on the Walls: Street Art in Paris, yesterday and today",
+        "description": "Once condemned as vandalism, street art is today appreciated the world over by an increasingly diverse audience.  This course will explore street or urban art's evolution from a criminal act by anonymous, marginalized figures to an esteemed, lucrative and increasingly officially-sponsored cultural practice.  The focus will be street art in Paris.  Long considered an international artistic capital, Paris is seen today as one of the most dynamic centers of contemporary street art, since its emergence in the 1960s.  The course will address the multiple forms, techniques and labels used in relation to urban or street art, while exploring prevalent themes broached, including racial and gender inequality, anti-capitalism and climate activism.  The motivations, goals, and inspirations of both renowned and emerging practitioners in Paris and beyond will be studied to place street art in a wider art historical and activist context.  Throughout the course, the paradoxical notions surrounding contemporary street art will be considered: revolt versus appropriation, urban degradation versus beautification and even speculation, delinquency versus activism, anonymity versus stardom, street versus screen. Forms of instruction will include in-class discussions and debates, student presentations, guest lectures by street artists and other cultural actors, site visits to community and cultural institutions and city walks to explore the writing on the walls in diverse Parisian neighborhoods.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-A-II"
+        ],
+        "objectID": "224986",
+        "number": "OSPPARIS 50",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "50M",
+        "title": "Introductory Science of Materials",
+        "description": "Topics include: the relationship between atomic structure and macroscopic properties of man-made and natural materials; mechanical and thermodynamic behavior of surgical implants including alloys, ceramics, and polymers; and materials selection for biotechnology applications such as contact lenses, artificial joints, and cardiovascular stents. No prerequisite.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29608",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29313",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-EngrAppSci",
+            "WAY-AQR",
+            "WAY-SMA"
+        ],
+        "objectID": "212687",
+        "number": "OSPPARIS 50M",
+        "units": [
+            4
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "52",
+        "title": "French Media and Film Workshop",
+        "description": "The workshop will give students the opportunity to learn about France through the prism of its television and documentary production. This comparative approach to media and film will encourage students to analyze the ethical stakes surrounding creative and editorial decisions in France and the United States. Through visits to television sets and control rooms, interviews with producers and directors, and screenings of documentaries and films, students will learn to decipher French culture through the specific storytelling techniques used in news reports, series, documentaries and films. Each class session will focus on a television program, news broadcast, documentary or fiction film. Industry professionals working in television and film will be invited to class to share their expertise and interact with students. With more than 373 movie theaters located throughout 20 arrondissements, Paris, is truly the world capital of Cinema. Approximately a hundred theaters are considered independent movie houses, some of which are classified as historical monuments. This unique situation will allow students to learn about the origins of cinema and the importance of film to French culture during class field trips. The professor will provide technical guidance about news reporting and film production in general and how to make a short documentary. As a final project each student will create a personal 2-3 minute short film using their smart phone about a theme relating to their time in Paris. Class time will be spent on finding a story idea, creating an outline, and filming and editing their film. Language of Instruction: French, Prerequisites: none",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": null,
+                "classId": "30335",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": null,
+                "classId": "30158",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223312",
+        "number": "OSPPARIS 52",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "53",
+        "title": "Electricity, Magnetism and Optics with Laboratory",
+        "description": "How are electric and magnetic fields generated by static and moving charges, and what are their applications? How is light related to electromagnetic waves? Represent and analyze electric and magnetic fields to understand electric circuits, motors, and generators. Wave nature of light to explain interference, diffraction, and polarization phenomena; geometric optics to understand how lenses and mirrors form images. Workings and limitations of optical systems such as the eye, corrective vision, cameras, telescopes, and microscopes. Discussions based on the language of algebra and trigonometry. An integrated version of Physics 23 and 24, targeted to premedical students who are studying abroad with integrated labs. Prerequisite: PHYSICS 21 or 21S. This course meets the STEM track requirement for the Paris Program during Winter Quarter 2019-2020.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "16005",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allemand, J.",
+                                "sunet": "jfallema"
+                            },
+                            {
+                                "name": "Desprat, N.",
+                                "sunet": "ndesprat"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SMA"
+        ],
+        "objectID": "219313",
+        "number": "OSPPARIS 53",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "54",
+        "title": "The Artist's World: The Workshop, Patronage and Public in 19th and 20th Century France",
+        "description": "Synergy between artists, their workshops, patrons, models and the public in 19th and 20th century France. Weekly sessions in museums, artists' studios, and special venues within and around Paris, attempting to understand the world of the artist, and how, in many cases, this world became not only a place of refuge, but a metaphor of the artistic creation itself.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29545",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-Hum",
+            "WAY-A-II"
+        ],
+        "objectID": "211020",
+        "number": "OSPPARIS 54",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "56",
+        "title": "Exploring the City of Paris Through its Gastronomy: Past, Present and Future",
+        "description": "History and current dynamism of Paris through the prism of its gastronomic culture and topicality. Parisian districts currently witnessing rapid development due in part to the establishment of a growing number of quality-oriented and groundbreaking food businesses. This subtle gastronomic journey through the city of Paris will allow us both to understand the history of Paris, and how France's capital has sought to preserve its heritage and identity while becoming increasingly receptive to creativity, modernity and global influence.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "221419",
+        "number": "OSPPARIS 56",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "61",
+        "title": "The Science of MythBusters",
+        "description": "How do scientists actually go about answering practical questions? How does science function as a way of understanding our world, and - importantly - how does it differ from other approaches? As its point of departure, this course will examine and critique selected episodes of the television series, MythBusters (Discovery Channel), which tests the validity of many popular beliefs in a variety of imaginative ways, including myths, rumors, traditions, and stories. We will take the opportunity to delve more deeply into the applicability of the scientific method in understanding a vast range of real-world problems, and into the practical acquisition of fact-based knowledge, which together form the cornerstone of all science. The intellectual framework of this course will be based, first and foremost, on skeptical inquiry, combined with the other key ingredients of good science, which include:  framing the question well, careful experimental design, meticulous observation and measurement, quantitative analysis and modeling, the evaluation of statistical significance, recovery from failure, disseminating findings, and the continuous cycle of hypothesis and testing.  This course is taught at an introductory level, but it pays serious attention to the quantitative treatment of experimental data and associated tests of statistical significance. All students taking the course will be expected to learn, and to work a series of problems in, basic probability and statistics. There is also a hands-on, &quot;dorm lab&quot; component that involves some fabrication and a significant amount of individual testing and measurement. The final course project will involve developing and writing a scientific grant proposal to test a myth.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "30451",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223869",
+        "number": "OSPPARIS 61",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "63",
+        "title": "Places, Images and Sounds of the French at War (18th through 21st centuries)",
+        "description": "How have wars shaped the French Society? How have French men and women gone through these traumatic times, since the French Revolution until today? Beyond addressing a history of Wars per se, explore what French society represents within this context. What was the relationship between the &quot;Citoyen-soldat&quot; and &quot;The Other&quot;: Women, the Colonized, the Enemy? Through this three-centuries panorama of French conflicts, gain a knowledge of both French society and the various methods and approaches to better understand the phenomenon of war, in all its universal complexity. In French.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "30119",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "221338",
+        "number": "OSPPARIS 63",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "66",
+        "title": "FOOD CONSUMPTION & PRODUCTION",
+        "description": "How does Paris obtain its fresh food for the 8 millions meals that are served every day in the city? Where is this food produced and how is it brought to the city? What recent initiatives promote a more sustainable food system in France? These questions offer an opportunity to explore broader issues related to food systems in the urban era, rural-urban linkages, and sustainable food consumption, using Paris as a case study. The objective of this course is to better understand the food system of a large citysuch as Paris, with a focus on the underlying human-environment interactions. Part I of the course will focus on food production in the peri-urban areas of Paris and other regions in France. 70% of the food consumed in Paris comes from France. We will start with von Thunen's model of the central state.We will also discuss the rise of urban agriculture, with a field visit of an urban agriculture site under the municipality's &quot;Parisculteurs&quot;program. Part II will focus on food distribution and consumption in the city. We will discuss concepts such as agglomeration economies and supply chains. We will conduct interviews atan open-air market in Paris where &laquo;mara&icirc;chers&raquo; bring in their own production to sell. Part III will focus on recent trends to increase the sustainability of food production in France. We will discuss emerging social norms related to sustainable food and how they interact with agricultural and environmental policies in France and the European Union. This will include the rise of organic agriculture, geographical indications, various public and private eco-labeling initiatives, and attitudes toward genetically-modified crops in France.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15933",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lambin, E.",
+                                "sunet": "elambin"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "222942",
+        "number": "OSPPARIS 66",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "67",
+        "title": "INDP STDY: LAND USE IN FRANCE",
+        "description": "The following topics areproposed for an independent study: (1)Land use history in France:After centuries of deforestation, French landscapes have been reforesting for more than a century. What are the causes, and environmental and social implications of this &quot;forest transition&quot;?(2) Organic agriculture in France:In 2018, the cultivated area under organic agriculture in France was 20% larger than in 2015, representing nearly 6% of the total cultivated area. What explains this trend? How is the organic agriculture standard defined in Europe? What are the health and environmental benefits of organic agriculture?(3) Outsourcing ecological footprints to other continents:The environmental impacts of France's consumption within its borders are decreasing. But does it reflect a decoupling between economic activity and environmental degradation, or is it just the result of a displacement of the most polluting activities to other countries? (4) Sustainability sourcing commitments by corporate actors: A growing number of multinational corporations are making sustainability sourcing commitments. Does the country (or continent) where these companies are based or sell their products have an influence on the likelihood of making such commitments?(5) Geographical Indications (GIs) in Europe: GIs identify a good as originating from a region where a given quality, reputation or other characteristic of the good is attributable to its geographical origin. More than 6,000 of the 10,300 products that benefit from GIs in the world are produced in the European Union. What are the benefits of GIs for producers and consumers?",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30276",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222943",
+        "number": "OSPPARIS 67",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "72",
+        "title": "The Ceilings of Paris",
+        "description": "Seventeenth century transformation of the ceilings of Paris, private and public. Itinerary of this transformation from artists' initial drawings to their finished work. Under the guidance of the curator of 17th century French Drawings in the Louvre Museum, study the original drawings as well as the venues in and around Paris. Sites vary from the most illustrious (Versailles) to the lesser known (Hotel Lauzun). Reflection on the changing social and political aspirations as represented in these new artistic forms. Language of instruction: French.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "15358",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gady, B.",
+                                "sunet": "bgady"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-Hum",
+            "WAY-A-II"
+        ],
+        "objectID": "213728",
+        "number": "OSPPARIS 72",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "76",
+        "title": "From Art to Medicine: The Human Body and Tissue Regeneration",
+        "description": "Review of arts on human anatomy followed by review of modern medical knowledge on human body, disease prevention, and tissue regeneration. How interdisciplinary research (biology, engineering and medicine) is critical in advancing modern medicine. Lectures alternate with case studies and paper discussions on selected papers targeting treatment of various diseases. Develop an NIH style research proposal to solve a real-life disease problem. Introduction into the field of tissue regeneration using interdisciplinary approaches, sharpening critical paper reading and scientific writing skills, and integrating with the unique local art and research resources that Paris has to offer. In English. Students applying to the STEM/Pre-med track are expected to have taken some prior STEM  courses at Stanford to demonstrate their interest and preparation for applying to this track. This course meets the STEM track requirement for the Paris Program during Winter Quarter 2019-2020.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "221209",
+        "number": "OSPPARIS 76",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "77",
+        "title": "Literature and Philosophy of Place",
+        "description": "Themes of place and displacement in literature and philosophy of the larger French-speaking world, focusing on diasporic writers. Paris as a magnet for artists and thinkers seeking freedom from restrictive environments. Contrast the experiences of characters who are at &quot;home&quot; and those who are &quot;away,&quot; the anxieties of exile and of colonialism, how one person's claim on home can be another's experience of being invaded,. Philosophers' analyses of the interdependence of place and identity, place and belonging, the sometimes contradictory nature of 'home,' as they pertain to the literary (fiction, essay, poetry) texts we will read.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "29674",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-A-II",
+            "WAY-EDP"
+        ],
+        "objectID": "219283",
+        "number": "OSPPARIS 77",
+        "units": [
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "78",
+        "title": "Independent Studies in Human Diseases and Tissue Regeneration",
+        "description": "Students who are interested to explore in on independent studies will meet with the instructor on a regular basis to develop customized studies on various potential topics on the history of biomedical research in Paris, or the role of biochemical research on driving progress in human diseases prevention, tissue repair, as well as potential impacts on future medicine.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "221210",
+        "number": "OSPPARIS 78",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "78A",
+        "title": "Independent Study Topics in Philosophy",
+        "description": "French feminist philosophy: Reading and understanding the contributions to feminist thought of Beauvoir, Wittig, Irigaray, and others.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "2",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29684",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219399",
+        "number": "OSPPARIS 78A",
+        "units": [
+            2,
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "78B",
+        "title": "Independent Study Topics in Literary (Creative) Writing",
+        "description": "Spirit of Place in Short Fiction/ Spirit of Place in Memoir.  Students are invited to work with the professor developing such skills as characterization, plot, dialogue, figurative language, structure and pacing.  All narratives will, of course, explore place (Paris and other parts of France) in new and interesting ways.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29685",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219400",
+        "number": "OSPPARIS 78B",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "78W",
+        "title": "Urban gardening workshop",
+        "description": "The &quot;urban gardening&quot; workshop is a hands-on project that aims to develop an organic urban vegetable garden in a shared garden-space located in a subsidized housing area. This workshop will facilitate meeting other volunteers who work in the garden as well as the community that lives near the garden and cultivate together. Several visits will be offered: the king's vegetable garden in Versailles, the botanical garden and vegetable gardens in Paris. Students will be expected to research urban crops, permaculture, and seasonal vegetables.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "225012",
+        "number": "OSPPARIS 78W",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "80",
+        "title": "The Body, Race, and Difference in Contemporary France",
+        "description": "Using anthropological frames, students will learn to think about the body and its role in everyday life, paying particular attention to the ways that ethnicity, citizenship, race and belonging are lived and experienced in contemporary France. We will work with materials ranging from the colonial collection of human remains that were used to represent French Universalism in museum projects, to cultural artifacts acquired during the colonization of Africa (their circulation and the current debates around them), to interactive ethnographic work with current social organizations centered around the body, rights and health. Broad questions pivot on two fundamental queries: Is the differentiated body a natural fact?  When and how have ethnic and multicultural discourses come into play in the cultural context of France where the political categorization of race is legally forbidden?",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "221208",
+        "number": "OSPPARIS 80",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "87",
+        "title": "Immigration and Citizenship in Comparative Perspectives",
+        "description": "International migration patterns have shaped and reshaped individual and collective identities throughout history and across the world.  In the present time of globalization, these dynamics have posed particular political and social challenges in both the United States and Europe and have thus commanded the attention of scholars working in diverse disciplines on both sides of the Atlantic.  Immigration and citizenship have been among the most central topics in social sciences in the last 25 years. National history in the United States, immigration in the European context is the result of the reconstruction of the economy after WWII and of the decolonization of the 1960s. Today with the settlement of economic and postcolonial migrants the question is raised in terms of integration and national unity, sovereignty and identity. The seminar will emphasize changes and continuity, convergences and divergences among policies, rhetoric and approaches with regard to immigration, incorporation and citizenship in Western democracies. New developments with regard to migration policies and their effect on identity politics, institutional arrangements, multiculturalism, secularism and religion, as well as on the modes of organization, mobilizations and claims of immigrants or minorities will be analyzed. Based on empirical researches, theoretical reflections and normative considerations, the seminar will question will the terms of citizenship, membership and allegiance, and the changing relationship between citizenship, rights, identities, culture and politics. Primary language: French",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "28515",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "225173",
+        "number": "OSPPARIS 87",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "88P",
+        "title": "Our Genomes - Vive la Diff\u00e9rence!",
+        "description": "The human genome carries the instructions for normal human development and reproduction. But it also carries predispositions to disease, and clues to our evolution, ancestry, and identity. The genome may also be pliable to environmental influences and genetic engineering. Through directed readings, activities and Paris field trips, students will learn about the human genome and applications of genome science and technology across diverse disciplines including medicine, comparative and evolutionary biology, paternity testing and forensics. A particular emphasis will be France's contributions to genome science, and uniquely French perspectives on the ethical, legal, and societal implications. The broad goal is to become informed and engaged about genome science and its impact on both the individual and society.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "225577",
+        "number": "OSPPARIS 88P",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "91",
+        "title": "The Future of Globalization:  Economics, Politics and the Environment",
+        "description": "Economic and political impact of globalization on France and the EU and influence of France and the EU on the process of globalization. Issues of sovereignty and national identity for France; protection from versus integration into the network of globalization.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "GER:DB-SocSci",
+            "GER:EC-GlobalCom",
+            "WAY-SI"
+        ],
+        "objectID": "202115",
+        "number": "OSPPARIS 91",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "92",
+        "title": "Building Paris: Its History, Architecture, and Urban Design",
+        "description": "The development of Parisian building and architecture from the 17th century to the present. Interaction of tradition and innovation in its transformation and its historical, political, and cultural underpinnings. Visits and case studies throughout Paris illustrate the formation of the city landscape and its culture.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28869",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-Hum",
+            "GER:EC-GlobalCom",
+            "WAY-A-II"
+        ],
+        "objectID": "202114",
+        "number": "OSPPARIS 92",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "93",
+        "title": "Paris: Capital of Enlightenment and Revolution",
+        "description": "By the 1720's, Paris was widely viewed as the center of European culture and politics. &quot;How can anyone be Persian?&quot; asked a fictional Parisian in Montesquieu's Persian Letters (the implication was that anything other than being Parisian was slightly ludicrous). Eighteenth-century writers, scientists, and aristocrats sought to burnish Paris's reputation as the capital of modern thought and worldly sophistication, from which Enlightenment radiated. Visitors eagerly sought admittance to the famous salons, attended the theater, and watched public scientific displays. But by the end of the century, the novelty promised by the French philosophes took on a revolutionary dimension. Now the streets of Paris provided the stage for some of the most momentous historical events in Europe, from the storming of the Bastille to the execution of Louis XVI. And the ramifications of this revolution echoed throughout the nineteenth century, both in Paris and beyond.In this course, you will study the cultural and political history of Paris using the city itself as a classroom. Whenever possible, you will explore the role of salons, scientific academies, museums, and coffee shops by both studying and visiting them in person. You will examine the sites of revolutionary events and consider how they are commemorated (or not). And you will discover how some of the most striking features of Paris -- its grands boulevards, with their elegant apartment blocks -- reflect lasting fears of a revolutionary people.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "224926",
+        "number": "OSPPARIS 93",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "94",
+        "title": "Paris noir and the spaces of otherness",
+        "description": "Paris and the African-American diaspora have been historically intertwined through political activism, literature, architecture, cinema, music, and beyond. In this course we will map the spatial presence of the avant-garde of African-American artists in Paris and how their being in the City of Light has inherently shaped the French Capital and its understanding of alterity throughout the twentieth and the twenty-first century. We will not only focus on the Parisian connections and the long-lasting imprint they left on Paris by othering the urban landscape, offering alternative conceptions of the parisian territories for generations of Black and non-Black artists to come, but also on their own journeys of self-discovering and intellectual awakening in the streets of Paris: how Paris transforms them and how they transform Paris. From Richard Wright to Beyonc&iquest;, from James Baldwin to Ta-Nehisi Coates, from Josephine Baker to Thomas Chatterton Williams, from Beverly Loraine Greene to Angela Davis &amp; Black Lives Matter in Paris : exploring how the pioneers of the Afro-American parisian diaspora paved the way for the future generations of Paris noir. From Caf&iquest; Tournon to the Louvre museum, from Montparnasse to La Sorbonne, from the Unesco headquarters co-designed by Beverly Loraine Greene the First African-American woman to be a registered architect in the USA, we will explore the ways those parisian territories, symbols of power, knowledge and French (non) art de vivre came to define the socio-political Paris of Afro-American artists and public intellectuals, and to refine their intimate vision of America from a distance.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "31852",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-A-II",
+            "WAY-EDP"
+        ],
+        "objectID": "224894",
+        "number": "OSPPARIS 94",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "95",
+        "title": "Women in Contemporary French Cinema",
+        "description": "Women as objects and subjects of the voyeuristic gaze inherent to cinema. The evolution of female characters, roles, actresses, directors in the French film industry from the sexual liberation to #metoo. Women as archetypes, icones, images, or as agents and subjects. Emphasis on filmic analysis: framing, point of view, narrative, camera work as ways to convey meaning. Themes include: sexualization and desire; diversity and intersectionality in films; new theories of the female gaze; gender, ethnicity and class. Filmmakers include Roger Vadim, Agn&egrave;s Varda, Luis Bu&ntilde;uel, Claude Chabrol, Colline Serreau, Elena Rossi, Tonie Marshall, Houda Benyamina, El&eacute;onore Pourriat, C&eacute;line Sciamma, Mati Diop. VISIT BY FILM DIRECTORS Elena Rossi and Sciamma (pending). Films in French with subtitles; discussion in English.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-A-II",
+            "WAY-CE"
+        ],
+        "objectID": "224243",
+        "number": "OSPPARIS 95",
+        "units": [
+            3,
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "96",
+        "title": "Migration Matters in Cinema and Literature: Francophone Authors Inside Out",
+        "description": "The 20th Century has seen numerous prodigious cultural productions of French artists with living roots in the former French colonies (North Africa, Sub-Saharan Africa, and Indochina), and the 21st century has already seen even greater ones. Navigating critical challenges faced by our human condition such as making sense of the world around us, self-expression and representation, migration and mobility, identity negotiations and sense of multi-belonging, the contemporary French artists (writers, filmmakers, architects, rappers) have found themselves at the center of French and Francophone cultural life for quite a while. This course will explore luvres from Leila Slimani's Chanson douce to Rachid Bouchareb's Indig&egrave;nes, taking side trips into the topsy-turvy world of Marjane Satrapi's Persepolis, the ingeniosity of Alain Mabanckou's Verre cass&eacute;, the poetic spleen of Stromae's Racine carr&eacute;e, the unapologetic French vision of Fatou Diome's Marianne porte plainte!, the fierce narrative of Kim Lef&egrave;vre's M&eacute;tisse blanche, and the inventive questioning of urban life in Djamel Klouche's architecture. We will consider the play of words, the strategies behind first-person narrative and compare it with the alternate third person and the &quot;we&quot; one in different art mediums. Why are so many authors and protagonists still obsessed with the Algerian War of Independence (1954-1962), 60 years after the end of the war? How does the move from an early almost exclusively male-dominated cultural scene to a more gender balanced one translate into their artistic productions ?",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-A-II",
+            "WAY-EDP"
+        ],
+        "objectID": "224896",
+        "number": "OSPPARIS 96",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "99",
+        "title": "Framing Violence in Popular Tales",
+        "description": "Short stories have been an important literary and cultural tradition in France since 1690. Classical authors, folktale writers, translators of &quot;oriental&quot; fictions, aristocrats, and femmes du monde have produced a large corpus of short stories. These stories are far from being mere fairy tales; they unveil the violence of the Early Modern period while revealing the horrors of social and domestic violence. This course has two goals: the first one is to present the nature, extent and causes of domestic, social, and everyday violence in absolute regimes of the early modern times. The second one is to &quot;read&quot; violence and the emotions linked to it in popular tale narratives. Our repertoire will include popular French tales, such as Les Contes de Perrault, and the philosophical and political tales of Rousseau, Diderot, and Voltaire. Our approach will be comparative, psychoanalytic, feminist, cross-cultural, sociological, and anthropological. Format: seminar. Taught in French.  Minimum requirement to join the French section is to be placed in FRENLANG22P",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "31882",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "calefas-strebelle, a.",
+                                "sunet": "acalefas"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-A-II"
+        ],
+        "objectID": "224798",
+        "number": "OSPPARIS 99",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "103A",
+        "title": "French Lecture Series 1",
+        "description": "May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28376",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28014",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15746",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "calefas-strebelle, a.",
+                                "sunet": "acalefas"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15307",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "calefas-strebelle, a.",
+                                "sunet": "acalefas"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15075",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "calefas-strebelle, a.",
+                                "sunet": "acalefas"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "106080",
+        "number": "OSPPARIS 103A",
+        "units": [
+            1
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "104A",
+        "title": "French Lecture Series 2",
+        "description": "May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "28377",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "28015",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "106082",
+        "number": "OSPPARIS 104A",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "180",
+        "title": "Paris Special Topics",
+        "description": "May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "211058",
+        "number": "OSPPARIS 180",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "186F",
+        "title": "Contemporary African Literature in French",
+        "description": "Focus is on African writers and those of the diaspora, bound together by a common history of slave trade, bondage, colonization, and racism. Their works belong to the past, seeking to save an oral heritage of proverbs, story tales, and epics, but they are also contemporary.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28776",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-Hum",
+            "GER:EC-GlobalCom",
+            "WAY-A-II",
+            "WAY-EDP"
+        ],
+        "objectID": "140099",
+        "number": "OSPPARIS 186F",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "195A",
+        "title": "Paris University 1",
+        "description": "May be repeated for credit",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "28100",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "calefas-strebelle, a.",
+                                "sunet": "acalefas"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221877",
+        "number": "OSPPARIS 195A",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "195B",
+        "title": "Paris University 2",
+        "description": "May be repeated for credit",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "6",
+        "sections": [],
+        "gers": [],
+        "objectID": "221876",
+        "number": "OSPPARIS 195B",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPPARIS",
+        "code": "199A",
+        "title": "Directed Reading A",
+        "description": "OSPPARIS 199A",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26573",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28378",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28016",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15777",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Paris only.",
+                "classId": "15275",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "calefas-strebelle, a.",
+                                "sunet": "acalefas"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "106363",
+        "number": "OSPPARIS 199A",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 5
+    }
+]

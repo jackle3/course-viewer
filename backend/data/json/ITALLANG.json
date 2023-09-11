@@ -1,0 +1,1561 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "1",
+        "title": "First-Year Italian, First Quarter",
+        "description": "All-in-Italian communicative and interactive approach. Emphasis is on the development of appropriate discourse in contemporary cultural contexts. Interpretation of  authentic materials, written and oral presentations, and plenty of conversational practice. Language lab, multimedia, and online activities.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7617",
+                "currentClassSize": "0",
+                "maxClassSize": "13",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tempesta, G.",
+                                "sunet": "tempesta"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7281",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11139",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "50-52H",
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11337",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "30-101",
+                        "instructors": [
+                            {
+                                "name": "Tempesta, G.",
+                                "sunet": "tempesta"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11336",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "460-429",
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "118311",
+        "number": "ITALLANG 1",
+        "units": [
+            5
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "1A",
+        "title": "Accelerated First-Year Italian, Part 1",
+        "description": "Accelerated sequence that completes first-year Italian in two rather than three quarters. For students with previous knowledge of Italian or with a strong background in another Romance language. Prerequisite: advanced proficiency or AP/SAT in another Romance language; or Italian placement test.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14919",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11190",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "50-52H",
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "205113",
+        "number": "ITALLANG 1A",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "2",
+        "title": "First-Year Italian, Second Quarter",
+        "description": "Continuation of ITALLANG 1. All-in-Italian communicative and interactive approach. Emphasis is on the development of appropriate discourse in contemporary cultural contexts. Interpretation of authentic materials, written and oral presentations, and plenty of conversational practice. Language lab, multimedia, and online activities. Prerequisite: Itallang 1 or placement test.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7618",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7283",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tempesta, G.",
+                                "sunet": "tempesta"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11143",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "460-429",
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "15089",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "LNG",
+                "notes": null,
+                "classId": "15390",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "118312",
+        "number": "ITALLANG 2",
+        "units": [
+            5
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "2A",
+        "title": "Accelerated First-Year Italian, Part 2",
+        "description": "Continuation of ITALLANG 1A. Accelerated sequence that completes first-year Italian in two rather than three quarters. For students with previous knowledge of Italian or with a strong background in another Romance language. Prerequisite: Placement Test or ITALLANG 1A.  Fulfills the University language requirement.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "15400",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "14469",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "205115",
+        "number": "ITALLANG 2A",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "3",
+        "title": "First-Year Italian, Third Quarter",
+        "description": "Continuation of ITALLANG 2. All-in-Italian communicative and interactive approach. Emphasis is on the development of appropriate discourse in contemporary cultural contexts. Interpretation of authentic materials, written and oral presentations, and plenty of conversational practice. Language lab, multimedia, and online activities. Prerequisite: Itallang 2 or placement test. Fulfills the University language requirement.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "28598",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "12189",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "14303",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "30-101",
+                        "instructors": [
+                            {
+                                "name": "Tempesta, G.",
+                                "sunet": "tempesta"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "12190",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "118313",
+        "number": "ITALLANG 3",
+        "units": [
+            5
+        ],
+        "totalSections": 4
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "20",
+        "title": "Intermediate Oral Communication: Italy Today",
+        "description": "Second-year conversational and presentational skills developed through exposure to movie clips, slide shows, and other authentic multimedia materials. Guest lectures on Italian culture including opera, pop music, wine, and food culture. Preview of the Florentine experience with Florence returnees sharing their experiences in Italy. Prerequisite:  ITALLANG 2A, ITALLANG 3. Repeatable for credit twice.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14926",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tempesta, G.",
+                                "sunet": "tempesta"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14472",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tempesta, G.",
+                                "sunet": "tempesta"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206394",
+        "number": "ITALLANG 20",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "21",
+        "title": "Second Year Italian, First Quarter",
+        "description": "Continuation of 3 or Italian 2A . Second-Year Italian, First Quarter - Sequence integrating culture and language in the development of socioculturally appropriate discourse. Authentic materials include news and film clips, video and audio files, and short stories. Reading, writing, listening, and speaking competence based on cross cultural understanding. Prerequisite:  Placement Test, ITALLANG 3.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "118314",
+        "number": "ITALLANG 21",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "21A",
+        "title": "Accelerated Second-Year Italian, Part 1",
+        "description": "Continuation of ITALLANG 2A or Italian 3. For students going to Florence. Completes second-year sequence in two rather than three quarters. Prerequisite: placement test, ITALLANG 2A, ITALLANG 3.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11261",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "27449",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": "50-52H",
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206497",
+        "number": "ITALLANG 21A",
+        "units": [
+            4
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "22",
+        "title": "Second-Year Italian, Second Quarter",
+        "description": "Continuation of ITALLANG 21. Sequence integrating culture and language in the development of socioculturally appropriate discourse. Authentic materials include news and film clips, video and audio files, and excerpts from short stories. Reading, writing, listening, and speaking competence based on cross-cultural understanding. Prerequisite: Placement Test, ITALLANG 21 or equivalent.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "118315",
+        "number": "ITALLANG 22",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "22A",
+        "title": "Accelerated Second-Year Italian, Part 2",
+        "description": "Continuation of ITALLANG 21A or OSPFLOR 21F (for Florence returnees). Part 2 of a second-year sequence in two rather than three quarters. Satisfies the foreign language requirement for International Relations majors. Prerequisite: Placement Test, ITALLANG 21A or OSPFLOR 21F.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "12984",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14339",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": "460-429",
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206491",
+        "number": "ITALLANG 22A",
+        "units": [
+            4
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "23",
+        "title": "Second-Year Italian, Third Quarter",
+        "description": "Continuation of ITALLANG 22. Sequence integrating culture and language in the development of socioculturally appropriate discourse. Authentic materials include news and film clips, video and audio files, and short stories. Reading, writing, listening, and speaking competence based on cross cultural understanding. Prerequisite: Placement Test, ITALLANG 22 or equivalent. Satisfies the foreign language requirement for International Relations majors.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "118316",
+        "number": "ITALLANG 23",
+        "units": [
+            3,
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "60C",
+        "title": "Italian Cooking",
+        "description": "Welcome to Italian Cooking! In this class you will learn classic Italian recipes andntechniques to carry with you through your culinary explorations. Our goal is that you will gain confidence to go out and cook Italian dishes by yourself, with or without recipes.In each class you will prepare a different dish with a small group, learn the techniques involved in the preparation, and enjoy the result of your hard work.nThe class is taught in English",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "222022",
+        "number": "ITALLANG 60C",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "99",
+        "title": "Language Specials",
+        "description": "Prerequisite: consent of instructor.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26781",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28599",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28287",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "118325",
+        "number": "ITALLANG 99",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "102",
+        "title": "Advanced Oral Communication: Modern Cinema",
+        "description": "For Florence returnees or those who have completed second-year Italian. Use of movies by Italian film directors such as Benigni, Moretti, Salvatores, Soldini, and Tornatore to improve communication skills and review language functions. Emphasis is on presentation, conversation, and debate. Prerequisite: placement test, 101.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "205615",
+        "number": "ITALLANG 102",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "114",
+        "title": "Composition, Writing, and Presentation",
+        "description": "Students learn to develop advanced proficiency in their writing and oral reports through examination and practice of three modes of communication (Interpretive, Interpersonal and Presentational). Textual and grammatical analysis of online material, audio, video, and literary texts that center on cultural and sociolinguistic aspects of the Italian speaking world. Prerequisite: Placement Test, second-year Italian or equivalent.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "118326",
+        "number": "ITALLANG 114",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "115",
+        "title": "Academic and Creative Writing",
+        "description": "Students develop an increasingly sophisticated level of writing and cultural awareness in argumentative, expository, and creative writing. Identification and analysis of textual elements and narrative style, such as register, formal structure, expressive language, when and how to break rules for effect. Written, oral, and visual texts serve as a springboard for students' own production. Prerequisite: Placement Test, second-year Italian or equivalent.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "118327",
+        "number": "ITALLANG 115",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "126",
+        "title": "Italy and Italians Today",
+        "description": "An introduction to Italian culture for residents of La Casa Italiana. Past topics have included: Italian Comedy; Contemporary Italy through Film; Italian Food Culture; Eight Great Italians; Regional Italy; European Italy. Enrollment restricted to residents of La Casa Italiana except with prior approval of the instructor. Taught in English. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "118329",
+        "number": "ITALLANG 126",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "250",
+        "title": "Reading Italian",
+        "description": "For seniors or graduate students seeking to meet the University reading requirement for advanced degrees. Reading strategies for comprehension of secondary literature for academic research.  Fulfills the University foreign language requirement for advanced degrees if student earns a grade of 'B.' Prerequisite: one year of Italian or reading proficiency in another Romance language.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11044",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212454",
+        "number": "ITALLANG 250",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "394",
+        "title": "Graduate Studies in Italian Conversation",
+        "description": "Prerequisite: consent of instructor. (Staff)",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27347",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29248",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28939",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12383",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tempesta, G.",
+                                "sunet": "tempesta"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "8555",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203817",
+        "number": "ITALLANG 394",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ITALLANG",
+        "code": "395",
+        "title": "Graduate Studies in Italian",
+        "description": "Prerequisite: consent of instructor. (Staff)",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27336",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29237",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28928",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "11694",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "8557",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12374",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baldocchi, M.",
+                                "sunet": "martab"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "11695",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "13288",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "12618",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "McCarty, A.",
+                                "sunet": "mccarty1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "11696",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tempesta, G.",
+                                "sunet": "tempesta"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "8558",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tempesta, G.",
+                                "sunet": "tempesta"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "12631",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tempesta, G.",
+                                "sunet": "tempesta"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "12376",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Davidian, T.",
+                                "sunet": "tdavi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203793",
+        "number": "ITALLANG 395",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 13
+    }
+]

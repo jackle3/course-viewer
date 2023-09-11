@@ -1,0 +1,4452 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "121",
+        "title": "Undergraduate Finance Research and Discussion Seminar",
+        "description": "This seminar is designed to provide some experience with research methods and topics in finance, and to assist undergraduates with career interests in financial research, whether academic or not, with preparation for those careers. The seminar meetings are weekly and discussion based, covering a range of issues and methods in financial economics. Students are expected to prepare a 30-minute research presentation once during the quarter. To be considered for enrollment in this course, students need to complete an application, found here: https://forms.gle/aLB279vF3DJUJSgAA",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "214053",
+        "number": "FINANCE 121",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "201",
+        "title": "Finance",
+        "description": "This course covers the foundations of finance with an emphasis on applications that are vital for corporate managers. We will discuss many of the major financial decisions made by corporate managers, both within the firm and in their interactions with investors. Essential in most of these decisions is the process of valuation, which will be an important emphasis of the course. Topics include criteria for making investment decisions, valuation of financial assets and liabilities, relationships between risk and return, capital structure choice, payout policy, the use and valuation of derivative securities, and risk management. This course is targeted to those students who are new to finance and for those with little quantitative background.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Capacity limited to 55 students. In-class Midterm and Final. Final 40% Midterm 20% Participation 20% Hmwrk 20%. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "29406",
+                "currentClassSize": "0",
+                "maxClassSize": "55",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            },
+                            {
+                                "name": "Alvarez, K.",
+                                "sunet": "kealaa"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Capacity limited to 40 students. In-class Midterm and Final. Final 40% Midterm 20% Participation 20% Hmwrk 20%. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "29407",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Grenadier, S.",
+                                "sunet": "sgren"
+                            },
+                            {
+                                "name": "Rodriguez, T.",
+                                "sunet": "trod76"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Capacity limited to 55 students. In-class Midterm and Final. Final 40% Midterm 20% Participation 20% Hmwrk 20%. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "29408",
+                "currentClassSize": "0",
+                "maxClassSize": "55",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            },
+                            {
+                                "name": "Alvarez, K.",
+                                "sunet": "kealaa"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Capacity limited to 40 students. In-class Midterm and Final. Final 40% Midterm 20% Participation 20% Hmwrk 20%. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "29409",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lumagui, S.",
+                                "sunet": "sharonml"
+                            },
+                            {
+                                "name": "LaBlanc, G.",
+                                "sunet": "lablanc"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "209078",
+        "number": "FINANCE 201",
+        "units": [
+            3
+        ],
+        "totalSections": 4
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "205",
+        "title": "Accelerated Managerial Finance",
+        "description": "This course covers the foundations of finance with an emphasis on applications that are vital for corporate managers. We will discuss many of the major financial decisions made by corporate managers, both within the firm and in their interactions with investors. Essential in most of these decisions is the process of valuation, which will be an important emphasis of the course. Topics include criteria for making investment decisions, valuation of financial assets and liabilities, relationships between risk and return, capital structure choice, payout policy, the use and valuation of derivative securities, and risk management. This course is targeted to those students who are new to finance and for those with little quantitative background. No previous background in finance is required or expected for this course. Content will be comparable to F201, but the majority of course lecture material will be delivered online, with in-class sessions devoted to applications of key concepts. This &quot;flipped classroom&quot; version of the course is intended for self-motivated students with an interest in applications. Prerequisite material for the course will be posted online in the fall.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. P/F Not Allowed. Open to MBA1 students. Participation 25% Projects/Papers 50% Exercises 25. Capacity limited to 50 students. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "29330",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            },
+                            {
+                                "name": "Zweig, S.",
+                                "sunet": "szweig"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "No Exam. P/F Not Allowed. Open to MBA1 students. Participation 25% Projects/Papers 50% Exercises 25. Capacity limited to 50 students. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "29331",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            },
+                            {
+                                "name": "Zweig, S.",
+                                "sunet": "szweig"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218740",
+        "number": "FINANCE 205",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "207",
+        "title": "Corporations, Finance, and Governance in the Global Economy",
+        "description": "As entrepreneurs, global leaders, and change agents tasked with developing transformative solutions of tomorrow, you will need certain skills and tools to interact with and navigate the complex and ever-changing financial landscape. This course focuses on the development of these skills and tools through the analysis of concise real-world financial situations around the globe. Topics include valuation of cash flows and control; the capital structure, payout policy and governance of both mature and entrepreneurial firms; restructuring and managing financial distress; the use of public markets to obtain liquidity and multiple share classes to retain control; financing and governance in venture capital and private equity; the rise of activism; and social responsibility and debates about the objectives of the firms of the present and future.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. 1 Group Project/Paper. Final 30% Participation 35% Projects/Papers 35%. Mandatory attendance. Absences impact grade. Case and Problem Discussion.",
+                "classId": "33018",
+                "currentClassSize": "0",
+                "maxClassSize": "72",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Siegel, R.",
+                                "sunet": "resiegel"
+                            },
+                            {
+                                "name": "Seru, A.",
+                                "sunet": "aseru"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. 1 Group Project/Paper. Final 30% Participation 35% Projects/Papers 35%. Mandatory attendance. Absences impact grade. Case and Problem Discussion.",
+                "classId": "33019",
+                "currentClassSize": "0",
+                "maxClassSize": "72",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Siegel, R.",
+                                "sunet": "resiegel"
+                            },
+                            {
+                                "name": "Seru, A.",
+                                "sunet": "aseru"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219883",
+        "number": "FINANCE 207",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "211",
+        "title": "Corporate Finance: Applications, Techniques, and Models",
+        "description": "This course will develop and apply the basic tools and models of corporate finance to real-world corporate decisions. This course is designed to be the second course in the standard finance sequence; that is, it is designed to be the natural follow-up to the Fall Finance course. This course will develop and extend standard tools and techniques of financial analysis, valuation, and model-building, and apply these methods to a wide range of cases. Case topics will include mergers and acquisitions, private equity, corporate governance, capital structure, agency conflicts, and corporate restructuring. For all of these applications, this course will emphasize the central importance of financial analysis, valuation, and modeling to guiding optimal decision making.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "213960",
+        "number": "FINANCE 211",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "229",
+        "title": "MSx: Finance",
+        "description": "This course covers the foundations of finance with an emphasis on applications that are vital for corporate managers. We will consider many important financial decisions made by corporate managers, both within the firm and in their interactions with investors. Essential to most of these decisions are financial valuations, which will be an important emphasis of the course. Topics include criteria for making investment decisions, valuation of financial assets and liabilities, relationships between risk and return, and capital structure choice.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "P/F Not Allowed. Open to MSx students. Take-home Final. Mandatory attendance. Absences impact grade. Final 40% Participation 30% Assignments 30%. Not Open to Non-GSB Students. Seminar.",
+                "classId": "29319",
+                "currentClassSize": "28",
+                "maxClassSize": "37",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Zwiebel, J.",
+                                "sunet": "zwiebel"
+                            },
+                            {
+                                "name": "Rodriguez, T.",
+                                "sunet": "trod76"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "SEM",
+                "notes": "P/F Not Allowed. Open to MSx students. Take-home Final. Mandatory attendance. Absences impact grade. Final 40% Participation 30% Assignments 30%. Not Open to Non-GSB Students. Seminar.",
+                "classId": "29320",
+                "currentClassSize": "37",
+                "maxClassSize": "37",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Zwiebel, J.",
+                                "sunet": "zwiebel"
+                            },
+                            {
+                                "name": "Rodriguez, T.",
+                                "sunet": "trod76"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "100756",
+        "number": "FINANCE 229",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "305",
+        "title": "Capital Markets and Institutional Investing",
+        "description": "This course takes a look at institutional investing from the asset owner or limited partner's perspective (sovereign wealth funds, endowments, pension funds, life insurance companies, etc.) The course is co-taught by Ana Marshall, the CIO of the Hewlett Foundation, and Hanno Lustig, who was on the Allocation Advisory Board of the NBIM. We cover the tools of modern asset allocation and manager selection with a special focus on the challenges posed by alternative asset classes (hedge funds and private equity). To provide additional context, Ana Marshall will lecture on best practices in asset allocation and manager selection. Scott Gladstone, the developer of the Aladdin asset management tool at Blackrock, will introduce the class to this new tool. Students enrolled in the course will get access to Aladdin. The course material is founded on insights from modern finance and the economics of delegated asset management, complemented by industry perspectives. The target audience for this course includes all students who are interested in careers or already have careers in asset management. The course objective is to help you develop an understanding of the main challenges in the asset allocation and manager selection process, and hand you the tools to navigate these challenges.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Take-home Final. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 3 Group Projects/Papers. Not Open to Non-GSB Students. Case and Problem Discussion. Participation 30% Final 25% Projects/Papers 45%.",
+                "classId": "29321",
+                "currentClassSize": "7",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lustig, H.",
+                                "sunet": "hlustig"
+                            },
+                            {
+                                "name": "Marshall, A.",
+                                "sunet": "amarshal"
+                            },
+                            {
+                                "name": "Kankolongo Ngoba, N.",
+                                "sunet": "ngb2812"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Take-home Final. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 3 Group Projects/Papers. Not Open to Non-GSB Students. Case and Problem Discussion. Participation 30% Final 25% Projects/Papers 45%.",
+                "classId": "29322",
+                "currentClassSize": "16",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lustig, H.",
+                                "sunet": "hlustig"
+                            },
+                            {
+                                "name": "Marshall, A.",
+                                "sunet": "amarshal"
+                            },
+                            {
+                                "name": "Kankolongo Ngoba, N.",
+                                "sunet": "ngb2812"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219884",
+        "number": "FINANCE 305",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "306",
+        "title": "International Finance and Macroeconomics",
+        "description": "An introduction to the global economy. We will cover a number of important topics for firms, banks, and policy makers: global capital flows, international financial markets, the role of the U.S. and US dollar in the international monetary system, reserve currencies history and future (stable coins?), exchange rates (floating, fixed, and monetary unions), financial crises, international financial policy (capital controls, bank regulation, FX intervention), currency wars, tax havens and global wealth dynamics, global trade, and trade wars. Emphasis will be on data driven approaches, no prior knowledge is assumed. An MBA class designed for those looking to understand today's global economic issues.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "No Exam. P/F Not Allowed. Capacity limited to 40 students. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. Participation 5% Projects/Papers 95%. Not Open to Non-GSB Students. Workshop.",
+                "classId": "32848",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Maggiori, M.",
+                                "sunet": "maggiori"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "WKS",
+                "notes": "No Exam. P/F Not Allowed. Capacity limited to 40 students. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. Participation 5% Projects/Papers 95%. Not Open to Non-GSB Students. Workshop.",
+                "classId": "32849",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Maggiori, M.",
+                                "sunet": "maggiori"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222690",
+        "number": "FINANCE 306",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "315",
+        "title": "FinTech for Social Impact & Climate Finance",
+        "description": "This MBA elective explores innovative ways in which financial technology (FinTech) is transforming the financial sector. What are the financial and technological frictions that FinTech companies are addressing? What are the current trends in key FinTech verticals? What does it mean for a FinTech to have meaningful social impact, in particular when it comes to combating climate change? How is the competitive landscape evolving for traditional financial institutions, established tech platforms, and emerging FinTech companies? The first part of the course will bring students up-to-speed on the FinTech ecosystem and provide a range of hands-on tools for building successful, impact-driven FinTech companies. The second part of the course will then apply these insights and tools to key topics in Climate Finance. Topics in the second half of the class will include stages of financing climate solutions, climate risk modeling, emissions measurement &amp; reporting, and activist investment strategies. Disclaimer: This course will not cover cryptocurrency or web3 topics this year.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "219461",
+        "number": "FINANCE 315",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "319",
+        "title": "Private Equity Investing Seminar",
+        "description": "The Investments courses comprise an intensive overview of active fundamental investing in both the public and private equity markets. They are relevant for students who intend to pursue careers in private or public equity investing, as well as those who want to better understand investing from the perspective of an entrepreneur or individual. The vast majority of sessions will feature an outstanding investor guest lecturer. Previous guests included Andreas Halvorsen (Viking Global), Jim Coulter (TPG), Hadley Mullen (TSG Consumer Partners), Ryan Cotton (Bain Capital), Bill Oberndorf (SPO Partners) and Tim Bliss (Investment Group of Santa Barbara), and this year's lineup will be substantially similar. Established and taught for 50 years by the legendary Professor Jack McDonald, the Investments courses will be taught by John Hurley, founder of Cavalry Asset Management and Professor Steve Grenadier in Autumn 2019. Students are required to take F319 and F321 concurrently for 5 total units during the Autumn Quarter. F321 is a 2-unit compressed course that meets MWF from 2:30-5:30pm during Weeks 1 and 8 of the quarter. It addresses real-world applications of business analysis and valuation tools and teaches the skills necessary to evaluate investment opportunities. F319 is a 3-unit course that meets Tu/Th 12:40-2:00 PM throughout the quarter. Students delve into specific topics in private equity, venture capital, hedge funds, mutual funds and principal investing. Students can elect to take F319 graded or pass/fail. The Investments courses will make use of original case studies and teaching notes authored by the late Professor Jack McDonald and a team of course alumni from prior MBA classes. Case discussions and lecture discussions will be led by the teaching team and investors/principals who were involved. The Investments courses enable MBA students to learn a broad investing skillset and study the careers of outstanding investors.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "100880",
+        "number": "FINANCE 319",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "320",
+        "title": "Debt Markets",
+        "description": "This course is intended for those who plan careers that may involve debt financing for their businesses or other investments, or involve trading or investing in debt instruments and their derivatives, including money-market instruments, government bonds, repurchase agreements, interest-rate swaps,  corporate bonds, structured credit products, and credit derivatives. We will emphasize the institutional features of the markets, including trading, pricing, and hedging. The course includes a focus on distressed debt and restructuring. Most lectures will start with a cold-called student presentation of an un-graded short homework calculation. There will also be a series of graded homework, a take-home mid-term, and about seven graded 'pop quizzes' of 10 minutes or less.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "100885",
+        "number": "FINANCE 320",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "321",
+        "title": "Investment Management and Entrepreneurial Finance",
+        "description": "The Investments course comprises an intensive overview of active fundamental investing in both the public and private equity markets. It is relevant for students who intend to pursue careers in private or public equity investing, as well as those who want to better understand investing from the perspective of an entrepreneur, senior executive or individual.  The vast majority of sessions will feature outstanding investor guest lecturers. Previous guests included Andreas Halvorsen (Viking Global), Jim Coulter (TPG), Hadley Mullen (TSG Consumer Partners), Tim Bliss (Investment Group of Santa Barbara), Munib Islam (Third Point), Sarah Friar (Square and Nextdoor), , and Charles Phillips (Recognize), and this year's lineup will be substantially similar.  Established and taught for 50 years by the legendary Professor Jack McDonald, the Investments course will be taught by John Hurley `93, founder and Chief Investment Officer of Cavalry Asset Management and Professor Steve Grenadier in Autumn 2023.  The course enables students to learn a broad investing skillset and study the careers of outstanding investors.  Throughout the quarter, students delve into specific topics in private equity, venture capital, hedge funds, mutual funds and principal investing. Case discussions and lecture discussions will be led by the teaching team and investors/principals who were involved.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. Participation 50% Projects/Papers 50%. MBA1 & GSB PhD students need instructor permission. P/F Not Allowed. Mandatory attendance. Absences impact grade. 3 Individual Projects/Papers. Open to MBA2 and MSx students. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Case and Problem Discussion.",
+                "classId": "1014",
+                "currentClassSize": "71",
+                "maxClassSize": "71",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hurley, J.",
+                                "sunet": "jhurley"
+                            },
+                            {
+                                "name": "Grenadier, S.",
+                                "sunet": "sgren"
+                            },
+                            {
+                                "name": "Rodriguez, T.",
+                                "sunet": "trod76"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Monday Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "100888",
+        "number": "FINANCE 321",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "325",
+        "title": "Building a Money Management Business",
+        "description": "This course will cover how to start and build a money management business. It will have three components: (1) Prescriptive - introduction to the money management sector and exposition of strategies that increase the likelihood of success, (2) Practical --- practitioners sharing their experience of starting and building a money management business, and (3) Experiential --- students will spend the quarter using the skills they learned to produce a business plan of a prospective money management business they would like to build. The course will be cotaught by GSB Professor Jonathan Berk and Fortress Investment Group Co-CEO, Pete Briger.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "No Exam. P/F Not Allowed. Capacity limited to 36 students. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Mandatory attendance. Absences impact grade. Open to MBA2, MSx, and GSB PhD students. Seminar.",
+                "classId": "29308",
+                "currentClassSize": "31",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Briger, P.",
+                                "sunet": "pbriger"
+                            },
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            },
+                            {
+                                "name": "Zweig, S.",
+                                "sunet": "szweig"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224477",
+        "number": "FINANCE 325",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "333",
+        "title": "Financial Restructuring",
+        "description": "This course provides an intensive overview of financial restructuring transactions and processes from the perspective of distressed firms and their key stakeholders. It is intended for those who plan careers in general management, private equity, credit and special situations investing, banking, turnaround management, or financial advisory services. The course examines how companies may use in-court or out-of-court tools and processes to renegotiate their key contracts with creditors and other stakeholders when they encounter challenging business situations. Students will explore the financial, strategic, and legal implications of workouts, bankruptcies, asset/363 sales, and exchange offers, as applied in the context of financially distressed companies. Topics include valuation, absolute priority, creditor committees, intercreditor conflicts, debtor-in-possession (DIP) financings, 'blocking' strategies, avoidance powers, contingent claims, tax considerations, international insolvency, and distressed investment strategy. In exploring these topics, the course focuses on the key legal and contractual rights that creditors and other counterparties possess, and how they may use these rights to optimize their negotiated outcomes in a restructuring. Students will gain the tools to identify distress before it occurs, analyze distressed companies, and design restructuring plans which create enterprise value while navigating various considerations.  They will also gain an understand of how to structure financial obligations upon origination in a way to lower the probability of financial distress. Finally, the course will examine the purpose of bankruptcy design and future policy implications. The course is lecture-focused in the beginning, but will become more interactive and case-focused later in the course as students acquire the skills they need to tackle key issues. Grading will be based upon class participation (50%), and a paper due at the end of the quarter (50%). For the paper, each student will select a distressed company currently in the market and design a restructuring plan for it.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "Students are required to know the fundamentals of corporate finance, as taught in GSB FINANCE 201 or 205, or as learned on the job from prior work experience. No Exam. Participation 50% Projects/Papers 50%. Capacity limited to 45 students. 1 Group Project/Paper. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. P/F Allowed. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Case and Problem Discussion.",
+                "classId": "31441",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Harmon, M.",
+                                "sunet": "mpharmon"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223023",
+        "number": "FINANCE 333",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "334",
+        "title": "Economics of the Private Equity Industry",
+        "description": "This course covers the in depth the private equity (PE) industry, including venture funds, buyouts, funds of funds, and other investments vehicles investing in private assets. Our viewpoint is that of an investor, whether a general partner of a management firm partnership or the limited partner investing in these funds. We concentrate on the financial and economic aspects and will take a practical yet rigorous view. Examples of issues that we will cover: How to select fund managers? How are PE funds raised? Can we predict returns of PE asset class? Is there a persistence in returns? What are the most important provisions of a limited partnership agreement? How to negotiate fund terms? What is the lifetime income of general partners? What are optimal investment strategies for PE asset allocation? How to value PE assets and funds? The course is very applied, with a lot of real-life and live cases. The course features guest speakers: VC, buyout fund, fund of funds managers, limited partners.  No prior knowledge of the PE industry is needed.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. P/F Not Allowed. Capacity limited to 48 students. Mandatory attendance. Absences impact grade. Open to MBA2 and MSx students. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Case and Problem Discussion.",
+                "classId": "1015",
+                "currentClassSize": "61",
+                "maxClassSize": "61",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Deb, D.",
+                                "sunet": "dxdeb1"
+                            },
+                            {
+                                "name": "Strebulaev, I.",
+                                "sunet": "ilyas1"
+                            },
+                            {
+                                "name": "Alvarez, G.",
+                                "sunet": "gisellea"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223603",
+        "number": "FINANCE 334",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "341",
+        "title": "Modeling for Investment Management",
+        "description": "This course will combine practical and up-to-date investment theory with modeling applications. Understanding beautiful theory, without the ability to apply it, is essentially useless. Conversely, creating state-of-the-art spreadsheets that apply incorrect theory is a waste of time. Here, we try to explicitly combine theory and application. The course will be divided into 6 modules, or topics. The first day of each module will be a lecture on an investment topic. Also provided is a team modeling project on the topic. The second day of each module will be a lab. The lab day will begin with modeling concepts (tips) designed to help you use Excel to implement the module's investment topic. After the tips are provided, the remainder of the lab day is devoted to teams working on their modeling project and allowing for Q&amp;A. On the third day of each module will be presentations and wrap-up.",
+        "repeatable": "true",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "208937",
+        "number": "FINANCE 341",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "345",
+        "title": "History of Financial Crises",
+        "description": "Financial crises are as old as financial markets themselves. There are many similarities between historical events. The crisis of 2008, for example, is far from unique. More often than not financial crises are the result of bubbles in certain asset classes or can be linked to a specific form of financial innovation. This course gives an overview of the history of financial crises, asset price bubbles, banking collapses and debt crises. We start with the Tulip mania in 1636 and end with the recent Euro crisis. The purpose of the course is to understand the causes of past crises and to develop a conceptual framework that ties common elements together. We will discuss the lessons that we can draw for financial markets today.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "212714",
+        "number": "FINANCE 345",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "346",
+        "title": "Institutional Money Management",
+        "description": "The object of this course is to study the money management industry from the perspective of the user --- an investor who wants to invest money. This course will study the main components of the money management industry: mutual funds, hedge funds, private equity funds and venture capital funds. It will also examine important users of the industry such as non profits, endowments and defined benefit pension funds. The emphasis of the course will not be on how fund managers make money, but rather on how the industry is organized, how managerial skill is assessed, how compensation is determined, and how economic rents are divided between managers and investors. The course will explore how competitive market forces interact with managerial skill and other market frictions to give rise to the observed organization of the industry.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "208838",
+        "number": "FINANCE 346",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "347",
+        "title": "Money and Banking",
+        "description": "This course is designed to help students understand the connections between money (the Federal Reserve), financial markets, and the macroeconomy. How are interest rates determined, and how does the Federal Reserve conduct monetary policy? How do Federal Reserve actions impact the US as well as other economies? What economic factors drive the yield curves in different bond markets? We will pay particular attention to the banking system, with an eye toward understanding the function, valuation, and regulation of banks. We touch on a number of topics including the role of the Federal Reserve as a lender of last resort during financial crises, unconventional monetary policy tools such as quantitative easing and forward guidance, cryptocurrency, and emerging market financial crises. We will often begin class with a discussion of current macro-financial market events in the context of our course coverage.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "The course requires familiarity with basics of bond valuation (yields, duration, present value), some excel data functions (know how to make a graph and run a linear regression), and some microeconomic concepts (what is a supply curve and a demand curve). P/F Not Allowed. In-class Midterm, Take-home Final. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 6 Group Projects/Papers. CSI certificate course. Not Open to Non-GSB Students. Case and Problem Discussion. Final 40% Papers 20% Quiz 20% Participation 20%.",
+                "classId": "29541",
+                "currentClassSize": "15",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Krishnamurthy, A.",
+                                "sunet": "akris"
+                            },
+                            {
+                                "name": "Garcia, C.",
+                                "sunet": "cgarciac"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "The course requires familiarity with basics of bond valuation (yields, duration, present value), some excel data functions (know how to make a graph and run a linear regression), and some microeconomic concepts (what is a supply curve and a demand curve). P/F Not Allowed. In-class Midterm, Take-home Final. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 6 Group Projects/Papers. CSI certificate course. Not Open to Non-GSB Students. Case and Problem Discussion. Final 40% Papers 20% Quiz 20% Participation 20%.",
+                "classId": "29542",
+                "currentClassSize": "18",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Krishnamurthy, A.",
+                                "sunet": "akris"
+                            },
+                            {
+                                "name": "Garcia, C.",
+                                "sunet": "cgarciac"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216396",
+        "number": "FINANCE 347",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "350",
+        "title": "Corporate Financial Modeling",
+        "description": "This course will expose students to the fundamentals, best practices, and advanced techniques of corporate financial modeling. We begin with basic operating and integrated financial statement models, and ultimately develop financial models to analyze major corporate transactions, including venture capital funding, mergers and acquisitions, and leverage buyouts. We will integrate theories presented throughout the MBA core, particularly those from accounting and finance, and take a hands-on approach to understand how the theory is implemented in practice.The focus of the course will be on developing critical financial modeling skills, understanding best practices, and recognizing common pitfalls. Students will work on a series of cases and build models that can be used for earnings and pro-forma financial statement forecasts, valuation, the assessment of financing needs, merger analysis, and LBO evaluation.Students will also gain experience presenting financial models and critically assessing them. By the conclusion of the course, students will develop the skills to construct complex financial models and the logical frameworks to utilize them for various organizational applications.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. P/F Not Allowed. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. Participation 33% Projects/Papers 67%. 8 Group 8 Individual Projects/Papers. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "1008",
+                "currentClassSize": "0",
+                "maxClassSize": "65",
+                "schedules": [
+                    {
+                        "startTime": "4:25:00 PM",
+                        "endTime": "6:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "DeMarzo, P.",
+                                "sunet": "pdemarzo"
+                            }
+                        ],
+                        "startTimestamp": 59100.0,
+                        "endTimestamp": 65400.0,
+                        "days": "Thursday"
+                    },
+                    {
+                        "startTime": "6:30:00 PM",
+                        "endTime": "7:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "DeMarzo, P.",
+                                "sunet": "pdemarzo"
+                            }
+                        ],
+                        "startTimestamp": 66600.0,
+                        "endTimestamp": 71400.0,
+                        "days": "Monday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "Enrolled and waitlisted students must attend the first day of class. No Exam. P/F Not Allowed. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. Participation 33% Projects/Papers 67%. 8 Group 8 Individual Projects/Papers. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "1009",
+                "currentClassSize": "0",
+                "maxClassSize": "65",
+                "schedules": [
+                    {
+                        "startTime": "6:30:00 PM",
+                        "endTime": "7:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "DeMarzo, P.",
+                                "sunet": "pdemarzo"
+                            }
+                        ],
+                        "startTimestamp": 66600.0,
+                        "endTimestamp": 71400.0,
+                        "days": "Monday"
+                    },
+                    {
+                        "startTime": "6:30:00 PM",
+                        "endTime": "8:15:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "DeMarzo, P.",
+                                "sunet": "pdemarzo"
+                            }
+                        ],
+                        "startTimestamp": 66600.0,
+                        "endTimestamp": 72900.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206028",
+        "number": "FINANCE 350",
+        "units": [
+            4
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "351",
+        "title": "Advanced Corporate Financial Modeling",
+        "description": "Students will engage in the development of corporate financial modeling cases and solutions. Students will also develop materials to aid others in building financial models, and serve as case leaders during lab workshops. Extensive background in financial modeling and experience with Excel is required.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "Enrollment by instructor permission only. No Exam. Participation 50% Projects/Papers 50%. P/F Not Allowed. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "31041",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "DeMarzo, P.",
+                                "sunet": "pdemarzo"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "209417",
+        "number": "FINANCE 351",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "362",
+        "title": "Financial Trading Strategies",
+        "description": "The purpose of this course is to familiarize students with the different types of trading strategies employed by hedge funds. Throughout the sessions, students will be challenged to understand and explore the application and implementation of these different strategies. Trading simulations employed on the Rotman Interactive Trader will be used extensively in this course as a way to learn and test different strategies. All classes will be held in the Real-time Analytics and Investment Lab (RAIL), located on the third floor of the Bass Building (B312). Students are expected to attend all sessions. Grades are based on in-class simulation results, class participation, and two written assignments.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "2 allowed absences for any reason, 3 or more absences automatic U. Absences affect grade. No Exam. Capacity limited to 32 students. 2 Group Projects/Papers. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. P/F Allowed. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Participation 10% Projects/Papers 50% Other 40%. Case and Problem Discussion.",
+                "classId": "32851",
+                "currentClassSize": "0",
+                "maxClassSize": "32",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mak, K.",
+                                "sunet": "kevinmak"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "2 allowed absences for any reason, 3 or more absences automatic U. Absences affect grade. No Exam. Capacity limited to 32 students. 2 Group Projects/Papers. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. P/F Allowed. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Participation 10% Projects/Papers 50% Other 40%. Case and Problem Discussion.",
+                "classId": "32852",
+                "currentClassSize": "0",
+                "maxClassSize": "32",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mak, K.",
+                                "sunet": "kevinmak"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218250",
+        "number": "FINANCE 362",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "373",
+        "title": "Entrepreneurial Finance",
+        "description": "This is a course about the financial decision-making process largely from the point of view of the CEO of an entrepreneurial venture, ranging from very early to very late stages. The course takes a two-pronged approach: First, we develop tools and concepts of corporate finance related to modeling, valuation, control, and investment decisions within an entrepreneurial context. Second, we use cases with firms at different stages of their life cycles from initial angel or venture capital investments through exit decisions, in order to see the issues that arise when these principles are applied in practice. In some cases we show the viewpoint of the entrepreneur and in others the perspective of the investor. After all, as an entrepreneur, one cannot negotiate effectively without understanding an investor's motivations. Conversely, an investor cannot evaluate a potential investment opportunity without appreciating the entrepreneur's perspective and incentives. Finally, we explore new developments in entrepreneurial finance such as crowdfunding and early liquidity provisions.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "213690",
+        "number": "FINANCE 373",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "377",
+        "title": "China's Financial System",
+        "description": "This course is a survey of China's financial system, including its banking industry, monetary policy structure, and financial markets (bonds, derivatives, equities, foreign exchange, alternative asset management, and related markets). The goal is an integrated view of how capital, risk, and liquidity are intermediated within China and cross-border. Current trends (including liberalization of markets and financial stability) will be emphasized. Coverage will be through lectures, reading of research, including primary source documents and secondary (journalistic and analyst) commentary. There will be a range of subject-matter-expert speakers. Using our special video-technology enabled classrooms at Stanford and at the Stanford Center at PKU, this course is able to draw live speakers in Beijing and to meet jointly with students at Beijing University. Students will participate actively in class discussion, make a 5-minute (per student in each group) research presentation, and submit a 10-page term paper.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "216318",
+        "number": "FINANCE 377",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "385",
+        "title": "Angel and Venture Capital Financing for Entrepreneurs and Investors",
+        "description": "This course covers all the stages of funding for early stage high-growth companies, from seed funding to venture capital rounds to a successful exit. We will concentrate on how entrepreneurs and investors make and should make important decisions. Examples of issues that we will cover are: How can entrepreneurs raise funding successfully? What are typical mistakes entrepreneurs make in raising capital and negotiating with investors? How to choose your investor? How to pitch to an investor? How do angels and VCs generate and process their deal flow and select companies? How are VCs involved in business decisions such as recruiting talent and replacing CEOs? What are the important provisions of financial contracts between VCs and founders? How to value early-stage companies? The course is very applied and mostly case-based. We will discuss a lot of nitty-gritty details that is a must for founders and investors. Case protagonists, founders, angels, and VCs will be among guest speakers. No prior knowledge of the VC industry is needed.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "No Exam. 1 Group 1 Individual Project/Paper. P/F Not Allowed. Open to MBA, MSx, and GSB PhD students. Participation 25% Project/Paper 75%. Mandatory attendance. Absences impact grade. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Seminar.",
+                "classId": "1006",
+                "currentClassSize": "66",
+                "maxClassSize": "66",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Jacobs, B.",
+                                "sunet": "bjacobs2"
+                            },
+                            {
+                                "name": "Strebulaev, I.",
+                                "sunet": "ilyas1"
+                            },
+                            {
+                                "name": "Alvarez, G.",
+                                "sunet": "gisellea"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "SEM",
+                "notes": "No Exam. 1 Group 1 Individual Project/Paper. P/F Not Allowed. Open to MBA, MSx, and GSB PhD students. Participation 25% Project/Paper 75%. Mandatory attendance. Absences impact grade. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Seminar.",
+                "classId": "1007",
+                "currentClassSize": "66",
+                "maxClassSize": "65",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Jacobs, B.",
+                                "sunet": "bjacobs2"
+                            },
+                            {
+                                "name": "Strebulaev, I.",
+                                "sunet": "ilyas1"
+                            },
+                            {
+                                "name": "Alvarez, G.",
+                                "sunet": "gisellea"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213700",
+        "number": "FINANCE 385",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "555",
+        "title": "Private Wealth Management and Personal Investing",
+        "description": "The Private Wealth Management and Personal Investing course will address issues that relate to the management of personal assets as opposed to institutional investing.  Many investment courses at the GSB emphasize large institutional portfolios but this course is about portfolio decisions for individuals. It will cover the origins and growth of private wealth management as an industry, investment planning, risk management, inter-generational transfers of wealth, choice of wealth advisors and philanthropy.  Special emphasis is on understanding how wealth managers may be evaluated, including potential conflicts of interest, and performance measurement. Classes will focus on case studies and various readings. Each class will include visits from professionals in the wealth management and personal investing business.  Active class participation and a group project are required.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "Regular attendance is required. No Exam. Participation 50% Projects/Papers 50%. 1 Group Project/Paper. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. Capacity limited to 60 students. P/F Allowed. Case and Problem Discussion.",
+                "classId": "31040",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "8:00:00 AM",
+                        "endTime": "9:45:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Parker, G.",
+                                "sunet": "gparker"
+                            },
+                            {
+                                "name": "Milligan, J.",
+                                "sunet": "jmill87"
+                            }
+                        ],
+                        "startTimestamp": 28800.0,
+                        "endTimestamp": 35100.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214604",
+        "number": "FINANCE 555",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "582",
+        "title": "Chief Financial Officer (CFO) Leadership",
+        "description": "In this course, you will learn the key principles of CFO leadership. Taught by experienced CFOs, the class will put students in the shoes of CFOs navigating complex, high-stakes situations. The teaching team will guide interactive classroom discussion and debate. Guest speakers in 2023 include the CFOs of AirBNB, Meta, Walmart and Zoom.  Finance 582 is for future CFOs and everyone who will work with CFOs - CEOs, senior executives, venture and private equity investors, board members, bankers, auditors, and regulators, in other words, just about everyone now at the GSB. CFOs often determine a company's direction and strategy, and their leadership can set the stage either for growth or austerity. This class aims to inspire curiosity in the CFO role by highlighting the many ways CFOs can lead. This 2-unit course will have 9 class sessions in April &amp; May 2023. Grading will be based on class participation (40%), a midterm project (30%), and a final CFO case study project (30%). 25 CFOs from leading companies including the CFOs of AT&amp;T, DoorDash, General Mills, Qualcomm, Visa, and Wells Fargo have agreed to speak with student teams for the final case study project.  The teaching team is led by Jeff Epstein, former CFO of Oracle and board member at Kaiser Permanente, Twilio, Okta, Couchbase and AvePoint, and Mitesh Dhruv, former CFO of RingCentral and board member at ZoomInfo, along with Elena Gomez, CFO of Toast and board member at PagerDuty, Smartsheet and the U.C. Berkeley Haas School of Business, and Khozema Shipchandler, COO and former CFO of Twilio.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "225458",
+        "number": "FINANCE 582",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "582",
+        "title": "Chief Financial Officer (CFO) Leadership",
+        "description": "In this course, you will learn the key principles of CFO leadership. Taught by experienced CFOs, the class will put students in the shoes of CFOs navigating complex, high-stakes situations. The teaching team will guide interactive classroom discussion and debate. Guest speakers in 2023 include the CFOs of AirBNB, Meta, Walmart and Zoom.  Finance 582 is for future CFOs and everyone who will work with CFOs - CEOs, senior executives, venture and private equity investors, board members, bankers, auditors, and regulators, in other words, just about everyone now at the GSB. CFOs often determine a company's direction and strategy, and their leadership can set the stage either for growth or austerity. This class aims to inspire curiosity in the CFO role by highlighting the many ways CFOs can lead. This 2-unit course will have 9 class sessions in April &amp; May 2023. Grading will be based on class participation (40%), a midterm project (30%), and a final CFO case study project (30%). 25 CFOs from leading companies including the CFOs of AT&amp;T, DoorDash, General Mills, Qualcomm, Visa, and Wells Fargo have agreed to speak with student teams for the final case study project.  The teaching team is led by Jeff Epstein, former CFO of Oracle and board member at Kaiser Permanente, Twilio, Okta, Couchbase and AvePoint, and Mitesh Dhruv, former CFO of RingCentral and board member at ZoomInfo, along with Elena Gomez, CFO of Toast and board member at PagerDuty, Smartsheet and the U.C. Berkeley Haas School of Business, and Khozema Shipchandler, COO and former CFO of Twilio.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. Non-GSB students: See gsb.stanford.edu/NonGSBReg. 2 Group Projects/Papers. Open to MBA, MSx, and GSB PhD students. Final 30% Midterm 30% Participation 40%. Mandatory attendance. Absences impact grade. P/F Allowed. Case and Problem Discussion.",
+                "classId": "30994",
+                "currentClassSize": "0",
+                "maxClassSize": "70",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Epstein, J.",
+                                "sunet": "jeffdad"
+                            },
+                            {
+                                "name": "Dhruv, M.",
+                                "sunet": "miteshd"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223875",
+        "number": "FINANCE 582",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "587",
+        "title": "Private Equity - An Overview of the Industry",
+        "description": "This 2-unit elective at the GSB is an &quot;Overview&quot; of the private equity industry including its reason for being, its growth and the various strategies for success that private equity firms employ. The course looks at all aspects of private equity partnerships and private equity investing. The course may be of particular interest to five groups of students: (i) students who aspire to be employed in private equity as a career; (ii) students who plan to be employed by companies that are owned by private equity firms; (iii) students who may invest in private equity partnerships as a limited partner; (iv) students who find private equity to be an interesting part of the financial services industry, and (v) students who expect to participate in corporate business development or mergers and acquisitions. The course will meet for nine classes. Each class will have at least one senior partner from a private equity firm to comment on the activities of his firm. In years past, some of the true leaders of the industry have participated. One class will be a mock investment review committee presentation as a final project.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "When absence is unavoidable, students are encouraged to advise the professor in advance. No Exam. Participation 20% Projects/Papers 80%. 1 Group Project/Paper. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. Capacity limited to 60 students. P/F Allowed. Seminar.",
+                "classId": "31039",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "8:00:00 AM",
+                        "endTime": "9:45:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Parker, G.",
+                                "sunet": "gparker"
+                            }
+                        ],
+                        "startTimestamp": 28800.0,
+                        "endTimestamp": 35100.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "210035",
+        "number": "FINANCE 587",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "620",
+        "title": "Financial Markets I",
+        "description": "This course is an introductory PhD level course in financial economics. We begin with individual choice under uncertainty, then move on to equilibrium models, the stochastic discount factor methodology, and no-arbitrage pricing. We will also address some empirical puzzles relating to asset markets, and explore the models that have been developed to try to explain them.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "101324",
+        "number": "FINANCE 620",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "621",
+        "title": "Financial Markets II",
+        "description": "This course continues F620 and covers a number of main concepts in market microstructure. Among the topics that are covered are (i) Rational Expectations models and their foundations (ii) strategic trading models (iii) models of market and funding liquidity. In addition to the discussion of theoretic models time will be allotted to empirical applications.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "101326",
+        "number": "FINANCE 621",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "622",
+        "title": "Dynamic Asset Pricing Theory",
+        "description": "This course is an introduction to multiperiod models in finance, mainly pertaining to optimal portfolio choice and asset pricing. The course begins with discrete-time models for portfolio choice and security prices, and then moves to a continuous-time setting. The topics then covered include advanced derivative pricing models, models of the term structure of interest rates, the valuation of corporate securities, portfolio choice in continuous-time settings, and finally finally market design. Students should have had some previous doctoral-level exposure to general equilibrium theory and some basic courses in investments. Strong backgrounds in calculus, linear algebra, and probability theory are recommended. Problem assignments are frequent and, for most students, demanding. Prerequisite: F620 and MGTECON600 (or equivalent), or permission of instructor.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "Open to GSB PhD students. P/F Not Allowed. 15 Individual Projects/Papers. Final 50% Projects/Papers 50%. Take-home Final. Mandatory attendance. Absences impact grade. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Workshop.",
+                "classId": "31230",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "4:25:00 PM",
+                        "endTime": "5:45:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Duffie, D.",
+                                "sunet": "duffie"
+                            },
+                            {
+                                "name": "Rodriguez, T.",
+                                "sunet": "trod76"
+                            }
+                        ],
+                        "startTimestamp": 59100.0,
+                        "endTimestamp": 63900.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101328",
+        "number": "FINANCE 622",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "624",
+        "title": "Corporate Finance Theory",
+        "description": "This course considers a wide range of topics in theoretical corporate finance (broadly interpreted). Topics include capital structure decisions, agency conflicts in the firm, dividend policy, security design, optimal financial contracting, the theory of the firm, the market for corporate control, and banking and financial intermediation, among others. The primary focus is on how asymmetric information, agency conflicts, strategic interactions, and incomplete contracting affect corporate financial decision-making. The course aims both to familiarize students with influential papers and current research, and to promote new research ideas in the area.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Open to GSB PhD students. P/F Not Allowed. Final 67% Problem Sets 33%. In-class Final. Mandatory attendance. Absences impact grade. MBA and MSx students need instructor permission. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Seminar.",
+                "classId": "31173",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Zwiebel, J.",
+                                "sunet": "zwiebel"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101332",
+        "number": "FINANCE 624",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "625",
+        "title": "Empirical Asset Pricing",
+        "description": "This course is an introduction to empirical research in asset pricing. The focus of the course is on the interplay between financial economic theory, econometric method, and that analysis of financial market data. Topics include tests of asset pricing models, return predictability in time-series and cross-section, empirical studies of asset market imperfections, and studies of individual and professional investor behavior. Class discussions will draw on textbooks/monographs and original articles and working papers.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "206960",
+        "number": "FINANCE 625",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "626",
+        "title": "Advanced Corporate Finance",
+        "description": "This is a course on contemporary theoretical and empirical issues in corporate finance. Building upon the first-year courses in corporate finance theory and empirical methods in finance, we will examine issues in asset pricing applications to corporate finance, dynamic capital structure (dynamic financing decisions), financial distress, financing and investment interactions, and behavioral corporate finance. Both conceptual economic frameworks and econometric methods will be developed as needed. A requirement for this course is that students complete two written projects, one theoretical and one empirical, and at least one of these projects will be presented to the class.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "206941",
+        "number": "FINANCE 626",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "627",
+        "title": "Venture Capital and Finance of Innovation",
+        "description": "In this course we will study the theory and empirics of venture capital (VC) and, more broadly, finance of innovation. We will start by reviewing the way the VC and related markets function and then will dive into such topics as VC contracting, valuation, and impact on innovation. We will review most important research studies published in the field over the past 20+ years and pay particular attention to recent research.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "220976",
+        "number": "FINANCE 627",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "630",
+        "title": "Empirical Corporate Finance",
+        "description": "This course provides an introduction to empirical research in corporate finance, with an emphasis on the application of cross-sectional and panel data econometric techniques for causal inference. Topics include investment policy, entrepreneurship and innovation, financing decisions, firm ownership, corporate governance, managerial incentives, financial contracting, and the structure and internal organization of firms. The course assumes knowledge of econometrics at the level of MGTECON 603.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. 5 Individual Projects/Papers. Open to GSB PhD students. Mandatory attendance. Absences impact grade. P/F Allowed. Not Open to Non-GSB Students. Case and Problem Discussion. Participation 30% Ref Report 20% Empirical Rep 40%.",
+                "classId": "30989",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            },
+                            {
+                                "name": "Alvarez, K.",
+                                "sunet": "kealaa"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213745",
+        "number": "FINANCE 630",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "632",
+        "title": "International Finance and Macroeconomics",
+        "description": "This is an advanced graduate-level course in international finance and macroeconomics. The course focuses on empirical methods, stylized facts, new advances in large-scale empirical work, and applied theory. This course is targeted to advanced second year PhD students. The course assumes familiarity with the basics of graduate-level macroeconomics and finance. Students without the necessary familiarity with these techniques are welcome to take the course, but should expect to have to fill the gaps on their own (and with the help of their classmates!). Given the target audience above, the course has three main objectives. 1) To introduce and investigate both classic and new economic issues at the frontier of current research in international finance and macroeconomics. The purely pedagogical part of the course aims to make students familiar with the questions, the current state of research, and the empirical tools currently being used. 2) To create a mental framework and intuitive understanding of important and active questions. What makes a question interesting? What makes a paper a good paper? How to develop a reasoned view of new (and perhaps yet un-studied) issues in international finance and macroeconomics? This objective is less direct and less formal, but aims to transition the students into full-time researchers. 3) To kick-start students on independent research. For those interested in applied work the course makes you familiar and tries to connect you with existing data at the frontier of the field, both public and proprietary. For those interested in theoretical work the course staff acts as a sounding board for early research ideas.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "211165",
+        "number": "FINANCE 632",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "633",
+        "title": "Advanced Empirical Corporate, Banking and Household Finance",
+        "description": "This course discusses empirical aspects of major topics in corporate finance, household and consumer finance, housing, banking, financial regulation as well as political economy.  The course is designed for students doing their PhD in finance, economics and accounting. The class is very interactive.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "213959",
+        "number": "FINANCE 633",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "634",
+        "title": "Advanced Corporate Finance Theory",
+        "description": "A selection of advanced topics in corporate finance theory, including financing of innovation, theory of the firm, incomplete contracting, dynamic contracting, dynamic capital structure choice.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "223779",
+        "number": "FINANCE 634",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "637",
+        "title": "Macroeconomics and Financial Markets",
+        "description": "This PhD course will cover research topics at the boundary between macroeconomics and finance. Topics will include the study of macroeconomic models with financial frictions, the term structure of interest rates, conventional and unconventional monetary policy, sovereign debt crises, search frictions and segmentation in housing markets, (over)leveraging by households, heterogeneous expectations, excess volatility, financial bubbles and crises. Student presentations and course paper requirement. Designed for second year PhD students in economics or finance.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "Cross-listed as ECON 237. No Exam. Open to GSB PhD students. P/F Not Allowed. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Mandatory attendance. Absences impact grade. Projects/Papers 100%. Workshop.",
+                "classId": "29569",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Piazzesi, M.",
+                                "sunet": "piazzesi"
+                            },
+                            {
+                                "name": "Krishnamurthy, A.",
+                                "sunet": "akris"
+                            },
+                            {
+                                "name": "Garcia, C.",
+                                "sunet": "cgarciac"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217306",
+        "number": "FINANCE 637",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "691",
+        "title": "PhD Directed Reading (ACCT 691, GSBGEN 691, HRMGT 691, MGTECON 691, MKTG 691, OB 691, OIT 691, POLECON 691, STRAMGT 691)",
+        "description": "This course is offered for students requiring specialized training in an area not covered by existing courses. To register, a student must obtain permission from the faculty member who is willing to supervise the reading.",
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "1",
+        "unitsMax": "15",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30138",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31678",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "32005",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "1229",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "30139",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31679",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "32006",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "1230",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "30140",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31680",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "32007",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "1231",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "30141",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31681",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "32008",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "1232",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "30242",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31782",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "32109",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "1333",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101403",
+        "number": "FINANCE 691",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "totalSections": 88
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "692",
+        "title": "PhD Dissertation Research (ACCT 692, GSBGEN 692, HRMGT 692, MGTECON 692, MKTG 692, OB 692, OIT 692, POLECON 692, STRAMGT 692)",
+        "description": "This course is elected as soon as a student is ready to begin research for the dissertation, usually shortly after admission to candidacy. To register, a student must obtain permission from the faculty member who is willing to supervise the research.",
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "1",
+        "unitsMax": "15",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30157",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31697",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32024",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1248",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30158",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31698",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32025",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1249",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30159",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31699",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32026",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1250",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30160",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31700",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32027",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1251",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30161",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31701",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32028",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1252",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101406",
+        "number": "FINANCE 692",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "totalSections": 88
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "698",
+        "title": "Doctoral Practicum in Teaching",
+        "description": "Doctoral Practicum in Teaching",
+        "repeatable": "true",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30197",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31737",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "32064",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "1288",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "30198",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31738",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "32065",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "1289",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "30199",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31739",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "32066",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "1290",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "30200",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31740",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "32067",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "1291",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "30201",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Seru, A.",
+                                "sunet": "aseru"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31741",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Seru, A.",
+                                "sunet": "aseru"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "32068",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Seru, A.",
+                                "sunet": "aseru"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "1292",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Seru, A.",
+                                "sunet": "aseru"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217375",
+        "number": "FINANCE 698",
+        "units": [
+            1
+        ],
+        "totalSections": 88
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "699",
+        "title": "Doctoral Practicum in Research",
+        "description": "Doctoral Practicum in Research",
+        "repeatable": "true",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30217",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31757",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "32084",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "1308",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "30218",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31758",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "32085",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "1309",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "30219",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31759",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "32086",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "1310",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "30220",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31760",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "32087",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "1311",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "30221",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31761",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "32088",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "1312",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217382",
+        "number": "FINANCE 699",
+        "units": [
+            1
+        ],
+        "totalSections": 88
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FINANCE",
+        "code": "802",
+        "title": "TGR Dissertation (ACCT 802, GSBGEN 802, HRMGT 802, MGTECON 802, MKTG 802, OB 802, OIT 802, POLECON 802, STRAMGT 802)",
+        "description": null,
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30177",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31717",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32044",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1268",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30178",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31718",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32045",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1269",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Admati, A.",
+                                "sunet": "admati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30179",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31719",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32046",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1270",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Begenau, J.",
+                                "sunet": "begenau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30180",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31720",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32047",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1271",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berk, J.",
+                                "sunet": "jbberk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30181",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31721",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32048",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1272",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Blattner, L.",
+                                "sunet": "ldblatt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101410",
+        "number": "FINANCE 802",
+        "units": [
+            0
+        ],
+        "totalSections": 88
+    }
+]

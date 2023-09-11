@@ -1,0 +1,1552 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "177A",
+        "title": "Mapping Poverty, Colonialism and Nation Building in Latin America (LATINAM 277A)",
+        "description": "This course is an introduction to the mapping of colonial and early independent Latin America, as a lens through which students may learn about the process of colonization, state building, and the legacies on those processes on poverty and underdevelopment today. Historical maps are analyzed both as GIS data sources, and as interpretative lenses through which we can glimpse the way human settlements and activity reveal social, political and economic dynamics whose legacies are still present today.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "219846",
+        "number": "LATINAM 177A",
+        "units": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "177B",
+        "title": "Mapping Poverty, Colonialism and Nation Building in Latin America-Part B",
+        "description": "This course is an introduction to the mapping of colonial and early independent Latin America, as a lens through which students may learn about the process of colonization, state building, and the legacies on those processes on poverty and underdevelopment today. Historical maps are analyzed both as GIS data sources, and as interpretative lenses through which we can glimpse the way human settlements and activity reveal social, political and economic dynamics whose legacies are still present today.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "221188",
+        "number": "LATINAM 177B",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "197",
+        "title": "Directed Individual Research",
+        "description": "For students engaged in interdisciplinary work that cannot be arranged by department. May be repeated for credit. Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "10",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "13913",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hoyos, H.",
+                                "sunet": "hhoyos"
+                            },
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "14304",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "13759",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "114747",
+        "number": "LATINAM 197",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "200",
+        "title": "Seminar on Contemporary Issues in Latin American Studies",
+        "description": "Guest scholars present analyses of major Latin American themes. Restricted to students enrolled in the Latin American Studies MA program.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Enrollment restricted to MA in Latin American Studies (LAS) students. Non-MA in LAS students may audit the course.",
+                "classId": "7272",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": "Bolivar House",
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Enrollment restricted to MA in Latin American Studies (LAS) students. Non-MA in LAS students may audit the course.",
+                "classId": "7446",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": "Bolivar House",
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "1. Enrollment restricted to MA in Latin American Studies (LAS) students. Non-MA in LAS students may audit the course.",
+                "classId": "11102",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Bolivar House",
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206472",
+        "number": "LATINAM 200",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "207",
+        "title": "Spanish in Science/Science in Spanish (BIO 208, EARTHSYS 207)",
+        "description": "For graduate and undergraduate students interested in the natural sciences and the Spanish language. Students will acquire the ability to communicate in Spanish using scientific language and will enhance their ability to read scientific literature written in Spanish. Emphasis on the development of science in Spanish-speaking countries or regions. Course is conducted in Spanish and intended for students pursuing degrees in the sciences, particularly disciplines such as ecology, environmental science, sustainability, resource management, anthropology, and archeology.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "216785",
+        "number": "LATINAM 207",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "210",
+        "title": "Everyday Economic Life Among Brazil's Urban Poor",
+        "description": "This course focuses on the challenges and opportunities experienced by Brazil's urban poor as they access consumer and financial markets.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "219986",
+        "number": "LATINAM 210",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "248",
+        "title": "Racial and Gender Inequalities in Latin America",
+        "description": "This course explores the intersection between racial and gender inequalities in Latin America focusing on the historical pattern of racism, sexism and discrimination, and on the political and social changes that have enabled Afro-descendants and women to achieve social rights in some countries of the region such as Brazil, Colombia, Ecuador, and Uruguay. The first part of this course introduces the struggle of political movements taking into consideration the historical process of race and gender discrimination. It will address not only the history of blacks&iquest; and women's movements in the 20th century, but also racism and sexism as cultural and institutional elements that configure inequality in those countries. Socio-economic indicators, race and gender-based violence, and political participation will be analyzed. The second part of this course examines the most recent discourses about women and afro-descendant rights, and their political framework. It evaluates how they have changed public opinion, laws and the social, institutional and political environment of Latin America. Finally, this course discusses the ability of Afro-descendants and women movements to navigate in the current political climate and advance their rights.nCourse will be taught in Portuguese.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Language Prerequisite: Students must have finished the 2nd year of Portuguese, be taking the 2nd year concurrently, or possess proven equivalent competence in Portuguese of Advanced Low or beyond.",
+                "classId": "12229",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "Bolivar House",
+                        "instructors": [
+                            {
+                                "name": "Cavalleiro, E.",
+                                "sunet": "elianec"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218893",
+        "number": "LATINAM 248",
+        "units": [
+            3,
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "252",
+        "title": "The Inter-American Human Rights System: Doctrine, Practice and Advocacy",
+        "description": "The Inter-American Human Rights System (&iquest;IAHRS&iquest;) has played a crucial role in opening up spaces for civil society to demand human rights protections in the region, increasing protections at the domestic level, and supporting civil society in its quest for accountability for massive human rights violations. The system has also played a role in civil society efforts to bring the human rights debate home, including in the United States. This course will provide an in-depth introduction to the history, doctrine, and practice of the IASHR, and will examine the obstacles and opportunities that civil society, victims, and advocates encounter when engaging the IAHRS.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "224929",
+        "number": "LATINAM 252",
+        "units": [
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "266VP",
+        "title": "A Critical Review of Guatemala's Indigenous Movements",
+        "description": "This seminar will explore five moments of the Maya Movement and the relationship between the &iquest;traditional&iquest; movements and the two new indigenous trends, to shed light on the complexities of indigenous organization in the XXI century. The goal of the course is to help students understand the intricacies of indigenous lives by understanding how internal transformations of their ways of organizing and struggling impact the Guatemalan State. Reading and discussions will be in English and Spanish.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "222158",
+        "number": "LATINAM 266VP",
+        "units": [
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "277A",
+        "title": "Mapping Poverty, Colonialism and Nation Building in Latin America (LATINAM 177A)",
+        "description": "This course is an introduction to the mapping of colonial and early independent Latin America, as a lens through which students may learn about the process of colonization, state building, and the legacies on those processes on poverty and underdevelopment today. Historical maps are analyzed both as GIS data sources, and as interpretative lenses through which we can glimpse the way human settlements and activity reveal social, political and economic dynamics whose legacies are still present today.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "219846",
+        "number": "LATINAM 277A",
+        "units": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "299",
+        "title": "Independent Study or Directed Reading",
+        "description": "Independent Study or Directed Reading for graduate students in Latin American Studies",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "10",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "13914",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hoyos, H.",
+                                "sunet": "hhoyos"
+                            },
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "13920",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hoyos, H.",
+                                "sunet": "hhoyos"
+                            },
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "14305",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "14524",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rosa, J.",
+                                "sunet": "jdrosa"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "13921",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rosa, J.",
+                                "sunet": "jdrosa"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "14525",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Saldivar, J.",
+                                "sunet": "jds1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "13922",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Saldivar, J.",
+                                "sunet": "jds1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "15555",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Trinkunas, H.",
+                                "sunet": "antanas"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "15039",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Van Tuyl, P.",
+                                "sunet": "pvantuyl"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "15627",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Frank, Z.",
+                                "sunet": "zfrank"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222988",
+        "number": "LATINAM 299",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "totalSections": 10
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "301",
+        "title": "GRADUATE ARCHIVAL DIRECTED READING",
+        "description": "Independent studies under the direction of a faculty member for which academic credit may properly be allowed. Research will require in-person access to archival materials in Hoover Institution, Stanford's Latin American Collections, and/or Branner  or Ramsey Map Collections. For Latin American Studies M.A. students only.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "13762",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hoyos, H.",
+                                "sunet": "hhoyos"
+                            },
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "14306",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223148",
+        "number": "LATINAM 301",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "397",
+        "title": "Graduate Writing Seminar for Latin American Studies",
+        "description": "The design of this seminar is to aid students in fulfilling their MA in Latin American Studies capstone research paper or thesis requirement.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Enrollment restricted to MA in Latin American Studies (LAS) students.",
+                "classId": "14307",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "Bolivar House",
+                        "instructors": [
+                            {
+                                "name": "Saenz-Ackermann, E.",
+                                "sunet": "esaenz"
+                            },
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            },
+                            {
+                                "name": "Griego, A.",
+                                "sunet": "griego"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "32620",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": "Bolivar House",
+                        "instructors": [
+                            {
+                                "name": "Saenz-Ackermann, E.",
+                                "sunet": "esaenz"
+                            },
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            },
+                            {
+                                "name": "Griego, A.",
+                                "sunet": "griego"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222989",
+        "number": "LATINAM 397",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "398",
+        "title": "Master's Thesis",
+        "description": "Restricted to students writing a master's thesis in Latin American Studies. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "10",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "13194",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "13677",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Asad, A.",
+                                "sunet": "asadasad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "14115",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hoyos, H.",
+                                "sunet": "hhoyos"
+                            },
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "13696",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "13761",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "14429",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Frank, Z.",
+                                "sunet": "zfrank"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "13876",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Frank, Z.",
+                                "sunet": "zfrank"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "14526",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Novy, J.",
+                                "sunet": "julia3"
+                            },
+                            {
+                                "name": "Jha, S.",
+                                "sunet": "saumitra"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "13923",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Novy, J.",
+                                "sunet": "julia3"
+                            },
+                            {
+                                "name": "Jha, S.",
+                                "sunet": "saumitra"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "14527",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Trinkunas, H.",
+                                "sunet": "antanas"
+                            },
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "13924",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Trinkunas, H.",
+                                "sunet": "antanas"
+                            },
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "14551",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Solano-Flores, G.",
+                                "sunet": "gsolanof"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "13934",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Solano-Flores, G.",
+                                "sunet": "gsolanof"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": null,
+                "classId": "14558",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Magaloni-Kerpel, B.",
+                                "sunet": "magaloni"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": null,
+                "classId": "13935",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Magaloni-Kerpel, B.",
+                                "sunet": "magaloni"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "10",
+                "component": "INS",
+                "notes": null,
+                "classId": "14560",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hoyos, H.",
+                                "sunet": "hhoyos"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "10",
+                "component": "INS",
+                "notes": null,
+                "classId": "13936",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hoyos, H.",
+                                "sunet": "hhoyos"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "11",
+                "component": "INS",
+                "notes": null,
+                "classId": "14007",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Moya, P.",
+                                "sunet": "pmoya"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "12",
+                "component": "INS",
+                "notes": null,
+                "classId": "14205",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Jimenez, T.",
+                                "sunet": "tjimenez"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "13",
+                "component": "INS",
+                "notes": null,
+                "classId": "15038",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Zambrano, D.",
+                                "sunet": "dzambran"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206500",
+        "number": "LATINAM 398",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "totalSections": 20
+    },
+    {
+        "year": "2023-2024",
+        "subject": "LATINAM",
+        "code": "801",
+        "title": "TGR Project",
+        "description": "TGR Project for approved students in Latin American Studies.",
+        "repeatable": "true",
+        "grading": "TGR",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "12556",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "13760",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "14308",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "12326",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hoyos, H.",
+                                "sunet": "hhoyos"
+                            },
+                            {
+                                "name": "Diaz, A.",
+                                "sunet": "albertod"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218789",
+        "number": "LATINAM 801",
+        "units": [
+            0
+        ],
+        "totalSections": 4
+    }
+]

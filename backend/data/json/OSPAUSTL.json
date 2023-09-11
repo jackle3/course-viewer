@@ -1,0 +1,251 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "OSPAUSTL",
+        "code": "10",
+        "title": "Coral Reef Ecosystems",
+        "description": "Key organisms and processes, and the complexity of coral reef ecosystems. Students explore the Great Barrier Reef from the southern end which demonstrates the physical factors that limit coral reefs, to the northern reef systems which demonstrate key aspects of these high biodiversity ecosystems. Human-related changes. Emphasis is on research experiences and development of analytical skills. Two units only counted for the Biology major.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": null,
+                "classId": "15304",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-EngrAppSci",
+            "WAY-SMA"
+        ],
+        "objectID": "203496",
+        "number": "OSPAUSTL 10",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPAUSTL",
+        "code": "28",
+        "title": "Terrestrial Ecology and Conservation",
+        "description": "Examination of the rain forest and sclerophyll ecosystems in far north Queensland. Methodology for classification of key terrestrial ecosystems in lectures and then use of multiple field-based techniques to put theory to the test in the field. Ecosystem health is assessed using bioindicators under differing fire regimes and disturbance levels. Globally, terrestrial ecosystems and their associated fauna are affected by many of the same anthropogenic impacts and these are explored using Australian case studies and hands-on field activities. How both the plants and animals of Australian ecosystems came to be so utterly unique, in the context of the long evolution of 'the island continent' from the prehistoric rain forests that once covered the ancient super-continent of Gondwana",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15326",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Smith, T.",
+                                "sunet": "smithtj"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221276",
+        "number": "OSPAUSTL 28",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPAUSTL",
+        "code": "32",
+        "title": "Coastal Ecosystems",
+        "description": "Field course that takes place on North Stradbroke Island, located in Moreton Bay. Physical and biological factors that influence ecosystems of the coastal zone. Lectures, field activities and discussions to increase knowledge of coastal ecosystems, their structure, including knowledge of the communities of flora and fauna, their importance to human communities, their management and the threats that negatively affect them. Coastal ecosystems of Moreton Bay used as an example, considering how both natural and human factors influence coastal ecosystems. Multiple field activities on the island observing various marine animals and plant communities, and exploring the range of coastal ecosystems of North Stradbroke Island.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15325",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tibbetts, I.",
+                                "sunet": "zlitibbe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221275",
+        "number": "OSPAUSTL 32",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPAUSTL",
+        "code": "40",
+        "title": "Australian Studies: History, Society and Culture Down Under",
+        "description": "Introduction to Australian society, history, culture, politics, and identity. Social and cultural framework and working understanding of Australia in relationship to the focus on coastal environment in other program courses. Field trips.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "15305",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-SocSci",
+            "GER:EC-GlobalCom",
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "203499",
+        "number": "OSPAUSTL 40",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPAUSTL",
+        "code": "50",
+        "title": "Individual Research Project",
+        "description": "Prior to arriving in Australia, students establish a link with University of Queensland faculty to develop project ideas that combine personal interests and career goals with opportunities presented by the Australian Coastal Studies program, such as how mangrove roots find sediment rich zones of the shore, or the dynamics of ecotourism in southern and northern coastal Queensland. Project report and presentation in Australia.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28916",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "15428",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tibbetts, I.",
+                                "sunet": "zlitibbe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203481",
+        "number": "OSPAUSTL 50",
+        "units": [
+            4
+        ],
+        "totalSections": 2
+    }
+]

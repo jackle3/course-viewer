@@ -1,0 +1,479 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "ROTCNAVY",
+        "code": "1",
+        "title": "Naval ROTC Lab",
+        "description": "Emphasis is placed on professional training not of an academic nature. The laboratory is intended for topics such as drill and ceremonies, physical fitness and swimming testing, cruise preparation, cruise evaluation, sail training, safety awareness, preparation for commissioning, personal finances, insurance, and applied exercises in naval ship systems, navigation, naval operations, naval administration, and military justice. Other topics and special briefings will be conducted as determined by the Chief of Naval Education and Training or the Professor of Naval Science.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Instructor: Staff; Course held in 242 Hearst Gym at University of California Berkeley campus.",
+                "classId": "15241",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allvord, C.",
+                                "sunet": "callvord"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Instructor: LT Pommersheim.",
+                "classId": "15023",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213966",
+        "number": "ROTCNAVY 1",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCNAVY",
+        "code": "11",
+        "title": "Introduction to Naval Science",
+        "description": "This curriculum provides guidelines for introducing students to the organization of the Department of Defense and the naval service, the long-held customs and traditions of the service, basic leadership, ethics and character development, the duties of a junior officer, and basic information concerning shipboard procedures and safety. It is the intent of this course to stimulate the students' interest for study and investigation in future courses.  Three hours of lecture per week.  Course is offered in the Autumn Quarter.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Instructor: CAPT Van Rossum.",
+                "classId": "15025",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213969",
+        "number": "ROTCNAVY 11",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCNAVY",
+        "code": "12",
+        "title": "Sea Power and Maritime Affairs",
+        "description": "Traces the U.S. historical evolution of sea power, its concepts, theories and applications. Emphasizes the impact of world situation, U.S. national interest, changing technology, and naval leadership on the evolving concept of sea power. Relates historical developments to current trends. Examines briefly the U.S. Merchant Marine's and the former Soviet Navy's impact on sea power policy formulation.  Two hours of lecture per week.  Course is offered in the Spring Quarter.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: CAPT Van Rossum.",
+                "classId": "15295",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214002",
+        "number": "ROTCNAVY 12",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCNAVY",
+        "code": "20",
+        "title": "Evolution of Warfare",
+        "description": "Progressive analysis of the evolution of warfare from the ancient world to the present. Emphasis placed on causes of continuity and/or change of methods, as well as the influence of economic, moral, political, and technological factors on strategic thought.  Three hours of lecture per week. Course is offered in the Spring Quarter.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: MAJ Hopkins.",
+                "classId": "15309",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217407",
+        "number": "ROTCNAVY 20",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCNAVY",
+        "code": "21",
+        "title": "Leadership and Management",
+        "description": "This course will cover basic management, decision making, and moral leadership. The student will learn to establish meaningful goals, prioritize among competing demands, and plan and forecast in a task-centered organization. The course includes exposure to measures of organizational effectiveness, methods to overcome resistance to change, effective communications, and techniques to aid in counseling, team building, and resolution of disciplinary and personnel matters.  Three hours of lecture/discussion/seminar per week.  Course is offered in the Autumn quarter.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: MAJ Hopkins.",
+                "classId": "15013",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213956",
+        "number": "ROTCNAVY 21",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCNAVY",
+        "code": "22",
+        "title": "Naval Ship Systems - Engineering",
+        "description": "Principles of design and operation of ships. Emphasis on description and analysis of major types of propulsion plants, both conventional and nuclear. Principles of thermodynamic cycles, electrical theory, power generation and distribution, auxiliary machinery systems. Ship construction, strength and stability in intact and damaged conditions. Factors and design criteria for seaworthiness, structural integrity, and operational employment.  Three hours of lecture per week. Prerequisites: MATH 41.  Course is offered in the Spring Quarter.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: LT Pommersheim.",
+                "classId": "15297",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214010",
+        "number": "ROTCNAVY 22",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCNAVY",
+        "code": "131",
+        "title": "Navigation",
+        "description": "Theory, principles, and procedures of terrestrial and celestial navigation and piloting techniques. A study of coordinating systems, including the celestial coordinate system, nautical charts and publications, position fixing, dead reckoning, nautical astronomy, the theory and methods of celestial navigation, and the theory and prediction of tides and current.  Three hours of lecture and one hour of laboratory per week.  Course is offered in the Spring Quarter.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: LT Bird.",
+                "classId": "15347",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213957",
+        "number": "ROTCNAVY 131",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCNAVY",
+        "code": "132",
+        "title": "Naval Operations & Seamanship",
+        "description": "Introduction to the various aspects of ship operations at sea. Principles of terrestrial navigation including the rules of the road for prevention of collisions at sea, vector analysis of relative motion, ship behavior and characteristics in maneuvering, precise ship positioning, use of aids to navigation, meteorology, and electronic navigation.  Three hours of lecture and one hour of laboratory per week. Prerequisites: ROTCNAVY 131 or consent of instructor. Course is offered in the Autumn Quarter.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: LT Bird.",
+                "classId": "15119",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214004",
+        "number": "ROTCNAVY 132",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCNAVY",
+        "code": "141",
+        "title": "Naval Ship Systems - Weapons",
+        "description": "An introduction to the physical theory of acoustic and electromagnetic wave generation and propagation; the design and use of electronic, electromechanical, and pneumatic systems; and the combination of these systems to perform detection and analysis of objects sharing and traversing common environments.  Three hours of lecture per week. Course is offered in the Autumn Quarter.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: LT Pommersheim.",
+                "classId": "15017",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213985",
+        "number": "ROTCNAVY 141",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCNAVY",
+        "code": "142",
+        "title": "Leadership and Ethics",
+        "description": "This course is the capstone leadership course. It is intended to provide the ethical foundation and tools required for success as a leader of a diverse work force, often under circumstances of substantial stress. The course is divided between the art of leadership and the technical aspects of integrating personnel development with the management of resources, although the emphasis is on leadership. It is designed to be given as a seminar or lecture/discussion in which principles, concepts, and concrete subjects are presented, discussed, and debated.  Three hours of lecture/discussion/seminar per week. Prerequisites: Consent of instructor. Course is offered in the Spring Quarter.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: CAPT Van Rossum.",
+                "classId": "15296",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214003",
+        "number": "ROTCNAVY 142",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCNAVY",
+        "code": "154",
+        "title": "Fundamentals of Maneuver Warfare",
+        "description": "An analysis of the theory, origins, historical evolution, and impact of man's attempts to project sea power ashore. A case study approach is used to study major developments in amphibious warfare.  Three hours of lecture per week.  Course is offered in the Spring Quarter.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Instructor: MAJ Hopkins.",
+                "classId": "15308",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217406",
+        "number": "ROTCNAVY 154",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    }
+]

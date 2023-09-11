@@ -1,0 +1,2984 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "1",
+        "title": "First-Year Japanese Language, Culture, and Communication, First Quarter",
+        "description": "First-year sequence enables students to converse, write, and read essays on topics such as personal history, experiences, familiar people.  72 kanji characters will be taught.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14436",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "12337",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11114",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": "Lathrop 197",
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14801",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11458",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "Lathrop 197",
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            },
+                            {
+                                "name": "Ikedo, T.",
+                                "sunet": "ikedot"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11459",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "Lathrop 298",
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            },
+                            {
+                                "name": "Ikedo, T.",
+                                "sunet": "ikedot"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11460",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "Lathrop 298",
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            },
+                            {
+                                "name": "Wronoski, J.",
+                                "sunet": "james708"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11461",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "Lathrop 298",
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            },
+                            {
+                                "name": "Wronoski, J.",
+                                "sunet": "james708"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "LNG",
+                "notes": null,
+                "classId": "31248",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:20:00 PM",
+                        "location": "200-202",
+                        "instructors": [
+                            {
+                                "name": "Rogoyski, M.",
+                                "sunet": "mhcheng"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 51600.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111492",
+        "number": "JAPANLNG 1",
+        "units": [
+            5
+        ],
+        "totalSections": 9
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "1A",
+        "title": "Accelerated First- Year Japanese, Part 1",
+        "description": "Speaking, reading, writing, and listening. First-year sequence enables students to converse, write and read essays on topics such as personal history, experiences, familiar people. Completes first-year sequence in two rather than three quarters.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "219021",
+        "number": "JAPANLNG 1A",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "2",
+        "title": "First-Year Japanese Language, Culture, and Communication, Second Quarter",
+        "description": "Continuation of 1. First-year sequence enables students to converse, write, and read essays on topics such as personal history, experiences, familiar people. Students are expected to master 177 kanji characters by completing this course. Prerequisite: placement test, Japanlng 1.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11264",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11966",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11804",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "200-105",
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11267",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11271",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11272",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11269",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111494",
+        "number": "JAPANLNG 2",
+        "units": [
+            5
+        ],
+        "totalSections": 7
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "2A",
+        "title": "Accelerated First-Year Japanese, Part 2",
+        "description": "Speaking, reading, writing, and listening. . First-year sequence enables students to converse, write and read essays on topics such as personal history, experiences, familiar people.  Completes first-year sequence in two rather than three quarters. For students with previous knowledge of Japanese. Completes the Foreign Language Requirement.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "219022",
+        "number": "JAPANLNG 2A",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "3",
+        "title": "First-Year Japanese Language, Culture, and Communication, Third Quarter",
+        "description": "Continuation of Japanlng 2. First-year sequence enables students to converse, write, and read essays on topics such as personal history, experiences, familiar people. Students are expected to master 300 kanji characters by completing the course. Fulfills University Foreign Language Requirement. Prerequisite: placement test, Japanlng 2.  http://japanese.stanford.edu/.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "12428",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "7394",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "13961",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "Lathrop 298",
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "7395",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "7396",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "7397",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "14595",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            },
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "111496",
+        "number": "JAPANLNG 3",
+        "units": [
+            5
+        ],
+        "totalSections": 7
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "4A",
+        "title": "First -Year Japanese Language Essentials, First Quarter",
+        "description": "For students who want to build communication skills in limited time. Online listening exercises, audiovisual materials, kanji exercises. See http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "111491",
+        "number": "JAPANLNG 4A",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "4B",
+        "title": "First-Year Japanese Language Essentials, Second Quarter",
+        "description": "Continuation of JAPANLNG 4A. For students who want to build communication skills in limited time. Online listening exercises, audiovisual materials, kanji exercises. Prerequisite: Placement Test, JAPANLNG 4A . See http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "111493",
+        "number": "JAPANLNG 4B",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "4C",
+        "title": "First-Year Japanese Language Essentials,  Third Quarter",
+        "description": "Continuation of JAPANLNG 4B. For students who want to build communication skills in limited time. Online listening exercises, audiovisual materials, kanji exercises.  Prerequisite: Placement Test, JAPANLNG 4B. See http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "111495",
+        "number": "JAPANLNG 4C",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "11A",
+        "title": "Intermediate Japanese Conversation, First Quarter",
+        "description": "Goal of the course is to converse in Japanese with more confidence.  Develops oral proficiency through building solid basic sentence patterns and increasing vocabulary in order to gain ability to speak about greater variety of topics with more detail. Class activities include role play and mini skits for practical use of Japanese. Prerequisite: JAPANLNG 3 or consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14291",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:20:00 PM",
+                        "location": "Lathrop 298",
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 51600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111507",
+        "number": "JAPANLNG 11A",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "11B",
+        "title": "Intermediate Japanese Conversation, Second Quarter",
+        "description": "Continuation of JAPANLNG 11A.Goal of the course is to converse in Japanese with more confidence. Develops oral proficiency through building solid basic sentence patterns and increasing vocabulary in order to gain ability to speak about greater variety of topics with more detail. Class activities include role play and mini skits for practical use of Japanese. Prerequisite: JAPANLNG 11A or consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14866",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111508",
+        "number": "JAPANLNG 11B",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "11C",
+        "title": "Intermediate Japanese Conversation, Third Quarter",
+        "description": "Goal of the course is to converse in Japanese with more confidence. Develops oral proficiency through building solid basic sentence patterns and increasing vocabulary in order to gain ability to speak about greater variety of topics with more detail. Class activities include role play and mini skits for practical use of Japanese. Prerequisite: JAPANLNG 11B or consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7471",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111509",
+        "number": "JAPANLNG 11C",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "14A",
+        "title": "Second-Year Japanese Language Essentials, First Quarter",
+        "description": "Continuation of JAPANLNG 4C. For students who want to build communication skills in limited time. Prerequisite: JAPANLNG 4C. See http://japanese.stanford.edu/?page_id=89.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "111497",
+        "number": "JAPANLNG 14A",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "14B",
+        "title": "Second-Year Japanese Language Essentials, Second Quarter",
+        "description": "Continuation of JAPANLNG 14A. For students who want to build communication skills in limited time. Prerequisite: JAPANLNG 14A. See http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "111499",
+        "number": "JAPANLNG 14B",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "14C",
+        "title": "Second-Year Japanese Language Essentials, Third Quarter",
+        "description": "Continuation of JAPANLNG 14B. For students who want to build communication skills in limited time. Prerequisite: JAPANLNG 14B. See http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "111501",
+        "number": "JAPANLNG 14C",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "15",
+        "title": "Japanese Calligraphy",
+        "description": "Practice in writing Japanese characters with brush and ink emphasizing basic writing style. Learn stroke order and structure of characters to improve handwriting. May be repeated for credit. Prerequisite: JAPANLNG1 or consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "220592",
+        "number": "JAPANLNG 15",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "21",
+        "title": "Second-Year Japanese Language, Culture, and Communication, First Quarter",
+        "description": "Goal is to further develop and enhance spoken and written Japanese in order to handle advanced concepts such as comparison and contrast of  two cultures, descriptions of incidents, and social issues. 800 kanji, 1,400 new words, and higher-level grammatical constructions. Readings include authentic materials such as newspaper articles, and essays. Prerequisite: Placement Test, JAPANLNG 3. See http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11115",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "260-001",
+                        "instructors": [
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11463",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "260-001",
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            },
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11464",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "200-105",
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111498",
+        "number": "JAPANLNG 21",
+        "units": [
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "22",
+        "title": "Second-Year Japanese Language, Culture, and Communication, Second Quarter",
+        "description": "Continuation of JAPANLNG 21. Goal is to further develop and enhance spoken and written Japanese in order to handle advanced concepts such as comparison and contrast of two cultures, descriptions of incidents, and social issues. 800 kanji, 1,400 new words, and higher-level grammatical constructions. Readings include authentic materials such as newspaper articles, and essays. Prerequisite: Placement Test, JAPANLNG 21. See http://japanese.stanford.edu/?page_id=23.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11265",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11270",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            },
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14332",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111500",
+        "number": "JAPANLNG 22",
+        "units": [
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "23",
+        "title": "Second-Year Japanese Language, Culture, and Communication, Third Quarter",
+        "description": "Goal is to further develop and enhance spoken and written Japanese in order to handle advanced concepts such as comparison and contrast of two cultures, descriptions of incidents, and social issues. 800 kanji, 1,400 new words, and higher-level grammatical constructions. Readings include authentic materials such as newspaper articles, and essays.  Prerequisite: 22. http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11045",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11046",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            },
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111502",
+        "number": "JAPANLNG 23",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "31A",
+        "title": "Intermediate to Advanced Conversation, First Quarter",
+        "description": "Oral proficiency through role play, oral presentations, and discussion. Recommended for those who have participated in BOSP in Kyoto. May be taken concurrently with JAPANLNG 21, 22, and 23. Prerequisite: 3K, or consent of instructor. See http://japanese.stanford.edu/.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "207933",
+        "number": "JAPANLNG 31A",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "31B",
+        "title": "Intermediate to Advanced Conversation, Second Quarter",
+        "description": "Continuation of JAPANLNG 31A. Oral proficiency through role play, oral presentations, and discussion. Recommended for those who have participated in BOSP in Kyoto. . May be taken concurrently with JAPANLNG 21, 22, and 23. Prerequisite: JAPANLNG 31A, or consent of instructor. See http://japanese.stanford.edu/.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "207934",
+        "number": "JAPANLNG 31B",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "31C",
+        "title": "Intermediate to Advanced Conversation, Third Quarter",
+        "description": "Continuation of JAPANLNG 31B. Oral proficiency through role play, oral presentations, and discussion. Recommended for those who have participated in BOSP in Kyoto program. May be taken concurrently with JAPANLNG 21, 22, and 23. Prerequisite: JAPANLNG 31B. See http://japanese.stanford.edu/",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "207935",
+        "number": "JAPANLNG 31C",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "99",
+        "title": "Language Specials",
+        "description": "Prerequisite: consent of instructor.n (Staff)",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26670",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28471",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28116",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111510",
+        "number": "JAPANLNG 99",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "100",
+        "title": "Reading in Japanese",
+        "description": "Goal is to advance Japanese proficiency through reading in Japanese on topics you are interested in.  You will read and write journals about the booklets, magazines, periodicals, and manga you choose. Research shows that this type of reading activity further enhances learners' proficiency (accuracy, vocabulary, writing, and cultural literacy). Prerequisite: Japanlng 2, but all levels are welcome",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29560",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217642",
+        "number": "JAPANLNG 100",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "101",
+        "title": "Third-Year Japanese Language, Culture, and Communication, First Quarter",
+        "description": "Goal is to express thoughts and opinions in paragraph length in spoken and written forms. Materials include current Japanese media and literature for native speakers of Japanese. Cultural and social topics related to Japan and its people. Prerequisite: Placement Tests, JAPANLNG 23. See http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11117",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "50-51B",
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11462",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "50-51B",
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111534",
+        "number": "JAPANLNG 101",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "102",
+        "title": "Third-Year Japanese Language, Culture, and Communication, Second Quarter",
+        "description": "Continuation of 101. Goal is to express thoughts and opinions in paragraph length in spoken and written forms. Materials include current Japanese media and literature for native speakers of Japanese. Cultural and social topics related to Japan and its people. Prerequisite: 101. See http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11266",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11273",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111536",
+        "number": "JAPANLNG 102",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "103",
+        "title": "Third-Year Japanese Language, Culture, and Communication, Third Quarter",
+        "description": "Continuation of 102. Goal is to express thoughts and opinions in paragraph length in spoken and written forms. Materials include current Japanese media and literature for native speakers of Japanese. Cultural and social topics related to Japan and its people. Prerequisite: 102.  See http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7408",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "12722",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111538",
+        "number": "JAPANLNG 103",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "111A",
+        "title": "Advanced Japanese Conversation, First Quarter",
+        "description": "The J111 A,B,&amp; C course sequence is designed for students who wish to advance their speaking skills of the Japanese language to the advanced level.  Its goals are to help students gain proficiency and confidence in the use of Japanese and to prepare them for their lifelong study.This is a students-driven, students-centered course.  The instructor will not teach.  Instead she is there to facilitate interactions and help the students obtain their goals.  Students are expected to come to class with their concrete goals as to what they want to do with their Japanese, and be ready to work hard in class to reach their goals.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11116",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "Lathrop 296",
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111530",
+        "number": "JAPANLNG 111A",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "111B",
+        "title": "Advanced Japanese Conversation, Second Quarter",
+        "description": "(Formerly JAPANLNG 122.) Continuation of JAPANLNG 111A. The J111A, B, &amp; C course sequence is designed for students who wish to advance their speaking skills of the Japanese language to the advanced level. Its goals are to help students gain proficiency and confidence in the use of Japanese and to prepare them for their lifelong study. This is a &quot;students-driven, students-centered&quot; course. The instructor will not &quot;teach.&quot; Instead she is there to facilitate interactions and &quot;help the students obtain their goals.&quot; Students are expected to come to class with their concrete goals as to what they want to do with their Japanese, and be ready to work hard in class to reach their goals.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "course will be held in the East Asian Library room 212.",
+                "classId": "7585",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111531",
+        "number": "JAPANLNG 111B",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "111C",
+        "title": "Advanced Japanese Conversation, Third Quarter",
+        "description": "(Formerly JAPANLNG 123.) Continuation of JAPANLNG 111B.The J111A, B, &amp; C course sequence is designed for students who wish to advance their speaking skills of the Japanese language to the advanced level.  Its goals are to help students gain proficiency and confidence in the use of Japanese and to prepare them for their life-long study. This is a &quot;students-driven, students-centered&quot; course.  The instructor will not &quot;teach.&quot;  Instead she is there to facilitate interactions and &quot;help the students obtain their goals.&quot;  Students are expected to come to class with their concrete goals as to what they want to do with their Japanese, and be ready to work hard in class to reach their goals.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7407",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111532",
+        "number": "JAPANLNG 111C",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "113F",
+        "title": "Japanese Through Film, First Quarter",
+        "description": "Contemporary Japanese culture through Japanese films, documentaries, TV dramas, and anime. Structured for students with a strong desire to advance their Japanese language skills and who have limited class preparation time. Students will engage in in-depth discussion and exploration of social and cultural issues, expand the repertoire of vocabulary, and practice on advanced language skills. Topics may vary depending on student interests. Prerequisite: JAPANLNG 23. See http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "213381",
+        "number": "JAPANLNG 113F",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "114F",
+        "title": "Japanese Through Film, Second Quarter",
+        "description": "Contemporary Japanese culture through Japanese films, documentaries, TV dramas, and anime. Structured for students with a strong desire to advance their Japanese language skills and who have limited class preparation time. Students will engage in in-depth discussion and exploration of social and cultural issues, expand the repertoire of vocabulary, and practice on advanced language skills. Topics may vary depending on student interests. Prerequisite: JAPANLNG 23. See http://japanese.stanford.edu/",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29597",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212428",
+        "number": "JAPANLNG 114F",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "115F",
+        "title": "Japanese Through Film,Third Quarter",
+        "description": "Contemporary Japanese culture through Japanese films, documentaries, TV dramas, and anime. Structured for students with a strong desire to advance their Japanese language skills and who have limited class preparation time. Students will engage in in-depth discussion and exploration of social and cultural issues, expand the repertoire of vocabulary, and practice on advanced language skills. Topics may vary depending on student interests. Prerequisite: JAPANLNG 23.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "212443",
+        "number": "JAPANLNG 115F",
+        "units": [
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "200",
+        "title": "Directed Reading",
+        "description": "Prerequisite: 213 and consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26671",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28472",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28117",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111540",
+        "number": "JAPANLNG 200",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "211",
+        "title": "Fourth-Year Japanese, First Quarter",
+        "description": "Structure of Japanese, writings in different genres and styles, using such knowledge in writing, and expressing opinions on a variety of topics. Original writings, including fiction, essays, newspaper, and journal articles. Recommended taken in sequence. Prerequisite: JAPANLNG 103. See http://japanese.stanford.edu/?page_id=263.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11118",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": "260-004",
+                        "instructors": [
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111541",
+        "number": "JAPANLNG 211",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "212",
+        "title": "Fourth-Year Japanese, Second Quarter",
+        "description": "Continuation of JAPANLNG 211. Structure of Japanese, writings in different genres and styles, using such knowledge in writing, and expressing opinions on a variety of topics. Original writings, including fiction, essays, newspaper, and journal articles. Recommended taken in sequence. Prerequisite: JAPANLNG 211. See http://japanese.stanford.edu/?page_id=263.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7586",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111542",
+        "number": "JAPANLNG 212",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "213",
+        "title": "Fourth-Year Japanese, Third Quarter",
+        "description": "Continuation of JAPANLNG 212. Structure of Japanese, writings in different genres and styles, using such knowledge in writing, and expressing opinions on a variety of topics. Original writings, including fiction, essays, newspaper, and journal articles. Recommended taken in sequence. Prerequisite: JAPANLNG 212. See http://japanese.stanford.edu/?page_id=263.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7409",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "111543",
+        "number": "JAPANLNG 213",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "394",
+        "title": "Graduate Studies in Japanese Conversation",
+        "description": "Prerequisite: consent of instructor. (Staff)",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27348",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29249",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28940",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12337",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12793",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12612",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "12664",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "12905",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "14078",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "13163",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "13002",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "13530",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "13039",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203818",
+        "number": "JAPANLNG 394",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 13
+    },
+    {
+        "year": "2023-2024",
+        "subject": "JAPANLNG",
+        "code": "395",
+        "title": "Graduate Studies in Japanese",
+        "description": "Prerequisite: consent of instructor. (Staff)",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27337",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29238",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28929",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12336",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12782",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mukai, E.",
+                                "sunet": "emim2"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "12373",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "12783",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "12614",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "12382",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "14201",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "12686",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "12792",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            },
+                            {
+                                "name": "Nelson, A.",
+                                "sunet": "andrewpn"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "12639",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tomiyama, Y.",
+                                "sunet": "ytomiyam"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "14079",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Miao, M.",
+                                "sunet": "maymiao"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "12794",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "12652",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Matsumoto, Y.",
+                                "sunet": "ymatsum"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "12795",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lowdermilk, M.",
+                                "sunet": "mkubo"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "12662",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Fu, M.",
+                                "sunet": "msfu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "14166",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": null,
+                "classId": "13531",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Yasumoto Magnani, E.",
+                                "sunet": "emagnani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203794",
+        "number": "JAPANLNG 395",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 20
+    }
+]

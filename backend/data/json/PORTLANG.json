@@ -1,0 +1,1320 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "1",
+        "title": "First-Year Portuguese, First Quarter",
+        "description": "Emphasis is on oral comprehension and developing socially and culturally appropriate beginning speaking proficiency in interpersonal, interpretive, and presentational modes. Completion of Portlang 3 fulfills the University Foreign Language Requirement.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "122036",
+        "number": "PORTLANG 1",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "1A",
+        "title": "Accelerated First-Year Portuguese, Part 1",
+        "description": "Completes first-year sequence in two rather than three quarters. For students with a strong background in another Romance language, preferably Spanish. Emphasis is on developing oral comprehension and socially and culturally appropriate beginning proficiency in interpersonal, interpretive, and presentational modes. Completion of PORTLANG 2A fulfills the University's foreign language requirement.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7623",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7298",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11181",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "360-361A",
+                        "instructors": [
+                            {
+                                "name": "Viana, J.",
+                                "sunet": "jglviana"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "15088",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14467",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "260-012",
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "122037",
+        "number": "PORTLANG 1A",
+        "units": [
+            5
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "2",
+        "title": "First-Year Portuguese, 2nd Quarter",
+        "description": "Continuation of 1.Emphasis is on strengthening socially and culturally appropriate beginning,proficiency in interpersonal, interpretive, and presentational modes.Completion of PORTLANG 3 fulfills the University's Foreign Language  Prerequisite: Portlang 1 or placement test.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "122038",
+        "number": "PORTLANG 2",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "2A",
+        "title": "Accelerated First-Year Portuguese, Part 2",
+        "description": "Continuation of PORTLANG 1A. For students with a strong background in another Romance language, preferably Spanish. Emphasis is on developing oral comprehension and socially and culturally appropriate intermediate proficiency in interpersonal, interpretive, and presentational modes. Completion of PORTLANG 2A fulfills the University's foreign language requirement. Prerequisite: Placement Test or PORTLANG 1A or equivalent.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "7624",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "7299",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "11182",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": "260-244",
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "15300",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "14769",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "122039",
+        "number": "PORTLANG 2A",
+        "units": [
+            5
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "3",
+        "title": "First-Year Portuguese, Third Quarter",
+        "description": "Continuation of PORTLANG 2. .Emphasis is on developing socially and culturally appropriate intermediate, proficiency in interpersonal, interpretive, and presentational modes. Completion of 3 fulfills the University Foreign Language Requirement. Prerequisite: Placement Test, PORTLANG 2 or equivalent.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "122040",
+        "number": "PORTLANG 3",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "11A",
+        "title": "Accelerated Second-Year Portuguese, Part 1",
+        "description": "Continuation of PORTLANG 2A. Fast-paced first half of the second-year sequence. Emphasis is on developing a solid basis for socially and culturally appropriate advanced proficiency in oral and written discourse, including presentational language, and formal and informal discourse for the academic and professional contexts.Prerequisite: Placement Test, PORTLANG 2A, PORTLANG 3 or equivalent.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "12112",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7300",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11183",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "260-244",
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "122041",
+        "number": "PORTLANG 11A",
+        "units": [
+            4
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "12A",
+        "title": "Accelerated Second-Year Portuguese, Part 2",
+        "description": "Continuation of PORTLANG 11A. Fast-paced second half of the second-year sequence. Emphasis is on strengthening socially and culturally appropriate advanced proficiency in oral and written discourse, including presentational language, and formal and informal discourse for the academic and professional contexts.Prerequisite: Placement Test, PORTLANG 11A or equivalent.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7625",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "12802",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "12803",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "260-007",
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "122042",
+        "number": "PORTLANG 12A",
+        "units": [
+            4
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "99",
+        "title": "Language Specials",
+        "description": "Prerequisite: consent of instructor.n (Staff)",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "122044",
+        "number": "PORTLANG 99",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "101",
+        "title": "Reading Brazil",
+        "description": "3rd year course Expository readings, guest lectures, discussions, on current Brazilian issues. Emphasis is on strengthening and expanding socially and culturally appropriate advanced proficiency in oral and written discourse departing from texts.. Prerequisite: Placement Test, PORTLANG 12A or equivalent.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11194",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": "260-007",
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206376",
+        "number": "PORTLANG 101",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "102",
+        "title": "Brazil in Text: Advanced Grammar and Composition",
+        "description": "3rd year course Further development of writing competence. Short expository readings, guest lectures, discussions, review of advanced structures, compositions on current Brazilian issues. Emphasis is on expanding students repertoire of structures,building paragraphs, organizing arguments, and justifying positions. May be repeated once for credit. May be repeated once for credit. Prerequisite: PORTLANG 12A or equivalent.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "15299",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206377",
+        "number": "PORTLANG 102",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "103",
+        "title": "Advanced Conversation: Brazil Today",
+        "description": "3rd year course. Reading and discussions on issues from current media sites and magazines, reading comprehension strategies and vocabulary building. Emphasis is on solidifying and expanding formal expository language. and formal and informal discourse for the academic and professional context. May be repeated once for credit. Prerequisite: PORTLANG 12A.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29082",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206733",
+        "number": "PORTLANG 103",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "161",
+        "title": "Advanced Reading in Portuguese, Fourth-year Portuguese",
+        "description": "4th year course. Emphasis is on high-level reading comprehension leading to advanced development of communication skills for extended formal and informal discourse in Portuguese.  Prerequisite: Placement Test or PORTLANG 101.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11199",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": "240-110",
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "211682",
+        "number": "PORTLANG 161",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "162",
+        "title": "Advanced Writing in Portuguese, Fourth-year Portuguese",
+        "description": "4th-year course. The course has two tracks, depending on the interest of the student: a) advanced expository writing (correspondence, technical reports, editorials, etc.) and b) creative writing (`cr&ocirc;nicas' short stories, poems, etc.). Prerequisite: Placement Test or PORTLANG 102.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "12375",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "211683",
+        "number": "PORTLANG 162",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "163",
+        "title": "Contemporary Issues in the Lusophone World. Fourth-Year Portuguese",
+        "description": "4th-year course. The class emphasizes formal presentations/discussions in Portuguese, based on contemporary issues in the lusophone world.Emphasis is on mastering high-level vocabulary/structure as well as rhetorical strategies, for appropriate use in professional settings.  . Prerequisite: Placement Test or PORTLANG 103.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "12143",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "211684",
+        "number": "PORTLANG 163",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "297",
+        "title": "Directed Reading",
+        "description": "Prerequisite: consent of instructor.nn (Staff)",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27257",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29151",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28810",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "201110",
+        "number": "PORTLANG 297",
+        "units": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "394",
+        "title": "Graduate Studies in Portuguese Conversation",
+        "description": "Prerequisite: consent of instructor.nn (Staff)",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27356",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29253",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28945",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203973",
+        "number": "PORTLANG 394",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PORTLANG",
+        "code": "395",
+        "title": "Graduate Studies in Portuguese",
+        "description": "Prerequisite: consent of instructor. (Staff)",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29239",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28930",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27338",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "11597",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "13162",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12297",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "11598",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wiedemann, L.",
+                                "sunet": "lyriswie"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "11858",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "12298",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Silveira, A.",
+                                "sunet": "agripino"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "14740",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Viana, J.",
+                                "sunet": "jglviana"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "14983",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Viana, J.",
+                                "sunet": "jglviana"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203795",
+        "number": "PORTLANG 395",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 11
+    }
+]

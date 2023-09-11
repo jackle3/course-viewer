@@ -1,0 +1,211 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "CTL",
+        "code": "53",
+        "title": "Working Smarter",
+        "description": "Once you get into the school of your dreams, how will you be sure you can succeed there? The level of organization and study skills necessary for college success are often very different than in high school. In Working Smarter, you will learn evidence-based, college-level strategies for time management, note taking, studying, reading, writing, discussion, and oral presentations. This class is a great fit for high school students who want to prepare for college and for college students who want to expand their set of strategies for successful learning in STEM, social science, and humanities courses.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "204950",
+        "number": "CTL 53",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CTL",
+        "code": "120",
+        "title": "Peer Tutor Training",
+        "description": "Goal is to help students become effective peer tutors for course material already mastered by articulating aims; developing practical tutoring skills including strategies for drop-in sessions;  observing experienced tutors; discussing reading assignments; role playing; and reflecting on experiences as a peer tutor intern. Prerequisite: consent of instructor.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "15306",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "15888",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "204342",
+        "number": "CTL 120",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CTL",
+        "code": "280",
+        "title": "Learning & Teaching of Science (EDUC 280, ENGR 295, MED 270, PHYSICS 295)",
+        "description": "This course will provide students with a basic knowledge of the relevant research in cognitive psychology and science education and the ability to apply that knowledge to enhance their ability to learn and teach science, particularly at the undergraduate level.  Course will involve readings, discussion, and application of the ideas through creation of learning activities.  It is suitable for advanced undergraduates and graduate students with some science background.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "DIS",
+                "notes": null,
+                "classId": "15401",
+                "currentClassSize": "0",
+                "maxClassSize": "35",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "215462",
+        "number": "CTL 280",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CTL",
+        "code": "312",
+        "title": "Science and Engineering Course Design (ENGR 312)",
+        "description": "For students interested in an academic career and who anticipate designing science or engineering courses at the undergraduate or graduate level. Goal is to apply research on science and engineering learning to the design of effective course materials. Topics include syllabus design, course content and format decisions, assessment planning and grading, and strategies for teaching improvement.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15882",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sheppard, S.",
+                                "sunet": "sheppard"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 60600.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "129520",
+        "number": "CTL 312",
+        "units": [
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CTL",
+        "code": "341",
+        "title": "Learning and Teaching in the Humanities: Pedagogy and Professional Development for Graduate Students (PHIL 341)",
+        "description": "This course introduces graduate students to research-based strategies for effective course design and instruction in the humanities. Topics include course design, creation of reading and writing assignments, rubrics for equitable assessment, discussion facilitation, and building inclusive courses in which all students can see themselves reflected in humanistic study. Class sessions will be highly interactive and provide students with opportunities to develop course materials and practice micro-teaching. The course is a pilot, designed to serve as an anchor course towards a graduate teaching certificate and promote professional development for humanities graduate students at Stanford. Students must have completed at least one quarter as a Teaching Assistant for a humanities course to be eligible to join the course. Those more advanced in their teaching careers and ready to start designing humanities courses of their own will benefit the most.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "14561",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224170",
+        "number": "CTL 341",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    }
+]

@@ -1,0 +1,2323 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "1",
+        "title": "First-Year French, First Quarter",
+        "description": "Proficiency-based. Development of discourse appropriate in French and Francophone contexts. Prerequisite: no previous exposure to French",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7410",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shashko, T.",
+                                "sunet": "tshashko"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7727",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11131",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "200-013",
+                        "instructors": [
+                            {
+                                "name": "Hensley, K.",
+                                "sunet": "khensley"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14952",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shashko, T.",
+                                "sunet": "tshashko"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11334",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "50-52E",
+                        "instructors": [
+                            {
+                                "name": "Lasnier, M.",
+                                "sunet": "mlasnier"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11335",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "200-202",
+                        "instructors": [
+                            {
+                                "name": "Hudson, H.",
+                                "sunet": "heise"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "117824",
+        "number": "FRENLANG 1",
+        "units": [
+            5
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "1A",
+        "title": "Accelerated First-Year French, Part 1",
+        "description": "Completes first-year language sequence in two rather than three quarters. Recommended for students with previous knowledge of French who place into FRENLANG 1A on the placement test, or those who are familiar with another Romance language.Prerequisite: Placement Test.or consent of coordinator.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7275",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shashko, T.",
+                                "sunet": "tshashko"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7519",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11134",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "Lathrop 198",
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14431",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "Lathrop 198",
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "117830",
+        "number": "FRENLANG 1A",
+        "units": [
+            5
+        ],
+        "totalSections": 4
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "2",
+        "title": "First-Year French, Second Quarter",
+        "description": "Continuation of FRENLANG 1. Proficiency-based. Development of discourse appropriate in French and Francophone contexts. Recent placement Test, completion of FRENLANG 1 or consent of French coordinator.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7411",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "12623",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hensley, K.",
+                                "sunet": "khensley"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11132",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "260-012",
+                        "instructors": [
+                            {
+                                "name": "Shashko, T.",
+                                "sunet": "tshashko"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14085",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7518",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shashko, T.",
+                                "sunet": "tshashko"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14432",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "260-012",
+                        "instructors": [
+                            {
+                                "name": "Shashko, T.",
+                                "sunet": "tshashko"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11262",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hudson, H.",
+                                "sunet": "heise"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "117826",
+        "number": "FRENLANG 2",
+        "units": [
+            5
+        ],
+        "totalSections": 7
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "2A",
+        "title": "Accelerated First-Year French, Part 2",
+        "description": "Continuation of FRENLANG 1A. Completes first-year accelerated language sequence in two rather than three quarters. Fulfills the University foreign language requirement. Prerequisite: completion of FRENLANG 1A or recent Placement Test.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "7276",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mazuet, A.",
+                                "sunet": "amazuet"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "7520",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "11135",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "Lathrop 198",
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "10960",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "14323",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mazuet, A.",
+                                "sunet": "amazuet"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "117831",
+        "number": "FRENLANG 2A",
+        "units": [
+            5
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "3",
+        "title": "First-Year French, Third Quarter",
+        "description": "Continuation of FRENLANG 2 . Proficiency-based. Development of discourse appropriate in French and Francophone contexts. Prerequisite: Recent Placement test, completion of FRENLANG 2 or consent of French coordinator. Fulfills the University language requirement.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "12405",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hensley, K.",
+                                "sunet": "khensley"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 33600.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "7700",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shashko, T.",
+                                "sunet": "tshashko"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "11133",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "260-012",
+                        "instructors": [
+                            {
+                                "name": "Shashko, T.",
+                                "sunet": "tshashko"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "7412",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hudson, H.",
+                                "sunet": "heise"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "11200",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shashko, T.",
+                                "sunet": "tshashko"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "11456",
+                "currentClassSize": "0",
+                "maxClassSize": "0",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "240-101",
+                        "instructors": [],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "14349",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Tuesday Wednesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "117828",
+        "number": "FRENLANG 3",
+        "units": [
+            5
+        ],
+        "totalSections": 7
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "10SC",
+        "title": "French Immersion: Contemporary Issues in the French-Speaking World",
+        "description": "A fresh look at the French historic motto, &iquest;Libert&eacute;, &eacute;galit&eacute;, fraternit&eacute;,&iquest; opens the door to our 2022 French Immersion Sophomore College classroom. For students to become confident and competent French speakers capable of engaging in higher level discussions on a variety of subjects, we will explore a plethora of political, social, and economic issues that resonate today in both French and American contexts. Literature, music, and the visual arts will often serve as the lens through which these issues will be studied and analyzed.&lt;br&gt;&lt;br&gt; The course will draw upon a variety of oral and visual media (documentaries, feature films, podcasts and songs) and rely on written texts such as news articles, essays, blogs, short stories, and poems. These resources will engage students in written and oral conversations, offer opportunities for group and individual presentations as well as creative final projects.  Classes will be focused on the development of oral proficiency through class discussion, group activities as well as integration of vocabulary and review of key structures.&lt;br&gt;&lt;br&gt;Our course is above all an opportunity to join a French-speaking community through organized group outings (museums, plays, shared meals), on-campus activities such as p&eacute;tanque (lawn-bowling), picnics and cr&ecirc;pe-making.  Intensive interaction in the target language with classmates, instructors, and the Sophomore College Assistants (SCAs) will enable students to move beyond the intermediate range of spoken and written French.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "219019",
+        "number": "FRENLANG 10SC",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "15",
+        "title": "Intermediate French Oral Communication",
+        "description": "Intermediate conversation.For students who have completed FRENLANG 1A or 2. Emphasis is on speaking skills, pronunciation, vocabulary in the context of current events and news in the French and Francophone world. May be repeated once for credit. For students who have completed  Frenlang 1A or Frenlang 2 or received consent of French coordinator.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7521",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lasnier, M.",
+                                "sunet": "mlasnier"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 39000.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7277",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mazuet, A.",
+                                "sunet": "amazuet"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 39000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11136",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "Lathrop 292",
+                        "instructors": [
+                            {
+                                "name": "Lasnier, M.",
+                                "sunet": "mlasnier"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "117834",
+        "number": "FRENLANG 15",
+        "units": [
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "20B",
+        "title": "French Cinema",
+        "description": "Second-year French conversation based on films. Intermediate-level speaking skills and advanced-level functions. Themes include: French filmmakers, stars, and trends. Required film viewing in and outside class in French. May be repeated once for credit. Prerequisite: FRENLANG 21C or equivalent.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "117837",
+        "number": "FRENLANG 20B",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "21C",
+        "title": "Second-Year French: Cultural Emphasis, First Quarter",
+        "description": "Sequence integrating culture and language. Emphasis is on intermediate proficiency in oral and written discourse including presentational language and socio culturally appropriate discourse in formal and informal, academic, and professional contexts. Prerequiste: Completion of Frenlang 1 2A or Frenlang 3, recent placement test or consent of French coordinator.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29549",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lasnier, M.",
+                                "sunet": "mlasnier"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14591",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lasnier, M.",
+                                "sunet": "mlasnier"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11198",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "40-42A",
+                        "instructors": [
+                            {
+                                "name": "Mazuet, A.",
+                                "sunet": "amazuet"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "13820",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "50-51P",
+                        "instructors": [
+                            {
+                                "name": "Mazuet, A.",
+                                "sunet": "amazuet"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "211157",
+        "number": "FRENLANG 21C",
+        "units": [
+            4
+        ],
+        "totalSections": 4
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "22C",
+        "title": "Second-Year French: Cultural Emphasis, Second Quarter",
+        "description": "Continuation of FRENLANG 21C. Sequence integrating culture and language. Emphasis is on advanced proficiency in oral and written discourse including presentational language and socio culturally appropriate discourse in formal and informal, academic, and professional contexts. Prerequiste: Completion of Frenlang 21C,recent placement test or consent of French coordinator.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "12108",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7278",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11137",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": "50-51P",
+                        "instructors": [
+                            {
+                                "name": "Mazuet, A.",
+                                "sunet": "amazuet"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "30982",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "117839",
+        "number": "FRENLANG 22C",
+        "units": [
+            4
+        ],
+        "totalSections": 4
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "23C",
+        "title": "Second-Year French: Cultural Emphasis, Third Quarter",
+        "description": "Continuation of FRENLANG 22C. Sequence integrating culture and language. Emphasis is on advanced proficiency in oral and written discourse including presentational language and socio culturally appropriate discourse in formal and informal, academic, and professional contexts. Prerequiste: Completion of Frenlang 22C, recent placement test or consent of French coordinator.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7279",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "28595",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mazuet, A.",
+                                "sunet": "amazuet"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "14457",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "200-217",
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "7522",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mazuet, A.",
+                                "sunet": "amazuet"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "117840",
+        "number": "FRENLANG 23C",
+        "units": [
+            4
+        ],
+        "totalSections": 4
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "30",
+        "title": "Intermediate/Advanced  French Conversation",
+        "description": "For students who have completed  Frenlang 2A ,3 or have placed into Frenlang 21C with recent placement. Prerequiste: Completion of Frenlang 2A, Frenlang 3 or recent placement into Frenlang 21C.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "31053",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29054",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "200-202",
+                        "instructors": [],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222132",
+        "number": "FRENLANG 30",
+        "units": [
+            2
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "120",
+        "title": "Advanced French Oral Communication",
+        "description": "Speaking skills and functions including narration, description, supporting opinions, and hypothesizing about current events and issues in France. May be repeated once for credit. Prerequisites: FRENLANG  22C or 23C or equivalent.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "31054",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29056",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "Econ 139",
+                        "instructors": [],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "117878",
+        "number": "FRENLANG 120",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "124",
+        "title": "Advanced French: Composition, Writing, and Presentation",
+        "description": "This bridge course prepares students for transitioning to literature classes that are taught in French. Emphasis is on the development of speaking, writing, and presenting at the advanced level. Students will review and master the difficulties of French through the study of various types of literary texts and through analysis of current events in the francophone world. Required for students majoring or minoring in French. Prerequisite: FRENLANG23C, recent placement test or consent of the French coordinator.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "no group exam.",
+                "classId": "7280",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "11138",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": "50-51P",
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "117884",
+        "number": "FRENLANG 124",
+        "units": [
+            4
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "127",
+        "title": "Acting in French",
+        "description": "This course aims to enhance students' French diction and enunciation while improving their oral and written discourse. Students will work with theatrical texts, discuss various ways to stage them, explore basic acting and improvisation techniques, and participate in a theatrical production. All class activities and assignments are in French. Prerequisite: Frenlang 3 or Fr2A. 3-4 units",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "220547",
+        "number": "FRENLANG 127",
+        "units": [
+            3,
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "199",
+        "title": "Language Specials",
+        "description": "Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26779",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28596",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28284",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "117862",
+        "number": "FRENLANG 199",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "250",
+        "title": "Reading French",
+        "description": "For seniors or graduate students seeking to meet the University reading requirement for advanced degrees. Reading strategies for comprehension of secondary literature for academic research. Fulfills the University foreign language requirement for advanced degrees if student earns a grade of 'B.' Prerequisite: one year or reading proficiency in another Romance language.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29055",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "200-202",
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "211921",
+        "number": "FRENLANG 250",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "394",
+        "title": "Graduate Studies in French Conversation",
+        "description": "Prerequisite: consent of the instructor.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29247",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28938",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27346",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12676",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lasnier, M.",
+                                "sunet": "mlasnier"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "13639",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lasnier, M.",
+                                "sunet": "mlasnier"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "14392",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lasnier, M.",
+                                "sunet": "mlasnier"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203816",
+        "number": "FRENLANG 394",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "FRENLANG",
+        "code": "395",
+        "title": "Graduate Studies in French",
+        "description": "Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29235",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28926",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27334",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "11643",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12774",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "12320",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lasnier, M.",
+                                "sunet": "mlasnier"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "12775",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mazuet, A.",
+                                "sunet": "amazuet"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "12321",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Howard, H.",
+                                "sunet": "hlhoward"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "12377",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "12878",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lasnier, M.",
+                                "sunet": "mlasnier"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "12322",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mazuet, A.",
+                                "sunet": "amazuet"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "12378",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lasnier, M.",
+                                "sunet": "mlasnier"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "12886",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "12323",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shapirshteyn, V.",
+                                "sunet": "vshapir"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "12379",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mazuet, A.",
+                                "sunet": "amazuet"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "12339",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shashko, T.",
+                                "sunet": "tshashko"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": null,
+                "classId": "14738",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shashko, T.",
+                                "sunet": "tshashko"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "203791",
+        "number": "FRENLANG 395",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 17
+    }
+]

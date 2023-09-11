@@ -1,0 +1,287 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "CATLANG",
+        "code": "1A",
+        "title": "Accelerated First-Year Catalan, Part 1",
+        "description": "First quarter of the two-quarter sequence. For students with knowledge of another Romance language, preferably Spanish. Emphasis is on developing beginning proficiency in interpersonal, interpretive, and presentational spheres. Prerequisite: consent of instructor.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "27478",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "80-115",
+                        "instructors": [
+                            {
+                                "name": "Molitoris, J.",
+                                "sunet": "jmolitor"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "207527",
+        "number": "CATLANG 1A",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CATLANG",
+        "code": "2A",
+        "title": "Accelerated First-Year Catalan, Part 2",
+        "description": "Continuation of CATLANG 1A. For students with knowledge of another Romance language, preferably Spanish. Further development of socially and culturally appropriate proficiency in interpersonal, interpretive, and presentational spheres. Completion of CATLANG 2A fulfills the University language requirement. Prerequisite: CATLANG 1A.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "Satisfies University Language Requirement.",
+                "classId": "29434",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "207528",
+        "number": "CATLANG 2A",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CATLANG",
+        "code": "11A",
+        "title": "Accelerated Second-Year Catalan, Part 1",
+        "description": "Continuation of CATLANG 2A. First half of the second-year sequence integrating culture and language of the Catalan-speaking world. Socially and culturally appropriate forms in narrations, descriptions, and expression of ideas and opinions. Emphasis is on oral and written proficiency in formal, informal, academic, and professional contexts. Prerequisite: CATLANG 2A.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29105",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "207529",
+        "number": "CATLANG 11A",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CATLANG",
+        "code": "12A",
+        "title": "Accelerated Second-Year Catalan, Part 2",
+        "description": "Continuation of CATLANG 11A. Second half of the second-year sequence  integrating culture and language of the Catalan-speaking world. Socially and culturally appropriate forms in narrations, descriptions, and expression of ideas and opinions. Emphasis is on oral and written proficiency in formal, informal, academic, and professional contexts. Prerequisite: CATLANG 11A.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29106",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "207530",
+        "number": "CATLANG 12A",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CATLANG",
+        "code": "199",
+        "title": "Individual Work",
+        "description": "May be repeated for credit. Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "207547",
+        "number": "CATLANG 199",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CATLANG",
+        "code": "395",
+        "title": "Graduate Studies in Catalan",
+        "description": "May be repeated for credit. Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29439",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29109",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27483",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Molitoris, J.",
+                                "sunet": "jmolitor"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "207612",
+        "number": "CATLANG 395",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 3
+    }
+]

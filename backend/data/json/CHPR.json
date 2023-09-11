@@ -1,0 +1,4086 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "113",
+        "title": "Healthy/Sustainable Food Systems: Maximum Sustainability across Health, Economics, and Environment (HUMBIO 113S)",
+        "description": "Focus on problems with and systems-based solutions to food system issues. Four particular settings are addressed: University, worksite, hospital, and school food. Traditional vs. disruptive food system models compared and contrasted. The goal is to determine how best to maximize sustainability across several dimensions, including health, economics, and the environment. Underlying class themes include social justice and the potential for changing social norms around food production and consumption. Discussion-based seminar. CHPR master's students must enroll for a letter grade. Undergraduate Prerequisites: Human Biology Core or Biology Foundations or consent of instructor.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "29744",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "215367",
+        "number": "CHPR 113",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "130",
+        "title": "Human Nutrition (HUMBIO 130)",
+        "description": "The study of food, and the nutrients and substances therein. Their action, interaction, and balance in relation to health and disease. Emphasis is on the biological, chemical, and physiological processes by which humans ingest, digest, absorb, transport, utilize, and excrete food. Dietary composition and individual choices are discussed in relationship to the food supply, and to population and cultural, race, ethnic, religious, and social economic diversity. The relationships between nutrition and disease; ethnic diets; vegetarianism; nutritional deficiencies; nutritional supplementation; phytochemicals. CHPR master's students must enroll for a letter grade.  Undergraduate Prerequisites: Human Biology Core or Biology Foundations or consent of instructor. HUMBIO students must enroll in HUMBIO 130. CHPR master's students must enroll in CHPR 130.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "The material in this course is an introduction to the field and the target audience is undergraduates. It may be of interest to graduate students unfamiliar with the field. Graduate students enroll in CHPR 130. Undergrads enroll in HUMBIO 130. CHPR master's students must enroll for a letter grade.",
+                "classId": "25795",
+                "currentClassSize": "0",
+                "maxClassSize": "5",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "DIS",
+                "notes": null,
+                "classId": "26292",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "DIS",
+                "notes": null,
+                "classId": "26293",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "DIS",
+                "notes": null,
+                "classId": "26294",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "DIS",
+                "notes": null,
+                "classId": "26295",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SMA"
+        ],
+        "objectID": "111670",
+        "number": "CHPR 130",
+        "units": [
+            4
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "166",
+        "title": "Food and Society: Exploring Eating Behaviors in Social, Environmental, and Policy Context (HUMBIO 166)",
+        "description": "The material in this course is an introduction to the field and the target audience is undergraduates. It may be of interest to graduate students unfamiliar with the field. The class examines the array of forces that affect the foods human beings eat, and when, where, and how we eat them, including human labor, agriculture, environmental sustainability, politics, animal rights/welfare, ethics, policy, culture, economics, business, law, trade, and ideology, and psychology. The class addresses the impact of current policies and actions that might be taken to improve human nutrition and health; macro-scale influences on food, nutrition, and eating behavior. CHPR master's students must enroll for a letter grade. Undergraduate Prerequisites: Human Biology Core or Biology Foundations or consent of instructor. HUMBIO students must enroll in HUMBIO 166. Med/Graduate students must enroll in CHRP 166.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "209347",
+        "number": "CHPR 166",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "199",
+        "title": "Undergraduate Research",
+        "description": "Students undertake investigations sponsored by individual faculty members. Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "18",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27864",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29936",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29653",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "26335",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rodriguez, F.",
+                                "sunet": "frodrigu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "26226",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "25901",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "26390",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Oppezzo, M.",
+                                "sunet": "moppezzo"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "28063",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rodriguez, F.",
+                                "sunet": "frodrigu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "27413",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Oppezzo, M.",
+                                "sunet": "moppezzo"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "26392",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Patel, M.",
+                                "sunet": "mlp9"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "28155",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Patel, M.",
+                                "sunet": "mlp9"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "27668",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rodriguez, F.",
+                                "sunet": "frodrigu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "27806",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Patel, M.",
+                                "sunet": "mlp9"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218917",
+        "number": "CHPR 199",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "totalSections": 13
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "201",
+        "title": "Health Promotion and Disease Prevention over the Lifecourse",
+        "description": "This introduction to the science of healthy living (primarily U.S.) highlights preventable causes of mortality, i.e. modifiable risk factors, national lifestyle recommendations and behavioral change principles for reducing chronic disease risk. A life course perspective is presented as a trajectory from fetal/neonatal to childhood and adolescence to young, middle-ages and older adults, with recognition of the importance of social determinants of health. Sex &amp; gender differences are also presented. Unless otherwise noted, all lectures are presented by Course Director, Marcia Stefanick, Ph.D. Priority for enrollment given to CHPR masters students, who must take the course for a letter grade.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Priority for enrollment given to CHPR master's students, who must enroll for a Letter grade.",
+                "classId": "25143",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "Alway Building, Room M315",
+                        "instructors": [
+                            {
+                                "name": "Stefanick, M.",
+                                "sunet": "marcias"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218248",
+        "number": "CHPR 201",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "202",
+        "title": "R Fundamentals for Health Research (EPI 202)",
+        "description": "This introductory course is a practicum in which students will learn the basics of R, a free, open-source statistical analysis software program, and use the programming language to analyze health datasets by application of classical statistical methods. A familiarity with basic descriptive and inferential statistics is required (completion of HRP 258/259, or concurrent enrollment in an appropriate statistics/biostatistics course). It is assumed that students will have no (or very little) prior experience with R. This course is a &iquest;flipped classroom&iquest; where lecture content will be viewed at home before in-class meetings with hands-on coding practice by each student on their own computers. Priority for enrollment given to CHPR masters students, who must enroll for a letter grade.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "31306",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "Li Ka Shing Center, room 101",
+                        "instructors": [],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218249",
+        "number": "CHPR 202",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "205",
+        "title": "Understanding Evidence-Based Medicine: Hands-on experience (EPI 250, MED 250)",
+        "description": "How can one practice evidence-based medicine and make evidence-based decisions for clinical practice and policy making? Using pivotal papers published in the recent scientific literature addressing important clinical questions on diverse medical topics, we will probe a wide range of types of studies, types of targeted therapeutic or preventive interventions, and types of studied outcomes (effectiveness and/or safety), including RCTs, observational studies, epidemiologic surveillance studies, systematic reviews-umbrella reviews-meta-analyses-meta-analyses of individual patient data, studies on the evaluation of diagnostic tests and prognostic models, economic analyses studies, and guidelines. MD studies enroll for +/-. GR students enroll for Letter grade.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Priority for enrollment given to CHPR master's students, who must enroll for a letter grade.",
+                "classId": "26537",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "Li Ka Shing Center, room 208",
+                        "instructors": [
+                            {
+                                "name": "Contopoulos-Ioannidis, D.",
+                                "sunet": "dcontop"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220319",
+        "number": "CHPR 205",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "206",
+        "title": "Meta-research: Appraising Research Findings, Bias, and Meta-analysis (EPI 206, MED 206, STATS 211)",
+        "description": "Open to graduate, medical, and undergraduate students. Appraisal of the quality and credibility of research findings; evaluation of sources of bias. Meta-analysis as a quantitative (statistical) method for combining results of independent studies. Examples from medicine, epidemiology, genomics, ecology, social/behavioral sciences, education. Collaborative analyses. Project involving generation of a meta-research project or reworking and evaluation of an existing published meta-analysis. Prerequisite: knowledge of basic statistics.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Class meets in Alway M114 on 1/28 & 2/25, all other dates in LK120.",
+                "classId": "27393",
+                "currentClassSize": "0",
+                "maxClassSize": "35",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "Alway Building, Room M106",
+                        "instructors": [
+                            {
+                                "name": "Kvarven, A.",
+                                "sunet": "akvarven"
+                            },
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "125429",
+        "number": "CHPR 206",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "207",
+        "title": "Infectious Diseases: Community Health Impact and Prevention (EPI 207)",
+        "description": "This is an interactive course on Infectious Diseases with a combination lecture-workshop format and active students' participation. We will discuss diverse infectious diseases topics that have a significant community health impact and for which screening and other preventive strategies can ameliorate the disease burden. We will also use real clinical cases to help students understand the art and science of Infectious Diseases with a deep dive on community health research questions that can be guided by bedside generated clinical questions.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "30721",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "Li Ka Shing Center, room 208",
+                        "instructors": [
+                            {
+                                "name": "Contopoulos-Ioannidis, D.",
+                                "sunet": "dcontop"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224512",
+        "number": "CHPR 207",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "211",
+        "title": "Introduction to Clinical Trials: Design, Conduct, and Analysis",
+        "description": "This course covers basic concepts in the design, conduct and analysis of clinical trials. Various phases and designs of clinical trials will be discussed. Components of a trial protocol and the statistical analysis plan will be discussed. Data collection, management, and study monitoring for the conduct of clinical trials will be addressed. The roles of the Institutional Review Board (IRB), Data Safety Monitoring Board (DSMB) and federal regulatory agencies in the approval and review of ongoing clinical trials will be discussed. Students are assumed familiar with topics taught in introductory statistics (summary statistics, hypothesis testing, p-values, confidence intervals, and regression). Prereqs: An introductory course in statistics/biostatistics or consent of instructor.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "28938",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "Alway Building, Room M315",
+                        "instructors": [
+                            {
+                                "name": "Chen, Y.",
+                                "sunet": "yqchensu"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224513",
+        "number": "CHPR 211",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "212",
+        "title": "Methods for Health Care Delivery Innovation, Implementation and Evaluation (HRP 218, MED 212)",
+        "description": "Preference given to postgraduate fellows and graduate students.Focus is on implementation science and evaluation of health care delivery innovations. Topics include implementation science theory, frameworks, and measurement principles; qualitative and quantitative approaches to designing and evaluating new health care models; hybrid design trials that simultaneously evaluate implementation and effectiveness; distinction between quality improvement and research, and implications for regulatory requirements and publication; and grant-writing strategies for implementation science and evaluation. Students will develop a mock (or actual) grant proposal to conduct a needs assessment or evaluate a Stanford/VA/community intervention, incorporating concepts, frameworks, and methods discussed in class. Priority for enrollment for CHPR 212 will be given to CHPR master's students.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27394",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": "Li Ka Shing Center, room 209",
+                        "instructors": [
+                            {
+                                "name": "Asch, S.",
+                                "sunet": "sasch"
+                            },
+                            {
+                                "name": "Zulman, D.",
+                                "sunet": "dzulman"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216915",
+        "number": "CHPR 212",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "220",
+        "title": "Responsible Conduct of Research in the Community",
+        "description": "This course will engage CHPR students pursuing community-based participatory research. Discussions will center around ethical and practical issues to prepare them for the CHPR program, including course planning, internship, thesis writing, and career development. Discussions will address specifics of conducting research at Stanford as well as issues that may arise in the community at large and in their careers to follow. Course limited to current CHPR master's students.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Registration is limited to current CHPR master's students only.",
+                "classId": "24798",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "CCSR 4205",
+                        "instructors": [
+                            {
+                                "name": "Robinson, J.",
+                                "sunet": "jlmorris"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219783",
+        "number": "CHPR 220",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "227",
+        "title": "The Science of Community Engagement in Health Research (EPI 272)",
+        "description": "The Science of Community Engagement in Health Research course will focus on how the science of community engagement can be applied to diverse health-related research topics across the translational spectrum with the ultimate goal of high quality research that transforms human health and addresses health disparities. The course will provide historical context, theoretical frameworks, foundational skills in diverse community engagement methodologies, and tools for examining the effectiveness of various engagement strategies aimed. Specifically, the course will cover: 1) Historical context for community engagement in health-related research; 2) Evolution of community engagement as a science; 3) Theoretical frameworks for various community engagement approaches; 4) Community-Based Participatory Research (CBPR); 5) Community engagement strategies for different stages of translational research; and 6) Evaluation of various engagement strategies; and 7) Ethics of community engagement.  Students will gain practical experience in various community engagement tools and strategies to help guide the development of a community engagement plan responsive to community needs. Challenges and benefits of establishing community partnerships will be highlighted by real-world examples. nThe course will include lectures; interactive student-led presentations and guided exercises; class discussions among invited speakers, students and instructors; individual and group assignments; and organized small-group and experiential activities. Course readings will demonstrate the need and opportunity for interdisciplinary community engagement approaches and will illustrate how to conduct innovative community-engaged research. nThe Science of Community Engagement course is intended to reach students with diverse research interests, including clinical research, community health, health research and policy, epidemiology, prevention research, environmental health, etc.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "31215",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "Alway Building, Room M112",
+                        "instructors": [
+                            {
+                                "name": "Rosas, L.",
+                                "sunet": "lgrosas"
+                            },
+                            {
+                                "name": "Thomas, T.",
+                                "sunet": "tainayah"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Thursday"
+                    },
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "Alway Building, Room M015A",
+                        "instructors": [
+                            {
+                                "name": "Rosas, L.",
+                                "sunet": "lgrosas"
+                            },
+                            {
+                                "name": "Thomas, T.",
+                                "sunet": "tainayah"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Thursday"
+                    },
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "Alway Building, Room M112",
+                        "instructors": [
+                            {
+                                "name": "Rosas, L.",
+                                "sunet": "lgrosas"
+                            },
+                            {
+                                "name": "Thomas, T.",
+                                "sunet": "tainayah"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220605",
+        "number": "CHPR 227",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "228",
+        "title": "Theoretical Foundations and Design of Behavioral Intervention Trials",
+        "description": "Focuses on the knowledge and skills, respect and thoughtful practice of designing health promotion interventions that are relevant, theoretically-informed, have broad impacts, and can endure. Provides an in-depth review of intervention approaches for health promotion and disease prevention and covers the leading theories of behavior change. Follows an integrative model to demonstrate similarities and differences between the theoretical approaches, seeking what is useful and worthwhile in each theoretical model rather than looking primarily for what is most easily criticized. Practical in nature with emphasis on the specifics of needs assessments and intervention development and delivery and how these may vary across community settings, with diverse populations, addressing different behaviors, and leveraging traditional and emerging delivery channels. Explores intervention creation, delivery, effectiveness, and sustainability to identify and better understand the resources and other practical considerations necessary to produce, deliver, monitor, and disseminate an intervention with demonstrated effectiveness. Examples drawn from across the behavioral spectrum and include tobacco control, physical activity, healthy diet, stress and distress, as well as consideration of the complexities of extending interventions to target multiple risk behaviors. Students develop a foundational understanding of behavior change theory, rigorous research methods, and creative design strategies to advance the health of individuals and communities. Students taking 2 units only will complete all 4 homework assignments, attend 8 of 10 class sessions, and complete an abbreviated final abstract plus figures/tables instead of a final paper. The grading, in this instance, will be the medical school option of credit/no credit. CHPR master's  students must enroll for 3 units and a letter grade.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "24543",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "CCSR 4205",
+                        "instructors": [
+                            {
+                                "name": "Oppezzo, M.",
+                                "sunet": "moppezzo"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216807",
+        "number": "CHPR 228",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "230",
+        "title": "Sexual Function and Diversity in Medical Disciplines (FEMGEN 230A)",
+        "description": "Focus is on development of personal and professional skills to interact with people across the diverse range of human sexuality, from childhood (pediatric) to older ages (geriatric), with consideration of gender identity, sexual orientation, sociocultural (predominantly U.S., not global) and religious values, and selected medical issues (e.g. hormonal therapy, disabilities, e.g. spinal cord injury, etc. with discussion of sexual taboos and unusual sexual practices that you might encounter in a general medical setting. CHPR master's program students must enroll in CHPR 230 for a letter grade and priority for enrollment will be given to current CHPR students. For fourth unit, students must also attend INDE 215 Queer Health &amp; Medicine and complete assignments for that section, but do not enroll in that class. For WAYs, undergrads enroll in SOMGEN 130.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Priority for enrollment given to current CHPR MS students, who must enroll for a letter grade. For 4th unit, students attend INDE 215 Queer Health & Medicine and complete assignments for that section, but do not enroll in that class. For WAYs, undergrads enroll in SOMGEN 130.",
+                "classId": "30885",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "CCSR 4205",
+                        "instructors": [
+                            {
+                                "name": "Stefanick, M.",
+                                "sunet": "marcias"
+                            },
+                            {
+                                "name": "Damore, S.",
+                                "sunet": "sdamore"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216044",
+        "number": "CHPR 230",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "232",
+        "title": "Social and Structural Determinants of Health: Achieving Health Equity",
+        "description": "This course examines the theoretical basis and societal context of the social determinants of health (SDOH) and health equity. The focus of this course is on understanding the structural factors, including social, economic, and political mechanisms, which operate through intermediary SDOH to generate health disparities. Each session explores the structural factors underlying a social determinant of health, including the social gradient, structural racism, housing, stress, life-course and Adverse Childhood Experiences, and work. Throughout the course students will develop critical consciousness and methodological competence to think beyond the individual-level to consider multi-level and policy-level interventions to promote health equity.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Priority for enrollment given to CHPR masters students, who must enroll for a letter grade.",
+                "classId": "26578",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Follis, S.",
+                                "sunet": "sfollis"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 62400.0,
+                        "days": "Tuesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220980",
+        "number": "CHPR 232",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "233",
+        "title": "Contemplative Science: The Power of the Pause for Resilience, Relationships, and Resolve",
+        "description": "Advances in contemplative science reveal ways of caring for ourselves and others that promote health and well-being for individuals and communities. Study of diverse, evidence-based contemplative practices identifies why, how, and when specific practices are beneficial for health, well-being, focus, learning, self-compassion, positive emotions, empathy, communication, compassionate action, and burnout prevention. This course progresses through: 1) awareness-based self-care; 2) compassion-based interpersonal connections; and 3) purpose-based meaningful work and service. A unifying course framework facilitates insights regarding healthy processes for fulfilling fundamental human needs for safety/calm/peace, connection/compassion/love, and satisfaction/competence/joy. While the course focuses on factors that cultivate and sustain health, obstructions and impediments such as oppression and trauma are discussed. The course combines investigation of research with direct experience in an immersive, transformative learning retreat format rooted in the rhythm of contemplative ways of being, discovery, and expression. Multimodal activities include embodiment practices, meditation, breathwork, journaling, dyad listening, reflections on poetry and non-fiction, research critiques, iterative behavioral action plans, and creation of multimedia narratives. These activities provide a foundation for a lifetime of whole-person integrated ways of living, exploring, thinking, and serving. The course equips students with a body of knowledge and skills to flourish personally and professionally, develop innovative solutions to complex problems, and sustain research and service dedicated to improving health and well-being for everyone. Offered for 1-3 units via 3 weekend retreats (1-unit each) taught on the 2nd, 5th and 8th weekends of the quarter. The curriculum builds upon previous retreat topics: #1 Resilience, #2 Relationships, #3 Resolve. Register for your preferred number of units. (Retreat #1 = 1-unit; Retreats #1 + #2 = 2-units; or Retreats #1 + #2 + #3 = 3 units).",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Class meets on April 13-14, 2024, room TBD. Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "26599",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "5:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rich, T.",
+                                "sunet": "sallier"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 61200.0,
+                        "days": "Sunday Saturday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "SEM",
+                "notes": "Class meets on April 13-14 and May 4-5, 2024, Room TBD. Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "27230",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "5:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rich, T.",
+                                "sunet": "sallier"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 61200.0,
+                        "days": "Sunday Saturday"
+                    },
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "5:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rich, T.",
+                                "sunet": "sallier"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 61200.0,
+                        "days": "Sunday Saturday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "SEM",
+                "notes": "Meets on April 13-14, May 4-5, and May 25-26, 2024, room TBD. Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "27231",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "5:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rich, T.",
+                                "sunet": "sallier"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 61200.0,
+                        "days": "Sunday Saturday"
+                    },
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "5:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rich, T.",
+                                "sunet": "sallier"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 61200.0,
+                        "days": "Sunday Saturday"
+                    },
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "5:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rich, T.",
+                                "sunet": "sallier"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 61200.0,
+                        "days": "Sunday Saturday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223176",
+        "number": "CHPR 233",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "234",
+        "title": "Applying Contemplative Practices",
+        "description": "Knowledge and skills for applying contemplative practices to promote individual and community health and well-being in a variety of settings (e.g., clinics, hospitals, non-profit and for-profit organizations, schools, government agencies, secular and spiritual communities, etc.) is the focus of this course. In-depth exploration is provided through: 1) scholarly articles on contemplative neuroscience, biopsychosocial research, theoretical models, and interventions, and 2) experiential learning in which students are guided in doing diverse contemplative practices, including silence, centering, meditation, labyrinth walking, yoga, qigong, self-compassion, deep listening, storytelling, journaling, lectio divina, prayer, ritual, and compassionate action. Multi-modal learning activities include videos, field experiences, guest speakers, ancient and modern texts, class discussions, and personal reflections. In-depth understanding of contemplative practices is developed through consideration of contemplative practices with respect to behavioral science, ethics, social justice, inclusion and diversity, qualitative and quantitative research, motivational interviewing, compassionate communication, design thinking and relationship-based care, including deep listening, open-minded observation, empathic need-finding, pattern recognition, and creative confidence. The course culminates with students' presentations of their original design for a research-based health and well-being program or policy incorporating contemplative practices.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Priority enrollment will be given to CHPR master's students, who must enroll for a letter grade.",
+                "classId": "25361",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "6:00:00 PM",
+                        "endTime": "9:00:00 PM",
+                        "location": "McMurtry Art Building 350",
+                        "instructors": [
+                            {
+                                "name": "Rich, T.",
+                                "sunet": "sallier"
+                            }
+                        ],
+                        "startTimestamp": 64800.0,
+                        "endTimestamp": 75600.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222411",
+        "number": "CHPR 234",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "236",
+        "title": "Citizen Science Theory to Practice: Advancing Community-Driven Solutions for Health (MED 243)",
+        "description": "Harnessing and activating the insights of community members and patients is essential to achieving health equity &iquest;from the bottom up.&iquest; Students will 1) learn and apply a novel datadriven, technology-enabled approach to improving community health through systematic documentation of lived experience and application of collective data to inform local change; 2) examine global project case studies targeting physical activity, food access, transportation, affordable housing, gender-based violence, and age-friendly environments; and 3) complete assessments of their local built environments using a Stanford-developed app and web platform, then use their data to develop and explore feasible strategies to improve community health.n(Cardinal Course certified by the Haas Center)",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "222960",
+        "number": "CHPR 236",
+        "units": [
+            2,
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "237",
+        "title": "Hunger & Food Insecurity: Challenges and Solution",
+        "description": "This course will examine local, national, and global hunger issues and solutions. The focus of each class will acknowledge and examine the associations between health disparities, structural racism, systemic poverty, and the built environment that create barriers to sustainable availability and access to nutritious foods. The course will focus on advancing knowledge and skills in communication and critical thinking. Assignments will include readings, submitting written reflections, participating in class discussions, and a final project. Priority for enrollment given to current CHPR masters students, who must enroll for a letter grade",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "223265",
+        "number": "CHPR 237",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "239",
+        "title": "Contemplative Competence for Sustainability of Public and Planetary Health and Well-being",
+        "description": "This course is a Cardinal Course certified by the Haas Center. Through a contemplative approach, this course cultivates students' capacity to take skillful action to address climate change. Effective engagement with the daunting complexity inherent in the climate crisis requires calm contemplative competence. The science of mindfulness, resilience, emotional intelligence, and compassion are explored in terms of their roles in supporting pro-environmental behaviors, policies, and programs for personal, public, and planetary health and well-being. Emerging research at the intersection of contemplation and climate science calls for individual insight and transformation to strengthen/restore/heal the human-earth relationship. Contemplative research indicates that the extension of mindful compassion beyond oneself can improve health at the public and planetary level, in addition to the individual level. Contemplative practices effective for promoting mental health in relation to eco-despair and eco-anxiety are addressed (including but not limited to nature-based centering, resilience-building mindfulness and loving kindness meditations, forest bathing, qigong, reflections on human-earth interconnectedness, and gratitude journaling.) Contemplative practices can prevent the burnout, avoidance, and disturbance of daily functioning that can arise from eco-anxiety. Moreover, research indicates contemplative practices can sustain altruistic behaviors that enhance mutual flourishing of people and the planet. Through study of contemplative neuroscience and behavioral science, students will develop/deepen their abilities for awareness, self-modulation, equanimity, self-transcendence, and compassion in caring for Earth. These skills will be discussed and applied to public health and climate change for effective behavioral action in a final class project. Modes of inquiry and class activities include contemplative, scientific, indigenous, artistic, verbal, visual, kinesthetic, sensory, emotional, spiritual, intellectual, social, and relational. Through diverse learning experiences, students will develop the empathy, discernment, and wisdom necessary for initiating and implementing solutions to the climate crisis. Course material equips students with knowledge from national and international leaders in the emerging field of contemplation, public health, and sustainability.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "30949",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "6:30:00 PM",
+                        "endTime": "8:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rich, T.",
+                                "sunet": "sallier"
+                            }
+                        ],
+                        "startTimestamp": 66600.0,
+                        "endTimestamp": 73200.0,
+                        "days": "Tuesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223543",
+        "number": "CHPR 239",
+        "units": [
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "240",
+        "title": "Prevention Research: the Science of Healthy Living",
+        "description": "Features the research of faculty in the Stanford Prevention Research Center and focuses on key health issues over the life course (prenatal through childhood, young to middle-aged, older and elderly adults). Topics include chronic disease (global and U.S.) epidemiology; application of behavioral science to risk reduction; nutrition; weight management; physical activity; stopping smoking; public health; community health and community-based prevention; national prevention strategy; applying communication technology to health promotion. Prerequisite: HumBio 126 or concurrent enrollment in CHPR 201.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Priority for enrollment will be given to CHPR master's program students. CHPR students must enroll in for a letter grade.",
+                "classId": "24713",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "CCSR 4205",
+                        "instructors": [
+                            {
+                                "name": "Stefanick, M.",
+                                "sunet": "marcias"
+                            },
+                            {
+                                "name": "Damore, S.",
+                                "sunet": "sdamore"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216336",
+        "number": "CHPR 240",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "241",
+        "title": "Contemplative Movement and Mindful Physical Activity",
+        "description": "Contemplative movement and mindful physical activity for individuals and communities is an emerging field with important implications for public health and well-being policies and programs, as well as clinical care for physical and emotional health. The course provides historical context for current national and international physical activity recommendations and behavioral principles; foundational skills in contemplative movement(including but not limited to labyrinth walking, contemplative dance, aikido, yoga, and qigong) and mindful physical activity (including but not limited to ergonomics in daily life); and tools for examining the effectiveness of each of these skills for diverse populations. Research discussed includes: 1) neuroscience and polyvagal theory, 2) physical and psychological evaluation methods, 3) similarities and distinctions between benefits of contemplative movement practices versus stillness practices; versus non-contemplative physical activity, 4) interoceptive, proprioceptive, and kinesthetic qualities of contemplative movement, 5) embodiment and enaction, and 6) the development of a sense of agency and sense of self associated with contemplative movement. The class includes lectures, discussions, interactive student-led presentations, guest speakers, and guided experiential movement activities to provide scholarly as well as well as firsthand experience of the health and well-being benefits of contemplative movement and mindful physical activity. This course is intended to serve students with diverse research and applied interests, including community health, social justice, diversity, equity and inclusion, health research and policy, epidemiology, prevention research, clinical research, education, and theater.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "30950",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "6:30:00 PM",
+                        "endTime": "8:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rich, T.",
+                                "sunet": "sallier"
+                            }
+                        ],
+                        "startTimestamp": 66600.0,
+                        "endTimestamp": 73200.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224514",
+        "number": "CHPR 241",
+        "units": [
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "242",
+        "title": "The Science of Well-being: A Global Perspective",
+        "description": "A scientific exploration of overall and multidimensional well-being. The course will provide an overview of the concept of well-being, its composition, assessment, and interpretation. This course is designed to advance understanding and knowledge of well-being. It presents fundamental concepts and methods in the Science of Wellbeing from a global perspective. It also uses data and real-life experience from the Stanford WELL for Life Global Study to demonstrate elements of well-being in various countries and the role culture plays in the conceptual and practice of well-being.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Priority for enrollment given to CHPR Master's students, who must enroll for a letter grade.",
+                "classId": "27460",
+                "currentClassSize": "0",
+                "maxClassSize": "24",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Alway Building, Room M214/214A",
+                        "instructors": [
+                            {
+                                "name": "Hsing, A.",
+                                "sunet": "annhsing"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223542",
+        "number": "CHPR 242",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "244",
+        "title": "Contemplation by Design Summit: Translating contemplative science into timely community programming",
+        "description": "Engage with contemplative science scholars, leaders, and teachers who apply contemplative practices to cultivate the democratic promise for equality, liberty, health, and well-being. This workshop immerses students in community-based engaged learning in which the community is the people of Stanford (students, staff, faculty, alumni, retirees, patients,and members of the local community). The course includes participation in two, Saturday, in-person, half-day sessions and in several online key sessions in the Contemplation By Design Summit. See the course notes section for the names of the Summit speakers and times of the Summit sessions included in this course. Through a three-part process, students will develop skills for: translating theory into practice, engaging in dialogue with the Summit speakers, and designing a contemplative science-based community program. Pre-workshop readings and an intention paper, and a post-workshop reflection paper and group discussion provide opportunities for exploring theoretical and methodological questions encountered in the translation of contemplative science to community programming.This course provides direct experience of a community-based contemplative science program on a university campus.Scholars have pointed to the role of American colleges and universities as embodied places of societal values and aspirations, reflecting both academic traditions and heritages alongside social and scientific change and innovation.Campus communities can engender positive outcomes including skills for inter- and intra-personal personal values,emotional intelligence, and civic engagement. Collectively, these outcomes can contribute to individual and community health and well-being, and a thriving functional democracy. Cardinal Course certified by the Haas Center.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "Contemplative Practices that will be taught include: Loving-kindness Meditation with Kodo Conlin, Partner Yoga with Elysabeth Williamson, Breathwork with David Spiegel, MD, Embodying Loving Community with Gabriel Wilson, Practicing Ubuntu with Michael Battle, Healing with Ancestors for Intergenerational Flourishing with Brenda Salgado, Developing Trusting Relationship with the Human and More-than-human world with Kritee Kanko, Nourishing Self-compassion through applying internal Family Systems Skills with Richard Schwartz, and more contemplative skill-building guided practices during the two CHPR 244 Sat. workshops with Tia Rich. Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade. Guest Speakers will teach in the following order: Valarie Kaur, Anne Snyder, Chris Germer, David Spiegel, Tania Singer, Michelle Maldonado, Thom Bond, Netanel Miles-Y\u00bfpez, Will Kabat-Zinn, David Vago, Kritee Kanko, Mathew Fox, Dzogchen Ponlop Rinpoche, Richard Schwartz, Pamela Ayo Yetunde, and Helen Weng.",
+                "classId": "28947",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "12:00:00 PM",
+                        "location": "Lathrop 282",
+                        "instructors": [
+                            {
+                                "name": "Rich, T.",
+                                "sunet": "sallier"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 43200.0,
+                        "days": "Saturday"
+                    },
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "12:00:00 PM",
+                        "location": "Lathrop 282",
+                        "instructors": [
+                            {
+                                "name": "Rich, T.",
+                                "sunet": "sallier"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 43200.0,
+                        "days": "Saturday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224525",
+        "number": "CHPR 244",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "247",
+        "title": "Methods in Community Assessment, Evaluation, and Research (MED 247)",
+        "description": "Development of pragmatic skills for design, implementation, and analysis of structured interviews, focus groups, survey questionnaires, and field observations. Topics include: principles of community-based participatory research, including importance of dissemination; strengths and limitations of different study designs; validity and reliability; construction of interview and focus group questions; techniques for moderating focus groups; content analysis of qualitative data; survey questionnaire design; and interpretation of commonly-used statistical analyses.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Enrollment limited to CHPR Master's students, who must take the course for a letter grade. CHPR students matriculated before spring quarter have priority. All others should enroll in MED 147 or MED 247.",
+                "classId": "16960",
+                "currentClassSize": "0",
+                "maxClassSize": "36",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kiernan, M.",
+                                "sunet": "mkiernan"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "202752",
+        "number": "CHPR 247",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "249",
+        "title": "History of Nutrition Research: How our current guidelines came to fruition",
+        "description": "This course provides an overview of the evolution of nutrition research from its early beginnings to the present day. Students will explore the key milestones in the field of nutrition science, including the development of dietary guidelines  and recommendations, the discovery of essential nutrients, role of nutrition in disease, and the evolution of food processing and fortification. Through a combination of lectures, discussions, and assignments, students will gain an understanding of how current dietary guidelines have been shaped by scientific research and cultural factors, and they  will be able to critically evaluate the evidence behind current nutrition recommendations. By the end of the course, students will have a deeper appreciation for the complex history and interdisciplinary nature of nutrition research and  its impact on public health.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "28518",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:20:00 PM",
+                        "location": "Alway Building, Room M108",
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 62400.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225178",
+        "number": "CHPR 249",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "250",
+        "title": "Prevention Across Medical Disciplines: Evidence-based Guidelines",
+        "description": "Coordinated seminar series presenting evidence-based health promotion and disease prevention guidelines by research and clinical faculty of multiple divisions of Stanford's Department of Medicine, including cardiovascular medicine, oncology, nephrology, immunology and rheumatology, infectious diseases, endocrinology, gerontology and metabolism, gastroenterology and hepatology, hematology, blood and marrow transplantation, pulmonary and critical care medicine, general medical disciplines (including family medicine). Key prevention issues addressed in primary care and outcomes research, biomedical informatics research and the Stanford Prevention Research Center also presented. Enrollment priority given to CHPR Master's students. CHPR students must enroll for letter grade.Prerequisite: CHPR 201 or HUMBIO 126/CHPR 226 or equivalent or consent of instructor.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Prerequisite: HUMBIO 126/CHPR 226 or CHPR 201 or equivalent or consent of instructor. Priority for enrollment will be given to CHPR Master's students, who must take the course for a letter grade. Class meets in ALWAY M315 on 1/25, 2/27, 3/7.",
+                "classId": "26277",
+                "currentClassSize": "0",
+                "maxClassSize": "24",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Alway Building, Room M108",
+                        "instructors": [
+                            {
+                                "name": "Stefanick, M.",
+                                "sunet": "marcias"
+                            },
+                            {
+                                "name": "Damore, S.",
+                                "sunet": "sdamore"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217705",
+        "number": "CHPR 250",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "270",
+        "title": "Prevention Across Surgical and Other Medical Disciplines",
+        "description": "This course is coordinated seminar series that presents evidence-based health promotion and disease prevention guidelines by clinical and translational research and population health science faculty of clinical departments other than Medicine (the focus of CHPR 260) of the Stanford School of Medicine, including; Anesthesiology &amp; Perioperative, &amp; Pain Medicine, Cardiothoracic Surgery, Dermatology, Emergency Medicine, Neurology &amp; Neurological Sciences, Neurosurgery, Obstetrics &amp; Gynecology, Ophthalmology, Orthopaedic Surgery, Otolaryngology, Pathology, Pediatrics, Psychiatry &amp; Behavioral Sciences, Radiation Oncology, Radiology, Surgery and Urology, CHPR master's program students must enroll for a letter grade and priority for enrollment will be given to current CHPR students. Prerequisites: CHPR 201 or HUMBIO 126/CHPR 226 or equivalent or consent of instructor.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Priority for enrollment given to CHPR masters students, who must enroll for a letter grade.",
+                "classId": "26574",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Stefanick, M.",
+                                "sunet": "marcias"
+                            },
+                            {
+                                "name": "Damore, S.",
+                                "sunet": "sdamore"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219872",
+        "number": "CHPR 270",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "272",
+        "title": "Geography of Health",
+        "description": "Where we live, study, and work affects our health across many domains - from the food we eat to the viruses we encounter and even our ability to access healthcare at a given moment. Health geography is the study of human-environment interactions and the influence of these interactions on population health - i.e., how people interact with their physical and social environment to promote health and wellbeing or to increase their susceptibility to disease and/or illness. This course will explore health through the lens of place. It will examine the relationship between health and disease outcomes and the socio-cultural and physical environment. More broadly, this course seeks to explore the questions: How does place affect one's health? How can geographic location explain inequalities in disease prevalence and access to healthcare? How does geography affect public health and also clinical decision making for the individual?",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "30555",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:20:00 PM",
+                        "location": "Alway Building, Room M015A",
+                        "instructors": [
+                            {
+                                "name": "Prochaska, J.",
+                                "sunet": "jpro"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 62400.0,
+                        "days": "Tuesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225177",
+        "number": "CHPR 272",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "288",
+        "title": "Cancer in Asian Americans: Epidemiology and Prevention (ASNAMST 288)",
+        "description": "This course will provide an overview of cancer common or have higher risk (relative to other population) in Asian American populations. This course is designed to advance the understanding and knowledge of cancer etiology and prevention in Asian Americans and to raise awareness of the need of further research in this population to minimize disparity and achieve health equity. This course is relevant for students interested in cancer epidemiology, prevention, and public health.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Priority in enrollment given to CHPR master's program students, who must enroll for a letter grade.",
+                "classId": "30554",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "2:30:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hsing, A.",
+                                "sunet": "annhsing"
+                            }
+                        ],
+                        "startTimestamp": 52200.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Monday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224515",
+        "number": "CHPR 288",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "290",
+        "title": "Curricular Practical Training and Internship",
+        "description": "CHPR masters students enroll for a letter grade in your mentor's section. Before the end of the second week of the quarter, enrolled students must submit a description of the expected learning outcomes and deliverables for each unit to the CHPR office. One unit= three hours of work per week (30 hours for the quarter). CHPR 290 is also the CPT Course required for international students completing degree requirements.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "18",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27793",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29841",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29557",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "24419",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "21288",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "16965",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "24420",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "21289",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "16966",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "24421",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "21290",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "16967",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "24422",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Henriksen, L.",
+                                "sunet": "lahmjd"
+                            },
+                            {
+                                "name": "Prochaska, J.",
+                                "sunet": "jpro"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "21291",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Henriksen, L.",
+                                "sunet": "lahmjd"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "16968",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Henriksen, L.",
+                                "sunet": "lahmjd"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "24423",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "21292",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "16969",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": null,
+                "classId": "24424",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kiernan, M.",
+                                "sunet": "mkiernan"
+                            },
+                            {
+                                "name": "Prochaska, J.",
+                                "sunet": "jpro"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": null,
+                "classId": "21293",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kiernan, M.",
+                                "sunet": "mkiernan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217576",
+        "number": "CHPR 290",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "totalSections": 156
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "299",
+        "title": "Directed Reading",
+        "description": "Prerequisite: consent of instructor. Before the end of the second week of the quarter, enrolled students must submit a description of the expected learning outcomes and deliverables for each unit to the CHPR office. One unit= three hours of work per week (10 hours for the quarter).",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "18",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27799",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29847",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29561",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "24567",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": "CHPR students must enroll for a letter grade.",
+                "classId": "20369",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": "CHPR students must enroll for a letter grade.",
+                "classId": "16948",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "24568",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": "CHPR students must enroll for a letter grade.",
+                "classId": "20370",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": "CHPR students must enroll for a letter grade.",
+                "classId": "16949",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "24569",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": "CHPR students must enroll for a letter grade.",
+                "classId": "20371",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": "CHPR students must enroll for a letter grade.",
+                "classId": "16950",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "24570",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Henriksen, L.",
+                                "sunet": "lahmjd"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": "CHPR students must enroll for a letter grade.",
+                "classId": "20372",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Henriksen, L.",
+                                "sunet": "lahmjd"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": "CHPR students must enroll for a letter grade.",
+                "classId": "16951",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Henriksen, L.",
+                                "sunet": "lahmjd"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "24571",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": "CHPR students must enroll for a letter grade.",
+                "classId": "20373",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": "CHPR students must enroll for a letter grade.",
+                "classId": "16952",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": null,
+                "classId": "24572",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kiernan, M.",
+                                "sunet": "mkiernan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": "CHPR students must enroll for a letter grade.",
+                "classId": "20374",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kiernan, M.",
+                                "sunet": "mkiernan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217683",
+        "number": "CHPR 299",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "totalSections": 103
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "399",
+        "title": "Community Health and Prevention Research Master's Thesis Writing",
+        "description": "Thesis writing for Community Health and Prevention Research Program. Students enroll in thesis advisor's section. Non-medical students enroll for a letter grade. Before the end of the second week of the quarter, enrolled students must submit a description of the expected learning outcomes and deliverables for each unit to the CHPR office. One unit= three hours of work per week (30 hours for the quarter).",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "18",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27794",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29842",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29558",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "24431",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "21276",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "16977",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "24432",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "21277",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "16978",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "24433",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "21278",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "16979",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "24434",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Henriksen, L.",
+                                "sunet": "lahmjd"
+                            },
+                            {
+                                "name": "Prochaska, J.",
+                                "sunet": "jpro"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "21279",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Henriksen, L.",
+                                "sunet": "lahmjd"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "16980",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Henriksen, L.",
+                                "sunet": "lahmjd"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "24435",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "21280",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "16981",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": null,
+                "classId": "24436",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kiernan, M.",
+                                "sunet": "mkiernan"
+                            },
+                            {
+                                "name": "Prochaska, J.",
+                                "sunet": "jpro"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": null,
+                "classId": "21281",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kiernan, M.",
+                                "sunet": "mkiernan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217577",
+        "number": "CHPR 399",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "totalSections": 146
+    },
+    {
+        "year": "2023-2024",
+        "subject": "CHPR",
+        "code": "801",
+        "title": "TGR Project",
+        "description": null,
+        "repeatable": "true",
+        "grading": "TGR",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "27851",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29913",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29639",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24714",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "26279",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25961",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Baiocchi, M.",
+                                "sunet": "baiocchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24715",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "26280",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25970",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gardner, C.",
+                                "sunet": "cgardner"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24716",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "26281",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25971",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Heaney, C.",
+                                "sunet": "cheaney"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24717",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Prochaska, J.",
+                                "sunet": "jpro"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "26282",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Prochaska, J.",
+                                "sunet": "jpro"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25972",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Prochaska, J.",
+                                "sunet": "jpro"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24718",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Robinson, T.",
+                                "sunet": "tomr"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "26283",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Robinson, T.",
+                                "sunet": "tomr"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25973",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Robinson, T.",
+                                "sunet": "tomr"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "08",
+                "component": "T/D",
+                "notes": null,
+                "classId": "24719",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rosas, L.",
+                                "sunet": "lgrosas"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "T/D",
+                "notes": null,
+                "classId": "26284",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rosas, L.",
+                                "sunet": "lgrosas"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218774",
+        "number": "CHPR 801",
+        "units": [
+            0
+        ],
+        "totalSections": 136
+    }
+]

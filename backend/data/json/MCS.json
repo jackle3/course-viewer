@@ -1,0 +1,66 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "MCS",
+        "code": "120",
+        "title": "Data Narratives (DATASCI 120)",
+        "description": "The class allows students to grow their ability to communicate ideas and insights with data. There are many components of a well-crafted narrative based on data---from a discussion of data sources to visualization, and from pattern detection to generalizable conclusions---which we explore in sequence across the quarter. The class does not introduce advanced data analysis techniques. It rather focuses on the essential elements of an inquiry conducted with data and places a special emphasis on how to record and communicate these. Each student enrolled in class needs to identify a dataset and a question that they are going to explore. As we examine the different components of a data inquiry, the students will carry out a corresponding analysis/writing assignment on the data they have identified, gradually building material for the narrative that will constitute their final paper. This course is required for students participating in SURP-Stats and for Data Science BS students who are fulfilling their capstone requirement with independent research (including Honors thesis) or with DATASCI 190.  Prerequisite: Stats191 or equivalent. (WIM)",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "13766",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sabatti, C.",
+                                "sunet": "sabatti"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223738",
+        "number": "MCS 120",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MCS",
+        "code": "198",
+        "title": "Practical Training",
+        "description": "For students majoring in Mathematical and Computational Science only. Students obtain employment in a relevant industrial or research activity to enhance their professional experience. Students may enroll in Summer Quarters only and for a total of three times. Students must first notify their MCS adviser before enrolling in their course section, and must submit a one-page written final report summarizing the knowledge/experience gained upon completion of the internship in order to receive credit.Please note that F-1 international students enrolled in their department&iquest;s CPT course cannot start working without first obtaining a CPT-endorsed I-20 from Bechtel International Center (enrolling in the CPT course alone is insufficient to meet federal immigration regulations).",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "212194",
+        "number": "MCS 198",
+        "units": [
+            1
+        ]
+    }
+]

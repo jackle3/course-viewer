@@ -1,0 +1,4240 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "245",
+        "title": "Optimization and Simulation Modeling",
+        "description": "This course provides basic skills in quantitative modeling. The objective is to familiarize students with the main steps in an analytical approach to business decision making: constructing an abstract model for a relevant business problem, formulating it in a spreadsheet environment such as Microsoft Excel, and using the tools of optimization, Monte Carlo simulation and sensitivity analysis to generate and interpret recommendations. The class will be taught in a lab style, with short in-class exercises done in small teams, focusing on a variety of applications drawn from online advertising, healthcare, finance, supply chain management, revenue and yield optimization.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Not Open to Non-GSB Students. Workshop. Participation 25% Midterm 35% Final 40%.",
+                "classId": "29355",
+                "currentClassSize": "0",
+                "maxClassSize": "65",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Saban, D.",
+                                "sunet": "dsaban"
+                            },
+                            {
+                                "name": "Lumagui, S.",
+                                "sunet": "sharonml"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "WKS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Not Open to Non-GSB Students. Workshop. Participation 25% Midterm 35% Final 40%.",
+                "classId": "29356",
+                "currentClassSize": "0",
+                "maxClassSize": "65",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            },
+                            {
+                                "name": "Kankolongo Ngoba, N.",
+                                "sunet": "ngb2812"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "WKS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Not Open to Non-GSB Students. Workshop. Participation 25% Midterm 35% Final 40%.",
+                "classId": "29357",
+                "currentClassSize": "0",
+                "maxClassSize": "65",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Saban, D.",
+                                "sunet": "dsaban"
+                            },
+                            {
+                                "name": "Lumagui, S.",
+                                "sunet": "sharonml"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "100771",
+        "number": "OIT 245",
+        "units": [
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "247",
+        "title": "Optimization and Simulation Modeling - Accelerated",
+        "description": "The course is aimed at students who already have a background or demonstrated aptitude for quantitative analysis, and thus are comfortable with a more rapid coverage of the topics, in more depth and breadth, than in OIT 245.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Final 40% Midterm 30% Participat'n 10% HW 20%. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "29328",
+                "currentClassSize": "0",
+                "maxClassSize": "65",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Xu, K.",
+                                "sunet": "kuangxu"
+                            },
+                            {
+                                "name": "Smeton, K.",
+                                "sunet": "ktsmeton"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Final 40% Midterm 30% Participat'n 10% HW 20%. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "29329",
+                "currentClassSize": "0",
+                "maxClassSize": "65",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Xu, K.",
+                                "sunet": "kuangxu"
+                            },
+                            {
+                                "name": "Smeton, K.",
+                                "sunet": "ktsmeton"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "207888",
+        "number": "OIT 247",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "248",
+        "title": "Optimization And Simulation Modeling - Advanced",
+        "description": "This course is an advanced option in the menu of classes satisfying the Core requirement in Optimization and Simulation Modeling (OSM). It is an advanced version of OIT 245 and OIT 247 and it covers a similar (but slightly expanded) set of concepts pertaining to prescriptive analytics, including static optimization, Monte-Carlo simulation, decision trees and dynamic optimization, and reinforcement learning. The main differences are in the pace and depth, with OIT 248 covering each topic significantly faster and at a deeper level. Additionally, OIT 248 leverages Python instead of Excel for implementation and devotes more time to discussing practical issues that arise in real-world, data-driven implementations. By the end of the course, students should develop an in-depth mental framework of the topics and leave with a good understanding of how they fit within modern machine-learning / AI pipelines that aid decision-making in complex problems. The class is taught in an interactive style, focusing on a variety of applications drawn from advertising, healthcare, finance, supply chain management, revenue management and pricing, scheduling, and risk management. We emphasize that OIT 248 uses Python to teach analytics, but is not a course on Python or coding per se. Some prior coding experience is helpful but is not a strict requirement for the course.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Not Open to Non-GSB Students. Workshop. Final 40% Midterm 35% Participation 25%.",
+                "classId": "29323",
+                "currentClassSize": "0",
+                "maxClassSize": "65",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Iancu, D.",
+                                "sunet": "daniancu"
+                            },
+                            {
+                                "name": "Alvarez, K.",
+                                "sunet": "kealaa"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "WKS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Not Open to Non-GSB Students. Workshop. Final 40% Midterm 35% Participation 25%.",
+                "classId": "29324",
+                "currentClassSize": "0",
+                "maxClassSize": "65",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Iancu, D.",
+                                "sunet": "daniancu"
+                            },
+                            {
+                                "name": "Alvarez, K.",
+                                "sunet": "kealaa"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218719",
+        "number": "OIT 248",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "249",
+        "title": "MSx: Data and Decisions",
+        "description": "Data and Decisions teaches you how to use data and quantitative reasoning to make sound decisions in complex and uncertain environments. The course draws on probability, statistics, and decision theory. Probabilities provide a foundation for understanding uncertainties, such as the risks faced by investors, insurers, and capacity planners. We will discuss the mechanics of probability (manipulating some probabilities to get others) and how to use probabilities to make decisions about uncertain events. Statistics allows managers to use small amounts of information to answer big questions. For example, statistics can help predict whether a new product will succeed or what revenue will be next quarter. The third topic, decision analysis, uses probability and statistics to plan actions, such as whether to test a new drug, buy an option, or explore for oil. In addition to improving your quantitative reasoning skills, this class seeks to prepare you for later classes that draw on this material, including finance, economics, marketing, and operations. At the end we will discuss how this material relates to machine learning and artificial intelligence.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. 1 Group Project/Paper. Open to MSx students. In-class Final. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion. Final 25% Participation 10% Quiz/Project/Lab 65%.",
+                "classId": "28603",
+                "currentClassSize": "43",
+                "maxClassSize": "43",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Somaini, P.",
+                                "sunet": "soma"
+                            },
+                            {
+                                "name": "Kankolongo Ngoba, N.",
+                                "sunet": "ngb2812"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. 1 Group Project/Paper. Open to MSx students. In-class Final. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion. Final 25% Participation 10% Quiz/Project/Lab 65%.",
+                "classId": "28604",
+                "currentClassSize": "29",
+                "maxClassSize": "43",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Somaini, P.",
+                                "sunet": "soma"
+                            },
+                            {
+                                "name": "Kankolongo Ngoba, N.",
+                                "sunet": "ngb2812"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214635",
+        "number": "OIT 249",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "256",
+        "title": "Digital Business",
+        "description": "This course focuses on the way information technology affects the structure of business models. It considers the impact of information technology on industries ranging from retail to transportation and finance. It considers how you can take advantage of new technology opportunities and how they change the structure of firms, industries and value chains, with an emphasis on business issues. Classes combine lecture and case study discussions and the workload is above the GSB average. The course is designed to help you make a transition into technology-related fields.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "202053",
+        "number": "OIT 256",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "262",
+        "title": "Operations",
+        "description": "Operations is the design and management of processes for production and delivery of services or goods. This course covers fundamental concepts and tools for excellent operations: Process Analysis - analysis, improvement, and design of operational processes; aligning operational processes with your business model. Managing variability and uncertainty in demand and supply. Climate Change - challenge and solutions. Quality Management - quantitative tools to measure and manage quality; best practices in quality management and innovation processes. Value Chain - managing flows of material and information through global value chains. The course has heavy analytic and quantitative work. No prior knowledge of operations is expected.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "100800",
+        "number": "OIT 262",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "269",
+        "title": "MSx: Operations and Strategies",
+        "description": "Operations refer to the processes through which businesses produce and deliver products or services. Managing operations well is necessary in order for these processes to be completed in a timely manner, consume minimal resources and costs, and achieve their goal effectively. This course focuses on managerial issues arising in the operations of manufacturing and service industries. The objectives of the course are to introduce operational problems and challenges faced by managers, as well as language, conceptual models, analytical techniques and strategies that are broadly applicable in confronting such problems.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "100804",
+        "number": "OIT 269",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "271",
+        "title": "Operations and Strategies",
+        "description": "Operations refer to the processes through which businesses produce and deliver products or services. The objectives of the course are to introduce operational problems and challenges faced by managers, and effective methods for confronting such problems. The first half of the course focuses on acquiring language, analytical frameworks and techniques, and conceptual models that are broadly applicable in confronting operational problems in a variety of domains. The second half of the course focuses on how different operations decisions should be interconnected under the umbrella of an operations strategy that supports the business strategy of the firm, and demonstrates this through a segment on the design of global supply chains. With the first part of the course being compressed with quantitative analysis, it is designed for students with a quantitative background (for example, in engineering) that is not necessarily related to Operations.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "219928",
+        "number": "OIT 271",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "272",
+        "title": "Online Marketplaces",
+        "description": "The course studies one of the most impactful business models in recent decades. We will study what makes an online marketplace successful, from network effects to reducing search and matching frictions, fostering trust, and effective ways to monetize. Students will explore both strategic decisions and the inner operations of these platforms, getting hands-on with the analytical and data science tools that power them. We will look at well-known models like those of Amazon, Google, Uber, and Airbnb, while also touching on the latest trends in the space. A particular emphasis will be on how AI is reshaping the way online marketplaces interact with users and the broader changes it might bring. Overall, the course will provide basic business knowledge for future investors, entrepreneurs, product managers, and anyone interested on online marketplaces.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Take-home Final. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion. Final 50% Participation 25% Assignments 25.",
+                "classId": "31167",
+                "currentClassSize": "0",
+                "maxClassSize": "70",
+                "schedules": [
+                    {
+                        "startTime": "8:00:00 AM",
+                        "endTime": "9:45:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Weintraub, G.",
+                                "sunet": "gweintra"
+                            }
+                        ],
+                        "startTimestamp": 28800.0,
+                        "endTimestamp": 35100.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Take-home Final. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion. Final 50% Participation 25% Assignments 25.",
+                "classId": "31168",
+                "currentClassSize": "0",
+                "maxClassSize": "70",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:45:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Weintraub, G.",
+                                "sunet": "gweintra"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 42300.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. Take-home Final. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Case and Problem Discussion. Final 50% Participation 25% Assignments 25.",
+                "classId": "31169",
+                "currentClassSize": "0",
+                "maxClassSize": "70",
+                "schedules": [
+                    {
+                        "startTime": "4:25:00 PM",
+                        "endTime": "6:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Weintraub, G.",
+                                "sunet": "gweintra"
+                            }
+                        ],
+                        "startTimestamp": 59100.0,
+                        "endTimestamp": 65400.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218797",
+        "number": "OIT 272",
+        "units": [
+            2
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "274",
+        "title": "Data and Decisions - Base (Flipped Classroom)",
+        "description": "Base Data and Decisions is a first-year MBA course in statistics and regression analysis. The course is taught using a flipped classroom model that combines extensive online materials with a lab-based classroom approach. Traditional lecture content will be learned through online videos, simulations, and exercises, while time spent in the classroom will be discussions, problem solving, or computer lab sessions. Content covered includes basic probability, sampling techniques, hypothesis testing, t-tests, linear regression, and prediction models. The group regression project is a key component of the course, and all students will learn the statistical software package R.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. 1 Group Project/Paper. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Case and Problem Discussion.",
+                "classId": "33085",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. 1 Group Project/Paper. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Case and Problem Discussion.",
+                "classId": "33086",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. 1 Group Project/Paper. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Case and Problem Discussion.",
+                "classId": "33087",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. 1 Group Project/Paper. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Case and Problem Discussion.",
+                "classId": "33088",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. 1 Group Project/Paper. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Case and Problem Discussion.",
+                "classId": "33089",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lei, L.",
+                                "sunet": "lihualei"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. 1 Group Project/Paper. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Case and Problem Discussion.",
+                "classId": "33090",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lei, L.",
+                                "sunet": "lihualei"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218645",
+        "number": "OIT 274",
+        "units": [
+            3
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "275",
+        "title": "Online Marketplaces, Accelerated",
+        "description": "How does Uber match drivers to passengers? How does Airbnb select the set of listings to show to a guest in a search? How does eBay manage trust and reputation between buyers and sellers? How does Google optimize auctions for billions of dollars' worth of online advertising? This course focuses on analytics and data science tools used to address these and other challenges encountered in the most exciting online marketplaces in the world. With hands-on exercises we will open and understand the &quot;black-box&quot; of online marketplaces' operations. We will cover application areas such as transportation, rentals, sharing, e-commerce, labor markets, and advertising, leveraging tools from D&amp;D, OSM, and Micro. In particular, the course will use tools from R covered in D&amp;D. Overall, the course will provide business knowledge for future investors, product managers, sales and marketing managers, operation managers, and anyone interested on online marketplaces. [This is the accelerated version of OIT 272 and knowledge from D&amp;D and OSM is expected at the accelerated (or advanced) level.]",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "219844",
+        "number": "OIT 275",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "276",
+        "title": "Data and Decisions - Accelerated (Flipped Classroom)",
+        "description": "Accelerated Data and Decisions is a first-year MBA course in statistics and regression analysis. The course is taught using a flipped classroom model that combines extensive online materials with a more lab-based classroom approach. Traditional lecture content will be learned through online videos, simulations, and exercises, while time spent in the classroom will be discussions, problem solving, or computer lab sessions. Content covered includes sampling techniques, hypothesis testing, t-tests, linear regression, and prediction models. The group regression project is a key component of the course, and all students will learn the statistical software package R. The accelerated course is designed for students with strong quantitative backgrounds. Students taking this course need to be comfortable with mathematical notation, algebra, and basic probability. Students without quantitative backgrounds should consider enrolling in the base version of the course.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. 1 Group Project/Paper. Mandatory attendance. Absences impact grade. Workshop.",
+                "classId": "33020",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wager, S.",
+                                "sunet": "swager"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "WKS",
+                "notes": "P/F Not Allowed. Open to MBA1 students. 1 Group Project/Paper. Mandatory attendance. Absences impact grade. Workshop.",
+                "classId": "33021",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wager, S.",
+                                "sunet": "swager"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218647",
+        "number": "OIT 276",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "280",
+        "title": "Operations, Innovation, and Technology I",
+        "description": "This course is the first part of a new two quarter course series (OIT 280 &amp; OIT 281) that offers students a holistic perspective on the rapidly evolving and integrated world of operations, technology and innovation. OIT 280 covers fundamental concepts and tools for excellent operations (like OIT 262) and new content on (1) how processes, resources and technology come together in the real world, (2) business models, operating models and innovation therein, drawing on multiple disciplines. This course is for students who want to contribute and help co-design this new integrated approach to the future of teaching management education. Please note that this course is under construction and you will be expected to contribute to its development. In addition to MBA1 students, the course will also be open to a limited number of OIT PhD students from Operations, Information and Technology and graduate students from Stanford Doerr School of Sustainability with permission from Erica Plambeck. Class size is limited so students will experience close, frequent interaction among students and teaching faculty.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "224806",
+        "number": "OIT 280",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "281",
+        "title": "Operations, Innovation, and Technology II",
+        "description": "This course is the second part of the two-quarter course series (OIT 280 &amp; OIT 281) and expands on the learnings developed in Part 1: OIT 280. Graduate students from business and Doerr School of Sustainability will learn about different forms of innovation processes and apply the frameworks through a team project. A team project on an innovation challenge selected by students will provide a real world experience with the processes. We encourage diverse innovation challenges that could lead to one of the following: a concept for a new venture, a change in the business model for an existing organization, a change in operational processes for an existing organization. In addition, students will examine through a series of case studies on how organizations develop operating models that implement innovation business models and integrate operations, innovation and technology Key Topics: design thinking, lean startup, precedent based approach to innovation, technology readiness level assessment, AI and 3D printing, value chain innovation, innovation process applications. The course is open only to students who have completed Part 1: OIT 280.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "224804",
+        "number": "OIT 281",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "333",
+        "title": "Design for Extreme Affordability",
+        "description": "Design for Extreme Affordability (Extreme) is for students who have a passion for social impact, and want to experience designing products and services that address issues of global poverty, through tackling real world challenges in collaboration with low-resource communities. Extreme is a two-quarter graduate level sequence cross listed by the Graduate School of Business (OIT333/334) and the School of Engineering (ME206A/B). The program is hosted by the d.school and open to students from all Stanford schools. This multidisciplinary team, fast paced, project based experience creates an enabling environment in which students learn to design products and services that will change the lives of the world's poorest citizens. Students work directly with course partners, and the communities they serve, on real world problems, the culmination of which is actual implementation and real impact. Topics include design thinking, product and service design, rapid prototype engineering and testing, business modeling, social entrepreneurship, team dynamics, impact measurement, operations planning and ethics. Products and services designed in the class have impacted well over 150 million people worldwide. Limited enrollment by application. Must sign up for both OIT333/ME206A (Winter) and OIT334/ME206B (Spring). See extreme.stanford.edu for more details and application process which opens in October. Cardinal Course certified by the Haas Center for Public Service.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "All class sessions, workshops and retreats are mandatory. Given the team and project based nature of the class, it is important to be present and on time for each session. Admission by Fall Quarter Application Process OnlySee: https://extreme.stanford.edu/prospective-students OIT333 is the first of a two-quarter sequence. You must commit to OIT334 in Spring Quarter as well. No Exam. Permission required for all GSB students. P/F Not Allowed. Participation 20% Projects/Papers 80%. Capacity limited to 40 students. Cross-listed as ME206A. Mandatory attendance. Absences impact grade. 3 Group Projects/Papers. CSI certificate course. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Seminar.",
+                "classId": "31269",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:45:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Coulson, S.",
+                                "sunet": "scoulson"
+                            },
+                            {
+                                "name": "Yeturu, M.",
+                                "sunet": "myeturu"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 42300.0,
+                        "days": "Monday Wednesday"
+                    },
+                    {
+                        "startTime": "7:30:00 PM",
+                        "endTime": "9:30:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Coulson, S.",
+                                "sunet": "scoulson"
+                            },
+                            {
+                                "name": "Yeturu, M.",
+                                "sunet": "myeturu"
+                            }
+                        ],
+                        "startTimestamp": 70200.0,
+                        "endTimestamp": 77400.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "204600",
+        "number": "OIT 333",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "334",
+        "title": "Design for Extreme Affordability",
+        "description": "Design for Extreme Affordability ('Extreme') is for students who have a passion for social impact, and want to experience designing products and services that address issues of global poverty, through tackling real world challenges in collaboration with low-resource communities. Extreme is a two-quarter graduate level sequence cross listed by the Graduate School of Business (OIT333/334) and the School of Engineering (ME206A/B). The program is hosted by the d.school and open to students from all Stanford schools. This multidisciplinary team, fast paced, project based experience creates an enabling environment in which students learn to design products and services that will change the lives of the world's poorest citizens. Students work directly with course partners, and the communities they serve, on real world problems, the culmination of which is actual implementation and real impact. Topics include design thinking, product and service design, rapid prototype engineering and testing, business modeling, social entrepreneurship, team dynamics, impact measurement, operations planning and ethics. Products and services designed in the class have impacted well over 150 million people worldwide.Limited enrollment by application. Must sign up for both OIT333/ME206A (Winter) and OIT334/ME206B (Spring).See extreme.stanford.edu for more details and application process which opens in October.Cardinal Course certified by the Haas Center for Public Service.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "No Exam. Permission required for all GSB students. P/F Not Allowed. Participation 20% Projects/Papers 80%. Capacity limited to 40 students. Mandatory attendance. Absences impact grade. 3 Group Projects/Papers. CSI certificate course. Cross-listed as ME206B. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Seminar.",
+                "classId": "30997",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:45:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Coulson, S.",
+                                "sunet": "scoulson"
+                            },
+                            {
+                                "name": "Yeturu, M.",
+                                "sunet": "myeturu"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 42300.0,
+                        "days": "Monday Wednesday"
+                    },
+                    {
+                        "startTime": "7:30:00 PM",
+                        "endTime": "9:30:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Coulson, S.",
+                                "sunet": "scoulson"
+                            },
+                            {
+                                "name": "Yeturu, M.",
+                                "sunet": "myeturu"
+                            }
+                        ],
+                        "startTimestamp": 70200.0,
+                        "endTimestamp": 77400.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "205727",
+        "number": "OIT 334",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "349",
+        "title": "Business Analytics",
+        "description": "This course aims to develop students' skills in analytics and quantitative modeling for managerial decision-making: 1) Constructing a model that can be used to address a relevant business question, 2) Implementing the model in a spreadsheet environment, such as Microsoft Excel, and 3) Using optimization, Monte Carlo simulation and sensitivity analysis to generate and interpret recommendations. The class is taught in a lab style, with real-time in-class exercises done in small teams, focusing on a variety of applications drawn from online advertising, healthcare, finance, pricing and revenue management. We will primarily be using Excel for modeling building and analysis, with appropriate packages for optimization (Solver) and simulation (Oracle Crystal Ball).",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "223318",
+        "number": "OIT 349",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "356",
+        "title": "Digital Business",
+        "description": "The course focuses on the analysis and design of business models that are enabled by Information Technology (IT). It considers the impact of IT on multiple industries and ways to take advantage of new opportunities that are enabled by new technologies. Preparation includes case studies involving both qualitative and quantitative analyses; homework assignments involving quantitative and some qualitative analyses; pre-class online quizzes and most importantly, a group project involving the design of a new business model that takes advantage of modern IT. Some classes will cover an aspect of a business model which is enabled by IT in an industry which is or was transformed by information technology. Others will focus on the application of these concepts to new business models (e.g., the ones developed in the final project).  Students opting to go into technology would probably benefit the most from the course, but this will require a significant time commitment.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "203222",
+        "number": "OIT 356",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "364",
+        "title": "Global Operations",
+        "description": "Globalization of businesses has resulted in companies having to manage global networks of suppliers, integrators, contract manufacturers, logistics service providers, distributors, and service support operators in geographically dispersed locations. The customer network is also globally distributed. This course will focus on (1) how global and international companies can overcome the geographical, cultural, and organizational barriers, and leverage the strengths of the network together with the advances in technologies to create values, (2) how these companies should best structure their network, like in-sourcing or outsourcing, and off-shoring or on-shoring, to give the best competitive advantage, and (3) how operations can support the overall business strategies.. The course will be based on cases on innovative strategies and tactics used by global and international companies, including how they can do so in a sustainable way in emerging economies. Students taking the course are expected to have had at least one college course in operations management, and familiar with methodologies like queueing systems, newsvendor model, safety stocks, and process flow analysis, as these methodologies will not be taught in class, but they are used in analyzing global operations in class sessions, in assignments, and in exam.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "205163",
+        "number": "OIT 364",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "367",
+        "title": "Business Intelligence from Big Data",
+        "description": "The objective of this course is to analyze real-world situations where significant competitive advantage can be obtained through large-scale data analysis, with special attention to what can be done with the data and where the potential pitfalls lie. Students will be challenged to develop business-relevant questions and then solve for them by manipulating large data sets. Problems from advertising, eCommerce, finance, healthcare, marketing, and revenue management are presented. Students learn to apply software (such as Python and SQL) to data sets to create knowledge that will inform decisions. The course covers fundamentals of statistical modeling, machine learning, and data-driven decision making. Students are expected to layer these topics over an existing facility with mathematical notation, algebra, calculus, probability, and basic statistics.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. 2 Group Projects/Papers. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. Case and Problem Discussion.",
+                "classId": "33013",
+                "currentClassSize": "0",
+                "maxClassSize": "55",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. 2 Group Projects/Papers. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. Case and Problem Discussion.",
+                "classId": "33014",
+                "currentClassSize": "0",
+                "maxClassSize": "55",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213723",
+        "number": "OIT 367",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "368",
+        "title": "Design for Disruption",
+        "description": "&quot;Disruption&quot; is a widely used and frequently misunderstood term. Understanding it better can help you think about your organization or team's strategy whether you're trying to disrupt, avoid being disrupted, or simply scanning the horizon for new trends in your industry.This course takes a unique view on disruption by combining disruption theory research, innovation strategy, and the ways that business practitioners and Silicon Valley entrepreneurs have redefined disruption over the last decade. We'll bring these perspectives together in a framework for gauging the disruptive potential of an innovation - that is, how likely the innovation is to fundamentally change the structure of an industry. You'll learn the critical roles that customers, value chains, and technologies play in driving such changes.While the popular press tends to focus on disruption in the technology sector, you'll see that it happens in every industry and sector, it can be done by mature, established companies, and it's not just for technology startups. We'll study disruption in a wide variety of industries, like nonprofits, pharmaceutical companies, food processing companies, airline manufacturers (Boeing) and chemical manufacturers. And of course, we'll talk about Uber, Airbnb, Microsoft, and Amazon too.In some cases we'll take a very futuristic view of disruption in which you will see how a very recent discovery can lead to fascinating possibilities for disruption that may be 10-20 years down the line. Distinguishing between developments that will last and drive changes vs. developments that are temporary fads is something the frameworks in this course will help you unpack.You'll also have the opportunity to investigate how established firms (we call them incumbents) can avoid the perils of being disrupted and left behind. You will identify the qualities of incumbents that have faced disruption successfully, and the missteps of those that have not.Finally, you will work on a capstone mini project in which you will apply the course frameworks to develop a disruption hypothesis for the industry of your choosing. This could be the industry you worked in the past or an industry you plan to work in the future, an industry that you may want to disrupt, or simply an industry that's compelling to you. Topics covered include:The Disruption Framework and the Three Pillars of DisruptionDisruption via new entrantsIncumbent self-disruption, and when incumbents miss the disruptionNonprofit vs. for-profit disruptionThe Five Forces FrameworkDeveloping and testing a new disruption hypothesis using design thinking and lean startupCases and examples we'll examine include:Impossible FoodsHIV treatment pharmaceuticalsWarby ParkerStarbucksAmazon Web ServicesFundboxBoeingDow CorningMicrosoftCalifornia Health Care FoundationKodakFastbrick RoboticsPelotonPok&eacute;mon GoKodakUberAirbnb",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "221071",
+        "number": "OIT 368",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "384",
+        "title": "Biodesign Innovation: Needs Finding and Concept Creation",
+        "description": "In this two-quarter course series (OIT 384/5), multidisciplinary student teams from medicine, business, and engineering work together to identify real-world unmet healthcare needs, invent new health technologies to address them, and plan for their development and implementation into patient care. During the first quarter (winter), students select and characterize an important unmet healthcare problem, validate it through primary interviews and secondary research, and then brainstorm and screen initial technology-based solutions. In the second quarter (spring), teams screen their ideas, select a lead solution, and move it toward the market through prototyping, technical re-risking, strategies to address healthcare-specific requirements (regulation, reimbursement), and business planning. Final presentations in winter and spring are made to a panel of prominent health technology industry experts and investors. Class sessions include faculty-led instruction and case studies, coaching sessions by industry specialists, expert guest lecturers, and interactive team meetings. Enrollment is by application only, and students are expected to participate in both quarters of the course. Visit http://biodesign.stanford.edu/programs/stanford-courses/biodesign-innovation.html to access the application, examples of past projects, and student testimonials. More information about Stanford Biodesign, which has led to the creation of more than 50 venture-backed healthcare companies and has helped hundreds of students launch health technology careers, can be found at http://biodesign.stanford.edu/.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No more than one unexcused absence per quarter. No Exam. Participation 20% Projects/Papers 80%. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Capacity limited to 50 students. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. 3 Group Projects/Papers. CSI certificate course. P/F Allowed. Case and Problem Discussion.",
+                "classId": "31270",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Venook, R.",
+                                "sunet": "darkside"
+                            },
+                            {
+                                "name": "Denend, L.",
+                                "sunet": "denend"
+                            },
+                            {
+                                "name": "Edmonds, Z.",
+                                "sunet": "zedmonds"
+                            },
+                            {
+                                "name": "Makower, J.",
+                                "sunet": "jmakower"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "210329",
+        "number": "OIT 384",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "385",
+        "title": "Biodesign Innovation: Concept Development and Implementation",
+        "description": "In this two-quarter course series (OIT 384/5), multidisciplinary student teams from medicine, business, and engineering work together to identify real-world unmet healthcare needs, invent new health technologies to address them, and plan for their development and implementation into patient care. During the first quarter (winter), students select and characterize an important unmet healthcare problem, validate it through primary interviews and secondary research, and then brainstorm and screen initial technology-based solutions. In the second quarter (spring), teams screen their ideas, select a lead solution, and move it toward the market through prototyping, technical re-risking, strategies to address healthcare-specific requirements (regulation, reimbursement), and business planning. Final presentations in winter and spring are made to a panel of prominent health technology industry experts and investors. Class sessions include faculty-led instruction and case studies, coaching sessions by industry specialists, expert guest lecturers, and interactive team meetings. Enrollment is by application only, and students are expected to participate in both quarters of the course. Visit http://biodesign.stanford.edu/programs/stanford-courses/biodesign-innovation.html to access the application, examples of past projects, and student testimonials. More information about Stanford Biodesign, which has led to the creation of more than 50 venture-backed healthcare companies and has helped hundreds of students launch health technology careers, can be found at http://biodesign.stanford.edu/.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No more than one unexcused absence. No Exam. Participation 20% Projects/Papers 80%. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Capacity limited to 50 students. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. 3 Group Projects/Papers. CSI certificate course. P/F Allowed. Case and Problem Discussion.",
+                "classId": "30998",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Venook, R.",
+                                "sunet": "darkside"
+                            },
+                            {
+                                "name": "Denend, L.",
+                                "sunet": "denend"
+                            },
+                            {
+                                "name": "Edmonds, Z.",
+                                "sunet": "zedmonds"
+                            },
+                            {
+                                "name": "Makower, J.",
+                                "sunet": "jmakower"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "210330",
+        "number": "OIT 385",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "521",
+        "title": "Data Science for Platforms",
+        "description": "This is an MBA compressed course that covers analytic and data science tools that are currently being used to operate some of the most exciting online platforms and marketplaces in the world. This course will consist of guest lectures from industry leaders involved in these efforts, emphasizing practical challenges associated with implementing analytics and data science projects. Guest lecturers will be heads of data science, heads of product, founders, or investors, among others. We will cover online platforms and marketplaces in diverse application areas such as transportation, rentals, sharing, e-commerce, labor markets, media, and advertising.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "219784",
+        "number": "OIT 521",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "551",
+        "title": "Data Science: Management, Strategy and Innovation",
+        "description": "How can one best put data science and AI to work in a modern company and manage data science teams effectively? Leaning on the emerging theory and best practices, we will examine companies at various sizes and stages, from seed through IPO, and study real-life cases to understand how companies should leverage data, data science and machine learning, build effective teams, core competencies, and competitive advantages. We will draw similarities and contrasts between regular technology and data-science-heavy companies in terms of management, technical risks, and economics, and more. The students will learn how to reason about the cost and benefits of building up a data science capability within a company, how to best manage  teams to maximize performance and innovation, as well as how to evaluate the value creation through data and AI from the perspective of investors. We will have several AI entrepreneurs, executives, and investors participating in discussions.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "224948",
+        "number": "OIT 551",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "604",
+        "title": "Data, Learning, and Decision-Making",
+        "description": "This aim of this course is to cover modern tools for data-driven decision making. Most decision making tasks involve uncertainty that is directly impacted by the amount and complexity of data at hand. Classical decision models rely on strong distributional assumptions about the uncertain events. But in recent years, and due to growing availability of rich data, there has been a rapid adoption of models from machine learning and statistics that provide more accurate and personalized picture of uncertainty which in turn lead to better decisions. The interplay between the multiple objectives of modeling the data, personalization, and decision optimization has created a number mathematical models that the course aims to cover. Examples of topics include contextual multi-armed bandits and non-parametric decision learning.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "219738",
+        "number": "OIT 604",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "606",
+        "title": "Advanced Topics in Optimization",
+        "description": "Exact topics TBD, but will include real-time optimization in different settings.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "Grading distribution will be announced by Prof. Open to GSB PhD students. Mandatory attendance. Absences impact grade.",
+                "classId": "31233",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "1:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Saban, D.",
+                                "sunet": "dsaban"
+                            },
+                            {
+                                "name": "Lumagui, S.",
+                                "sunet": "sharonml"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 46800.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225607",
+        "number": "OIT 606",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "611",
+        "title": "The Drift Method: from Stochastic Networks to Machine Learning",
+        "description": "This course is an exploration of the drift method: a family of simple, yet surprisingly powerful, meta-algorithms that in each step the greedily and incrementally minimizes a certain potential function. Manifested in different forms, MaxWeight, c-mu rule, EXP3, policy gradient, to name a few, the drift method powers some of the most popular algorithmic paradigms in queueing networks, optimization and machine learning. Using the drift method as a unifying theme, we will explore major developments in these areas to understand what features can explain the method's effectiveness, how we can rigorously evaluate its performance, and what are some of the emerging research topics.We will develop rigorous probabilistic and optimization methodologies for answering these questions, such as Lyapunov stability theory, state-space collapse, and weak convergence. Applications to be covered include dynamic control and scheduling in queueing networks, delay and stability analysis of stochastic networks, stochastic approximation, and online/supervised/reinforcement learning. The course will be primarily taught in a lecture format, along with some guest lectures and student project presentations.Objective: For students to acquire fundamental methodologies that can be applied to pursuing research topics in theoretical or applied areas.Target Audience: The course is intended for PhD students in Business, Engineering and Economics. The students should have a good background in probability and stochastic processes (e.g., Stat 310A / MS&amp;E 321). Most topics will be self-contained.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "No Exam. Participation 50% Projects/Papers 50%. Open to GSB PhD students. P/F Not Allowed. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Mandatory attendance. Absences impact grade. 1 Individual Project/Paper. MBA and MSx students need instructor permission. Seminar.",
+                "classId": "31485",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Xu, K.",
+                                "sunet": "kuangxu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222711",
+        "number": "OIT 611",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "644",
+        "title": "Research in Operations, Information and Technology",
+        "description": "This year-long course takes a hands-on approach to learning about conducting research in Operations, Information and Technology. It will cover a broad spectrum of cutting-edge research in OIT from conceiving an idea to formulating a research problem, deriving results, and publication. The topical content will be customized to the specific interests of the enrolled students, but generally will be concerned with questions of operational interest.",
+        "repeatable": "false",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Participation 100%. No Exam. Open to GSB PhD students. P/F Mandatory. Mandatory attendance. Absences impact grade. Seminar.",
+                "classId": "33022",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            },
+                            {
+                                "name": "Spiess, J.",
+                                "sunet": "jspiess"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Participation 100%. No Exam. Open to GSB PhD students. Non-GSB students: See gsb.stanford.edu/NonGSBReg. P/F Mandatory. Mandatory attendance. Absences impact grade. Seminar.",
+                "classId": "30997",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Karaduman, O.",
+                                "sunet": "omerkara"
+                            },
+                            {
+                                "name": "Zenios, S.",
+                                "sunet": "stefzen"
+                            },
+                            {
+                                "name": "Alvarez, G.",
+                                "sunet": "gisellea"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 46800.0,
+                        "days": "Tuesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221177",
+        "number": "OIT 644",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "648",
+        "title": "Empirics of Online Markets",
+        "description": "In this course we cover current research on data-driven approaches to the market design of online platforms. We cover diverse topics such as search, matching, demand estimation, learning under strategic behavior, and pricing. We will do so in the context of different application domains such as rentals, sharing, e-commerce, and advertising. The course is eclectic in terms of approaches, using reduced-form and structural econometrics, machine learning, and experimentation. The course mostly consists of recent papers presented by the instructor, guests, and students. Some background knowledge required to understand current work is provided as needed.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "221173",
+        "number": "OIT 648",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "652",
+        "title": "OIT Modeling",
+        "description": "This course is designed for OIT students of all cohorts.  It will focus on alternative approaches to modeling the types of problems that arise in OIT research, based on the analysis of papers in the area.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "219736",
+        "number": "OIT 652",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "655",
+        "title": "Foundations of Supply Chain Management",
+        "description": "This course provides an overview of research in supply chain management (SCM). It has three parts. The first part reviews basic tools of SCM research through selected readings in economics, IT and operations research. The second part reviews the literature in SCM, covering topics such as inventory models, information sharing, information distortion, contract design, value of integration, performance measurement, risk management, and the use of markets for procurement. The last part is devoted to recent advances in SCM research.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "No Exam. P/F Not Allowed. 1 Group Project/Paper. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Mandatory attendance. Absences impact grade. Open to MBA and GSB PhD students. Seminar. Participation 20% Proj/Papers 50% Homework 30%.",
+                "classId": "29567",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Iancu, D.",
+                                "sunet": "daniancu"
+                            },
+                            {
+                                "name": "Alvarez, K.",
+                                "sunet": "kealaa"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "204777",
+        "number": "OIT 655",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "664",
+        "title": "Asymptotics in Operations Management",
+        "description": "This course provides an overview of asymptotic models and methods used in various areas of operations management. It includes traditional heavy traffic asymptotics for queueing networks, the Halfin-Whitt regime, the supermarket model, inventory theory, revenue management, applications of measure-valued processes in queues, and applications of mean field equilibrium models in matching markets and auctions for ad exchanges. The lectures will focus on modeling and performance analysis, and not on convergence proofs. Prerequisites: Statistics 217 and 218, or consent of instructor; some prior exposure to stochastic models in general, and queueing theory in particular, is useful but not essential.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "101368",
+        "number": "OIT 664",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "666",
+        "title": "Engineering Online Markets",
+        "description": "This class will explore topics the intersection of operations, engineering, and economics relevant to modern internet marketplaces, including those for dating, labor, accommodation, services, and rides. The objective of the class is to introduce and revisit technical tools traditionally used in the operations literature that may help advance the research frontier, as well as to expose students to recent developments and state-of-the-art research in online markets. The class will not cover the important and heavily studied topics of stable marriage and auctions. List of topics (preliminary): Intro to two-sided platforms and search frictions in matching markets; Design of the &quot;search environment&quot; and information disclosure policies on platforms; Balancing supply and demand in a spatio-temporal environment; Pricing issues in platforms; Service platforms; Reputation systems.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "219906",
+        "number": "OIT 666",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "668",
+        "title": "Networks and Markets",
+        "description": "In recent years network models have been used in different application domains, ranging from social networks to supply chains and from financial networks to transportation networks. Examples of existing work in networks include exploring how to leverage available social network information to (i) develop targeted pricing/advertising strategies, and (ii) combat misinformation. Further illustrating the ubiquity of network interactions, there is a growing literature aiming to study the propagation of shocks in supply chains and financial networks, which also sheds light on different approaches for mitigating the market-wide adverse effects of such shocks. Although much progress has been made, our understanding of how network interactions affect market-wide outcomes is still very much nascent. For instance, there is a lot of promise for impactful research that may change the way we think about the design of supply chain networks or the interactions between different modes of transportation in the context of urban planning. The main objective of this course is to provide a comprehensive overview of the recent research developments in the area of networked markets. We will cover foundational work, classical models, and also various applications. In addition, we will discuss exciting directions for future research, and try to prepare you to conduct research in the area. As such, the course involves a (team) research project as well as presentations (by instructors and/or students) of select papers from the recent literature followed by a critical review of their modeling assumptions and results.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "214657",
+        "number": "OIT 668",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "671",
+        "title": "Operational, Economic, and Statistical Modeling in the COVID-19 Crisis",
+        "description": "The COVID-19 crisis revealed many fundamental structural, cultural, and operational challenges in the world. Many of these challenges, for example managing patient care in a limited resource environment, were well-known before COVID-19 and the crisis simply highlighted the importance of developing effective strategies to handle them. Others, such as the design and adherence to non-pharmaceutical mitigation strategies like lock-downs, quickly appeared as countries took differing approaches to handling the pandemic. This course will discuss how operational, economic, and statistical modeling can be used to better understand different COVID-19 responses and strategies. This is a PhD seminar that will cover prior research that can shed light onto the COVID-19 crisis, current/ongoing research that directly addresses COVID-19 pressing issues, and will also explore new research directions in this space. The course will consist of a combination of lectures by the instructors, guest lectures by researchers from all over the world, and of students' presentations of their research projects. The course will be eclectic in terms of approaches, including tools from operations research, machine learning, statistics, econometrics, and microeconomics. The course will be co-taught via live virtual sessions by Prof. Carri Chan and Prof. Gabriel Weintraub and will be available to Business, Economics, Statistics, and Engineering PhD students from Columbia and Stanford University.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "222787",
+        "number": "OIT 671",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "691",
+        "title": "PhD Directed Reading (ACCT 691, FINANCE 691, GSBGEN 691, HRMGT 691, MGTECON 691, MKTG 691, OB 691, POLECON 691, STRAMGT 691)",
+        "description": "This course is offered for students requiring specialized training in an area not covered by existing courses. To register, a student must obtain permission from the faculty member who is willing to supervise the reading.",
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "1",
+        "unitsMax": "15",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31516",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29939",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31852",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "1562",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31517",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "29940",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31853",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "1563",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31518",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "29941",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31854",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "1564",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31519",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "29942",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31855",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "1565",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31520",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "29943",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31856",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "1566",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101403",
+        "number": "OIT 691",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "totalSections": 68
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "692",
+        "title": "PhD Dissertation Research (ACCT 692, FINANCE 692, GSBGEN 692, HRMGT 692, MGTECON 692, MKTG 692, OB 692, POLECON 692, STRAMGT 692)",
+        "description": "This course is elected as soon as a student is ready to begin research for the dissertation, usually shortly after admission to candidacy. To register, a student must obtain permission from the faculty member who is willing to supervise the research.",
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "1",
+        "unitsMax": "15",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31527",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29950",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31863",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1573",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31528",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29951",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31864",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1574",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31529",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29952",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31865",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1575",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31530",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29953",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31866",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1576",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31531",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29954",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31867",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1577",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101406",
+        "number": "OIT 692",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "totalSections": 68
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "698",
+        "title": "Doctoral Practicum in Teaching",
+        "description": "Doctoral Practicum in Teaching",
+        "repeatable": "true",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31552",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31888",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29975",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "1598",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31553",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31889",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "29976",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "1599",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31554",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31890",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "29977",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "1600",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31555",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31891",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "29978",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "1601",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31556",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31892",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "29979",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "1602",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217379",
+        "number": "OIT 698",
+        "units": [
+            1
+        ],
+        "totalSections": 68
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "699",
+        "title": "Doctoral Practicum in Research",
+        "description": "Doctoral Practicum in Research",
+        "repeatable": "true",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31564",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31900",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29987",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "1610",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31565",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31901",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "29988",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "1611",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31566",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31902",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "29989",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "1612",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31567",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31903",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "29990",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "1613",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31568",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31904",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "29991",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "1614",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217386",
+        "number": "OIT 699",
+        "units": [
+            1
+        ],
+        "totalSections": 68
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OIT",
+        "code": "802",
+        "title": "TGR Dissertation (ACCT 802, FINANCE 802, GSBGEN 802, HRMGT 802, MGTECON 802, MKTG 802, OB 802, POLECON 802, STRAMGT 802)",
+        "description": null,
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29961",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31874",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31538",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1584",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29962",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31875",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31539",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1585",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29963",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31876",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31540",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1586",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bimpikis, K.",
+                                "sunet": "kostasb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29964",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31877",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31541",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1587",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gur, Y.",
+                                "sunet": "ygur"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29965",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31878",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31542",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1588",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hu, Y.",
+                                "sunet": "yh2987"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101410",
+        "number": "OIT 802",
+        "units": [
+            0
+        ],
+        "totalSections": 68
+    }
+]

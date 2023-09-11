@@ -1,0 +1,164 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "BIOHOPK",
+        "code": "173HA",
+        "title": "Marine Conservation Biology - Seminar and Discussion Only (BIOHOPK 273HA, OCEANS 173A)",
+        "description": "Class can be taken in-person or via Zoom. Introduction to the key concepts of ecology and policy relevant to marine conservation issues at the population to ecosystems level. Focus on the origin and maintenance of biodiversity and conservation applications from both the biology and policy perspectives (for example, endangered species, captive breeding, reserve design, habitat fragmentation, ecosystem restoration/rehabilitation). Also includes emerging approaches such as ecosystem based management, ocean planning, and coupled social-ecological systems. The course will include lectures, readings and discussions of primary literature, and attendance at seminars with visiting scholars. Prerequisite: introductory biology; suggested: a policy and/or introductory ecology course. Students should enroll in this course if they are only joining the seminar and discussion. Students who will engage in the full course should enroll in BIOHOPK 173H/273H. (Graduate students register for 273HA.)",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Taught in-person at Hopkins Marine Station or via Zoom. Seminar and discussion will be held from 12-1 and 2-3.",
+                "classId": "13929",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "3:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crowder, L.",
+                                "sunet": "lbcrowd"
+                            },
+                            {
+                                "name": "Early, M.",
+                                "sunet": "earlyc"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220273",
+        "number": "BIOHOPK 173HA",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOHOPK",
+        "code": "243H",
+        "title": "Quantitative methods for marine ecology and conservation (BIO 143, BIO 243, CEE 164H, CEE 264H, EARTHSYS 143H, EARTHSYS 243H, OCEANS 143H)",
+        "description": "NOTE: This course will be taught in-person on main campus, in hybrid format with Zoom options. The goal of this course is to learn the foundations of ecological modeling with a specific (but not exclusive) focus on marine conservation and sustainable exploitation of renewable resources. Students will be introduced to a range of methods - from basic to advanced - to characterize population structure, conduct demographic analyses, estimate extinction risk, identify temporal trends and spatial patterns, quantify the effect of environmental determinants and anthropogenic pressures on the dynamics of marine populations, describe the potential for adaptation to climate change. This course will emphasize learning by doing, and will rely heavily on practical computer laboratories, in R and/or Phyton, based on data from our own research activities or peer reviewed publications. Students with a background knowledge of statistics, programming and calculus will be most welcome. Formally BIOHOPK 143H and 243H.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "223119",
+        "number": "BIOHOPK 243H",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOHOPK",
+        "code": "273HA",
+        "title": "Marine Conservation Biology - Seminar and Discussion Only (BIOHOPK 173HA, OCEANS 173A)",
+        "description": "Class can be taken in-person or via Zoom. Introduction to the key concepts of ecology and policy relevant to marine conservation issues at the population to ecosystems level. Focus on the origin and maintenance of biodiversity and conservation applications from both the biology and policy perspectives (for example, endangered species, captive breeding, reserve design, habitat fragmentation, ecosystem restoration/rehabilitation). Also includes emerging approaches such as ecosystem based management, ocean planning, and coupled social-ecological systems. The course will include lectures, readings and discussions of primary literature, and attendance at seminars with visiting scholars. Prerequisite: introductory biology; suggested: a policy and/or introductory ecology course. Students should enroll in this course if they are only joining the seminar and discussion. Students who will engage in the full course should enroll in BIOHOPK 173H/273H. (Graduate students register for 273HA.)",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "29773",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "DIS",
+                "notes": null,
+                "classId": "29772",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "SEM",
+                "notes": "Course taught in-person at Hopkins Marine Station or via Zoom. Seminar and discussion will be held from 12-1 and 2-3.",
+                "classId": "14419",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Crowder, L.",
+                                "sunet": "lbcrowd"
+                            },
+                            {
+                                "name": "Early, M.",
+                                "sunet": "earlyc"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220273",
+        "number": "BIOHOPK 273HA",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 3
+    }
+]

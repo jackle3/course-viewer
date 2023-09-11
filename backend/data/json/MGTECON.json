@@ -1,0 +1,3988 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "200",
+        "title": "Managerial Economics",
+        "description": "MGTECON 200 is a base-level course in microeconomics. It covers microeconomic concepts relevant to management, including the economics of relationships, pricing decisions, perfect competition and the &quot;invisible hand,&quot; risk aversion and risk sharing, and moral hazard and adverse selection. This year we are piloting a &quot;flipped classroom&quot; where students will be expected to work through the online modules before each class and the time in class will be devoted to solving problems and discussing cases.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "100725",
+        "number": "MGTECON 200",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "203",
+        "title": "Managerial Economics - Accelerated",
+        "description": "MGTECON 203 is the more quantitative version of MGTECON 200. It uses math tools such as derivatives and algebra to explain economics concepts. No previous knowledge of economics is assumed. The class covers key ideas in economics relating to topics such as game theory, dynamic cooperation, pricing, market power, competitive equilibrium, moral hazard, adverse selection, externalities, risk aversion, and auction theory. The goal of the class is to develop a collection of analytical tools that enable one to analyze a wide variety of economic problems and business strategies.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. P/F Not Allowed. Open to MBA1 students. Mandatory attendance. Absences impact grade. Final 50% Midterm 30% Participation 20%. Case and Problem Discussion.",
+                "classId": "33015",
+                "currentClassSize": "0",
+                "maxClassSize": "72",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ostrovsky, M.",
+                                "sunet": "ost"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "No Exam. P/F Not Allowed. Open to MBA1 students. Mandatory attendance. Absences impact grade. Final 50% Midterm 30% Participation 20%. Case and Problem Discussion.",
+                "classId": "33016",
+                "currentClassSize": "0",
+                "maxClassSize": "72",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ostrovsky, M.",
+                                "sunet": "ost"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "200388",
+        "number": "MGTECON 203",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "209",
+        "title": "MSx:  Microeconomics",
+        "description": "The core microeconomics course is challenging and covers microeconomic concepts, including the economics of relationships, pricing decisions, perfect competition and the 'invisible hand,' risk aversion and risk sharing, and moral hazard and adverse selection. This year we are piloting a 'flipped classroom' where students will be expected to work through the online modules before each class and the time in class will be devoted to solving problems and discussing cases. If you have never studied microeconomics at all, it is a good idea to read a principles-level book before arriving at the GSB. You may want to consider reviewing two specific lessons available from the Khan Academy: 'Supply, Demand, and Market Equilibrium' and 'Elasticity.' These lessons are valuable background but not indicative of the course you will take which will focus on topics relevant to management",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "100732",
+        "number": "MGTECON 209",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "300",
+        "title": "Growth and Stabilization in the Global Economy",
+        "description": "This course gives students the background they need to understand the broad movements in the global economy. Key topics include long-run economic growth, technological change, wage inequality, international trade, interest rates, inflation, exchange rates, and monetary policy. By the end of the course, students should be able to read and understand the discussions of economic issues in The Economist, the Wall Street Journal, the New York Times, or the Congressional Budget Office.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Final 50% Midterm 25% Projects/Papers 25%. P/F Not Allowed. Take-home Final. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 4 Group Projects/Papers. Seminar.",
+                "classId": "32678",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Jones, C.",
+                                "sunet": "chadj"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "SEM",
+                "notes": "Final 50% Midterm 25% Projects/Papers 25%. P/F Not Allowed. Take-home Final. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 4 Group Projects/Papers. Seminar.",
+                "classId": "32679",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Jones, C.",
+                                "sunet": "chadj"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "SEM",
+                "notes": "Final 50% Midterm 25% Projects/Papers 25%. P/F Not Allowed. Take-home Final. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 4 Group Projects/Papers. Seminar.",
+                "classId": "32680",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tonetti, C.",
+                                "sunet": "tonetti"
+                            },
+                            {
+                                "name": "Di Tella, S.",
+                                "sunet": "sditella"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "SEM",
+                "notes": "Final 50% Midterm 25% Projects/Papers 25%. P/F Not Allowed. Take-home Final. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 4 Group Projects/Papers. Seminar.",
+                "classId": "32681",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tonetti, C.",
+                                "sunet": "tonetti"
+                            },
+                            {
+                                "name": "Di Tella, S.",
+                                "sunet": "sditella"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "SEM",
+                "notes": "Final 50% Midterm 25% Projects/Papers 25%. P/F Not Allowed. Take-home Final. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 4 Group Projects/Papers. Seminar.",
+                "classId": "32682",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tonetti, C.",
+                                "sunet": "tonetti"
+                            },
+                            {
+                                "name": "Di Tella, S.",
+                                "sunet": "sditella"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "SEM",
+                "notes": "Final 50% Midterm 25% Projects/Papers 25%. P/F Not Allowed. Take-home Final. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 4 Group Projects/Papers. Seminar.",
+                "classId": "32683",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "4:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tonetti, C.",
+                                "sunet": "tonetti"
+                            },
+                            {
+                                "name": "Di Tella, S.",
+                                "sunet": "sditella"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 58200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "100824",
+        "number": "MGTECON 300",
+        "units": [
+            3
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "327",
+        "title": "U.S. Inequality: What Can Business and Policy Do?",
+        "description": "This class will analyze the growth in inequality in the US over the last several decades and how that trend is likely to continue or change in the future. We will ask if and how public policy can affect inequality. We will also focus on business's role -- what are the responsibilities of private sector companies, how does inequality affect them, and how should the growth in inequality affect their strategies? We will look at inequality in income, some of its potential sources, and its effects in other areas. Specifically, we will look at education, housing, the social safety net, migration, and the job market. The class will be very interactive and will be based on readings drawn from academic research, case studies, news, and opinion readings. We will also have guest speakers from industry, government, and non-profits. The class will be co-taught by a GSB labor economist and an advisor to policy makers with decades of business experience.LOGISTICAL NOTE: During the week of May 13, the class will not meet during the regular time slots. Instead, there will be a mandatory, all-day class field trip to explore inequality issues in depth and in person on Wednesday, May 15. If you have an academic-related reason you cannot make the trip, we will assign alternative work. However, the trip is required unless you have a conflicting class or academic obligation.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "218798",
+        "number": "MGTECON 327",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "328",
+        "title": "Economics of the Media, Entertainment, and Communications Sector",
+        "description": "This course analyzes business decisions in current and historical cases from the media, entertainment, and communications sector. Topics include (1) pricing, bundling and tiering of media products, (2) horizontal and vertical integration of content, distribution, and hardware, (3) selling and buying advertising, (4) choosing between subscription-funded, advertising-funded, or mixed revenue models, (5) negotiations between content and distribution, (6) antitrust in media and technology, (7) the effect of technology on the news media business, (8) the labor market for entertainment stars, (9) competition and regulation in communications infrastructure, (10) strategy in spectrum auctions, and more. There is an emphasis on combining concepts from economics and statistics with institutional knowledge about the sector. The course format is case discussion, guest speakers from the industry, and discussion of concepts from economics and statistics. Evaluation is based on class participation, completion of reading and written assignments, and a final paper.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. P/F Not Allowed. 1 Group Project/Paper. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. Capacity limited to 60 students. Participation 66% Projects/Papers 34%. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "31480",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Yurukoglu, A.",
+                                "sunet": "ayurukog"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223066",
+        "number": "MGTECON 328",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "331",
+        "title": "Health Law: Finance and Insurance",
+        "description": "This course provides the legal, institutional, and economic background necessary to understand the financing and production of health services in the US. Potential topics include: health reform, health insurance (Medicare and Medicaid, employer-sponsored insurance, the uninsured), medical malpractice and quality regulation, pharmaceuticals, the corporate practice of medicine, regulation of fraud and abuse, and international comparisons.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "100910",
+        "number": "MGTECON 331",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "349",
+        "title": "Smart Pricing and Market Design",
+        "description": "This course is an Advanced Applications option in the Economics menu. The focus of the course is on pricing mechanisms and the design of marketplaces. The pricing component of the course will handle both traditional topics, such as price differentiation, and more modern ones, such as bundling and dynamic pricing. In the market design component of the course, we will consider such topics as auctions (e.g., designing auctions for selling online advertising slots) and matching (e.g., designing mechanisms for matching students to schools).",
+        "repeatable": "true",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "219840",
+        "number": "MGTECON 349",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "350",
+        "title": "Economics of Labor: Strategy, Policy, and the Future of Work",
+        "description": "This Advanced Application of Microeconomics course will study the labor market. The initial section, focused on organizations' personnel strategies will consider how labor markets differ from other goods and how to adopt classic supply/demand analysis to attract and motivate employees. The second portion of the course will provide insights into key public policy issues related to labor markets including drivers of inequality, minimum wages, labor market discrimination, and tax policy. The final set of classes will look at how trends in automation, demographics, and working from home are changing the labor market.",
+        "repeatable": "true",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "Final 25% Participat'n25%Proj/Pap25%Assignments25%. P/F Not Allowed. Open to MBA1 students. 3 Group 2 Individual Projects/Papers. Take-home Final. Mandatory attendance. Absences impact grade. CSI certificate course. Capacity limited to 60 students. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "31478",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "9:35:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Oyer, P.",
+                                "sunet": "pauloyer"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 34500.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "Final 25% Participat'n25%Proj/Pap25%Assignments25%. P/F Not Allowed. Open to MBA1 students. 3 Group 2 Individual Projects/Papers. Take-home Final. Mandatory attendance. Absences impact grade. CSI certificate course. Capacity limited to 60 students. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "31479",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Oyer, P.",
+                                "sunet": "pauloyer"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224805",
+        "number": "MGTECON 350",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "383",
+        "title": "Measuring Impact in Business and Social Enterprise",
+        "description": "Businesses are increasingly expected to have a positive social impact, as evidenced by the rapid growth of impact investing. Yet, even as the impact investing market has taken off, impact measurement has lagged, undermining the credibility of the sector. Impact measurement is also critical to individual firms, not-for-profits and governments, as they face increased pressure to generate quantifiable results. How can we measure impact? What are some of the most effective frameworks, tools and approaches for impact measurement? How does one choose the most appropriate measurement tool based on factors such as the size, maturity and sector of an organization? Can impact be distilled down to a single monetary measure, such as a dollar? These and other questions will be explored in considerable depth, through analysis and discussion of case studies as well as hand-on use of impact measurement tools. This course is a good match for students interested in impact measurement, impact investing, profit-with-purpose businesses or the role of business in society. The course will be co-taught by Matt Bannick, who led the impact investing firm, Omidyar Network, and served as the President of PayPal and of eBay International, and Neil Malhotra, Director of the Center for Social Innovation and an expert in the statistical measurement of impact.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. Participation 50% Projects/Papers 50%. 5 Group 1 Individual Projects/Papers. P/F Not Allowed. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Capacity limited to 50 students. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. CSI certificate course. Case and Problem Discussion.",
+                "classId": "31424",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "1:15:00 PM",
+                        "endTime": "2:35:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Malhotra, N.",
+                                "sunet": "neilm"
+                            },
+                            {
+                                "name": "Bannick, M.",
+                                "sunet": "mbannick"
+                            }
+                        ],
+                        "startTimestamp": 47700.0,
+                        "endTimestamp": 52500.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218649",
+        "number": "MGTECON 383",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "526",
+        "title": "Inclusive Economic Growth and Poverty Reduction in Developing Countries",
+        "description": "Poverty rates have fallen markedly in countries around the world, as more households have joined the lower middle-class. Indeed, though U.S. income inequality has increased, inequality has fallen around the world. However, by developed country standards, poverty remains pervasive. What has caused the decline in rates of poverty and can we expect further decreases or can we act to accelerate the improvements? One answer is that countries that have experienced 'inclusive growth'?, in which the growth of the economy (i.e., GDP) has elevated the incomes of the poor, have done better at creating jobs for the poor, especially in the private sector. Therefore, the class will consider the evidence on the factors that have contributed to inclusive economic growth in developing countries. A second answer as to why poverty has fallen, but remains at high levels, is that governments and aid agencies and foundations have targeted programs to the poor. This course discusses macroeconomic policy, targeted government policies, aid, and entrepreneurship in developing countries. Examples will be given from Latin America, South Asia, and Africa. The course is co-taught by a Stanford economist and a World Bank consultant and will build on examples from recent experiences. The class is aimed at GSB students who are either intellectually curious about the topic or anticipate doing business in developing countries.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Open to MBA, MSx, and GSB PhD students. Mandatory attendance. Absences impact grade. 3 Individual Projects/Papers. CSI certificate course. Participation 40% Projects/Papers 60%. Capacity limited to 35 students. Case and Problem Discussion.",
+                "classId": "33017",
+                "currentClassSize": "0",
+                "maxClassSize": "35",
+                "schedules": [
+                    {
+                        "startTime": "2:50:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shaw, K.",
+                                "sunet": "kathryns"
+                            },
+                            {
+                                "name": "Prennushi, G.",
+                                "sunet": "gprenn"
+                            }
+                        ],
+                        "startTimestamp": 53400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218776",
+        "number": "MGTECON 526",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "533",
+        "title": "Economics of Strategy and Organization",
+        "description": "The goal of this class is to combine economic theory and business practice to develop insights for business strategy and organization design. We will discuss strategies and organizations of companies, identify potential problems and explore potential solutions. Some of the topics to be covered will be why many established companies find it hard to innovate (and what strategies can mitigate those problems), business-model innovation, and what economic and practical problems arise when companies need to stop projects. The course will be based on a mixture of formal and informal cases.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 1 Individual Project/Paper. Case and Problem Discussion.",
+                "classId": "32743",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "10:00:00 AM",
+                        "endTime": "11:45:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Aron-Gilat, A.",
+                                "sunet": "agadi"
+                            },
+                            {
+                                "name": "Skrzypacz, A.",
+                                "sunet": "skrz"
+                            }
+                        ],
+                        "startTimestamp": 36000.0,
+                        "endTimestamp": 42300.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221179",
+        "number": "MGTECON 533",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "540",
+        "title": "Data Science and Experimentation for Decision Making",
+        "description": "In this course we will discuss statistical and econometric methods for assisting in decision making. We will discuss experimental designs, ranging from classical A/B tests to modern designs in use at leading tech companies. We will also discuss methods for observational studies, and how one can ensure that the results based on such studies lead to credible decision making. The methods will draw on the econometric literature as well as the modern machine learning literature. Students will be asked to analyze data and prepare reports and presentations based on them.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "224949",
+        "number": "MGTECON 540",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "583",
+        "title": "Measuring Impact in Business and Social Enterprise",
+        "description": "Businesses are increasingly expected to have a positive social impact, as evidenced by the rapid growth of impact investing.  Yet, even as the impact investing market has taken off, impact measurement has lagged, undermining the credibility of the sector.  Impact measurement is also critical to individual firms, not-for-profits and governments, as they face increased pressure to generate quantifiable results.How can we measure impact?  What are some of the most effective frameworks, tools and approaches for impact measurement?  How does one choose the most appropriate measurement tool based on factors such as the size, maturity and sector of an organization?  Can impact be distilled down to a single monetary measure, such as a dollar?  These and other questions will be explored in considerable depth, primarily through analysis and discussion of case studies. This course is a good match for students interested in impact measurement, impact investing, profit-with-purpose businesses or the role of business in society. The course will be taught by Matt Bannick, who led the impact investing firm, Omidyar Network, and served as the President of PayPal and of eBay International.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "223065",
+        "number": "MGTECON 583",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "600",
+        "title": "Microeconomic Analysis I",
+        "description": "This course provides an introduction to the foundations of modern microeconomic theory. Topics include choice theory, with and without uncertainty, consumer and producer theory, dynamic choice and dynamic programming, social choice and efficiency, and fundamentals of general equilibrium.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. Open to GSB PhD students. 4 Individual Projects/Papers. Mandatory attendance. Absences impact grade. P/F Allowed. Participation10% Projects/Papers70% OralPresent20%. MBA and MSx students need instructor permission. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Case and Problem Discussion.",
+                "classId": "30991",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sugaya, T.",
+                                "sunet": "tsugaya"
+                            },
+                            {
+                                "name": "Molina, M.",
+                                "sunet": "mmolina7"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101281",
+        "number": "MGTECON 600",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "601",
+        "title": "Microeconomic Analysis II",
+        "description": "This course studies the roles of information, incentives and strategic behavior in markets. The rudiments of game theory are developed and applied to selected topics regarding auctions, bargaining, and firms' competitive strategies; information economics; and contracting and market design.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. Open to GSB PhD students. 1 Group Project/Paper. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Mandatory attendance. Absences impact grade. Projects/Papers 100%. P/F Allowed. Case and Problem Discussion.",
+                "classId": "31483",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Zhong, W.",
+                                "sunet": "wjzhong"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101285",
+        "number": "MGTECON 601",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "602",
+        "title": "Auctions, Bargaining, and Pricing",
+        "description": "This course covers mostly auction theory, bargaining theory and related parts of the literature on pricing. Key classic papers covered in the course are Myerson and Satterthwaite on dynamic bargaining, Myerson on optimal auctions, and Milgrom and Weber's classic work, the Coase Conjecture results. We also cover a few more recent developments related to these topics, including dynamic signaling and screening. In some years we also cover topics in matching theory.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "101287",
+        "number": "MGTECON 602",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "603",
+        "title": "Econometric Methods I",
+        "description": "This is the first course in the sequence in graduate econometrics. The course covers some of the probabilistic and statistical underpinnings of econometrics, and explores the large-sample properties of maximum likelihood estimators. You are assumed to have introductory probability and statistics and matrix theory, and to have exposure to basic real analysis. Topics covered in the course include random variables, distribution functions, functions of random variables, expectations, conditional probabilities and Bayes' law, convergence and limit laws, hypothesis testing, confidence intervals, and maximum likelihood estimation.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "No Exam. Open to GSB PhD students. P/F Not Allowed. 4 Individual Projects/Papers. Mandatory attendance. Absences impact grade. MBA and MSx students need instructor permission. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Seminar. Final 50% Problem Sets 50%.",
+                "classId": "31981",
+                "currentClassSize": "0",
+                "maxClassSize": "26",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": "380-380W",
+                        "instructors": [
+                            {
+                                "name": "Hong, H.",
+                                "sunet": "doubleh"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101291",
+        "number": "MGTECON 603",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "604",
+        "title": "Econometric Methods II",
+        "description": "Second course in the PhD sequence in econometrics at the Economics Department (as Econ 271) and at the GSB (as MGTECON 604). This course presents modern econometric methods with a focus on regression. Among the topics covered are: linear regression and its interpretation, robust inference, asymptotic theory for maximum-likelihood und other extremum estimators, generalized method of moments, Bayesian regression, high-dimensional and non-parametric regression, binary and multinomial discrete choice, resampling methods, linear time-series models, and state-space models. As a prerequisite, this course assumes working knowledge of probability theory and statistics as covered in Econ 270/MGTECON 603.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "101293",
+        "number": "MGTECON 604",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "605",
+        "title": "Econometric Methods III",
+        "description": "This course completes the first-year sequence in econometrics. It covers conventional parametric methods that MGTECON 604 did not have time to cover in any detail. This includes GMM, simulated GMM, nonlinear least squares problems generally, and an introduction to some machine learning methods such as neural nets. The course  the covers numerical and optimization methods used to estimate these models, as well as simulation techniques. The latter half of the course focuses on semiparametric and nonparametric methods. Applications in different fields (e.g., finance, economics, marketing, accounting) are considered throughout.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "101295",
+        "number": "MGTECON 605",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "607",
+        "title": "Methods for Applied Econometrics",
+        "description": "The course provides an introduction to modern econometric methods for causal inference. We discuss classical randomized experiments as well as modern methods for experimentation. We als discuss observational methods for cross section settings, including matching, propensity score methods and doubly robust methods. We also cover methods for dealing with selection on unobservables, including regression discontinuity designs, instrumental variables. We also discuss methods for panel data settings including fixed effect methods, difference-in-differences and synthetic controls.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "223990",
+        "number": "MGTECON 607",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "608",
+        "title": "Multiperson Decision Theory",
+        "description": "Students and faculty review and present recent research papers on basic theories and economic applications of decision theory, game theory and mechanism design. Applications include market design and analyses of incentives and strategic behavior in markets, and selected topics such as auctions, bargaining, contracting, signaling, and computation.",
+        "repeatable": "false",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "PhD students only, with substantial background in economics and game theory. No Exam. Open to GSB PhD students. Non-GSB students: See gsb.stanford.edu/NonGSBReg. P/F Mandatory. Cross-listed as ECON 290. Mandatory attendance. Absences impact grade. Workshop.",
+                "classId": "31171",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wilson, R.",
+                                "sunet": "rwilson"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "209212",
+        "number": "MGTECON 608",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "610",
+        "title": "Macroeconomics",
+        "description": "This course covers various topics in macroeconomics and is designed to expose students to macroeconomic methods, classic papers in the field, and the latest research at the frontier. The current focus is on economic growth. Using theoretical and empirical tools, we consider questions like: How do we understand long-run growth in per capita income? Why are some countries so much richer than others? Other topics include misallocation as a source of TFP differences, the direction of technical change, growth and the environment, the rise in health spending, patenting, and international trade. This course satisfies the GSB PhD macro requirement.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. Open to GSB PhD students. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Mandatory attendance. Absences impact grade. Projects/Papers 100%. P/F Allowed. Cross-listed as ECON 233. Case and Problem Discussion.",
+                "classId": "30755",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": "320-221",
+                        "instructors": [
+                            {
+                                "name": "Klenow, P.",
+                                "sunet": "klenow"
+                            },
+                            {
+                                "name": "Jones, C.",
+                                "sunet": "chadj"
+                            },
+                            {
+                                "name": "Flores-Solano, J.",
+                                "sunet": "jj3715"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "210233",
+        "number": "MGTECON 610",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "612",
+        "title": "Advanced Macroeconomics II",
+        "description": "This is an advanced class on monetary economics. We cover empirical evidence, neoclassical models, recent advances in New Keynesian models, monetary policy with heterogeneous agents and financial frictions, alternative models of price setting and other topics.  Students enrolled in MGTECON612 take the class for 4 units. Students develop a research proposal and present it to the instructors as the final exam. Prerequisite: Satisfaction of the economics department's core macro requirement or consent of the instructors.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "217302",
+        "number": "MGTECON 612",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "616",
+        "title": "Topics in Microeconomic Theory",
+        "description": "This course covers foundational topics in microeconomic theory and is suitable for students who have completed the first year of their PhD studies and have taken a game theory or an advanced applied theory course. Sample topics include the notions of interactive knowledge and beliefs of economic agents, epistemics of solution concepts, strategies in continuous time and (adversarial) prediction testing. The course combines lectures with workshop sessions where students confront related research-type problems. Students are asked to present their original solutions to the class and are expected to participate in class discussions.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "207947",
+        "number": "MGTECON 616",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "617",
+        "title": "Heterogeneity in Macroeconomics (ECON 237)",
+        "description": "The goal of this course is to introduce students to frontier research in quantitative macroeconomics and finance with heterogeneous agents. We study models with imperfect financial markets and/or search frictions. We emphasize theory and numerical methods as well as tools to confront model predictions with both micro and macro data. Potential applications cover a wide range of topics in household finance, corporate finance and firm dynamics, asset pricing, housing and labor markets, business cycles and growth. (Same as MGTECON 617)",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "210756",
+        "number": "MGTECON 617",
+        "units": [
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "617",
+        "title": "Heterogeneity in Macroeconomics and Finance",
+        "description": "The goal of this course is to introduce students to frontier research in quantitative macroeconomics and finance with heterogeneous agents. We study models with imperfect financial markets and/or search frictions. We emphasize theory and numerical methods as well as tools to confront model predictions with both micro and macro data. Potential applications cover a wide range of topics in household finance, corporate finance and firm dynamics, asset pricing, housing and labor markets, business cycles and growth.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "No Exam. Open to GSB PhD students. P/F Not Allowed. Non-GSB students: See gsb.stanford.edu/NonGSBReg. 5 Group Projects/Papers. Mandatory attendance. Absences impact grade. Projects/Papers 100%. Seminar.",
+                "classId": "31484",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Schneider, M.",
+                                "sunet": "schneidr"
+                            },
+                            {
+                                "name": "Tonetti, C.",
+                                "sunet": "tonetti"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217303",
+        "number": "MGTECON 617",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "618",
+        "title": "Social Insurance and Urban Economics",
+        "description": "The course covers various topics relating to social insurance and urban economics. The first half of the course covers the rationale for government interventions into private insurance markets, adverse selection, social insurance design and the intersection between social insurance and intra-family insurance. The second half of the course covers topics in urban economics, such as spatial equilibrium, placed-based policies, and housing policy.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "218942",
+        "number": "MGTECON 618",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "626",
+        "title": "Continuous-time Methods in Economics and Finance (ECON 294)",
+        "description": "Continuous-time methods can, in many cases, lead to more powerful models to understand economic phenomena. The Black-Scholes option-pricing formula is significantly more tractable than discrete- time methods of option pricing based on binomial trees. There is an established tradition in continuous-time asset pricing, and there is increasing use of these methods in other fields, such as game theory, contract theory, market microstructure and macroeconomics. The goal of this class is to explore some of the old classic research as well as new economic models, and to discover areas of economics where continuous-time methods can help. The intention is to give graduate students a tool, which they can use to gain comparative advantage in their research, when they see appropriate. With this goal in mind, 25% of the class will focus on mathematics, but with economically relevant examples to illustrate the mathematical results. Up to one half of the class will cover established models, and the rest will focus on new papers. If students have their own work that uses continuous time, we can take a look at that as well. Coursework will include biweekly problem sets and a take-home final exam. There will also be room for short student presentations (related to homework assignments, economic papers, or definitions and results related to specific math concepts).",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "219935",
+        "number": "MGTECON 626",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "628",
+        "title": "Reading Group in Industrial Organization",
+        "description": "This course meets weekly on Fridays at Noon.  The primary purpose of the course is to read and discuss current working papers in Industrial Organization and related fields (e.g., Econometrics, Marketing, and Labor).  Students are required to present papers a couple of times per quarter and both students and faculty may also present their own working papers.",
+        "repeatable": "true",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "Participation 100%. No Exam. Open to GSB PhD students. Mandatory attendance. Absences impact grade. P/F Allowed. MBA and MSx students need instructor permission. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Workshop.",
+                "classId": "30993",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            },
+                            {
+                                "name": "Flores, K.",
+                                "sunet": "kmflores"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 46800.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212609",
+        "number": "MGTECON 628",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "629",
+        "title": "Faculty Research Workshop",
+        "description": "Each week, a different economics faculty member will discuss his or her important and /or current research. The course is an important introduction to PhD level research topics and techniques. Attendance is mandatory.",
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Participation 100%. No Exam. Open to GSB PhD students. P/F Mandatory. Mandatory attendance. Absences impact grade. Not Open to Non-GSB Students. Seminar.",
+                "classId": "30994",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "8:15:00 AM",
+                        "endTime": "11:15:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shaw, K.",
+                                "sunet": "kathryns"
+                            },
+                            {
+                                "name": "Smeton, K.",
+                                "sunet": "ktsmeton"
+                            }
+                        ],
+                        "startTimestamp": 29700.0,
+                        "endTimestamp": 40500.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101322",
+        "number": "MGTECON 629",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "630",
+        "title": "Industrial Organization",
+        "description": "This is an introductory course in Industrial Organization. The goal is to provide broad general training in the field, introducing you to the central questions around imperfect competition, market structure, innovation and regulation, as well as the models and empirical methods commonly used to tackle these questions.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. Cross-listed as ECON 257. Open to GSB PhD students. P/F Not Allowed. Participation 30% Projects/Papers 70%. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Mandatory attendance. Absences impact grade. MBA and MSx students need instructor permission. Case and Problem Discussion.",
+                "classId": "30858",
+                "currentClassSize": "0",
+                "maxClassSize": "13",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "Sequoia Hall 200",
+                        "instructors": [
+                            {
+                                "name": "Einav, L.",
+                                "sunet": "leinav"
+                            },
+                            {
+                                "name": "Somaini, P.",
+                                "sunet": "soma"
+                            },
+                            {
+                                "name": "Cuesta, J.",
+                                "sunet": "jicuesta"
+                            },
+                            {
+                                "name": "Kankolongo Ngoba, N.",
+                                "sunet": "ngb2812"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219735",
+        "number": "MGTECON 630",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "634",
+        "title": "Machine Learning and Causal Inference",
+        "description": "This course will cover statistical methods based on the machine learning literature that can be used for causal inference. In economics and the social sciences more broadly, empirical analyses typically estimate the effects of counterfactual policies, such as the effect of implementing a government policy, changing a price, showing advertisements, or introducing new products. This course will review when and how machine learning methods can be used for causal inference, and it will also review recent modifications and extensions to standard methods to adapt them to causal inference and provide statistical theory for hypothesis testing. We consider causal inference methods based on randomized experiments as well as observational studies, including methods such as instrumental variables and those based on longitudinal data. We consider the estimation of average treatment effects as well as personalized policies. Lectures will focus on theoretical developments, while classwork will consist primarily of empirical applications of the methods.  Prerequisites: Prior coursework in empirical methods for causal inference in observational studies, including instrumental variables, fixed effects modeling, regression discontinuity designs, etc. Students should be comfortable reading and engaging with empirical research in economics or related fields.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "217785",
+        "number": "MGTECON 634",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "640",
+        "title": "Quantitative Methods for Empirical Research",
+        "description": "This is an advanced course on quantitative methods for empirical research. Students are expected to have taken a course in linear models before. In this course I will discuss modern econometric methods for nonlinear models, including maximum likelihood and generalized method of moments. The emphasis will be on how these methods are used in sophisticated empirical work in social sciences. Special topics include discrete choice models and methods for estimating treatment effects.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. Open to GSB PhD students. P/F Not Allowed. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Mandatory attendance. Absences impact grade. Cross-listed as ECON 292. Case and Problem Discussion.",
+                "classId": "30995",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Imbens, G.",
+                                "sunet": "imbens"
+                            },
+                            {
+                                "name": "Flores, K.",
+                                "sunet": "kmflores"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213865",
+        "number": "MGTECON 640",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "652",
+        "title": "Personnel Economics",
+        "description": "This seminar will examine applications of labor economics to business issues and firms' practices. Material will include both theoretical and empirical work, and the syllabus will range from classics in Personnel Economics to current (unpublished) research. Some of the topics to be covered include, but are not limited to, compensation practices, assignment of decision rights, organizational structure, attracting, retaining, and displacing employees, and workplace practices (such as team-based organization, profit sharing, etc.)",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "203463",
+        "number": "MGTECON 652",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "691",
+        "title": "PhD Directed Reading (ACCT 691, FINANCE 691, GSBGEN 691, HRMGT 691, MKTG 691, OB 691, OIT 691, POLECON 691, STRAMGT 691)",
+        "description": "This course is offered for students requiring specialized training in an area not covered by existing courses. To register, a student must obtain permission from the faculty member who is willing to supervise the reading.",
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "1",
+        "unitsMax": "15",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30321",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "32188",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31861",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "1160",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "30323",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "32190",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31863",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "1162",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "30325",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "32192",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31865",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "1164",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "30322",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "32189",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31862",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "1161",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "30324",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "32191",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31864",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "1163",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101403",
+        "number": "MGTECON 691",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "totalSections": 112
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "692",
+        "title": "PhD Dissertation Research (ACCT 692, FINANCE 692, GSBGEN 692, HRMGT 692, MKTG 692, OB 692, OIT 692, POLECON 692, STRAMGT 692)",
+        "description": "This course is elected as soon as a student is ready to begin research for the dissertation, usually shortly after admission to candidacy. To register, a student must obtain permission from the faculty member who is willing to supervise the research.",
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "1",
+        "unitsMax": "15",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30340",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32207",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31880",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1179",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30341",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32208",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31881",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1180",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32209",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31882",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30342",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1181",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32210",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31883",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30343",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1182",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32211",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31884",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30344",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1183",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101406",
+        "number": "MGTECON 692",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "totalSections": 112
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "698",
+        "title": "Doctoral Practicum in Teaching",
+        "description": "Doctoral Practicum in Teaching",
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30249",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "32116",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31789",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "1088",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "30250",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "32117",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31790",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "1089",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "30251",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "32118",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31791",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "1090",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "30252",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "32119",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31792",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "1091",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "30253",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "32120",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31793",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "1092",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217376",
+        "number": "MGTECON 698",
+        "units": [
+            1
+        ],
+        "totalSections": 112
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "699",
+        "title": "Doctoral Practicum in Research",
+        "description": "Doctoral Practicum in Research",
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30270",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31810",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "32137",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "1109",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "30271",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "31811",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "32138",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "1110",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "30272",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "31812",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "32139",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "1111",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "30273",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "31813",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "32140",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "1112",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Athey, S.",
+                                "sunet": "athey"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "30274",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "31814",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "32141",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "1113",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217383",
+        "number": "MGTECON 699",
+        "units": [
+            1
+        ],
+        "totalSections": 112
+    },
+    {
+        "year": "2023-2024",
+        "subject": "MGTECON",
+        "code": "802",
+        "title": "TGR Dissertation (ACCT 802, FINANCE 802, GSBGEN 802, HRMGT 802, MKTG 802, OB 802, OIT 802, POLECON 802, STRAMGT 802)",
+        "description": null,
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30297",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31837",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32164",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1136",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30298",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31838",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32165",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1137",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Akbarpour, M.",
+                                "sunet": "mohamwad"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31839",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32166",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30299",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1138",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allende Santa Cruz, C.",
+                                "sunet": "callende"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30300",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31840",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32167",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1139",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "31841",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "32168",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30301",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Summer",
+                "termId": "1248",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "1140",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Benkard, L.",
+                                "sunet": "lanierb"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "101410",
+        "number": "MGTECON 802",
+        "units": [
+            0
+        ],
+        "totalSections": 112
+    }
+]

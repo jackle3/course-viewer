@@ -1,0 +1,3033 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "201",
+        "title": "Foundations of Clinical Medicine",
+        "description": "This course explores fundamental concepts of biochemistry, genetics, microbiology, and immunology as applied to clinical medicine in a mostly &quot;flipped classroom&quot; format. This course will help to establish a foundation for understanding the pathophysiology of disease and the targets for therapeutic interventions. Discipline topics include: Biochemistry: thermodynamics, enzyme kinetics, vitamins and cofactors, metabolism of carbohydrates, lipids, amino acids and nucleotides, and the integration of metabolic pathways. Genetics: basic principles of inheritance and risk assessment, illustrated with the use of clinical examples from many areas of medicine including prenatal, pediatric, adult and cancer genetics. Microbiology: Basic bacteriology, virology, mycology and parasitology, including pathogenesis and clinical scenarios associated with infectious diseases. Immunology: concepts and applications of adaptive and innate immunity and the role of the immune system in human disease. Enrollment is limited to MSPA students.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "24724",
+                "currentClassSize": "29",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "10:30:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nevins, A.",
+                                "sunet": "anevins"
+                            },
+                            {
+                                "name": "Liu, A.",
+                                "sunet": "anneliu"
+                            },
+                            {
+                                "name": "Campion, M.",
+                                "sunet": "mcampion"
+                            },
+                            {
+                                "name": "Academia, J.",
+                                "sunet": "academia"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 37800.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219496",
+        "number": "PAS 201",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "202",
+        "title": "Foundations of Clinical Neurosciences",
+        "description": "Foundations of Clinical Neurosciences introduces students to the structure and function of the nervous system, including neuroanatomy and neurophysiology. Applications to clinical medicine and neurology are emphasized. Enrollment is limited to MSPA students. Prerequisite: PAS 201.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "26818",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nevins, A.",
+                                "sunet": "anevins"
+                            },
+                            {
+                                "name": "Bloom, C.",
+                                "sunet": "cla229"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LEC",
+                "notes": "Mondays from 8:30am - 11:30am.",
+                "classId": "28109",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221777",
+        "number": "PAS 202",
+        "units": [
+            2
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "212",
+        "title": "Principles of Clinical Medicine I",
+        "description": "This is the first in a four-course sequence presenting organ-system based physiology, pathology and pathophysiology. Each organ-specific block includes a review of the anatomy and related histology, normal function of that organ system, how the organ system is affected by and responds to disease, and how diseases of that organ system are treated. In PAS 212, the focus is on the structure, function, disease and corresponding therapeutics of several &quot;primary care&quot; topics, particularly the musculoskeletal and dermatologic systems. In addition, basic neurology, otorhinolaryngology, and ophthalmology will be covered.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "8",
+        "unitsMax": "8",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Tues/Thurs/Fri from 8:30am - 11:30am.",
+                "classId": "26287",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Anderson, C.",
+                                "sunet": "chada"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219495",
+        "number": "PAS 212",
+        "units": [
+            8
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "213A",
+        "title": "Principles of Clinical Medicine II",
+        "description": "This is the second in a four-course sequence presenting organ-system based physiology, pathology and pathophysiology. Each organ-specific block includes a review of the anatomy and related histology, normal function of that organ system, how the organ system is affected by and responds to disease, and how diseases of that organ system are treated. In PAS 213A, the focus is on the structure, function, disease, and corresponding therapeutics of the pulmonary systems.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "25977",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Larsen, R.",
+                                "sunet": "rlarsen2"
+                            },
+                            {
+                                "name": "Jameson, S.",
+                                "sunet": "smf14"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219494",
+        "number": "PAS 213A",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "213B",
+        "title": "Principles of Clinical Med II",
+        "description": "This is the second in a four-course sequence presenting organ-system based physiology, pathology and pathophysiology. Each organ-specific block includes a review of the anatomy and related histology, normal function of that organ system, how the organ system is affected by and responds to disease, and how diseases of that organ system are treated. In PAS 213, the focus is on the structure, function, disease, and corresponding therapeutics of the pulmonary and cardiovascular systems.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "225618",
+        "number": "PAS 213B",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "214",
+        "title": "Principles of Clinical Medicine III",
+        "description": "This is the third in a four-course sequence presenting organ-system based physiology, pathology, and pathophysiology.  Each organ-specific block includes a review of the anatomy and related histology, normal function of that organ system, how the organ system is affected by and responds to disease, and how diseases of that organ system are treated.  In PAS 213, the focus is on the structure, function, disease, and corresponding therapeutics of the renal, gastroenterological, endocrine, and reproductive systems.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "12",
+        "unitsMax": "12",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "We will meet in LK306 unless otherwise instructed.",
+                "classId": "24939",
+                "currentClassSize": "28",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nelson, C.",
+                                "sunet": "cnelson2"
+                            },
+                            {
+                                "name": "Academia, J.",
+                                "sunet": "academia"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Tuesday Thursday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220474",
+        "number": "PAS 214",
+        "units": [
+            12
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "215",
+        "title": "Principles of Clinical Medicine IV",
+        "description": "This is the fourth in a four-course sequence presenting organ-system based physiology, pathology, and pathophysiology.  Each organ-specific block includes a review of the anatomy and related histology, normal function of that organ system, how the organ system is affected by and responds to disease, and how diseases of that organ system are treated.  In PAS 214, the focus is on the structure, function, disease, and corresponding therapeutics of the neurologic, psychiatric, hematologic, oncologic, and autoimmune/rheumatologic systems.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "10",
+        "unitsMax": "10",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "26541",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Burwell, N.",
+                                "sunet": "nbb16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220476",
+        "number": "PAS 215",
+        "units": [
+            10
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "222",
+        "title": "Clinical Therapeutics I",
+        "description": "This course will provide a foundation for learning pharmacology and clinical therapeutics/disease state management related to subjects covered in the Principles of Clinical Medicine I course. The first segment will cover general pharmacokinetic/pharmacodynamic principles and review drug-drug interaction principles.  Disease state topics will include skin and soft tissue infections, dermatological disorders, bone/joint disorders, and ENT conditions.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Schedule is subject to change.",
+                "classId": "26288",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:30:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ip, E.",
+                                "sunet": "ericip"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55800.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219498",
+        "number": "PAS 222",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "223",
+        "title": "Clinical Therapeutics II",
+        "description": "This course will provide a foundation for learning pharmacology and clinical therapeutics/disease state management for cardiovascular and pulmonary diseases as covered in the Principles of Clinical Medicine II course. Disease state topics will include asthma, COPD, hypertension, hyperlipidemia, coronary artery disease, acute coronary syndrome, heart failure, arrhythmias, and pneumonia.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "25978",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ip, E.",
+                                "sunet": "ericip"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219497",
+        "number": "PAS 223",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "224",
+        "title": "Clinical Therapeutics III",
+        "description": "This course will provide a foundation for learning pharmacology and clinical therapeutics/disease state management for renal, endocrine, GI, and reproductive systems as covered in the Principles of Clinical Medicine III course. Disease state topics will include renal function and fluid/electrolytes, diabetes mellitus, osteoporosis, chronic kidney disease, thyroid disorders, contraception, viral hepatitis, GERD/PUD, constipation/diarrhea, clostridium difficile colitis, sexually transmitted infections, HIV, men&iquest;s health, and menopause.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "31333",
+                "currentClassSize": "28",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ip, E.",
+                                "sunet": "ericip"
+                            },
+                            {
+                                "name": "Academia, J.",
+                                "sunet": "academia"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Monday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220460",
+        "number": "PAS 224",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "225",
+        "title": "Clinical Therapeutics IV",
+        "description": "This course will provide a foundation for learning pharmacology and clinical therapeutics/ disease state management for neurologic, psychiatric, and hematologic conditions as covered in the Principles of Clinical Medicine IV course. Disease state topics will include headache, stroke, sleep disorders, delirium, Parkinson&iquest;s, venous thromboembolism, epilepsy, schizophrenia, depression, bipolar disorder, ADHD, anxiety disorders, and chronic pain management.  A general overview of cancer drugs such as chemotherapies, antimetabolites, antitumor antibiotics, and other anticancer drugs is also provided.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "26540",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:30:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ip, E.",
+                                "sunet": "ericip"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55800.0,
+                        "days": "Monday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220468",
+        "number": "PAS 225",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "255",
+        "title": "Introduction to Qualitative Research I",
+        "description": "This course will provide the physician assistant student with an introduction to qualitative manuscripts, describing types of qualitative research methods, and discussing their own tentative qualitative research questions/designs.Prerequisites: Enrollment in the Master of Science in Physician Assistant Studies program",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "26887",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nasr, A.",
+                                "sunet": "anasr"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222162",
+        "number": "PAS 255",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "256",
+        "title": "Introduction to Qualitative Research II",
+        "description": "This course will provide the physician assistant students with an introduction to qualitative research methods, specifically data analysis, with significant time focused on thematic analysis coding. This course focuses on analysis of students' individual qualitative data sets. Prerequisites: successful completion of PAS 255. Additionally, students should not enroll in this course unless they will have IRB approval and qualitative data available for analysis prior to the start of the course.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "25366",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "5:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nasr, A.",
+                                "sunet": "anasr"
+                            },
+                            {
+                                "name": "Ip, E.",
+                                "sunet": "ericip"
+                            },
+                            {
+                                "name": "Academia, J.",
+                                "sunet": "academia"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 61200.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222586",
+        "number": "PAS 256",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "257",
+        "title": "Introduction to Quantitative Research I",
+        "description": "This course will provide the physician assistant student with an introduction to quantitative research, describing types of common statistical tests and quantitative research methods, and discussing their own tentative quantitative research questions. Prerequisites: Enrollment in the Master of Science in Physician Assistant Studies program",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "27598",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hampton, M.",
+                                "sunet": "mhampton"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223932",
+        "number": "PAS 257",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "258",
+        "title": "Quantitative Research II",
+        "description": "This course will provide the PA student with further study in quantitative research, building on the foundation set in PAS 257.  Students will continue exploring types of common statistical tests and quantitative research methods, and discussing their own tentative quantitative research questions. Prerequisites: Successful completion of PAS 257.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "31527",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "2:30:00 PM",
+                        "endTime": "4:30:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ip, E.",
+                                "sunet": "ericip"
+                            },
+                            {
+                                "name": "Academia, J.",
+                                "sunet": "academia"
+                            }
+                        ],
+                        "startTimestamp": 52200.0,
+                        "endTimestamp": 59400.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225619",
+        "number": "PAS 258",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "282",
+        "title": "AHEC Scholars Program",
+        "description": "Acceptance into the AHEC Scholars Program.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "26869",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222143",
+        "number": "PAS 282",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "291",
+        "title": "PAs in Health Care I",
+        "description": "This course provides an overview of the PA profession. The first portion of the course covers the history of the PA profession, the role of the PA within the health care team, and an overview of the laws, regulations and committees that provide oversight to the profession. The second portion of the course focuses on health disparities, social determinants of health and undeserved communities, and the role of the PA in the care of these populations. It includes development of the awareness, knowledge, and skills needed in order to practice culturally competent and sensitive health care.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "We will meet in LK308 unless otherwise instructed.",
+                "classId": "24725",
+                "currentClassSize": "29",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:00:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Larsen, R.",
+                                "sunet": "rlarsen2"
+                            },
+                            {
+                                "name": "Jameson, S.",
+                                "sunet": "smf14"
+                            },
+                            {
+                                "name": "Academia, J.",
+                                "sunet": "academia"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 39600.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219504",
+        "number": "PAS 291",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "292",
+        "title": "PAs in Health Care II",
+        "description": "The PAHC II course provides an opportunity to learn advanced clinical skills and provides an introduction to clerkships. Students will be provided an overview on several clerkships. They will learn telemedicine skills, suturing, and advanced cardiac life support. In addition, lectures on special considerations for caring for pediatric and geriatric patients as well as caring for patients at end-of-life will be provided.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "We will meet on most Fridays from 1:30-5:20pm otherwise instructed. Please refer to syllabus for varying room assignments. We will be in LK306 for lectures and the ILC or Fleischmann Labs for workshops.",
+                "classId": "24938",
+                "currentClassSize": "28",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "5:30:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Jameson, S.",
+                                "sunet": "smf14"
+                            },
+                            {
+                                "name": "Academia, J.",
+                                "sunet": "academia"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 63000.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220471",
+        "number": "PAS 292",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "293",
+        "title": "PAs in Health Care III",
+        "description": "The PAs in Health Care III course builds upon the topics presented in the PAs in Health Care II course.  Students will learn additional advanced clinical skills, and will learn about the remaining clerkships required as part of the MSPA program.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "220545",
+        "number": "PAS 293",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "294",
+        "title": "PAs in Healthcare IV",
+        "description": "The final course in the PAs in Health Care series will provide students with the skills necessary for transition from PA student to practicing PA and will continue to expand on leadership skills. One portion of the course will focus on preparation from the transition to clinical practice, which will include requirements for licensure and certification, medical liability, billing and coding, and ethics. Another thread will consist of lectures on advanced and novel topics in medicine. Additionally, there will be a thread for development of leadership skills and advocacy. The culmination of the Thesis/Capstone project will also occur during this course, as will summative exams (Q9).",
+        "repeatable": "true",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "31763",
+                "currentClassSize": "28",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "12:30:00 PM",
+                        "location": "Li Ka Shing Center, rms203/204",
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            },
+                            {
+                                "name": "Wijesinghe, S.",
+                                "sunet": "samwije"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 45000.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221252",
+        "number": "PAS 294",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "299",
+        "title": "Directed Reading in PA Studies",
+        "description": "Faculty and students collaborate to design an individualized study course in one or more selected topics in physician assistant studies. Prerequisites: Successful completion of PAS 214",
+        "repeatable": "true",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "1",
+        "unitsMax": "10",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28128",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30181",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29984",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "25657",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222141",
+        "number": "PAS 299",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "totalSections": 4
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "301",
+        "title": "Internal Medicine Clerkship I",
+        "description": "Teaches the natural history, pathophysiology, diagnosis, and treatment of a wide range of medical illnesses. Emphasis is placed on acquiring the understanding, skills, and attitudes desirable in a scientific and compassionate PA.  Students will perform histories and physical examinations, identify appropriate orders, order and interpret appropriate diagnostics studies to develop a differential diagnosis, and interpret information gathered from the patient assessment data to formulate a patient-centered treatment plan.  Developing sound clinical reasoning skills is continuously emphasized.  Students will be able to provide an accurate verbal presentation to the rotation preceptor, counsel patients about therapeutic procedures; and help to coordinate medical consultations by sub-specialty providers as needed to take appropriate care. Students will follow the progress of patients through their hospitalization, write a note appropriate for the patient&iquest;s medical record and develop a discharge plan. Students will attend and participate in medical rounds and conferences.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "27958",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "30038",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "29796",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25176",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26806",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "10",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26313",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220530",
+        "number": "PAS 301",
+        "units": [
+            6
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "302",
+        "title": "Internal Medicine Clerkship II",
+        "description": "Teaches the natural history, pathophysiology, diagnosis, and treatment of a wide range of medical illnesses. Emphasis is placed on acquiring the understanding, skills, and attitudes desirable in a scientific and compassionate PA.  Students will perform histories and physical examinations, identify appropriate orders, order and interpret appropriate diagnostics studies to develop a differential diagnosis, and interpret information gathered from the patient assessment data to formulate a patient-centered treatment plan.  Developing sound clinical reasoning skills is continuously emphasized.  Students will be able to provide an accurate verbal presentation to the rotation preceptor, counsel patients about therapeutic procedures; and help to coordinate medical consultations by subspecialty providers as needed to take appropriate care. Students will follow the progress of patients through their hospitalization, write a note appropriate for the patient&iquest;s medical record and develop a discharge plan. Students will attend and participate in medical rounds and conferences.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "27959",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "30039",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "29797",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25177",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26807",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "10",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26314",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220531",
+        "number": "PAS 302",
+        "units": [
+            6
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "303",
+        "title": "Family Medicine/ Primary Care Medicine I",
+        "description": "During the outpatient medicine rotation students will be involved in the initial and ongoing assessment of patients in all age groups. In addition to routine health maintenance, students will become familiar with common primary care and urgent care problems. Students will be responsible for taking medical histories, performing physical examinations, ordering appropriate diagnostic testing, interpreting results and forming a plan. The student will provide an accurate, pertinent and time-effective verbal presentation to the rotation preceptor and will write an accurate note suitable for inclusion in the patient's medical record. Patient education, counseling, and coordination of additional resources for patient care will also be included. The outpatient medicine rotations may take place in private offices, family practices, urgent care clinics, hospitals, or other ambulatory care clinics.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "27960",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "30040",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "29798",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25178",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26808",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "10",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26315",
+                "currentClassSize": "0",
+                "maxClassSize": "21",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220532",
+        "number": "PAS 303",
+        "units": [
+            6
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "304",
+        "title": "Family Medicine/ Primary Care Medicine II",
+        "description": "During the outpatient medicine rotation students will be involved in the initial and ongoing assessment of patients in all age groups. In addition to routine health maintenance, students will become familiar with common primary care and urgent care problems. Students will be responsible for taking medical histories, performing physical examinations, ordering appropriate diagnostic testing, interpreting results and forming a plan. The student will provide an accurate, pertinent and time-effective verbal presentation to the rotation preceptor and will write an accurate note suitable for inclusion in the patient's medical record. Patient education, counseling, and coordination of additional resources for patient care will also be included. The outpatient medicine rotations may take place in private offices, family practices, urgent care clinics, hospitals, or other ambulatory care clinics.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "27961",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "30041",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "29799",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25184",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26817",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "10",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26316",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220533",
+        "number": "PAS 304",
+        "units": [
+            6
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "311",
+        "title": "Pediatrics",
+        "description": "The Pediatrics rotation will take place in outpatient pediatric clinics and private pediatric offices. The clerkship provides an introduction to a wide range of clinical problems in pediatrics and arms students with the basic skills needed to work with children and families.  The rotation will emphasize caring for a child from birth through late adolescence. Students will assess, evaluate and develop a patient-centered treatment plan according to published guidelines when appropriate. Students will provide an accurate verbal presentation to the rotation preceptor and write an accurate note suitable for inclusion in the patient's medical record. The rotation will stress diagnosis and treatment of common childhood illnesses and assessment of growth and development. Students will develop skills to counsel parents about well-visits, immunizations, nutrition, growth and development.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "27962",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "30042",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "29800",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25179",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26809",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "10",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26317",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220534",
+        "number": "PAS 311",
+        "units": [
+            6
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "320",
+        "title": "Surgery",
+        "description": "Provides PA students with clinical experience in the evaluation and treatment of a wide variety of surgical diseases. Emphasis is placed on teaching students to recognize and manage basic clinical problems. As members of the surgical team, students participate in preoperative management, including patient education and procedures necessary to prepare patients for surgery. Students will perform admitting histories and physical examinations, identify appropriate admitting orders for surgical patients and identify appropriate diagnostic studies required prior to surgical procedures. In the operating room setting, students will assist surgeons and have an opportunity to become familiar with protocols and equipment. Students will be involved in pre-operative, intra-operative and post-operative care. The clerkship offers an opportunity for students to integrate their knowledge of anatomy, physiology and physical diagnosis into a treatment plan for patients with surgical diseases. When possible, students attend surgical grand rounds and other surgically-oriented conferences.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "27963",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "30043",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25180",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26810",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "10",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26318",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220535",
+        "number": "PAS 320",
+        "units": [
+            6
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "321",
+        "title": "Emergency Medicine",
+        "description": "Provides students with exposure to common problems encountered in an emergency room setting. Students will be responsible for taking medical histories, performing physical examinations, ordering and interpreting appropriate diagnostic testing, performing diagnostic and therapeutic procedures as needed under appropriate supervision, and forming a patient-centered care plan for patients seen for emergent and non-emergent issues. The student will provide an accurate, pertinent and time-effective verbal presentation to the rotation preceptor and will write an accurate note suitable for inclusion in the patient's medical record. Students will identify criteria for hospital admission and coordinate the admission to the appropriate setting and service. During the Emergency Medicine rotation students may also be exposed to patients with life-threatening conditions such as cardiac/respiratory failure, trauma, shock, overdose, poisoning, allergic reactions, seizures.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "27964",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "30044",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25181",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26811",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "10",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26319",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220536",
+        "number": "PAS 321",
+        "units": [
+            6
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "331",
+        "title": "Women's Health including Prenatal and Gynecologic Care",
+        "description": "Provides the student with skills and knowledge needed to care for patients with common gynecological problems, the well-woman examination, and pregnancy from prenatal care through delivery and postpartum.  As an active member of the obstetrical and gynecological care team, students will be exposed to a wide range of common gynecological problems. They will perform histories and physical examinations, order and interpret diagnostic testing, and formulate a patient- centered treatment plan.  Emphasis is placed on history and physical examination skills in the evaluation and management of pregnancy, vaginal delivery, and both office gynecology and gynecologic surgical procedures through exposure to patients in the outpatient clinics, Labor and Delivery, and the operating room.  They will learn the role of a surgical assistant for gynecologic procedures and how to counsel patients on family planning and contraception.  For obstetrical patients, students will develop prenatal plans for uncomplicated pregnancies, assist with deliveries and develop skills to supervise and manage labor and delivery in an emergency situation.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "27965",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "30045",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25182",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26812",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "10",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26320",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220537",
+        "number": "PAS 331",
+        "units": [
+            6
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "336",
+        "title": "Behavioral Medicine/ Mental Health",
+        "description": "Provides students with exposure to a wide range of mental health issues in hospital and/or clinic-based settings.  The clerkship is designed to solidify the knowledge of psychiatry that students have acquired in the Practice of Medicine course, as students gain practical skills in the application of this knowledge to clinical situations.  Students will perform thorough histories including a mental status examination and will use tools for cognitive testing, order appropriate diagnostic studies, interpret information gathered from patient assessment data, and formulate a patient-centered treatment plan including pharmacological treatment when appropriate.  The course will also offer an overview of psychosocial and biological treatment modalities for the major psychiatric disorders.  Students will be required to recognize the various types of mental health issues that require referral to a specialist and to know which mental health problems can be handled by the non-specialist.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "27966",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "30046",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25183",
+                "currentClassSize": "3",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26813",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "10",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26321",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220539",
+        "number": "PAS 336",
+        "units": [
+            6
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "351",
+        "title": "MSPA Elective I",
+        "description": null,
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25144",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26783",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220541",
+        "number": "PAS 351",
+        "units": [
+            6
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "352",
+        "title": "MSPA Elective II",
+        "description": null,
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25145",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26784",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "CLK",
+                "notes": null,
+                "classId": "27434",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220542",
+        "number": "PAS 352",
+        "units": [
+            6
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "353",
+        "title": "MSPA Elective III",
+        "description": null,
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "6",
+        "unitsMax": "6",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "25146",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CLK",
+                "notes": null,
+                "classId": "26785",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220543",
+        "number": "PAS 353",
+        "units": [
+            6
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "399",
+        "title": "Directed Reading in PA Studies",
+        "description": "Students organize an individualized study program in physician assistant studies.",
+        "repeatable": "true",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "1",
+        "unitsMax": "10",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28129",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30182",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29985",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222142",
+        "number": "PAS 399",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "802",
+        "title": "TGR Dissertation",
+        "description": null,
+        "repeatable": "true",
+        "grading": "TGR",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "28470",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30524",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30381",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "27702",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Jameson, S.",
+                                "sunet": "smf14"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "27703",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Larsen, R.",
+                                "sunet": "rlarsen2"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "T/D",
+                "notes": null,
+                "classId": "27704",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nevins, A.",
+                                "sunet": "anevins"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "27705",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ip, E.",
+                                "sunet": "ericip"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "27706",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wright, H.",
+                                "sunet": "hwright"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "27707",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wijesinghe, S.",
+                                "sunet": "samwije"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "08",
+                "component": "T/D",
+                "notes": null,
+                "classId": "27708",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Aronson, J.",
+                                "sunet": "aronsonj"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224849",
+        "number": "PAS 802",
+        "units": [
+            0
+        ],
+        "totalSections": 10
+    },
+    {
+        "year": "2023-2024",
+        "subject": "PAS",
+        "code": "803",
+        "title": "MSPA Senior Clerkship",
+        "description": "The MSPA Senior Clerkship elective course is reserved for students who have completed all required MSPA clerkships and who desire additional training in a clinical area within the Stanford healthcare community.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "225038",
+        "number": "PAS 803",
+        "units": [
+            3
+        ]
+    }
+]

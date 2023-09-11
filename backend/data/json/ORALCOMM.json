@@ -1,0 +1,804 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "10C",
+        "title": "Debate Club",
+        "description": "Enrollment in this course is limited to students selected as members of Stanford Debate Club. All enrollees must complete at least 30 hours of participation evidenced by traveling to at least one competition during the quarter and attending regular practices. Participation must be verified by the Debate Club leadership in order to receive credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "15997",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "29417",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "215004",
+        "number": "ORALCOMM 10C",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "105",
+        "title": "Voice and Articulation Intensive for Non-Native English Speakers",
+        "description": "Workshop focusing on exercises designed to help foreign students improve their articulation and delivery in English. Work includes breath, sound, enunciation, melody, and colloquialism. Course was previously offered as CTL 105.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "208395",
+        "number": "ORALCOMM 105",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "115",
+        "title": "Voice Workshop (ORALCOMM 215)",
+        "description": "Focus is on breath, voice production, expansion of vocal range and stamina, and clarity of articulation. Geared toward public speaking including presentations, lectures, and job talks. May be taken in conjunction with ORALCOMM 117.  ORALCOMM 115/215 was previously listed as CTL 115/215.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": null,
+                "classId": "15236",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Freeland, T.",
+                                "sunet": "thomas"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": null,
+                "classId": "14985",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "200-107",
+                        "instructors": [
+                            {
+                                "name": "Freeland, T.",
+                                "sunet": "thomas"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "200988",
+        "number": "ORALCOMM 115",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "117",
+        "title": "The Art of Effective Speaking (ORALCOMM 217)",
+        "description": "The principles and practice of effective oral communication. Through formal and informal speaking activities, students develop skills framing and articulating ideas through speech. Strategies for speaking extemporaneously, preparing and delivering multimedia presentations, formulating persuasive arguments, refining critical clarity of thought, and enhancing general facility and confidence in oral self-expression.  ORALCOMM 117/217 was previously listed as CTL 117/217.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "15887",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Freeland, T.",
+                                "sunet": "thomas"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 46200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "100659",
+        "number": "ORALCOMM 117",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "118",
+        "title": "Public Speaking: Romancing the Room",
+        "description": "A practical approach to the art of public speaking. Emphasis is on developing skills in speech types including impromptu, personal experience, interviewing, demonstration, persuasive, and special occasion. Materials include videotape, texts of famous speeches, and a final dinner program of speeches. Students evaluate presentations by others. $75 materials fee. Course was previously offered as CTL 118.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "100660",
+        "number": "ORALCOMM 118",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "119",
+        "title": "Oral Communication Tutor Teaching Practicum",
+        "description": "Seminar. For students with a strong background in public speaking who wish to train as public speaking tutors for the Oral Communication Program. Readings, exercises, and supervised teaching refine speaking skills. Preparation to serve as a peer tutor in a variety of academic disciplines. Prerequisite: application and consent of instructor. Course was previously offered as CTL 119.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "15369",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "3:30:00 PM",
+                        "endTime": "5:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Allen, D.",
+                                "sunet": "doreal"
+                            },
+                            {
+                                "name": "Lie, H.",
+                                "sunet": "hlie"
+                            }
+                        ],
+                        "startTimestamp": 55800.0,
+                        "endTimestamp": 62400.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "140003",
+        "number": "ORALCOMM 119",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "120",
+        "title": "Conquering Screenfright: Presenting Online (ORALCOMM 220)",
+        "description": "This practicum in public speaking offers a supportive space for students to practice presenting online and develop their confidence and style through skills training.  To demystify the online presentation, we will explore approaches to managing speech anxiety, structuring a talk, writing for the ear, enhancing vocal technique and on-camera delivery, engaging the audience, handling the unexpected, and designing slides. Students will craft and deliver a variety of presentations over Zoom, such as an informative speech, keynote, and policy or advocacy speech.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "220641",
+        "number": "ORALCOMM 120",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "123",
+        "title": "Crafting Concept Albums: Big Tales, Small Grooves, and the Art of Musical Narrative",
+        "description": "Cultures all around the world tell the stories of their history, beliefs, and identities through song.  The Greeks set their epic tales of love, life, and death to music, Renaissance composers followed suit, and popular music artists do the same today.  In this hybrid workshop-seminar, students will explore musical narratives by analyzing seminal concept albums and then producing their own single-story album through written lyrics. Students will examine how artists use craft elements such as setting, characters, and plot, cover art, and musical form and instrumentation, then apply that learning in their own productions. Creating music, beats, soundscapes, and artwork will be encouraged, but the final project need only be a cycle of recorded, spoken song lyrics.  We&iquest;ll focus in particular on narratives of race, class, gender, and sexuality and their social implications as we examine works from artists across musical genres&iquest;from classic and punk rock artists such as Pink Floyd, David Bowie, and Green Day; to hip-hop, pop, and EDM performers such as Beyonc&eacute;, Lupe Fiasco, Janelle Mon&aacute;e, Daft Punk, and Kendrick Lamar. Students will work in groups to choose genre, develop a sense of place and time, select narrative structures, and craft lyrics.  No prior experience in music or creative writing is required.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-A-II",
+            "WAY-CE"
+        ],
+        "objectID": "222066",
+        "number": "ORALCOMM 123",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "126",
+        "title": "Oral Documentary Workshop",
+        "description": "This workshop will lead students through the process of turning interviews, archival tape, and other recorded material into an accomplished audio documentary suited for public radio and major podcasts. Students will learn how to build story out of their materials, design and create a script, edit and mix sound, and distribute their final product.  Suited especially to students returning from summer documentary and oral history research projects. Instructor Permission Required.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "15425",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:50:00 AM",
+                        "location": "Thornton 207",
+                        "instructors": [
+                            {
+                                "name": "Davis, L.",
+                                "sunet": "laurajd"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 39000.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217435",
+        "number": "ORALCOMM 126",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "127",
+        "title": "Introduction to Podcast Storytelling",
+        "description": "This introductory course is designed to teach you the fundamentals of creating narrative podcast episodes. You will learn by doing&iquest;working with a small group to produce a 5-10 minute audio story. Your work for this class will include story pitching, interviewing, scriptwriting, tracking narration, audio editing, and sound design. The assignments will include both works in progress and published episodes to help you understand the architecture of great stories. Though we focus on audio, the craft skills you&iquest;ll learn will help you create stories for any medium, including print and live performance. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29731",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29548",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "200-015",
+                        "instructors": [
+                            {
+                                "name": "Willihnganz, J.",
+                                "sunet": "jonahw"
+                            },
+                            {
+                                "name": "Davis, L.",
+                                "sunet": "laurajd"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-CE"
+        ],
+        "objectID": "219945",
+        "number": "ORALCOMM 127",
+        "units": [
+            2
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "128",
+        "title": "Stories to Save Our Planet: Transforming Climate Solutions Research Into World-Changing Stories",
+        "description": "The United Nations have called climate change the challenge of our generation. Fiorenza Micheli, Chair of Stanford Doerr School of Sustainability, says that the problems of climate change are too complex and happening so fast that we &quot;have to co-create solutions from the start to address issues in sustainability and climate.&quot; Storytelling offers us the opportunity to witness and communicate the impact of climate change and bring clarity and understanding to its solutions. This course is designed to equip students with the skills, tools, and process to transform complicated climate solutions into compelling audio stories that show us how to protect and preserve the ecosystems that sustain life. This is a hybrid class, equal parts classic seminar and creative workshop. We'll study the work of climate storytellers and activists, examine the architecture of great stories in the audio form, and develop skills for interviewing, scriptwriting, storyboarding, voiceover narration, audio editing, and sound design. Students will work in small groups and emerge from the course having produced an audio documentary, memoir, or investigative story about climate change solutions, and the knowledge, tools, and experience to become more persuasive environmental storytellers and advocates. No prior experience with story craft or media required. Interested students should submit this form: https://forms.gle/Taa9TxYKk4fRDMhr7",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15482",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Willihnganz, J.",
+                                "sunet": "jonahw"
+                            },
+                            {
+                                "name": "Davis, L.",
+                                "sunet": "laurajd"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-CE",
+            "Writing 2"
+        ],
+        "objectID": "224943",
+        "number": "ORALCOMM 128",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "129",
+        "title": "Sound Stories",
+        "description": "This seminar is designed for students interested in creating audio stories for radio, podcast, and other forms of sonic narrative. Students will examine the craft elements of the audio form, popularized by programs such as This American Life, Radiolab, and Serial including skills for interviewing, scoring, and audio editing, and will then produce their own documentary, memoir, or investigative story. This is a hybrid class, equal parts classic seminar and creative workshop. Students will work in small groups, learning how to develop material, choose an effective structure, blend dramatization and reflection, ground insights in concrete scenes, create a strong narrative arc, and manage elements such as characterization, description, and dialogue in order to create engaging stories with social impact. Recommended for students interested not only in podcasting but also creative nonfiction, documentary, film, and sound art. No prior experience with story craft or media required. Cardinal Course certified by the Haas Center for Public Service.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15928",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Willihnganz, J.",
+                                "sunet": "jonahw"
+                            },
+                            {
+                                "name": "Davis, L.",
+                                "sunet": "laurajd"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-CE"
+        ],
+        "objectID": "219958",
+        "number": "ORALCOMM 129",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "130",
+        "title": "ORALCOMM: Your American Life",
+        "description": "This small seminar is designed for students interested in creating audio stories for radio or podcast. You will examine the craft elements of the medium, popularized by programs like This American Life, Radiolab and Serial, and then produce your own documentary, memoir, or investigative story. We will explore the basic principles of strong storytelling, and you will learn how to develop your material, choose an effective structure, blend dramatization and reflection, ground insights in concrete scenes, create a strong narrative arc, and manage elements such as characterization, description, and dialogue. We will also examine craft elements unique to the audio form, and you will learn skills for interviewing, scoring, and audio editing. Students will have the opportunity to work with special guests from some of the best narrative podcasts in America. No prior experience with story craft or media required. Cardinal Course/CEL/HAAS",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-CE"
+        ],
+        "objectID": "219953",
+        "number": "ORALCOMM 130",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "176",
+        "title": "Character or Charisma? Speeches that Move, Inspire and Shape the World",
+        "description": "What makes a speech truly great? When you think about words that have impacted you, who or what texts come to mind? What can we learn from these examples to better understand the power of language and the kind of communicators we want to be? In this course, we'll explore classic and contemporary theories of persuasive communication, highlighting rhetorical techniques and patterns of argument used in moving speeches. Students will have an opportunity to analyze, discuss, and present inspirational and motivational rehetorics. This class fulfills the WR2 requirement. Prerequisite: PWR 1.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "Writing 2"
+        ],
+        "objectID": "225388",
+        "number": "ORALCOMM 176",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "177",
+        "title": "Performance of Power: Oratory and Authority from the Ancient World to the Postmodern",
+        "description": "Speech as action has long been seen as essential to leadership. Theories and examples of oratory, from Aristotle to Barack Obama, assessing each as model of voice-activated authority. The impact of mass media technologies as they transform the public space of oratory. Course was previously offered as CTL 177. This class fulfills the Writing &amp; Rhetoric 2 requirement. Prerequisite: PWR 1.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15473",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Freeland, T.",
+                                "sunet": "thomas"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15402",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": "Thornton 211",
+                        "instructors": [
+                            {
+                                "name": "Freeland, T.",
+                                "sunet": "thomas"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Writing 2"
+        ],
+        "objectID": "202143",
+        "number": "ORALCOMM 177",
+        "units": [
+            4
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "215",
+        "title": "Voice Workshop (ORALCOMM 115)",
+        "description": "Focus is on breath, voice production, expansion of vocal range and stamina, and clarity of articulation. Geared toward public speaking including presentations, lectures, and job talks. May be taken in conjunction with ORALCOMM 117.  ORALCOMM 115/215 was previously listed as CTL 115/215.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": null,
+                "classId": "15237",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Freeland, T.",
+                                "sunet": "thomas"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": null,
+                "classId": "14986",
+                "currentClassSize": "0",
+                "maxClassSize": "21",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": "200-107",
+                        "instructors": [
+                            {
+                                "name": "Freeland, T.",
+                                "sunet": "thomas"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "200988",
+        "number": "ORALCOMM 215",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "217",
+        "title": "The Art of Effective Speaking (ORALCOMM 117)",
+        "description": "The principles and practice of effective oral communication. Through formal and informal speaking activities, students develop skills framing and articulating ideas through speech. Strategies for speaking extemporaneously, preparing and delivering multimedia presentations, formulating persuasive arguments, refining critical clarity of thought, and enhancing general facility and confidence in oral self-expression.  ORALCOMM 117/217 was previously listed as CTL 117/217.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "15886",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Freeland, T.",
+                                "sunet": "thomas"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 46200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "100659",
+        "number": "ORALCOMM 217",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "219",
+        "title": "Oral Communication for Graduate Students",
+        "description": "(Formerly CTL 219.) Graduate student speaking activities such as teaching (delivering lectures, guiding discussion, and facilitating small groups), professional presentations and conference papers, and preparing for oral exams and defenses. In-class projects, discussion, and individual evaluation assist students in developing effective techniques for improving oral communication skills.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "100676",
+        "number": "ORALCOMM 219",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ORALCOMM",
+        "code": "220",
+        "title": "Conquering Screenfright: Presenting Online (ORALCOMM 120)",
+        "description": "This practicum in public speaking offers a supportive space for students to practice presenting online and develop their confidence and style through skills training.  To demystify the online presentation, we will explore approaches to managing speech anxiety, structuring a talk, writing for the ear, enhancing vocal technique and on-camera delivery, engaging the audience, handling the unexpected, and designing slides. Students will craft and deliver a variety of presentations over Zoom, such as an informative speech, keynote, and policy or advocacy speech.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "220641",
+        "number": "ORALCOMM 220",
+        "units": [
+            2
+        ]
+    }
+]

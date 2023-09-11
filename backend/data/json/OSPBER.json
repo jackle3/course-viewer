@@ -1,0 +1,3111 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "1Z",
+        "title": "Accelerated German: First and Second Quarters",
+        "description": "A jump start to the German language, enabling students with no prior German to study at the Berlin Center. Covers GERLANG 1 and 2 in one quarter.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "8",
+        "unitsMax": "8",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "14997",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kloetzer, S.",
+                                "sunet": "kloetzer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15819",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kloetzer, S.",
+                                "sunet": "kloetzer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "16020",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "106613",
+        "number": "OSPBER 1Z",
+        "units": [
+            8
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "2Z",
+        "title": "Accelerated German, Second and Third Quarters",
+        "description": "Covers GERLANG 2 and 3 in one quarter. Qualifies students for participation in an internship following the study quarter. Emphasis is on communicative patterns in everyday life and in the German work environment, including preparation for interviews.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "8",
+        "unitsMax": "8",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15111",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15811",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Stehr, C.",
+                                "sunet": "cstehr"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15251",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kloetzer, S.",
+                                "sunet": "kloetzer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "16019",
+                "currentClassSize": "0",
+                "maxClassSize": "0",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15320",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "207243",
+        "number": "OSPBER 2Z",
+        "units": [
+            8
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "3B",
+        "title": "German Language and Culture",
+        "description": "Completion and refinement of First-Year grammar, vocabulary building, reading literature and news, writing skills, esp. journal. Extensive use of current materials, such as local Berlin and national news, and emphasis on building speaking skills for everyday situations and discussions.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "15194",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15303",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15801",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "106618",
+        "number": "OSPBER 3B",
+        "units": [
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "17",
+        "title": "Split Images: A Century of Cinema",
+        "description": "20th-century German culture through film. The silent era, Weimar, and the instrumentalization of film in the Third Reich. The postwar era: ideological and aesthetic codes of DEFA, new German cinema, and post-Wende filmmaking including <i>Run Lola Run</i> and <i>Goodbye Lenin.</i> Aesthetic aspects of the films including image composition, camera and editing techniques, and relation between sound and image.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15813",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-Hum",
+            "GER:EC-GlobalCom",
+            "WAY-A-II"
+        ],
+        "objectID": "205562",
+        "number": "OSPBER 17",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "19",
+        "title": "Expressing Ideas: Academic German for 2nd year learners",
+        "description": "This class is designed for students enrolled in a 3-5 unit theme course taught in German in Berlin who have not previously taken German 21. The class focuses on vocabulary enrichment and how to articulate observations and formulate arguments, including learning figures of speech.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "15195",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kloetzer, S.",
+                                "sunet": "kloetzer"
+                            },
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            },
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "15890",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kloetzer, S.",
+                                "sunet": "kloetzer"
+                            },
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            },
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "15361",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kloetzer, S.",
+                                "sunet": "kloetzer"
+                            },
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            },
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222552",
+        "number": "OSPBER 19",
+        "units": [
+            2
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "21B",
+        "title": "Intermediate German",
+        "description": "German language skills for Intermediate students. Refinement of German grammar; vocabulary building, writing practice via journal and essays; German culture, including current news and issues, literature and films. Special emphasis on comprehension and speaking skills for discussions, everyday situations, and in-class presentations. Prerequisite: completion of first-year German.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15005",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15793",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15228",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "208028",
+        "number": "OSPBER 21B",
+        "units": [
+            4
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "22",
+        "title": "Everyday Life in a Global Metropolis: Exploring Berlin through History, Society, and Culture",
+        "description": "What is Berlin, who is a Berliner, and how have the inhabitants of this global metropolis made their city? We will seek answers to these questions by exploring central topics in everyday life - youth, music, and popular culture; food and drink; religion; nature; and the connection between history and memory. We will discuss research papers, visit sites, and talk to Berliners from different backgrounds. In this process, we will co-create a product that communicates our findings and invites our audience to engage with our answers.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "31983",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-A-II",
+            "WAY-SI"
+        ],
+        "objectID": "225170",
+        "number": "OSPBER 22",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "24B",
+        "title": "Advanced German Grammar",
+        "description": "Syntax and organizational patters (connectors, structuring and cohesive devices) for various types of texts and arguments, contrastive vocabulary practice, and reading strategies. Skills for writing well-structured critical essays,  giving effective presentations, and reading extensively as well as intensively.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "15474",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216760",
+        "number": "OSPBER 24B",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "28",
+        "title": "German Opera",
+        "description": "This course is designed to provide an introduction to opera in general and German opera in particular. The syllabus is linked specifically to productions of German operas currently being presented at Berlin's opera houses. During class we will prepare ourselves for the various performances by discussing each work in detail, looking at the libretto, analyzing the relationship between music and text, listening to recordings, and reading secondary literature. We will also share our post-performance impressions. The principal aim of the course is informed appreciation of the genre of opera.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-A-II"
+        ],
+        "objectID": "216618",
+        "number": "OSPBER 28",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "29",
+        "title": "Topics in German Music and Culture",
+        "description": "Weimar Culture  The recommended textbook for this independent study is Weimar Republic Sourcebook, ed. Anton Kaes (Berkeley: U of California P, 1994), an excellent collection of contemporaneous texts that is still in print and available as a reasonably priced paperback.  Topics for particular study could include &quot;expressionism,&quot; &quot;phenomenology,&quot; &quot;Neue Sachlichkeit,&quot; the Bauhaus, &quot;epic theater,&quot; proletarian art, and early German cinema, more or less following the organization of the Sourcebook.  The syllabus will be tailored to any relevant cultural events in Berlin and neighboring cities planned for the quarter in question.  Students will be encouraged to base their written projects on these events and on research at local archives, such as the Deutsche Kinemathek and the Bauhaus-Museum.  Trips to institutions in other cities (Dessau, Weimar, etc.) could also be considered.  Primarily in English, but some topics might require German. n nThe Symphony  Material covered in this independent study could be adjusted to the student's interest and knowledge,  depending on his/her level of musical literacy.  He/she could focus on cultural history or on more technical, analytical  issues.  The aim will be to trace the history of the genre from its roots in the early 18th century to the present day using  mainly works from the established repertory as examples.  Visits to live performances in Berlin may also be included. n nBeethoven in German Culture  Following last year's elections in Germany, the draft coalition contract included the  following statement: &quot;The 250th birthday of Ludwig van Beethoven in 2020 offers excellent opportunities for profiling  German culture at home and abroad. Preparing for this important anniversary is thus of national concern.&quot; How and why  did Beethoven become so crucially important in German culture? In trying to answer this question, the course will begin  with a survey of Beethoven's life and works, and then focus on his legacy via key moments in reception history.  Primarily  in English, but some topics might require German.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29797",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216643",
+        "number": "OSPBER 29",
+        "units": [
+            3,
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "30",
+        "title": "Berlin vor Ort: A Field Trip Module",
+        "description": "This weekly field trip course, a favorite at Stanford in Berlin since the earliest beginnings of the Program, is mandatory for all students.  It provides the optimal basis for further coursework by providing firsthand, on-site exploration of the weave of cultures and histories that we know as the city of Berlin. The course is taught in alternating quarters with a history (autumn quarters) or a cityscape (winter and spring) focus.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15019",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Jander, M.",
+                                "sunet": "mjander"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15744",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Pabsch, M.",
+                                "sunet": "pabsch"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only. n.",
+                "classId": "15238",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Pabsch, M.",
+                                "sunet": "pabsch"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "106638",
+        "number": "OSPBER 30",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "31",
+        "title": "Ways of Hearing: Exploring Berlin Through its Music",
+        "description": "Introduction to the diverse Berlin music scene and its interwoven roots, exploring the intimate connections between music and German identity. Why music of all kinds is of such profound importance in Germany and how the German musical tradition has influenced the entire world and has, in turn, integrated impulses from many different cultures. Enrollment limited.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28005",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221035",
+        "number": "OSPBER 31",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "33",
+        "title": "The Politics of Memorializing World War II",
+        "description": "This course will explore the politics of memorializing World War II specifically in the city of Berlin, as the city offers numerous examples of how the past is rendered present. Students will consider debates surrounding the Holocaust Memorial established once the Wall came down. They will engage the ethical conundrums of memorializing perpetrators along with victims, and the political issues of memorializing the resistance. Finally, memorializing mass murder and genocide also raises a number of aesthetic conundrums. All these issues will be engaged by visiting a variety of memorials in Berlin, along with an introduction to the relevant literature and documentation.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "30447",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-A-II",
+            "WAY-ER"
+        ],
+        "objectID": "223864",
+        "number": "OSPBER 33",
+        "units": [
+            3,
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "33B",
+        "title": "Discovering German Culture Through Engineered Products",
+        "description": "Around the world, German Engineering and the products that it produces are known for their excellence. The products of Mercedes, Porsche, Zeiss, Bosch, Krupp and many others are perceived as among, if not the best, examples of the products in their market segments. In this course students will learn about the various dimensions to culture and explore how the culture(s) of Germany influence the products designed, built and marketed in Germany and beyond. **Attending the first class is required for participation in the course**",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "224928",
+        "number": "OSPBER 33B",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "40M",
+        "title": "An Intro to Making: What is EE",
+        "description": "Is a hands-on class where students learn to make stuff. Through the process of building, you are introduced to the basic areas of EE. Students build a &quot;useless box&quot; and learn about circuits, feedback, and programming hardware, a light display for your desk and bike and learn about coding, transforms, and LEDs, a solar charger and an EKG machine and learn about power, noise, feedback, more circuits, and safety. And you get to keep the toys you build. Prerequisite: CS 106A.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.  This class has a $100 course fee.",
+                "classId": "15034",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Flissikowski, T.",
+                                "sunet": "flissi"
+                            },
+                            {
+                                "name": "Howe, R.",
+                                "sunet": "rthowe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15820",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Flissikowski, T.",
+                                "sunet": "flissi"
+                            },
+                            {
+                                "name": "Howe, R.",
+                                "sunet": "rthowe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15313",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Flissikowski, T.",
+                                "sunet": "flissi"
+                            },
+                            {
+                                "name": "Howe, R.",
+                                "sunet": "rthowe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SMA"
+        ],
+        "objectID": "217451",
+        "number": "OSPBER 40M",
+        "units": [
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "50M",
+        "title": "Introductory Science of Materials",
+        "description": "Topics include: the relationship between atomic structure and macroscopic properties of man-made and natural materials; mechanical and thermodynamic behavior of surgical implants including alloys, ceramics, and polymers; and materials selection for biotechnology applications such as contact lenses, artificial joints, and cardiovascular stents. No prerequisite.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29607",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29312",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-EngrAppSci",
+            "WAY-AQR",
+            "WAY-SMA"
+        ],
+        "objectID": "212686",
+        "number": "OSPBER 50M",
+        "units": [
+            4
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "55",
+        "title": "Music and Society: Perspectives from Berlin",
+        "description": "This course examines music's place in society - its production, its consumption, and its contested role in social relations and structures. Why do we prefer certain songs, artists, and musical genres over others? How do we 'use' music to signal group membership and create social categories like class, race, ethnicity, and gender? How does music perpetuate, but also challenge, broader inequalities? Why do some songs become hits? What effects are technology and digital media having on the ways we experience and think about music? Course readings and lectures will explore the various answers to these questions by introducing students to key concepts and ideas. Class time will be spent moving between core theories, listening sessions, discussion of current musical events, and an interrogation of students' own musical experiences. Students will undertake short research and writing assignments that call on them to make sense of music in their own lives, in the lives of others, and in society at large.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "31973",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Stuart, F.",
+                                "sunet": "fstuart"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-A-II",
+            "WAY-SI"
+        ],
+        "objectID": "225120",
+        "number": "OSPBER 55",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "60",
+        "title": "Cityscape as History: Architecture and Urban Design in Berlin",
+        "description": "Diversity of Berlin's architecture and urban design resulting from its historical background. Architect Ludwig Mies van der Rohe and his artistic ancestors. Role of the cultural exchange between Germany and the U.S. Changing nature of the city from the 19th century to the present.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15026",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Pabsch, M.",
+                                "sunet": "pabsch"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-Hum",
+            "WAY-A-II"
+        ],
+        "objectID": "207495",
+        "number": "OSPBER 60",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "64",
+        "title": "Film and Writing",
+        "description": "German culture through film. Sensitivity for film structure through creative writing tutorials and screening workshops. Composition and narrative structure (storyline, suspense, character development). Screen-writing exercises.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "29262",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "204207",
+        "number": "OSPBER 64",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "66",
+        "title": "Theory from the Bleachers: Reading German Sports and Culture",
+        "description": "German culture past and present through the lens of sports. Intellectual, societal, and historical-political contexts. Comparisons to Britain, France, and the U.S. The concepts of <i>K&ouml;rperkultur, Leistung, Show, Verein,</i> and <i>Haltung</i>. Fair play, the relation of team and individual, production and deconstruction of sports heroes and heroines, and sports nationalism. Sources include sports narrations and images, attendance at sports events, and English and German texts. Will be taught in German if there are enough students with sufficient knowledge of German.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15822",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Junghanns, W.",
+                                "sunet": "junghann"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-SocSci",
+            "WAY-A-II"
+        ],
+        "objectID": "200381",
+        "number": "OSPBER 66",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "67",
+        "title": "Human Medical Research: Design and Ethics, a focus on Women's Health",
+        "description": "Human treatment has evolved through experimentation. Ideas to influence nature's course to accelerate healing which were initially promulgated through anecdotal accounts are now rigorously tested in scientifically designed studies. In this seminar, we will explore the dual role of the investigator, to translate scientific questions into experiments and to consider the potential moral implications of the experiment. In weekly, two-session seminars, we will use published research studies to explore whether the theoretical constructs underlying the proposal are scientifically grounded and which ethical issues might be involved.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "30395",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-ER",
+            "WAY-SMA"
+        ],
+        "objectID": "225115",
+        "number": "OSPBER 67",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "70",
+        "title": "The Long Way to the West: German History from the 18th Century to the Present",
+        "description": "Battles still current within Germany's collective memory. Sources include the narrative resources of museums, and experts on the German history in Berlin and Potsdam. Field trips.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "GER:DB-Hum",
+            "GER:EC-GlobalCom",
+            "WAY-SI"
+        ],
+        "objectID": "207664",
+        "number": "OSPBER 70",
+        "units": [
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "71",
+        "title": "EU in Crisis",
+        "description": "Challenges confronting Europe as a whole and the EU in particular: impact of the sovereign debt crisis of the Eurozone, mass migration, external and internal security challenges, as well as political and social needs for reform. How the EU and its members respond and if the opportunities of these crises are constructively used for reform - or wasted (Crisis = Danger + Opportunity). Analyse institutions, interests and competing narratives to explain the current situation in Europe. Excursion to other European capital to get a non-German perspective on the crises.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29602",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "218310",
+        "number": "OSPBER 71",
+        "units": [
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "73",
+        "title": "CyberKant: a User Interface",
+        "description": "We take online traffic for granted. It is well known that readily intelligible navigation of today's virtual surround was made possible by the graphical user interface. This driver of digital literacy, famously associated with Xerox PARC, was popularized by Steve Jobs in the 1980s. Less well known is that the visual vocabulary informing our computational practices first developed with the urban sprawl of Berlin. Kantian philosophy and German High Modernism played a key role in the process. These cultural resources advanced a workable template for the user-friendly conceit of intuitive signage and wayfinding. We will visit sites across the city that speak to this historical legacy.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "225169",
+        "number": "OSPBER 73",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "74",
+        "title": "Politics and Organization of Sport in Germany and the US",
+        "description": "Sport as an entry point for thinking about social dynamics and about broad debates about morality and ethics that are raised by ongoing social change. Issues related to sport as a national-level pursuit. How do nations use sport to promote their agendas, both among their own citizens and elsewhere?  How do nations intervene to promote the performance of individual athletes? How else do they seek to exert their influence on sport outcomes?  With Berlin as our backdrop, pursue these questions by considering three cases in detail: the 1936 Berlin Olympics, East German sport in the 1970s and 1980s, and German soccer today.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "221216",
+        "number": "OSPBER 74",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "77",
+        "title": "Understanding Intl' Politics Today:\u00a0From the German Philosophers to Modern Social Science",
+        "description": "International politics is beset by problems. States go to war. The global economy is volatile and unequal. The human community is divided into multiple nation-states. Some states dominate others. People commit acts of evil. Luckily, we are not the first people to have noticed that international politics is not characterized exclusively by peace and harmony. War, capitalism, racism, and totalitarianism have all been subjects about which German thinkers - many based in Berlin - have made profound contributions over the last two centuries. Do their ideas and arguments stand up in the cold light of modern social science? What can we learn from them - and what do we need to discard? This course will introduce students to perennial problems in international politics from two perspectives: those of key German political thinkers, and those of modern social science. It is structured around five core questions: Why do states go to war and what could be the basis for a lasting peace? If war is unavoidable, what is the role of morality in war? How can/should the world be governed in the absence of a world state? How has international politics been transformed by capitalism? What role has been and is played by race and racism in international politics?",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "WAY-A-II",
+            "WAY-SI"
+        ],
+        "objectID": "220108",
+        "number": "OSPBER 77",
+        "units": [
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "79",
+        "title": "Political Economy of Germany in Europe: an Historical-Comparative Perspective",
+        "description": "Political economy of Germany with special emphasis on contemporary issues. German political economy in the broader context of European integration, with some comparison with the U.S. model of economic and monetary integration. Assess, in comparative perspective, the specifics of the German economy embedded in Europe. How did Germany manage to become third export economy in the world? What is the role of government in its economic success?",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29785",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "220402",
+        "number": "OSPBER 79",
+        "units": [
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "82",
+        "title": "Globalization and Germany",
+        "description": "Main channels of globalization&iquest;movement of capital, goods, people and ideas&iquest;and their history. Arguments in favor and against economic integration and relationship between globalization and domestic political processes. Key industries of the German export economy; how globalization relates to current debates on migration and social policy. Germany's position in the European Union, as well as the world economy; Germany and its role in future globalization",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "30033",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "220399",
+        "number": "OSPBER 82",
+        "units": [
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "83",
+        "title": "Refugees and Germany",
+        "description": "History and lived experience of refugees, both those who have fled from and to Germany, in the twentieth and twenty-first century. Visits to relevant sites in Berlin, meetings with refugees and experts on this topic, and readings to provide context.  Participants write a journal; option for creative writing, either fiction or creative non-fiction.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "220853",
+        "number": "OSPBER 83",
+        "units": [
+            3,
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "84",
+        "title": "Berlin and the Sociological Imagination: Special Topics",
+        "description": "Independent study on social science and history topics giving students the opportunity to pursue a specific, sustained inquiry during their time in Berlin. This can include topics related to Berlin today, during the Cold War, in Nazi Germany, during the Weimar Republic, or other times, and can look specifically at aspects of German science, business, culture, or politics.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "221215",
+        "number": "OSPBER 84",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "85",
+        "title": "Topics in Social Psychology",
+        "description": "Students may choose from the following topics: social psychology of stigma, diversity, and intergroup relationships. Regular meetings to review progress.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "221214",
+        "number": "OSPBER 85",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "86",
+        "title": "The Integration of Refugees in Europe: German Education Settings",
+        "description": "Experiences of refugees as they enter German secondary and post-secondary education settings. Using a social-psychological lens, learn how refugees understand their experiences in German schools and interactions with native students and teachers; how they are seen and treated; barriers to better relationships and outcomes; and how these can be overcome. Learn from popular commentary reports; scholarly writings from social-psychology and related fields on diversity, bias, belonging, and psychologically &quot;wise&quot; interventions. Experiential learning opportunities, including conversations with refugee students and educators working with refugees.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "29864",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "221213",
+        "number": "OSPBER 86",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "88",
+        "title": "Religion & the Third Reich",
+        "description": "This course attempts to grapple with this complex and troubling chapter of Central Europe&iquest;s history--one whose effects continue to be felt today and whose marks are visible in Berlin--by exploring the Nazi leadership&iquest;s various attitudes and policies toward the Protestant and Catholic churches; the fascination on the part of some Nazis toward new religious movements anchored in occult practices, pseudo-scientific theories, and Nordic religious mythologies; the responses of religious actors and organizations to government attempts to coopt them via &iquest;Gleichschaltung&iquest; (coordination)--ranging from reluctant accommodation to enthusiastic cooperation to resistance; the so-called &iquest;Kirchenkampf&iquest; (church struggle) within the Protestant regional and national churches; the distinct response of German Roman Catholic bishops and the Pope (Pacelli) to National Socialism; the predicament and sometimes tragic decisions of Jewish Councils and other victims to manage the catastrophe; and the attempts of a handful of resistors, who out of religious conviction and/or reasons of conscience, attempted to &iquest;drive a spoke into the wheel itself&iquest; of National Socialism. The course is designed to take maximum advantage of those sites and museums in Berlin that were a part of the history and people we will be studying.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-A-II",
+            "WAY-SI"
+        ],
+        "objectID": "222449",
+        "number": "OSPBER 88",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "93",
+        "title": "Empowering Women in STEM Fields",
+        "description": "Empowering Women in STEM Fields, Origins of Modern Science, or Impact of Migrants and Refugees on German Society",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30256",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222828",
+        "number": "OSPBER 93",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "98",
+        "title": "Germany and the Bomb",
+        "description": "Nuclear fission was discovered in Berlin at the Kaiser Wilhelm Society, now part of the Free University of Berlin, by Otto Hahn and Fritz Strassmann in December of 1938 in Dahlem.  In fact, this laboratory, is only a few blocks away from the Stanford campus in Berlin. A few months later, Lise Meitner and Otto Frisch provided the theoretical basis for understanding the perplexing experimental results by Hahn and Strassmann and named the process fission. Their discovery, and the fear that Germany was developing nuclear weapons, was the motivation for the U.S. Manhattan Project that lead to the development of and first use of nuclear weapons at Hiroshima and Nagasaki.  Germany, in fact, had its own Uranprojekt and Uranmaschine (nuclear reactor) projects lead by Werner Heisenberg, a leading physicist at that time, but failed to develop a nuclear weapon. This course explores the history of the German nuclear bomb program during WWII and the reasons why Germany failed to develop an atomic bomb.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "224760",
+        "number": "OSPBER 98",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "99",
+        "title": "German Language Specials",
+        "description": "May be repeat for credit",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29940",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29657",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15094",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kloetzer, S.",
+                                "sunet": "kloetzer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15832",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kloetzer, S.",
+                                "sunet": "kloetzer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15326",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kloetzer, S.",
+                                "sunet": "kloetzer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15095",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kloetzer, S.",
+                                "sunet": "kloetzer"
+                            },
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15835",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15327",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Boebe, D.",
+                                "sunet": "boebe"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15096",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15836",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "15475",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218982",
+        "number": "OSPBER 99",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 11
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "101A",
+        "title": "Contemporary Theater",
+        "description": "Texts of plays supplemented by theoretical texts or reviews. Weekly theater visits and discussions with actors, directors, or other theater professionals. In German. Prerequisite: completion of GERLANG 3 or equivalent.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15193",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15245",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-Hum",
+            "WAY-A-II"
+        ],
+        "objectID": "106693",
+        "number": "OSPBER 101A",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "104",
+        "title": "Berlin University Lecture Series 1",
+        "description": "May be repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29716",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15099",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15331",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219718",
+        "number": "OSPBER 104",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "105",
+        "title": "Berlin University Lecture Series 2",
+        "description": null,
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29717",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15100",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15332",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219719",
+        "number": "OSPBER 105",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "106",
+        "title": "Berlin University Lecture Series 3",
+        "description": "Berlin University Lecture Series 3",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "31957",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224674",
+        "number": "OSPBER 106",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "126X",
+        "title": "A People's Union? Money, Markets, and Identity in the EU",
+        "description": "The institutional architecture of the EU and its current agenda. Weaknesses, strengths, and relations with partners and neighbors. Discussions with European students. Field trips; guest speakers.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28019",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-SocSci",
+            "GER:EC-GlobalCom",
+            "WAY-SI"
+        ],
+        "objectID": "106748",
+        "number": "OSPBER 126X",
+        "units": [
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "174",
+        "title": "Sports, Culture, and Gender in Comparative Perspective",
+        "description": "Theory and history of mass spectator sports and their role in modern societies. Comparisons with U.S., Britain, and France; the peculiarities of sports in German culture. Body and competition cultures, with emphasis on the entry of women into sports, the modification of body ideals, and the formation and negotiation of gender identities in and through sports. The relationship between sports and politics, including the 1936 Berlin Olympic Games. In German. Prerequisite: completion of GERLANG 3 or equivalent.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15246",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Junghanns, W.",
+                                "sunet": "junghann"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-SocSci",
+            "GER:EC-Gender",
+            "WAY-EDP"
+        ],
+        "objectID": "106864",
+        "number": "OSPBER 174",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "198H",
+        "title": "Freie Universitat: Humanities 3",
+        "description": "Course may be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29220",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "210801",
+        "number": "OSPBER 198H",
+        "units": [
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "199A",
+        "title": "Directed Reading A",
+        "description": "Course may be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28381",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28020",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15027",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15774",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Junghanns, W.",
+                                "sunet": "junghann"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15252",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Junghanns, W.",
+                                "sunet": "junghann"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "15146",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15775",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15253",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "15511",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Knuepling, F.",
+                                "sunet": "knupling"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "106911",
+        "number": "OSPBER 199A",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 9
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "199B",
+        "title": "Directed Reading B",
+        "description": "Course may be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28382",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28021",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15028",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15776",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15254",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "106912",
+        "number": "OSPBER 199B",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "199F",
+        "title": "Berlin University Seminar 1",
+        "description": "Course may be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28023",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "32240",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "15512",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "106916",
+        "number": "OSPBER 199F",
+        "units": [
+            2,
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPBER",
+        "code": "199G",
+        "title": "Berlin University Seminar 2",
+        "description": "Course may be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26581",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28024",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": "For students participating in the Bing Overseas Studies Program in Berlin only.",
+                "classId": "15255",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kramer, K.",
+                                "sunet": "kkramer"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "106917",
+        "number": "OSPBER 199G",
+        "units": [
+            2,
+            3
+        ],
+        "totalSections": 3
+    }
+]

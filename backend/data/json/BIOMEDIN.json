@@ -1,0 +1,4519 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "156",
+        "title": "Economics of Health and Medical Care (BIOMEDIN 256, ECON 126, HRP 256)",
+        "description": "Institutional, theoretical, and empirical analysis of the problems of health and medical care. Topics: demand for medical care and medical insurance; institutions in the health sector; economics of information applied to the market for health insurance and for health care; economics of health care labor markets and health care production; and economic epidemiology. Graduate students with research interests should take ECON 249. Prerequisites: ECON 50 and either ECON 102A or STATS 116 or the equivalent. Recommended: ECON 51.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28192",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "DIS",
+                "notes": null,
+                "classId": "28191",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "113357",
+        "number": "BIOMEDIN 156",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "173A",
+        "title": "Foundations of Computational Human Genomics (CS 173A, DBIO 173A)",
+        "description": "(Only one of 173A or 273A counts toward any CS degree program.) A coder's primer to Computational Biology through the most amazing &quot;source code&quot; known: your genome. Examine the major forces of genome &quot;code development&quot; - positive, negative and neutral selection. Learn about genome sequencing (discovering your source code from fragments); genome content: variables (genes), control-flow (gene regulation), run-time stacks (epigenomics) and memory leaks (repeats); personalized genomics and genetic disease (code bugs);  genome editing (code injection); ultra conservation (unsolved mysteries) and code modifications behind amazing animal adaptations. Course includes primers on molecular biology and text processing. Prerequisites: comfortable coding in Python from the command line.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "33204",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "2:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bejerano, G.",
+                                "sunet": "bejerano"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 51600.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "207196",
+        "number": "BIOMEDIN 173A",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "201",
+        "title": "Biomedical Informatics Student Seminar (BIODS 201)",
+        "description": "Participants report on recent articles from the Biomedical Informatics literature or their research projects. Goals are to teach critical reading of scientific papers and presentation skills. Summer Quarter consists of critical review of relevant literature led by faculty associated with the Biomedical Informatics Program. May be repeated three times for credit.",
+        "repeatable": "true",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "May be repeated for credit for a maximum of 3 units.",
+                "classId": "16728",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "12:15:00 PM",
+                        "endTime": "1:15:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Wall, D.",
+                                "sunet": "dpwall"
+                            },
+                            {
+                                "name": "Tian, L.",
+                                "sunet": "lutian"
+                            },
+                            {
+                                "name": "Daneshjou, R.",
+                                "sunet": "roxanad"
+                            }
+                        ],
+                        "startTimestamp": 44100.0,
+                        "endTimestamp": 47700.0,
+                        "days": "Monday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "17222",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "12:15:00 PM",
+                        "endTime": "1:15:00 PM",
+                        "location": "Alway Building, Room M114",
+                        "instructors": [
+                            {
+                                "name": "Sabatti, C.",
+                                "sunet": "sabatti"
+                            },
+                            {
+                                "name": "Engelhardt, B.",
+                                "sunet": "barbarae"
+                            },
+                            {
+                                "name": "Wall, D.",
+                                "sunet": "dpwall"
+                            },
+                            {
+                                "name": "Zou, J.",
+                                "sunet": "jamesz"
+                            },
+                            {
+                                "name": "Wong, W.",
+                                "sunet": "whwong"
+                            },
+                            {
+                                "name": "Daneshjou, R.",
+                                "sunet": "roxanad"
+                            }
+                        ],
+                        "startTimestamp": 44100.0,
+                        "endTimestamp": 47700.0,
+                        "days": "Monday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "May be repeated for credit for a maximum of 3 units.",
+                "classId": "26204",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "12:15:00 PM",
+                        "endTime": "1:15:00 PM",
+                        "location": "Alway Building, Room M106",
+                        "instructors": [
+                            {
+                                "name": "Sabatti, C.",
+                                "sunet": "sabatti"
+                            },
+                            {
+                                "name": "Engelhardt, B.",
+                                "sunet": "barbarae"
+                            },
+                            {
+                                "name": "Wall, D.",
+                                "sunet": "dpwall"
+                            },
+                            {
+                                "name": "Daneshjou, R.",
+                                "sunet": "roxanad"
+                            },
+                            {
+                                "name": "Witte, J.",
+                                "sunet": "jswitte"
+                            }
+                        ],
+                        "startTimestamp": 44100.0,
+                        "endTimestamp": 47700.0,
+                        "days": "Monday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "127215",
+        "number": "BIOMEDIN 201",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "202",
+        "title": "BIOMEDICAL DATA SCIENCE (BIODS 202, BIOMEDIN 202P)",
+        "description": "This course introduces the data modalities and methods valuable to ask and answer probing and novel questions that advance biomedicine.  You will get exposure to a variety of current data types from imaging and omics to patient-centric and digital health generated data types. You will also be exposed to the core methodological concepts useful to analyze these data in isolation or in combination. Specifically, in four separate modules taught by expert faculty in each area the basic principles of each module will be defined and explained. Module 1, Clinical Data and Systems, will explain the basics of Electronic Health Records, and how they operate in health care settings. Next, Module 2, Image Data Health Science, will focus on an introduction to the main imaging modalities in medicine and how methodological analysis using machine vision can be used on large studies. Module 3 will focus on fusing different data streams such as clinical, imaging, molecular and other data modalities. Finally, Module 4 will focus on reproducibility, evaluation and ethical issues when deploying models based on biomedical data, with emphasis on translation to practice.  Emphasis will be placed questions, data and methods that advance health and medicine.  Primary learning goals for this course include how to frame biomedical health questions, what data are needed to answer those questions, and what methodological constructs can be leveraged to probe and answer those questions.  This course is a newly designed course for the PhD program of the Department of Biomedical Data Science but open to all.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Monday Classes will be held in AlwayM106 on Mondays (with exception for January 18, 2023 and March 6, 2023, when class will meet virtually), Wednesday Classes will be held in AlwayM112 on Wednesdays (with exception on March 22, 2023, it will be held in Alway M106).",
+                "classId": "28079",
+                "currentClassSize": "0",
+                "maxClassSize": "110",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rubin, D.",
+                                "sunet": "rubin"
+                            },
+                            {
+                                "name": "Pageler, N.",
+                                "sunet": "npageler"
+                            },
+                            {
+                                "name": "Wall, D.",
+                                "sunet": "dpwall"
+                            },
+                            {
+                                "name": "Gevaert, O.",
+                                "sunet": "ogevaert"
+                            },
+                            {
+                                "name": "Chaudhari, A.",
+                                "sunet": "akshaysc"
+                            },
+                            {
+                                "name": "Sun, E.",
+                                "sunet": "edsun"
+                            },
+                            {
+                                "name": "Wu, K.",
+                                "sunet": "kevinywu"
+                            },
+                            {
+                                "name": "Ehlert, B.",
+                                "sunet": "behlert"
+                            },
+                            {
+                                "name": "Nayar, G.",
+                                "sunet": "gnayar"
+                            },
+                            {
+                                "name": "Lu, Y.",
+                                "sunet": "ylu1"
+                            },
+                            {
+                                "name": "Hernandez-Boussard, T.",
+                                "sunet": "boussard"
+                            },
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LEC",
+                "notes": null,
+                "classId": "32742",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gevaert, O.",
+                                "sunet": "ogevaert"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224759",
+        "number": "BIOMEDIN 202",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "202P",
+        "title": "BIOMEDICAL DATA SCIENCE (BIODS 202, BIOMEDIN 202)",
+        "description": "This course introduces the data modalities and methods valuable to ask and answer probing and novel questions that advance biomedicine.  You will get exposure to a variety of current data types from imaging and omics to patient-centric and digital health generated data types. You will also be exposed to the core methodological concepts useful to analyze these data in isolation or in combination. Specifically, in four separate modules taught by expert faculty in each area the basic principles of each module will be defined and explained. Module 1, Clinical Data and Systems, will explain the basics of Electronic Health Records, and how they operate in health care settings. Next, Module 2, Image Data Health Science, will focus on an introduction to the main imaging modalities in medicine and how methodological analysis using machine vision can be used on large studies. Module 3 will focus on fusing different data streams such as clinical, imaging, molecular and other data modalities. Finally, Module 4 will focus on reproducibility, evaluation and ethical issues when deploying models based on biomedical data, with emphasis on translation to practice.  Emphasis will be placed questions, data and methods that advance health and medicine.  Primary learning goals for this course include how to frame biomedical health questions, what data are needed to answer those questions, and what methodological constructs can be leveraged to probe and answer those questions.  This course is a newly designed course for the PhD program of the Department of Biomedical Data Science but open to all.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "224759",
+        "number": "BIOMEDIN 202P",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "205",
+        "title": "Precision Practice with Big Data",
+        "description": "Primarily for M.D. students; open to other graduate students. Provides an overview of how to leverage large amounts of clinical, molecular, and imaging data within hospitals and in cyberspace--big data--to practice medicine more effectively. Lectures by physicians, researchers, and industry leaders survey how the major methods of informatics can help physicians leverage big data to profile disease, to personalize treatment to patients, to predict treatment response, to discover new knowledge, and to challenge established medical dogma and the current paradigm of clinical decision-making based solely on published knowledge and individual physician experience. Prerequisite: background in biomedicine. Background in computer science can be helpful but not required.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "23990",
+                "currentClassSize": "12",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:30:00 PM",
+                        "location": "Li Ka Shing Center, room 130",
+                        "instructors": [
+                            {
+                                "name": "Rubin, D.",
+                                "sunet": "rubin"
+                            },
+                            {
+                                "name": "Huynh, M.",
+                                "sunet": "mahuynh"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 45000.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "207818",
+        "number": "BIOMEDIN 205",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "206",
+        "title": "Informatics in Industry",
+        "description": "Effective management, modeling, acquisition, and mining of biomedical information in healthcare and biotechnology companies and approaches to information management adopted by companies in this ecosystem. Guest speakers from pharmaceutical/biotechnology companies, clinics/hospitals, health communities/portals, instrumentation/software vendors. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "209421",
+        "number": "BIOMEDIN 206",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "208",
+        "title": "Applied Clinical Informatics Seminar",
+        "description": "Weekly seminar series in which seminal literature and current publications in the field of clinical informatics are reviewed and discussed. Organized by the Stanford Clinical Informatics fellowship program. Topics include electronic health record design, implementation, and evaluation; patient engagement; provider satisfaction; and hot topics in clinical informatics. Limited enrollment.",
+        "repeatable": "true",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "26565",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "12:15:00 PM",
+                        "endTime": "1:15:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morse, K.",
+                                "sunet": "kmorse10"
+                            },
+                            {
+                                "name": "Li, R.",
+                                "sunet": "ronl"
+                            }
+                        ],
+                        "startTimestamp": 44100.0,
+                        "endTimestamp": 47700.0,
+                        "days": "Monday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "215668",
+        "number": "BIOMEDIN 208",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "210",
+        "title": "Modeling Biomedical Systems (CS 270)",
+        "description": "At the core of informatics is the problem of creating computable models of biomedical phenomena.  This course explores methods for modeling biomedical systems with an emphasis on contemporary semantic technology, including knowledge graphs.  Topics: data modeling, knowledge representation, controlled terminologies, ontologies, reusable problem solvers, modeling problems in healthcare information technology and other aspects of informatics.  Students acquire hands-on experience with several systems and tools.  Prerequisites: CS106A.  Basic familiarity with Python programming, biology, probability, and logic are assumed.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Prerequisites: Must have active enrollment within the Master of Clinical Informatics Management program. The course will be a blend of in-person and virtual sessions. MCiM students must enroll for a letter grade. MCiM students can view the schedule of class days/times/room #'s are listed here: https://stanford.io/31gsL1u.n.",
+                "classId": "27235",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "11:00:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "LI, C.",
+                                "sunet": "chenyuo"
+                            },
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 39600.0,
+                        "days": "Saturday"
+                    },
+                    {
+                        "startTime": "3:45:00 PM",
+                        "endTime": "5:15:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "LI, C.",
+                                "sunet": "chenyuo"
+                            },
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 56700.0,
+                        "endTimestamp": 62100.0,
+                        "days": "Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27515",
+                "currentClassSize": "0",
+                "maxClassSize": "70",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "127217",
+        "number": "BIOMEDIN 210",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "212",
+        "title": "Introduction to Biomedical Data Science Research Methodology (BIOE 212, CS 272, GENE 212)",
+        "description": "Capstone Biomedical Data Science experience. Hands-on software building. Student teams conceive, design, specify, implement, evaluate, and report on a software project in the domain of biomedicine. Creating written proposals, peer review, providing status reports, and preparing final reports. Issues related to research reproducibility. Guest lectures from professional biomedical informatics systems builders on issues related to the process of project management. Software engineering basics. Because the team projects start in the first week of class, attendance that week is strongly recommended. Prerequisites: BIOMEDIN 210 or 214 or 215 or 217 or 260. Preference to BMI graduate students. Consent of instructor required.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Class meets in M106 except 4/20 in Lk130.",
+                "classId": "16867",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "3:15:00 PM",
+                        "endTime": "4:45:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            },
+                            {
+                                "name": "Yeh, C.",
+                                "sunet": "cyyeh"
+                            }
+                        ],
+                        "startTimestamp": 54900.0,
+                        "endTimestamp": 60300.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "141029",
+        "number": "BIOMEDIN 212",
+        "units": [
+            3,
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "214",
+        "title": "Representations and Algorithms for Computational Molecular Biology (BIOE 214, CS 274, GENE 214)",
+        "description": "BIOMEDIN 214: Representations and Algorithms for Computational Molecular Biology (BIOE 214, CS 274, GENE 214)Topics: This is a graduate level introduction to bioinformatics and computational biology, algorithms for alignment of biological sequences and structures, BLAST, phylogenetic tree construction, hidden Markov models, basic structural computations on proteins, protein structure prediction, molecular dynamics and energy minimization, statistical analysis of 3D structure, knowledge controlled terminologies for molecular function, expression analysis, chemoinformatics, pharmacogenetics, network biology.  Lectures are supplemented with assignments and programming projects, which allow students to implement important computational biology algorithms.Firm prerequisite: CS 106B.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "23986",
+                "currentClassSize": "0",
+                "maxClassSize": "175",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": "Gates B3",
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            },
+                            {
+                                "name": "Koodli, R.",
+                                "sunet": "koodli"
+                            },
+                            {
+                                "name": "Nayar, G.",
+                                "sunet": "gnayar"
+                            },
+                            {
+                                "name": "Xiong, B.",
+                                "sunet": "xiongb"
+                            },
+                            {
+                                "name": "McCann, H.",
+                                "sunet": "hmccann3"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "141030",
+        "number": "BIOMEDIN 214",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "215",
+        "title": "Data Science for Medicine",
+        "description": "The widespread adoption of electronic health records (EHRs) has created a new source of big data namely, the record of routine clinical practice as a by-product of care. This graduate class will teach you how to use EHRs and other patient data to discover new clinical knowledge and improve healthcare. Upon completing this course, you should be able to: differentiate between and give examples of categories of research questions and the study designs used to address them, describe common healthcare data sources and their relative advantages and limitations, extract and transform various kinds of clinical data to create analysis-ready datasets, design and execute an analysis of a clinical dataset based on your familiarity with the workings, applicability, and limitations of common statistical methods, evaluate and criticize published research using your knowledge of 1-4 to generate new research ideas and separate hype from reality. Prerequisites: CS 106A or equivalent, STATS 60 or equivalent. Recommended: STATS 216, CS 145, STATS 305",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Must-Have: This course is designed for students experienced in basic programming, statistics, and biology. To ensure your success in this course, we expect that you know the R programming language and require that you have taken the following courses: \u00bf CS 106A or equivalent\u00bf STATS 60 or equivalent\u00bf high school biology Helpful: In this course you will use concepts from machine learning, data management, biostatistics, and physiology to answer clinical questions. While very useful, prior knowledge of these topics is not strictly required because this class focuses on the proper application and contextualization of these concepts. There are many outstanding classes at Stanford that provide a deeper dive into these topics, some of which are listed here: CS 106B STATS 216, STATS 315A, or CS 229 CS 145 or CS 246 STATS 305A or HRP 258 BIO 112.",
+                "classId": "24007",
+                "currentClassSize": "0",
+                "maxClassSize": "90",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Gates B3",
+                        "instructors": [
+                            {
+                                "name": "Shah, N.",
+                                "sunet": "nigam"
+                            },
+                            {
+                                "name": "Wang, M.",
+                                "sunet": "mwang102"
+                            },
+                            {
+                                "name": "Viggiano, B.",
+                                "sunet": "viggiano"
+                            },
+                            {
+                                "name": "Jiang, Y.",
+                                "sunet": "jyx"
+                            },
+                            {
+                                "name": "Bunning, B.",
+                                "sunet": "bbunning"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212220",
+        "number": "BIOMEDIN 215",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "216",
+        "title": "Representations and Algorithms for Molecular Biology: Lectures",
+        "description": "Lecture component of BIOMEDIN 214. One unit for medical and graduate students who attend lectures only; may be taken for 2 units with participation in limited assignments and final project. Lectures also available via internet. Prerequisite: familiarity with biology recommended.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "24257",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "141031",
+        "number": "BIOMEDIN 216",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "217",
+        "title": "Translational Bioinformatics (BIOE 217, CS 275, GENE 217)",
+        "description": "Computational methods for the translation of biomedical data into diagnostic, prognostic, and therapeutic applications in medicine. Topics: multi-scale omics data generation and analysis, utility and limitations of public biomedical resources, machine learning and data mining, issues and opportunities in drug discovery, and mobile/digital health solutions. Case studies and course project. Prerequisites: programming ability at the level of CS 106A and familiarity with biology and statistics.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29382",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206403",
+        "number": "BIOMEDIN 217",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "219",
+        "title": "Mathematical Models and Medical Decisions",
+        "description": "Analytic methods for determining optimal diagnostic and therapeutic decisions with applications to the care of individual patients and the design of policies applied to patient populations. Topics include: utility theory and probability modeling, empirical methods for disease prevalence estimation, probability models for periodic processes, binary decision-making techniques, Markov models of dynamic disease state problems, utility assessment techniques, parametric utility models, utility models for multidimensional outcomes, analysis of time-varying clinical outcomes, and the design of cost-constrained clinical policies. Extensive problem sets compliment the lectures. Prerequisites: introduction to calculus and basic statistics.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "17302",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": "Li Ka Shing Center, room 306",
+                        "instructors": [
+                            {
+                                "name": "Higgins, M.",
+                                "sunet": "mikehig"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Tuesday"
+                    },
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": "Alway Building, Room M214/214A",
+                        "instructors": [
+                            {
+                                "name": "Higgins, M.",
+                                "sunet": "mikehig"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Tuesday Thursday"
+                    },
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": "Li Ka Shing Center, room 306",
+                        "instructors": [
+                            {
+                                "name": "Higgins, M.",
+                                "sunet": "mikehig"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Tuesday"
+                    },
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": "Alway Building, Room M214/214A",
+                        "instructors": [
+                            {
+                                "name": "Higgins, M.",
+                                "sunet": "mikehig"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Tuesday Thursday"
+                    },
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": "Li Ka Shing Center, room 130",
+                        "instructors": [
+                            {
+                                "name": "Higgins, M.",
+                                "sunet": "mikehig"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Tuesday"
+                    },
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": "Alway Building, Room M214/214A",
+                        "instructors": [
+                            {
+                                "name": "Higgins, M.",
+                                "sunet": "mikehig"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Tuesday Thursday"
+                    },
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": "Li Ka Shing Center, room 130",
+                        "instructors": [
+                            {
+                                "name": "Higgins, M.",
+                                "sunet": "mikehig"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Tuesday"
+                    },
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": "Alway Building, Room M214/214A",
+                        "instructors": [
+                            {
+                                "name": "Higgins, M.",
+                                "sunet": "mikehig"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "209422",
+        "number": "BIOMEDIN 219",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "221",
+        "title": "Machine Learning Approaches for Data Fusion in Biomedicine (BIODS 221)",
+        "description": "Vast amounts of biomedical data are now routinely available for patients, raging from genomic data, to radiographic images and electronic health records. AI and machine learning are increasingly used to enable pattern discover to link such data for improvements in patient diagnosis, prognosis and tailoring treatment response. Yet, few studies focus on how to link different types of biomedical data in synergistic ways, and to develop data fusion approaches for improved biomedical decision support. This course will describe approaches for multi-omics, multi-modal and multi-scale data fusion of biomedical data in the context of biomedical decision support. Prerequisites: CS106A or equivalent, Stats 60 or equivalent.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "16272",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "10:30:00 AM",
+                        "location": "MSOBX303",
+                        "instructors": [
+                            {
+                                "name": "Gentles, A.",
+                                "sunet": "andrewg"
+                            },
+                            {
+                                "name": "Gevaert, O.",
+                                "sunet": "ogevaert"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 37800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221473",
+        "number": "BIOMEDIN 221",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "222",
+        "title": "Cloud Computing for Biology and Healthcare (CS 273C, GENE 222)",
+        "description": "Big Data is radically transforming healthcare. To provide real-time personalized healthcare, we need hardware and software solutions that can efficiently store and process large-scale biomedical datasets. In this class, students will learn the concepts of cloud computing and parallel systems' architecture. This class prepares students to understand how to design parallel programs for computationally intensive medical applications and how to run these applications on computing frameworks such as Cloud Computing and High Performance Computing (HPC) systems. Prerequisites: familiarity with programming in Python and R.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "26581",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "4:00:00 PM",
+                        "endTime": "6:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Snyder, M.",
+                                "sunet": "mpsnyder"
+                            },
+                            {
+                                "name": "Kundaje, A.",
+                                "sunet": "akundaje"
+                            },
+                            {
+                                "name": "Bahmani, A.",
+                                "sunet": "abahman"
+                            }
+                        ],
+                        "startTimestamp": 57600.0,
+                        "endTimestamp": 64800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221472",
+        "number": "BIOMEDIN 222",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "223",
+        "title": "Deploying and Evaluating Fair AI in Healthcare (EPI 220)",
+        "description": "AI applications are proliferating throughout the healthcare system and stakeholders are faced with the opportunities and challenges of deploying these quickly evolving technologies. This course teaches the principles of AI evaluations in healthcare, provides a framework for deployment of AI in the healthcare system, reviews the regulatory environment, and discusses fundamental components used to evaluate the downstream effects of AI healthcare solutions, including biases and fairness. Prerequisites: CS106A; familiarity with statistics (stats 202), BIOMED 215, or BIODS 220",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "26600",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "9:45:00 AM",
+                        "endTime": "11:15:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hernandez-Boussard, T.",
+                                "sunet": "boussard"
+                            }
+                        ],
+                        "startTimestamp": 35100.0,
+                        "endTimestamp": 40500.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223199",
+        "number": "BIOMEDIN 223",
+        "units": [
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "224",
+        "title": "Principles of Pharmacogenomics (GENE 224)",
+        "description": "This course is an introduction to pharmacogenomics, including the relevant pharmacology, genomics, experimental methods (sequencing, expression, genotyping), data analysis methods and bioinformatics.  The course reviews key gene classes (e.g., cytochromes, transporters) and key drugs (e.g., warfarin, clopidogrel, statins, cancer drugs) in the field.  Resources for pharmacogenomics (e.g., PharmGKB, Drugbank, NCBI resources) are reviewed, as well as issues implementing pharmacogenomics testing in the clinical setting. Reading of key papers, including student presentations of this work; problem sets; final project selected with approval of instructor. Prerequisites: two of BIO 41, 42, 43, 44X, 44Y or consent of instructor.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Online only.",
+                "classId": "17404",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            },
+                            {
+                                "name": "Derry, A.",
+                                "sunet": "aderry"
+                            },
+                            {
+                                "name": "Carrillo, M.",
+                                "sunet": "mikki"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Online only.",
+                "classId": "25739",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            },
+                            {
+                                "name": "Derry, A.",
+                                "sunet": "aderry"
+                            },
+                            {
+                                "name": "Carrillo, M.",
+                                "sunet": "mikki"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "24592",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            },
+                            {
+                                "name": "Carrillo, M.",
+                                "sunet": "mikki"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212730",
+        "number": "BIOMEDIN 224",
+        "units": [
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "225",
+        "title": "Data Driven Medicine",
+        "description": "The widespread adoption of electronic health records (EHRs) has created a new source of big data namely, the record of routine clinical practice as a by-product of care. This class will teach you how to use EHRs and other patient data in conjunction with recent advances in artificial intelligence (AI) and evolving business models to improve healthcare. Upon completing this course, you should be able to: differentiate between and give examples of categories of care questions that AI can help answer, describe common healthcare data sources and their relative advantages, limitations, and biases in enabling care transformation, understand the challenges in using various kinds of clinical data to create fair algorithmic interventions, design an analysis of a clinical dataset, evaluate and criticize published research to separate hype from reality. Prerequisites: enrollment in the MCiM program. This course is designed to prepare you to pose and answer meaningful clinical questions using healthcare data as well as understand how AI can be brought into clinical use safely, ethically and cost-effectively.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Prerequisites: Must have active enrollment within the Master of Science in Clinical Informatics Management (MCiM) program. MCiM students must enroll for a letter grade. Non-MCiM students are not permitted to enroll.",
+                "classId": "29296",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "2:00:00 PM",
+                        "endTime": "4:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shah, N.",
+                                "sunet": "nigam"
+                            }
+                        ],
+                        "startTimestamp": 50400.0,
+                        "endTimestamp": 57600.0,
+                        "days": "Saturday"
+                    },
+                    {
+                        "startTime": "3:30:00 PM",
+                        "endTime": "5:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Shah, N.",
+                                "sunet": "nigam"
+                            }
+                        ],
+                        "startTimestamp": 55800.0,
+                        "endTimestamp": 61200.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212225",
+        "number": "BIOMEDIN 225",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "226",
+        "title": "Digital Health Practicum in a Health Care Delivery System",
+        "description": "Practical experience implementing clinical informatics solutions with a focus on digital health in one of the largest healthcare delivery systems in the United States. Individual meetings with senior clinical informatics leaders to discuss elements of successful projects. Implementation opportunities include supporting the use of electronic health records, engagement of patients and providers via a personal health record, use of informatics to support patient service centers, and improvement of patient access to clinical data. Consent of course instructors required at least one quarter prior to student enrollment in course.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "Students interested in this course must email Dr. Chan (chansa1@sutterhealth.org) or Dr. Jones ( JonesVG@sutterhealth.org) for approval to enroll.",
+                "classId": "25352",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chan, A.",
+                                "sunet": "aschan"
+                            },
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "Students interested in this course must email Dr. Chan (chansa1@sutterhealth.org) or Dr. Jones ( JonesVG@sutterhealth.org) for approval to enroll.",
+                "classId": "27392",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chan, A.",
+                                "sunet": "aschan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "To enroll please email Dr. Chan at chansa1@sutterhealth.org or Dr. Jones at JonesVG@sutterhealth.org for a permission code/approval to enroll.nSee syllabus in Canvas for zoom details.",
+                "classId": "26572",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chan, A.",
+                                "sunet": "aschan"
+                            },
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219509",
+        "number": "BIOMEDIN 226",
+        "units": [
+            2,
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "233",
+        "title": "Intermediate Biostatistics: Analysis of Discrete Data (EPI 261, STATS 261)",
+        "description": "(Formerly HRP 261) Methods for analyzing data from case-control and cross-sectional studies: the 2x2 table, chi-square test, Fisher's exact test, odds ratios, Mantel-Haenzel methods, stratification, tests for matched data, logistic regression, conditional logistic regression. Emphasis is on data analysis in SAS or R. Special topics: cross-fold validation and bootstrap inference.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Remote meeting on Mondays. Class meets in Alway Building, Room M114 on Wednesdays.",
+                "classId": "17350",
+                "currentClassSize": "0",
+                "maxClassSize": "132",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "Alway Building, Room M106",
+                        "instructors": [
+                            {
+                                "name": "Sainani, K.",
+                                "sunet": "kcobb"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "125457",
+        "number": "BIOMEDIN 233",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "245",
+        "title": "Statistical and Machine Learning Methods for Genomics (BIO 268, CS 373, STATS 345)",
+        "description": "Introduction to statistical and computational methods for genomics. Sample topics include: expectation maximization, hidden Markov model, Markov chain Monte Carlo, ensemble learning, probabilistic graphical models, kernel methods and other modern machine learning paradigms. Rationales and techniques illustrated with existing implementations used in population genetics, disease association, and functional regulatory genomics studies. Instruction includes lectures and discussion of readings from primary literature.  Homework and projects require implementing some of the algorithms and using existing toolkits for analysis of genomic datasets.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "208844",
+        "number": "BIOMEDIN 245",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "251",
+        "title": "Outcomes Analysis (HRP 252, MED 252)",
+        "description": "This course introduces and develops methods for conducting empirical research that address clinical and policy questions that are not suitable for randomized trials.  Conceptual and applied models of causal inference guide the design of empirical research. Econometric and statistical models are used to conduct health outcomes research which use large existing medical, survey, and other databases Problem sets emphasize hands-on data analysis and application of methods, including re-analyses of well-known studies. This is a project-based course designed for students pursuing research training. Prerequisites: one or more courses in probability, and statistics or biostatistics.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "16909",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": "Encina Commons 119",
+                        "instructors": [
+                            {
+                                "name": "Bendavid, E.",
+                                "sunet": "ebd"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "202518",
+        "number": "BIOMEDIN 251",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "254",
+        "title": "Quality & Safety in U.S. Healthcare (HRP 254)",
+        "description": "The course will provide an in-depth examination of the quality &amp; patient safety movement in the US healthcare system, the array of quality measurement techniques and issues, and perspectives of quality and safety improvement efforts under the current policy landscape.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "218544",
+        "number": "BIOMEDIN 254",
+        "units": [
+            3,
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "256",
+        "title": "Economics of Health and Medical Care (BIOMEDIN 156, ECON 126, HRP 256)",
+        "description": "Institutional, theoretical, and empirical analysis of the problems of health and medical care. Topics: demand for medical care and medical insurance; institutions in the health sector; economics of information applied to the market for health insurance and for health care; economics of health care labor markets and health care production; and economic epidemiology. Graduate students with research interests should take ECON 249. Prerequisites: ECON 50 and either ECON 102A or STATS 116 or the equivalent. Recommended: ECON 51.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28194",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "DIS",
+                "notes": null,
+                "classId": "28193",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "113357",
+        "number": "BIOMEDIN 256",
+        "units": [
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "260",
+        "title": "Computational Methods for Biomedical Image Analysis and Interpretation (BMP 260, CS 235, RAD 260)",
+        "description": "The latest biological and medical imaging modalities and their applications in research and medicine. Focus is on computational analytic and interpretive approaches to optimize extraction and use of biological and clinical imaging data for diagnostic and therapeutic translational medical applications. Topics include major image databases, fundamental methods in image processing and quantitative extraction of image features, structured recording of image information including semantic features and ontologies, indexing, search and content-based image retrieval. Case studies include linking image data to genomic,  phenotypic and clinical data, developing representations of image phenotypes for use in medical decision support and research applications and the role that biomedical imaging informatics plays in new questions in biomedical science. Includes a project. Enrollment for 3 units requires instructor consent. Prerequisites: programming ability at the level of CS 106A, familiarity with statistics, basic biology. Knowledge of Matlab or Python highly recommended.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Class meets in LK101/102 all dates except 4/3, 4/10, 4/1717 when class meets in M106.",
+                "classId": "16868",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rubin, D.",
+                                "sunet": "rubin"
+                            },
+                            {
+                                "name": "Zambrano Chaves, J.",
+                                "sunet": "jmz"
+                            },
+                            {
+                                "name": "Cousins, H.",
+                                "sunet": "cousinsh"
+                            },
+                            {
+                                "name": "Bravo Sanchez, L.",
+                                "sunet": "lmbravo"
+                            },
+                            {
+                                "name": "Rusu, M.",
+                                "sunet": "mrusu"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 46200.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "211782",
+        "number": "BIOMEDIN 260",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "273B",
+        "title": "Deep Learning in Genomics and Biomedicine (BIODS 237, CS 273B, GENE 236)",
+        "description": "Recent breakthroughs in high-throughput genomic and biomedical data are transforming biological sciences into &quot;big data&quot; disciplines. In parallel, progress in deep neural networks are revolutionizing fields such as image recognition, natural language processing and, more broadly, AI. This course explores the exciting intersection between these two advances. The course will start with an introduction to deep learning and overview the relevant background in genomics and high-throughput biotechnology, focusing on the available data and their relevance. It will then cover the ongoing developments in deep learning (supervised, unsupervised and generative models) with the focus on the applications of these methods to biomedical data, which are beginning to produced dramatic results. In addition to predictive modeling, the course emphasizes how to visualize and extract interpretable, biological insights from such models. Recent papers from the literature will be presented and discussed. Experts in the field will present guest lectures. Students will be introduced to and work with popular deep learning software frameworks. Students will work in groups on a final class project using real world datasets. Prerequisites: College calculus, linear algebra, basic probability and statistics such as CS 109, and basic machine learning such as CS 229. No prior knowledge of genomics is necessary.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "218601",
+        "number": "BIOMEDIN 273B",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "279",
+        "title": "Computational Biology: Structure and Organization of Biomolecules and Cells (BIOE 279, BIOPHYS 279, CME 279, CS 279)",
+        "description": "Computational techniques for investigating and designing the three-dimensional structure and dynamics of biomolecules and cells.  These computational methods play an increasingly important role in drug discovery, medicine, bioengineering, and molecular biology.  Course topics include protein structure prediction, protein design, drug screening, molecular simulation, cellular-level simulation, image analysis for microscopy, and methods for solving structures from crystallography and electron microscopy data.  Prerequisites: elementary programming background (CS 106A or equivalent) and an introductory course in biology or biochemistry.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "25172",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "Shriram 104",
+                        "instructors": [
+                            {
+                                "name": "Dror, R.",
+                                "sunet": "rondror"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "215942",
+        "number": "BIOMEDIN 279",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "299",
+        "title": "Directed Reading and Research",
+        "description": "For students wishing to receive credit for directed reading or research time.  Prerequisite: consent of instructor. (Staff)",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "18",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26931",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28787",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28448",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "16823",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "17765",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Poldrack, R.",
+                                "sunet": "russpold"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "24997",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "16824",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "17767",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "24998",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ashley, E.",
+                                "sunet": "euan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "17768",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ashley, E.",
+                                "sunet": "euan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "16825",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brandeau, M.",
+                                "sunet": "brandeau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "24999",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bassik, M.",
+                                "sunet": "bassik"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "17769",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bassik, M.",
+                                "sunet": "bassik"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "25000",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "16826",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Butte, A.",
+                                "sunet": "abutte"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "17770",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "25001",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "17771",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "25002",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bejerano, G.",
+                                "sunet": "bejerano"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": null,
+                "classId": "16827",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Davis, R.",
+                                "sunet": "dnamarkr"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "127225",
+        "number": "BIOMEDIN 299",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "totalSections": 276
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "360",
+        "title": "Inclusive Mentorship in Data Science (BIODS 360)",
+        "description": "This course has the following broad goals: (1) To ensure that Stanford graduate students in data science are intentionally trained to effectively mentor people who may be different from them. (2) To sustainably develop pathways to increase access to higher education and to Stanford graduate programs in data science for individuals from backgrounds currently under-represented in those fields.  During weekly class meetings, graduate student participants will learn strategies to create an inclusive environment, approaches to effective mentoring and coaching, and techniques to develop a personalized curriculum with the course staff and guest speakers. They will also be paired with current undergraduates from non-R1 schools with an interest in data science, recruited in partnership with faculty from those institutions. Participants will meet online weekly for one-on-one mentorship where you will expose your mentee to research in data science. During weekly online meetings, you will work with your mentee on a range of activities, planned with assistance from course staff, including planning their course of studies, navigating internship opportunities and preparing applications; tutoring in some aspects of data science; and guidance in engaging in mini-research projects, depending on their interests.",
+        "repeatable": "true",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Class meets in MSOBx303 on all dates except 3/6 which is in M214/214A.",
+                "classId": "27512",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:00:00 PM",
+                        "location": "Alway Building, Room M106",
+                        "instructors": [
+                            {
+                                "name": "Sabatti, C.",
+                                "sunet": "sabatti"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 54000.0,
+                        "days": "Monday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223205",
+        "number": "BIOMEDIN 360",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "370",
+        "title": "Medical Scholars Research",
+        "description": "Provides an opportunity for student and faculty interaction, as well as academic credit and financial support, to medical students who undertake original research. Enrollment is limited to students with approved projects.",
+        "repeatable": "true",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "4",
+        "unitsMax": "18",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29455",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29117",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27506",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chen, J.",
+                                "sunet": "jonc101"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "20191",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "17766",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Poldrack, R.",
+                                "sunet": "russpold"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "25071",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "20192",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "17841",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "25072",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ashley, E.",
+                                "sunet": "euan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "17842",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ashley, E.",
+                                "sunet": "euan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "20193",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brandeau, M.",
+                                "sunet": "brandeau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "25073",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bassik, M.",
+                                "sunet": "bassik"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "17843",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bassik, M.",
+                                "sunet": "bassik"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "25074",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "20194",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Butte, A.",
+                                "sunet": "abutte"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "17844",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "25075",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "20195",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "17845",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "25076",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bejerano, G.",
+                                "sunet": "bejerano"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "208006",
+        "number": "BIOMEDIN 370",
+        "units": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "totalSections": 237
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "371",
+        "title": "Computational Biology in Four Dimensions (BIOPHYS 371, CME 371, CS 371)",
+        "description": "Cutting-edge research on computational techniques for investigating and designing the three-dimensional structure and dynamics of biomolecules, cells, and everything in between.  These techniques, which draw on approaches ranging from physics-based simulation to machine learning, play an increasingly important role in drug discovery, medicine, bioengineering, and molecular biology.  Course is devoted primarily to reading, presentation, discussion, and critique of papers describing important recent research developments.  Prerequisite: CS 106A or equivalent, and an introductory course in biology or biochemistry. Recommended: some experience in mathematical modeling (does not need to be a formal course).",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "215148",
+        "number": "BIOMEDIN 371",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "388",
+        "title": "Stakeholder Competencies for Artificial Intelligence in Healthcare (BIODS 388)",
+        "description": "Advancements of machine learning and AI into all areas of medicine are now a reality and they hold the potential to transform healthcare and open up a world of incredible promise for everyone. But we will never realize the potential for these technologies unless all stakeholders have basic competencies in both healthcare and machine learning concepts and principles - this will allow successful, responsible development and deployment of these systems into the healthcare domain. The focus of this course is on the key concepts and principles rather than programming or engineering implementation. Those with backgrounds in healthcare, health policy, healthcare system leadership, pharmaceutical, and clinicians as well as those with data science backgrounds who are new to healthcare applications will be empowered with the knowledge to responsibly and ethically evaluate, critically review, and even use these technologies in healthcare. We will cover machine learning approaches, medical use cases in depth, unique metrics to healthcare, important challenges and pitfalls, and best practices for designing, building, and evaluating machine learning in healthcare applications.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "222585",
+        "number": "BIOMEDIN 388",
+        "units": [
+            2,
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "390A",
+        "title": "Curricular Practical Training",
+        "description": "Provides educational opportunities in biomedical informatics research.  Qualified biomedical informatics students engage in internship work and integrate that work into their academic program.  Students register during the quarter they are employed and must complete a research report outlining their work activity, problems investigated, key results, and any follow-up on projects they expect to perform.  BIOMEDIN 390A, B, and C may each be taken only once.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27359",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29255",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28946",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "16846",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "22495",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "25189",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tian, L.",
+                                "sunet": "lutian"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "204087",
+        "number": "BIOMEDIN 390A",
+        "units": [
+            1
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "390B",
+        "title": "Curricular Practical Training",
+        "description": "Provides educational opportunities in biomedical informatics research.  Qualified biomedical informatics students engage in internship work and integrate that work into their academic program.  Students register during the quarter they are employed and must complete a research report outlining their work activity, problems investigated, key results, and any follow-up on projects they expect to perform.  BIOMEDIN 390A, B, and C may each be taken only once.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27360",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29256",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28947",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "16848",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "22494",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "25190",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tian, L.",
+                                "sunet": "lutian"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "204088",
+        "number": "BIOMEDIN 390B",
+        "units": [
+            1
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "390C",
+        "title": "Curricular Practical Training",
+        "description": "Provides educational opportunities in biomedical informatics research.  Qualified biomedical informatics students engage in internship work and integrate that work into their academic program.  Students register during the quarter they are employed and must complete a research report outlining their work activity, problems investigated, key results, and any follow-up on projects they expect to perform.  BIOMEDIN 390A, B, and C may each be taken only once.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27361",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29257",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28948",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "16847",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "22493",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Musen, M.",
+                                "sunet": "musen"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "25191",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Tian, L.",
+                                "sunet": "lutian"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "204089",
+        "number": "BIOMEDIN 390C",
+        "units": [
+            1
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "432",
+        "title": "Analysis of Costs, Risks, and Benefits of Health Care (HRP 392)",
+        "description": "For graduate students. How to do cost/benefit analysis when the output is difficult or impossible to measure. Literature on the principles of cost/benefit analysis applied to health care. Critical review of actual studies. Emphasis is on the art of practical application.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "23996",
+                "currentClassSize": "0",
+                "maxClassSize": "0",
+                "schedules": [
+                    {
+                        "startTime": "8:30:00 AM",
+                        "endTime": "9:50:00 AM",
+                        "location": "Encina Commons 119",
+                        "instructors": [
+                            {
+                                "name": "Owens, D.",
+                                "sunet": "owens"
+                            },
+                            {
+                                "name": "Salomon, J.",
+                                "sunet": "salomon1"
+                            }
+                        ],
+                        "startTimestamp": 30600.0,
+                        "endTimestamp": 35400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "209219",
+        "number": "BIOMEDIN 432",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "801",
+        "title": "TGR Master's Project",
+        "description": "Project credit for masters students who have completed all course requirements and minimum of 45 Stanford units.",
+        "repeatable": "true",
+        "grading": "TGR",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "26932",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "28788",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "28449",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "16848",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17915",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25146",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "16849",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17916",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ashley, E.",
+                                "sunet": "euan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25147",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ashley, E.",
+                                "sunet": "euan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "16850",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brandeau, M.",
+                                "sunet": "brandeau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17917",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bassik, M.",
+                                "sunet": "bassik"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25148",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bassik, M.",
+                                "sunet": "bassik"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17918",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25149",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "16851",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Butte, A.",
+                                "sunet": "abutte"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17919",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25150",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "08",
+                "component": "T/D",
+                "notes": null,
+                "classId": "16852",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17920",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bejerano, G.",
+                                "sunet": "bejerano"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "08",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25151",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bejerano, G.",
+                                "sunet": "bejerano"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "127230",
+        "number": "BIOMEDIN 801",
+        "units": [
+            0
+        ],
+        "totalSections": 237
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BIOMEDIN",
+        "code": "802",
+        "title": "TGR PhD Dissertation",
+        "description": null,
+        "repeatable": "true",
+        "grading": "TGR",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "26933",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "28789",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "28450",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "16874",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17990",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25221",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Altman, R.",
+                                "sunet": "rbaltman"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "16875",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17991",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ashley, E.",
+                                "sunet": "euan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25222",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ashley, E.",
+                                "sunet": "euan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "16876",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Brandeau, M.",
+                                "sunet": "brandeau"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17992",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bassik, M.",
+                                "sunet": "bassik"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25223",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bassik, M.",
+                                "sunet": "bassik"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17993",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25224",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Batzoglou, S.",
+                                "sunet": "serafim"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "16877",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Butte, A.",
+                                "sunet": "abutte"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17994",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25225",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bayati, M.",
+                                "sunet": "bayati"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "T/D",
+                "notes": null,
+                "classId": "17995",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bejerano, G.",
+                                "sunet": "bejerano"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "08",
+                "component": "T/D",
+                "notes": null,
+                "classId": "25226",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bejerano, G.",
+                                "sunet": "bejerano"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "09",
+                "component": "T/D",
+                "notes": null,
+                "classId": "16878",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Davis, R.",
+                                "sunet": "dnamarkr"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "127231",
+        "number": "BIOMEDIN 802",
+        "units": [
+            0
+        ],
+        "totalSections": 246
+    }
+]

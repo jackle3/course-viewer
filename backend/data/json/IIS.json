@@ -1,0 +1,126 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "IIS",
+        "code": "199",
+        "title": "Interschool Honors Program in International Security Studies",
+        "description": "Students from different academic departments participate in a year-long weekly seminar to discuss, analyze, and conduct research on international security. Combines research methods, policy evaluation, oral presentation, and preparation of an honors thesis by each student. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "This Honors Seminar meets in Encina Hall's Reuben Hills Conference Room (E207).",
+                "classId": "7489",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Trinkunas, H.",
+                                "sunet": "antanas"
+                            },
+                            {
+                                "name": "Tracy, C.",
+                                "sunet": "cltracy"
+                            },
+                            {
+                                "name": "Ewing, R.",
+                                "sunet": "rewing1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "This Honors Seminar meets in Encina Hall's Reuben Hills Conference Room (E207).",
+                "classId": "7347",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Trinkunas, H.",
+                                "sunet": "antanas"
+                            },
+                            {
+                                "name": "Tracy, C.",
+                                "sunet": "cltracy"
+                            },
+                            {
+                                "name": "Ewing, R.",
+                                "sunet": "rewing1"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "This Honors Seminar meets in Encina Hall's Reuben Hills Conference Room (E207).",
+                "classId": "11007",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Econ 206",
+                        "instructors": [
+                            {
+                                "name": "Trinkunas, H.",
+                                "sunet": "antanas"
+                            },
+                            {
+                                "name": "Tracy, C.",
+                                "sunet": "cltracy"
+                            },
+                            {
+                                "name": "Ewing, R.",
+                                "sunet": "rewing1"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "100706",
+        "number": "IIS 199",
+        "units": [
+            3,
+            4,
+            5
+        ],
+        "totalSections": 3
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "GSBGID",
+        "code": "333",
+        "title": "Taxes and Business Strategy",
+        "description": "Taxes have a direct impact on cash flow and often divert 20% to 40% of the firm's pretax cash flow to the government, making the government one of the largest stakeholders. Taxes also affect a wide variety of business decisions, including the efficient formation of businesses, operational planning across jurisdictions with competing tax regimes, M&amp;A tax structure, the creation of cash and equity compensation plans, and retirement planning (to name a few).  This course first provides a conceptual framework for incorporating taxation into business decisions, linking concepts from accounting, corporate finance, business law, and economics. The course then provides real-world examples to illustrate the impact of tax considerations on earnings and cash flows.  The goal of this course is to provide a foundational understanding of tax consequences and trade-offs that can be adapted across jurisdictions and as tax laws change.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "Students are allowed to miss 1 class without penalty. Undergraduates permitted if they have successfully completed at least one Accounting course. No Exam. P/F Not Allowed. Capacity limited to 40 students. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 4 Group 1 Individual Projects/Papers. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Case and Problem Discussion. Participation 15% Projects/Papers 45% Quizzes 40%.",
+                "classId": "32351",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Suarez Serrato, J.",
+                                "sunet": "jcsuarez"
+                            },
+                            {
+                                "name": "Lester, R.",
+                                "sunet": "rlester"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "CAS",
+                "notes": "Students are allowed to miss 1 class without penalty. Undergraduates permitted if they have successfully completed at least one Accounting course. No Exam. P/F Not Allowed. Capacity limited to 40 students. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. 4 Group 1 Individual Projects/Papers. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Case and Problem Discussion. Participation 15% Projects/Papers 45% Quizzes 40%.",
+                "classId": "32352",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Suarez Serrato, J.",
+                                "sunet": "jcsuarez"
+                            },
+                            {
+                                "name": "Lester, R.",
+                                "sunet": "rlester"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216572",
+        "number": "GSBGID 333",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "GSBGID",
+        "code": "501",
+        "title": "Climate Finance in Private Markets",
+        "description": "Climate change poses one of the most salient emerging risks &iquest; and opportunities &iquest; to financial markets. This course discusses the fast-moving frontiers of climate finance. It will particularly focus on the role that private markets play in accelerating the growth of the companies facilitating the transition to a carbon-neutral economy. The course will consist of a mix of lectures introducing frameworks and relevant background information, case studies, and guest speakers. There will be two hands-on homework exercises where students evaluate real-world investment opportunities - one at the venture-capital stage and one at the private-equity stage. After taking this course, students will (a) be familiar with the unique challenges of financing climate tech at scale; (b) understand the key climate disclosure requirements, frameworks for financed emissions, and methods for &iquest;impact measurement&iquest;; and (c) develop some practical experience with portfolio allocation for sustainability-focused investment funds. No prior finance knowledge is required.",
+        "repeatable": "false",
+        "grading": "GSB Student Option LTR/PF",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "No Exam. GSB PhD students need instructor permission. Participation 30% Projects/Papers 70%. 2 Group Projects/Papers. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. CSI certificate course. P/F Allowed. Non-GSB students: See gsb.stanford.edu/NonGSBReg. Capacity limited to 35 students. Case and Problem Discussion.",
+                "classId": "31224",
+                "currentClassSize": "33",
+                "maxClassSize": "33",
+                "schedules": [
+                    {
+                        "startTime": "4:25:00 PM",
+                        "endTime": "6:10:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Garfinkel, J.",
+                                "sunet": "garfy"
+                            },
+                            {
+                                "name": "Molina, M.",
+                                "sunet": "mmolina7"
+                            }
+                        ],
+                        "startTimestamp": 59100.0,
+                        "endTimestamp": 65400.0,
+                        "days": "Monday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225606",
+        "number": "GSBGID 501",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    }
+]

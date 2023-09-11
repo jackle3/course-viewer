@@ -1,0 +1,1286 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "130",
+        "title": "Sexual Diversity and Function Across Medical Disciplines",
+        "description": "Focus is on development of personal and professional skills to interact with people across the diverse range of human sexuality, from childhood (pediatric) to older ages (geriatric), with consideration of gender identity, sexual orientation, sociocultural (predominantly U.S., not global) and religious values, and selected medical issues (e.g. hormonal therapy, disabilities, e.g. spinal cord injury, etc. with discussion of sexual taboos and unusual sexual practices that you might encounter in a general medical setting. For the 4th unit, students must also attend INDE 215 Queer Health and Medicine and complete the additional assignments for that section but do not enroll in that course.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Class meets as follows: with CHPR 230 on Tuesdays and Thursdays from 10:30-11:50am and complete assignments for that class. For the 4th unit, which is strongly encouraged by the instructor, students also attend INDE 215 on Thursdays from 12:30-1:20pm and complete assignments for that class. Students do not enroll in either CHPR 230 or INDE 215.",
+                "classId": "26777",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Stefanick, M.",
+                                "sunet": "marcias"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "216343",
+        "number": "SOMGEN 130",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "140Q",
+        "title": "The Beginning: the Brain, the Womb, and the Elusive Definition of Life",
+        "description": "Can we pinpoint the precise moment that a human life begins? If so, what do we do with that information? Together we will chart the path between conception and birth with particular focus on the fetal brain and the placental interface. What can biology tell us and where are the gaps? In the absence of a definitive answer, what spiritual traditions, ethical frameworks, and reasoning might we rely on to orient us? Grounded in biology, we will survey a diverse spectrum of attitudes about personhood, fate, and personal responsibility that can be applied to urgent issues in reproductive rights.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ISS",
+                "notes": "Introductory Seminar. Preference to sophomore and new transfer students; first-year students admitted if space available. Advance sign-up process and deadlines at https://exploreintrosems.stanford.edu/.",
+                "classId": "28937",
+                "currentClassSize": "0",
+                "maxClassSize": "14",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": "70-72A1",
+                        "instructors": [
+                            {
+                                "name": "Braun, A.",
+                                "sunet": "amybraun"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-EDP",
+            "WAY-ER"
+        ],
+        "objectID": "224130",
+        "number": "SOMGEN 140Q",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "141Q",
+        "title": "Can brains be repaired like cars or roads?",
+        "description": "Can brains be repaired just like cars or roads?  The thought of repairing brains or enhancing them has been a dream of ideal medicine, but is it possible now?  To answer that question we need to dive into NeuroEngineering. We will learn the basics of synapse and neural network formation, focusing on neural enhancement and neural repair/regeneration. Through the lenses of tissue, chemical and electrical engineering, we will learn the challenges of repairing/enhancing the brain. We'll also discuss the ethical and political implications. Grounded in Neuroscience, we'll research the latest clinical trials and technology to repair the brain.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ISS",
+                "notes": "Introductory Seminar. Preference to sophomore and new transfer students; first-year students admitted if space available. Advance sign-up process and deadlines at https://exploreintrosems.stanford.edu/.",
+                "classId": "30553",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SMA"
+        ],
+        "objectID": "225179",
+        "number": "SOMGEN 141Q",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "150Q",
+        "title": "Challenging Sex and Gender Dichotomies in Biology and Medicine (FEMGEN 150Q)",
+        "description": "This course explores and challenges the physiological basis for distinguishing human &quot;males&quot; and &quot;females&quot;, expands the concepts of &quot;intersex&quot; beyond reproductive anatomy/physiology (i.e. beyond the genitalia), and discusses some known consequences of &quot;gender biases&quot; in medical diagnoses and treatments. The influence of gender (sociocultural) &quot;norms&quot;, i.e. gendered behaviors and relations, on human biology is juxtaposed with the role of biological traits on the construction of gender identity, roles and relationships, thereby focusing on the interactions of sex and gender on health and medical outcomes. Problems that may arise by labeling conditions that vary in incidence, prevalence and/or severity across the &quot;male-female&quot; spectrum as &quot;men's&quot; or &quot;women's&quot; health issues will be discussed. In addition, the importance of recognizing the spectrum of sex and gender, as well as sexual orientation, in clinical practice from pediatric to geriatric populations, will be highlighted, with consideration of varying perspectives within different race/ethnic, religious, political, and other groups.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ISS",
+                "notes": "Introductory Seminar. Preference to sophomore and new transfer students; first-year students admitted if space available. Advance sign-up process and deadlines at https://exploreintrosems.stanford.edu/.",
+                "classId": "27149",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Stefanick, M.",
+                                "sunet": "marcias"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "219352",
+        "number": "SOMGEN 150Q",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "160B",
+        "title": "Sexual Assault Prevention",
+        "description": "This course series consists of a workshop component (SOMGEN 160A) and a classroom lecture component (SOMGEN 160B), which can be taken separately or concurrently. SOMGEN 160A, for which students choose one Saturday during the quarter, will focus on learning hands-on skills to reduce gender-based violence in campus communities. SOMGEN 160B, which meets weekly for 50 minutes, will focus on learning about the theory and best practices in sexual assault prevention programming and evaluation, including reading pertinent literature.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "222034",
+        "number": "SOMGEN 160B",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "203",
+        "title": "Literature and Writing for Military Affiliated Students",
+        "description": "This seminar will explore short readings of poetry, fiction, and non-fiction written by veterans or influenced by conflict. We will discuss the importance of war writing as a medium of expression for veterans, a means of understanding and reconciliation for civilians, and the ways it has impacted culture as a whole. The work will include short reading assignments, in-class writing prompts and guest speaker(s), such as General Jim Mattis, veteran writer Hugh Martin and others. There will be a final 1,500-word project. No writing experience required or expected.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Class meet in-person and remote.",
+                "classId": "24330",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "6:00:00 PM",
+                        "location": "CCSR 4107",
+                        "instructors": [
+                            {
+                                "name": "Lin, B.",
+                                "sunet": "bylin"
+                            },
+                            {
+                                "name": "Genovese, J.",
+                                "sunet": "jmgeno"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 64800.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216672",
+        "number": "SOMGEN 203",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "206",
+        "title": "Global Medical Issues Affecting Women (FEMGEN 206)",
+        "description": "This course probes the principal issues affecting women and girls medically around the world. Through interactive discussions, guest lectures, case studies, and academic readings, students become acquainted with the most critical challenges to women's health globally, and use selected analytical tools to assess how these may be addressed efficiently, cost-effectively, and sustainably. Topics include women's cancer, birth control, infertility, female genital mutilation, midwifery, obstetric fistula, breastfeeding, violence against women, and women's representation in biomedical research. The aim is to cultivate in students a nuanced appreciation of women's unique needs, roles, and challenges in the contemporary global health landscape. S/NC or +/-.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "30886",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "MSOBX303",
+                        "instructors": [
+                            {
+                                "name": "Sarnquist, C.",
+                                "sunet": "cleas"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216043",
+        "number": "SOMGEN 206",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "207",
+        "title": "Theories of Change in Global Health (INTLPOL 291, PUBLPOL 291)",
+        "description": "Organizations dedicated to improving global health deploy various approaches ranging from efforts to improve economic conditions, health systems, and technology to policy change and advocacy. This course critically evaluates 15 common theories of change that underlay global health interventions. Students will review and discuss examples of both success and failure of each theory of change drawn from various disciplines. This seminar is appropriate for graduate students of any discipline who are interested in considering the range of approaches and their likely utility when considering a specific global health problem in a particular location. Upper-class undergraduates who have completed rigorous related coursework and who are willing to commit the preparatory time are welcome. Our discussions benefit greatly from diverse perspectives. Sign up for 3 unit credits to participate in the seminar or 4 units to participate in the seminar and complete a project that provides an opportunity to apply these ideas to a global health problem of your interest.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "27762",
+                "currentClassSize": "0",
+                "maxClassSize": "17",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "5:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Luby, S.",
+                                "sunet": "sluby"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 61200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217048",
+        "number": "SOMGEN 207",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "213",
+        "title": "The Art of Observation: Enhancing Clinical Skills Through Visual Analysis",
+        "description": "Offers medical students the opportunity to enhance their observational and descriptive abilities by analyzing works of art in the Stanford museums. Working with the Cantor Arts Center staff and Stanford Art History PhD candidates, students  spend time in each session actively looking at and describing works in the gallery. Discussion with medical school faculty follows, providing a clinical correlate to the gallery session. Classes interrogate a different theme of medical observation and clinical practice and includes opportunities for an applied clinical session in the hospital with course-affiliated physicians.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": null,
+                "classId": "26778",
+                "currentClassSize": "0",
+                "maxClassSize": "35",
+                "schedules": [
+                    {
+                        "startTime": "11:00:00 AM",
+                        "endTime": "1:00:00 PM",
+                        "location": "Cantor Arts Center",
+                        "instructors": [
+                            {
+                                "name": "Rama, A.",
+                                "sunet": "asheen21"
+                            },
+                            {
+                                "name": "Lauricella, N.",
+                                "sunet": "nplauric"
+                            },
+                            {
+                                "name": "Toomer, L.",
+                                "sunet": "ltoomer"
+                            }
+                        ],
+                        "startTimestamp": 39600.0,
+                        "endTimestamp": 46800.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216454",
+        "number": "SOMGEN 213",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "214",
+        "title": "Intro to Specialty Career Selection: Exploring Residency Specialty Selection with Career Advisors",
+        "description": "Are you intimidated by the number of specialty choices out there? Do you want to feel more confident when answering the dreaded question, &quot;What kind of doctor do you want to be?&quot; The School of Medicine Center for Specialty Career Advising is offering a 2-quarter seminar series highlighting the different specialty career choices offered for your residency training. We recognize that undergraduates and medical students may have a general idea of what field of medicine they might be interested in pursuing, but often aren't exposed to the vast number of choices until later in their clinical years. This series will feature 20 different and popular specialties. Each week, we will highlight a different specialty through a seminar led by the Specialty Career Advisor (SCA) in that field of medicine. Each SCA is carefully selected as an expert and mentor in that field and will provide you with an overview of what to expect should you choose that specialty. Each overview will also provide a next steps framework to learn more about the field with ample time for Q&amp;A. There is no better time to start exploring than now! This series is a Pass-Fail attendance only course.",
+        "repeatable": "true",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "30720",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "Li Ka Shing Center, room 120",
+                        "instructors": [
+                            {
+                                "name": "Taleghani, N.",
+                                "sunet": "nounou"
+                            },
+                            {
+                                "name": "Johnson, A.",
+                                "sunet": "ajmd41"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "28885",
+                "currentClassSize": "47",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "Li Ka Shing Center, room 120",
+                        "instructors": [
+                            {
+                                "name": "Taleghani, N.",
+                                "sunet": "nounou"
+                            },
+                            {
+                                "name": "Johnson, A.",
+                                "sunet": "ajmd41"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223700",
+        "number": "SOMGEN 214",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "219A",
+        "title": "Introduction to Medical Education",
+        "description": "Will teaching be an important part of your professional career? What knowledge and skills are necessary to become an outstanding medical educator? This seminar will use interactive and small group instruction to review core principles of medical education. Students will explore learning theory, bedside and clinical teaching techniques, feedback, curriculum design, assessment, education research methods, technology and career paths in medical education.",
+        "repeatable": "true",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "26686",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Williams, S.",
+                                "sunet": "sroberts"
+                            },
+                            {
+                                "name": "Gisondi, M.",
+                                "sunet": "mgisondi"
+                            },
+                            {
+                                "name": "Caretta-Weyer, H.",
+                                "sunet": "hcweyer"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221134",
+        "number": "SOMGEN 219A",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "219B",
+        "title": "Advances in Medical Education",
+        "description": "This seminar is intended for students who are interested in a career in health professions education. Completion of 'Introduction to Medical Education' (SOMGEN219, Winter Q) is recommended but not required. We will use didactic and small group instruction to examine several advanced topics in medical education: individualized learning, competency-based assessment, coaching in medical education, applied learning theory, disseminating educational scholarship, and the creation of digital learning resources. We hope that this course will inspire students to enter academic careers that include teaching as a central tenet of their life's work.",
+        "repeatable": "true",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "26598",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gisondi, M.",
+                                "sunet": "mgisondi"
+                            },
+                            {
+                                "name": "Ribeira, R.",
+                                "sunet": "rribeira"
+                            },
+                            {
+                                "name": "Krzyzaniak, S.",
+                                "sunet": "skrzyz"
+                            },
+                            {
+                                "name": "Caretta-Weyer, H.",
+                                "sunet": "hcweyer"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223088",
+        "number": "SOMGEN 219B",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "224",
+        "title": "Physical Listening (DANCE 224)",
+        "description": "Do you want to deepen your communication skills with patients and colleagues? Are you planning or pursuing a career in healthcare? If so, Physical Listening is the course for you. Non-verbal behaviors and physical presence play a critical role in masterful interpersonal communication. How our bodies move - the energy we project, the force and speed of our movements - informs how we perceive and communicate. The Stanford School of Medicine and Medical Humanities program invite you to join this interdisciplinary course harnessing core competencies at the intersection of medicine and dance, designed to finesse clinically-relevant communication skills through creative inquiry. Through this course, learners will: Explore the concept of &quot;physical embodiment&quot; through interactive exercises, video viewings, clinical cases, and lively discussion;  sharpen skills of kinesthetic awareness, spatial perception, and critical movement analysis; improve their ability both to read and employ non-verbal, physical &quot;language&quot; in daily communication. Taught by faculty/instructors from the School of Medicine, Stanford Healthcare, Stanford Medicine Children's Health, and the Department of Theater and Performance Studies (TAPS). Featured instruction by JoAnna Mendl Shaw - renowned choreographer and former Juilliard and NYU Tisch School of the Arts faculty.  Open to all Stanford undergraduate students (perfect for premedical students!), graduate students and medical students. No prerequisites, no former artistic experience expected.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "Request a large room for participants to have open space to do physical movements when needed.",
+                "classId": "31234",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "5:30:00 PM",
+                        "endTime": "8:20:00 PM",
+                        "location": "Li Ka Shing Center, room 102",
+                        "instructors": [
+                            {
+                                "name": "Lin, B.",
+                                "sunet": "bylin"
+                            },
+                            {
+                                "name": "Srinivasan, M.",
+                                "sunet": "malathis"
+                            }
+                        ],
+                        "startTimestamp": 63000.0,
+                        "endTimestamp": 73200.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225088",
+        "number": "SOMGEN 224",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "227A",
+        "title": "Career Exploration Opportunities (CEO) Internship Program Practicum",
+        "description": "Restricted to graduate students (year 3 and onward) and postdocs in the Stanford Biosciences program who have completed SOMGEN 227. Focus is on internship progress and future career goals. Topics include update on progress of internship goals, planning for future career goals and return to academic research, internship activities, culture and mentorship.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "Meets by arrangement with instructor.",
+                "classId": "23953",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clark, D.",
+                                "sunet": "dclark13"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "Meets by arrangement with instructor.",
+                "classId": "17382",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clark, D.",
+                                "sunet": "dclark13"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "Meets by arrangement with instructor.",
+                "classId": "16917",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Clark, D.",
+                                "sunet": "dclark13"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "215633",
+        "number": "SOMGEN 227A",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "231A",
+        "title": "Clinical Mandarin in Practice and Application",
+        "description": "This 2-quarter course sequence is designed for medical trainees of all language levels interested in developing their scope of Medical Mandarin in clinical practice. The course will focus on understanding Chinese healthcare systems and culture, while navigating potentially difficult conversations in Mandarin including: sexuality, mental health, family dynamics, and end-of-life discussion.  The course will feature patient and family voices, adopting a flipped classroom model with biweekly, small group language labs complemented by monthly large group didactic sessions. Students enrolling in the 1-unit course will attend monthly large group didactics, while students enrolled in the 2-unit course will also attend biweekly language labs. Large group sessions will be taught by faculty and residents in Stanford Family Medicine who use Medical Mandarin daily in their own primary care practice. Each large group session will also feature patients, families, and content experts to offer their own lived experiences with Clinical Mandarin. Students with specific medical interests are encouraged to develop their own ideas for directed reading with course staff throughout the course.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "30577",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "This course will have didactic sessions on 9/27, 10/25, and 12/6 and language lab sessions on 10/4, 10/18, 11/1, 11/15, and 11/29.",
+                "classId": "28547",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "6:30:00 PM",
+                        "endTime": "8:20:00 PM",
+                        "location": "Alway Building, Room M315",
+                        "instructors": [
+                            {
+                                "name": "Zhou, B.",
+                                "sunet": "brightz"
+                            },
+                            {
+                                "name": "Liu, J.",
+                                "sunet": "jliu99"
+                            },
+                            {
+                                "name": "Lee, J.",
+                                "sunet": "jihaelee"
+                            },
+                            {
+                                "name": "Wu, J.",
+                                "sunet": "janetwu8"
+                            },
+                            {
+                                "name": "Engle, M.",
+                                "sunet": "mengle"
+                            }
+                        ],
+                        "startTimestamp": 66600.0,
+                        "endTimestamp": 73200.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LBS",
+                "notes": null,
+                "classId": "30576",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225233",
+        "number": "SOMGEN 231A",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "231B",
+        "title": "Clinical Mandarin in Practice and Application",
+        "description": "This 2-quarter course sequence is designed for medical trainees of all language levels interested in developing their scope of Medical Mandarin in clinical practice. The course will focus on understanding Chinese healthcare systems and culture, while navigating potentially difficult conversations in Mandarin including: sexuality, mental health, family dynamics, and end-of-life discussion.  The course will feature patient and family voices, adopting a flipped classroom model with biweekly, small group language labs complemented by monthly large group didactic sessions. Students enrolling in the 1-unit course will attend monthly large group didactics, while students enrolled in the 2-unit course will also attend biweekly language labs. Large group sessions will be taught by faculty and residents in Stanford Family Medicine who use Medical Mandarin daily in their own primary care practice. Each large group session will also feature patients, families, and content experts to offer their own lived experiences with Clinical Mandarin. Students with specific medical interests are encouraged to develop their own ideas for directed reading with course staff throughout the course.",
+        "repeatable": "false",
+        "grading": "Medical School MD Grades",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "This course will have didactics sessions on Wednesdays - 1/10, 1/24, 2/7, 2/21 and 3/15 and language lab sessions on Wednesdays - 1/17, 1/31, 2/14, 2/28, and 3/6. All sessions meet in the same classroom.",
+                "classId": "30606",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "6:30:00 PM",
+                        "endTime": "8:20:00 PM",
+                        "location": "Alway Building, Room M315",
+                        "instructors": [
+                            {
+                                "name": "Zhou, B.",
+                                "sunet": "brightz"
+                            },
+                            {
+                                "name": "Engle, M.",
+                                "sunet": "mengle"
+                            }
+                        ],
+                        "startTimestamp": 66600.0,
+                        "endTimestamp": 73200.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225277",
+        "number": "SOMGEN 231B",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "237",
+        "title": "Health Impact of Sexual Assault and Relationship Abuse across the Lifecourse (AFRICAAM 127, FEMGEN 237, HUMBIO 124)",
+        "description": "An overview of the acute and chronic physical and psychological health impact of sexual abuse through the perspective of survivors of childhood, adolescent, young and middle adult, and elder abuse, including special populations such as pregnant women, military and veterans, prison inmates, individuals with mental or physical impairments. Also addresses: race/ethnicity, gender identity, sexual orientation, and other demographic and societal factors, including issues specific to college culture. Professionals with expertise in sexual assault present behavioral and prevention efforts such as bystander intervention training, medical screening, counseling and other interventions to manage the emotional trauma of abuse. Undergraduates must enroll for 3 units. To receive a letter grade in any listing, students must enroll for 3 units. This course must be taken for a letter grade and a minimum of 3 units to be eligible for Ways credit. Enrollment limited to students with sophomore academic standing or above or consent of the instructor. Human Biology students must enroll in HUMBIO 124 or AFRICAAM 127 or FEMGEN 237. Med/Grad students should enroll in SOMGEN 237 for 2 units.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "25345",
+                "currentClassSize": "0",
+                "maxClassSize": "5",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "200-203",
+                        "instructors": [
+                            {
+                                "name": "Stefanick, M.",
+                                "sunet": "marcias"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217008",
+        "number": "SOMGEN 237",
+        "units": [
+            2,
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "275",
+        "title": "Leading Value Improvement in Health Care Delivery",
+        "description": "Successful leaders on the journey to better care delivery methods with lower total spending inevitably face challenges. What confluence of attitudes, values, strategy, and events allows them to prevail? Contexts will include public policy, entrepreneurship and early stage investing, care delivery innovations, and health care system management to improve the value of care. Course faculty and guests will consist of nationally recognized leaders, innovators, and change agents. The course is open to any member of the Stanford community aspiring to lead value improvement in health care delivery including medical, MBA, law, and graduate students, as well as undergraduates, postdoctoral candidates, and medical center trainees. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "27678",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213943",
+        "number": "SOMGEN 275",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "SOMGEN",
+        "code": "299",
+        "title": "SPRC Education Program Internship",
+        "description": "Internship with Stanford Prevention Research Center Education Programs with focus on program administration and development. SPRC education programs include Women and Sex Differences in Medicine (WSDM), Health 4 All (H4A), and Community Health and Prevention Research (CHPR).",
+        "repeatable": "true",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "27801",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29850",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29565",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "25497",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "16961",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ioannidis, J.",
+                                "sunet": "jioannid"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "25498",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Thadaney Israni, S.",
+                                "sunet": "sonoot"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "16962",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Thadaney Israni, S.",
+                                "sunet": "sonoot"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "25499",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Preising, T.",
+                                "sunet": "preising"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "16963",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Preising, T.",
+                                "sunet": "preising"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "25500",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Harty, C.",
+                                "sunet": "charty"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "16964",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Harty, C.",
+                                "sunet": "charty"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217719",
+        "number": "SOMGEN 299",
+        "units": [
+            1
+        ],
+        "totalSections": 11
+    }
+]

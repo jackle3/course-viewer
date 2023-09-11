@@ -1,0 +1,1362 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "DATASCI",
+        "code": "54",
+        "title": "Data Science at Work",
+        "description": "This one-unit course will showcase the power of data science to inform and impact all aspects of our lives and communities. During this course, students will participate in a series of discussions with professional data scientists working in government, technology companies, business and non-profit organizations. Speakers will share their personal career paths, experiences working in data science, and recommendations for the next generation of leaders in data science. This course is associated with the launch of a new undergraduate interdisciplinary major in data science and is designed for undergraduates who are interested in pursuing careers that put data science to work in the private, public, or non-profit sectors.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "224534",
+        "number": "DATASCI 54",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "DATASCI",
+        "code": "112",
+        "title": "Principles of Data Science",
+        "description": "A hands-on introduction to the methods of data science. Strategies for analyzing and visualizing tabular data, including common patterns and pitfalls. Data acquisition through web scraping and REST APIs. Core principles of machine learning: supervised vs. unsupervised learning, training vs. test error, hyperparameter tuning, and ensemble methods. Introduction to data of different shapes and sizes, including text, image, and geospatial data. The focus is on intuition and implementation, rather than theory and math. Implementation is in Python and Jupyter notebooks, using libraries such as pandas and scikit-learn. Course culminates in a final project where students apply the methods to a data science problem of their choice. Prerequisite: CS 106A or equivalent programming experience in Python. (Students with experience in another programming language should take CS 193Q to catch up on Python.)",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "15159",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sun, D.",
+                                "sunet": "dlsun"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "30937",
+                "currentClassSize": "0",
+                "maxClassSize": "90",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LEC",
+                "notes": null,
+                "classId": "31177",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sun, D.",
+                                "sunet": "dlsun"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "DIS",
+                "notes": null,
+                "classId": "30948",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "DIS",
+                "notes": null,
+                "classId": "31178",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "DIS",
+                "notes": null,
+                "classId": "30947",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "DIS",
+                "notes": null,
+                "classId": "31179",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "DIS",
+                "notes": null,
+                "classId": "30949",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "DIS",
+                "notes": null,
+                "classId": "31180",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "DIS",
+                "notes": null,
+                "classId": "30950",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "DIS",
+                "notes": null,
+                "classId": "31181",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "3:30:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 55800.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "DIS",
+                "notes": null,
+                "classId": "30951",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "DIS",
+                "notes": null,
+                "classId": "31182",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:20:00 PM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 62400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "DIS",
+                "notes": null,
+                "classId": "31183",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "5:30:00 PM",
+                        "endTime": "6:20:00 PM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 63000.0,
+                        "endTimestamp": 66000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-AQR"
+        ],
+        "objectID": "224490",
+        "number": "DATASCI 112",
+        "units": [
+            4
+        ],
+        "totalSections": 14
+    },
+    {
+        "year": "2023-2024",
+        "subject": "DATASCI",
+        "code": "120",
+        "title": "Data Narratives (MCS 120)",
+        "description": "The class allows students to grow their ability to communicate ideas and insights with data. There are many components of a well-crafted narrative based on data---from a discussion of data sources to visualization, and from pattern detection to generalizable conclusions---which we explore in sequence across the quarter. The class does not introduce advanced data analysis techniques. It rather focuses on the essential elements of an inquiry conducted with data and places a special emphasis on how to record and communicate these. Each student enrolled in class needs to identify a dataset and a question that they are going to explore. As we examine the different components of a data inquiry, the students will carry out a corresponding analysis/writing assignment on the data they have identified, gradually building material for the narrative that will constitute their final paper. This course is required for students participating in SURP-Stats and for Data Science BS students who are fulfilling their capstone requirement with independent research (including Honors thesis) or with DATASCI 190.  Prerequisite: Stats191 or equivalent. (WIM)",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "14713",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sabatti, C.",
+                                "sunet": "sabatti"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223738",
+        "number": "DATASCI 120",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "DATASCI",
+        "code": "154",
+        "title": "Solving Social Problems with Data (COMM 140X, EARTHSYS 153, ECON 163, MS&E 134, POLISCI 154, PUBLPOL 155, SOC 127)",
+        "description": "Introduces students to the interdisciplinary intersection of data science and the social sciences through an in-depth examination of contemporary social problems. Provides a foundational skill set for solving social problems with data including quantitative analysis, modeling approaches from the social sciences and engineering, and coding skills for working directly with big data. Students will also consider the ethical dimensions of working with data and learn strategies for translating quantitative results into actionable policies and recommendations. Lectures will introduce students to the methods of data science and social science and apply these frameworks to critical 21st century challenges, including education &amp; inequality, political polarization, and health equity &amp; algorithmic design in the fall quarter, and social media, climate change, and school choice &amp; segregation in the spring quarter. In-class exercises and problem sets will provide students with the opportunity to use real-world datasets to discover meaningful insights for policymakers and communities. This course is the required gateway course for the new major in Data Science &amp; Social Systems. Preference given to Data Science &amp; Social Systems B.A. majors and prospective majors. Course material and presentation will be at an introductory level. Enrollment and participation in one discussion section is required. Sign up for the discussion section will occur on Canvas at the start of the quarter. Prerequisites: CS106A (required), DATASCI 112 (recommended as pre or corequisite)",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "14773",
+                "currentClassSize": "0",
+                "maxClassSize": "90",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Weinstein, J.",
+                                "sunet": "jweinst"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Because this is a gateway course for the Data Science and Social Systems BA, there will initially be 10 seats reserved for those who have already declared the major. Additionally, since the class is intended to introduce students to data science and social systems, we?ve reserved 55 more seats for frosh and sophomores. These reservations will be in effect from when registration opens through September 5 to give the target audience time to enroll. On September 6, any seats that are still available will become open to any students.",
+                "classId": "28447",
+                "currentClassSize": "0",
+                "maxClassSize": "90",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "STLC 114",
+                        "instructors": [
+                            {
+                                "name": "Nobles, M.",
+                                "sunet": "mnobles"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "DIS",
+                "notes": null,
+                "classId": "14804",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:20:00 PM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 51600.0,
+                        "days": "Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "DIS",
+                "notes": null,
+                "classId": "29367",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:20:00 PM",
+                        "location": "200-219",
+                        "instructors": [],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 62400.0,
+                        "days": "Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "DIS",
+                "notes": null,
+                "classId": "14805",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "DIS",
+                "notes": null,
+                "classId": "29368",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "5:30:00 PM",
+                        "endTime": "6:20:00 PM",
+                        "location": "160-329",
+                        "instructors": [],
+                        "startTimestamp": 63000.0,
+                        "endTimestamp": 66000.0,
+                        "days": "Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "DIS",
+                "notes": null,
+                "classId": "14806",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "DIS",
+                "notes": null,
+                "classId": "29369",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "80-115",
+                        "instructors": [],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "DIS",
+                "notes": null,
+                "classId": "14807",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "5:30:00 PM",
+                        "endTime": "6:20:00 PM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 63000.0,
+                        "endTimestamp": 66000.0,
+                        "days": "Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "DIS",
+                "notes": null,
+                "classId": "29370",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "200-217",
+                        "instructors": [],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "DIS",
+                "notes": null,
+                "classId": "14808",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "6:30:00 PM",
+                        "endTime": "7:20:00 PM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 66600.0,
+                        "endTimestamp": 69600.0,
+                        "days": "Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "DIS",
+                "notes": null,
+                "classId": "29371",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "200-217",
+                        "instructors": [],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "DIS",
+                "notes": null,
+                "classId": "14809",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:20:00 PM",
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 62400.0,
+                        "days": "Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "DIS",
+                "notes": null,
+                "classId": "29372",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:20:00 PM",
+                        "location": "200-219",
+                        "instructors": [],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 51600.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-AQR",
+            "WAY-SI"
+        ],
+        "objectID": "224344",
+        "number": "DATASCI 154",
+        "units": [
+            5
+        ],
+        "totalSections": 14
+    },
+    {
+        "year": "2023-2024",
+        "subject": "DATASCI",
+        "code": "190",
+        "title": "The Data Science Experience",
+        "description": "This course is intended for juniors and seniors in the Data Science/MCS major and it offers students an opportunity to engage with the campus data science community in its various activities of research, support of data driven decision making, education and communication. By taking part in these, students revisit what they learned through their college career and mature a personal understanding of data science. The course is equivalent to one unit of academic work done throughout the year. It involves attending and actively engaging with events (e.g. round tables, alumni panels, workshops, and technical seminars), participating in data science consultations, and reflecting on the undergraduate experience through meeting with a mentor and developing a portfolio.  Workshops, seminars, and data science consultations are chosen among a variety of options to reflect the students' interests. Participation is tracked through a Canvas site throughout one academic year. Students enroll for 1 unit during the Spring semester, when they are also required to attend class meetings. This course satisfies the Capstone Requirement of the Bachelor of Science in Data Science if taken after or concurrently with DATASCI120 &quot;Data Narratives.&quot;",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "30965",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sabatti, C.",
+                                "sunet": "sabatti"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225419",
+        "number": "DATASCI 190",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "DATASCI",
+        "code": "192A",
+        "title": "Data Science Practicum I",
+        "description": "This is the first course of a two-quarter capstone series. This is a capstone requirement for the B.A. in Data Science &amp; Social Systems and a capstone option for the B.S. in Data Science. Students will work in teams of 3-4 to provide actionable recommendations and practical tools to partners, which may include government agencies, community organizations, companies, or research labs. Through this partnership, students will integrate material from their coursework, gain experience applying data science techniques to complex, real-world problems, and develop their ability to work in teams. The first quarter focuses on exploratory data analysis, ethical considerations, and problem formulation. Students must complete both 192A and 192B for credit. The grade for 192A is awarded after completion of 192B. Preference given to junior and senior Data Science B.A. and B.S. majors.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "30633",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sun, D.",
+                                "sunet": "dlsun"
+                            },
+                            {
+                                "name": "Nobles, M.",
+                                "sunet": "mnobles"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225359",
+        "number": "DATASCI 192A",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "DATASCI",
+        "code": "192B",
+        "title": "Data Science Practicum II",
+        "description": "This is the second course of a two-quarter capstone series. This is a capstone requirement for the B.A. in Data Science &amp; Social Systems and a capstone option for the B.S. in Data Science. Students will work in teams of 3-4 to provide actionable recommendations and practical tools to partners, which may include government agencies, community organizations, companies, or research labs. Through this partnership, students will integrate material from their coursework, gain experience applying data science techniques to complex, real-world problems, and develop their ability to work in teams. The second quarter focuses on modeling, and delivery of results and presentation of progress to partners. This class is only open to students who took DATASCI 192A.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "30464",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sun, D.",
+                                "sunet": "dlsun"
+                            },
+                            {
+                                "name": "Nobles, M.",
+                                "sunet": "mnobles"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225350",
+        "number": "DATASCI 192B",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "DATASCI",
+        "code": "197",
+        "title": "WiDS Datathon Independent Study (CME 99)",
+        "description": "This independent study offers students the opportunity to participate in the WiDS Datathon for 1-unit of credit. The WiDS Datathon is an annual and global event that encourages data scientists of all levels to discover and hone their data science skills while solving an interesting and critical social impact challenge. The 2023 Challenge, &quot;Data Science for Subseasonal Forecast&quot;, centers on climate change and is in partnership with Climate Change AI (CCAI). Accurate long-term forecasts of temperature and precipitation is crucial for mitigating the effects of climate change (i.e. preparing for droughts and other wet weather extremes). Such forecasts can potentially impact many industries (e.g. agriculture, energy, disaster planning) in countries across the globe. Currently, purely physics-based models dominate short-term weather forecasting. But these models have a limited forecast horizon. The availability of meteorological data offers an opportunity for data scientists to improve subseasonal forecasts by blending physics-based forecasts with machine learning. To learn more, visit: https://www.widsconference.org/datathon.htmlStudents may participate in this independent study in teams of 1-4. To qualify for official participation in the datathon, at least half of each team must identify as women. To receive credit, the team will participate in the Datathon and write a report detailing their submission and reflecting on their experience. Interested students should register for the course, and sign up as a team using this form: https://forms.gle/LyX3yNU7dLnTCux1A. To find other students interested in forming a team, go here: https://docs.google.com/presentation/d/1UvutEFtYFeCkLkwnpU01R5V5WmJeMi4kVkaZYHxSiAY/edit?usp=sharing",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "224912",
+        "number": "DATASCI 197",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "DATASCI",
+        "code": "198",
+        "title": "Practical Training",
+        "description": "For students majoring in Data Science only.  Students obtain employment in a relevant industrial or research activity to enhance their professional experience. Students may enroll in Summer Quarters only and for a total of three times. Students must first notify their DS adviser before enrolling in their course section, and must submit a one-page written final report summarizing the knowledge/experience gained upon completion of the internship in order to receive credit.Please notes that F-1 international students enrolled in their department&iquest;s CPT course cannot start working without first obtaining a CPT-endorsed I-20 from Bechtel International Center (enrolling in the CPT course alone is insufficient to meet federal immigration regulations).",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "224764",
+        "number": "DATASCI 198",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "DATASCI",
+        "code": "199",
+        "title": "Independent Study",
+        "description": "For undergraduates.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "15",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28462",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30515",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30363",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "14981",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Weinstein, J.",
+                                "sunet": "jweinst"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "15723",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Weinstein, J.",
+                                "sunet": "jweinst"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "14871",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Weinstein, J.",
+                                "sunet": "jweinst"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "14982",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nobles, M.",
+                                "sunet": "mnobles"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "15724",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nobles, M.",
+                                "sunet": "mnobles"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "14872",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Nobles, M.",
+                                "sunet": "mnobles"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "15725",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Walther, G.",
+                                "sunet": "gwalther"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "14873",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Walther, G.",
+                                "sunet": "gwalther"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "15726",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sabatti, C.",
+                                "sunet": "sabatti"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "14874",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sabatti, C.",
+                                "sunet": "sabatti"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "15727",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Duchi, J.",
+                                "sunet": "jduchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "14875",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Duchi, J.",
+                                "sunet": "jduchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "15728",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Palacios, J.",
+                                "sunet": "juliapr"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "14876",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Palacios, J.",
+                                "sunet": "juliapr"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224498",
+        "number": "DATASCI 199",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "totalSections": 17
+    }
+]

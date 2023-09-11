@@ -1,0 +1,264 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "HRMGT",
+        "code": "203",
+        "title": "People Analytics",
+        "description": "How can we use big data, machine learning and artificial intelligence to inform design, hiring, promotion and human resource management processes in organizations? We will discuss the theoretical and practical challenges that these issues present, and the ways by which data can help resolve them. In doing so, we will explore various data analytic methods and different data types, as well as the pitfalls and ethical issues their use introduces.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "221028",
+        "number": "HRMGT 203",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "HRMGT",
+        "code": "210",
+        "title": "Organizational Analytics",
+        "description": "This course will bring you to the cutting edge of how organizations are (re)-designed using analytics. You will learn about a variety of tools which allow you to (1) better understand understanding what is happening in an organization, (2) forecast what is likely to happen in the future, based on sophisticated extrapolation of past data, and (3) prototype (i.e., conduct organizational A/B tests) to determine which decisions are likely to be successful based on pilot tests. These tools make for a major departure from the mainstream approach to organization design, which relies extensively on copying 'best practices' from other companies, represents organizations as 'boxes and arrows' organization charts, and is often obsessed with incentive compensation and reporting as the key organizational/HR decisions. Instead, you will learn how to use analytics to find out what works specifically for your company (rather than what worked in others), develop detailed models of interactions among employees (rather than among boxes) to help them collaborate successfully, and think of organization design as a combination of factors which can all be better understood through analytics. The course's goals are to make you more knowledgeable about the analytical tools which can help you design an organization, to give you frameworks to ask the right questions to data scientists and evaluate their work, and to help you make decisions based on the results of analyses. This is a hands-on class: we will rely extensively on group exercises, in which you will be able to learn enough about analytical tools and programming to be able to collaborate with analysts and evaluate their work. Who should take this course? If you are likely to be involved in strategy execution, post-merger integration, re-organizations, or HR in either a direct or advisory role (regardless of how big or small your company is), this course will put you at the cutting edge of thinking and methodology in these areas. Some of the exercises will involve programming (in the Python language, specifically). However, you DO NOT need to know statistics (beyond that covered in core courses) or computer programming to take and benefit from this course. We will provide technical support and will design exercises in a way that you can focus your energies on mastering the concepts and thinking of solving business problems. The course won't turn you into data analysts, but it will help you manage them.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "221175",
+        "number": "HRMGT 210",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "HRMGT",
+        "code": "286",
+        "title": "Managing People in the Global Context",
+        "description": "The world of work has changed fundamentally - firms are now integrally linked to the global economy and many of you will manage teams of people located in different countries. What are the typical &quot;people&quot; challenges that arise when working across borders? We will answer this question by looking at topics such as hiring, job design, teamwork, training, pay and promotions. We will use exercises, cases from both developed and developing economies and guest lectures.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "217481",
+        "number": "HRMGT 286",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "HRMGT",
+        "code": "382",
+        "title": "People Operations: From Startup to Scaleup",
+        "description": "This course focuses attention on human resource strategies for startups. It discusses recruitment, incentives, design of jobs, development of talent, leadership and empowerment challenges in startups. We will deal with questions ranging from equity splits to founding team dynamics, hiring talent to the sequencing of hires. We will use a mix of &quot;live cases&quot; from the field, and lectures.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "CAS",
+                "notes": "P/F Not Allowed. 1 Group Project/Paper. Open to MBA and MSx students. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Final 50% Midterm 30% Projects/Papers 20%. Not Open to Non-GSB Students. Case and Problem Discussion.",
+                "classId": "31263",
+                "currentClassSize": "0",
+                "maxClassSize": "65",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lilly, J.",
+                                "sunet": "homey"
+                            },
+                            {
+                                "name": "Jaswa, S.",
+                                "sunet": "sjaswa"
+                            },
+                            {
+                                "name": "Rao, H.",
+                                "sunet": "hrao"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221681",
+        "number": "HRMGT 382",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "HRMGT",
+        "code": "384",
+        "title": "Understanding the Trends Transforming the World of Work: Lab for HR Startups",
+        "description": "The purpose of the course is to review the key trends transforming the world of work in a post-covid environment, and then get students to define and sharpen their definition of entrepreneurial opportunities to improve the world of work.  It will be offered as a 'lab' - in that in each session will focus on the transition from a transformative trend to an entrepreneurial opportunity.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": "1 Group 1 Individual Project/Paper. P/F Not Allowed. Open to MBA and MSx students. Capacity limited to 30 Students. Mandatory attendance. Absences impact grade. Take-home Midterm and Final. Final 50% Midterm 30% Participation 20%. Not Open to Non-GSB Students. Workshop.",
+                "classId": "31264",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ross, M.",
+                                "sunet": "mross10"
+                            },
+                            {
+                                "name": "Setty, P.",
+                                "sunet": "psetty"
+                            },
+                            {
+                                "name": "Rao, H.",
+                                "sunet": "hrao"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223054",
+        "number": "HRMGT 384",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "HRMGT",
+        "code": "503",
+        "title": "People Analytics",
+        "description": "How can we use big data, machine learning and artificial intelligence to inform design, hiring, promotion and human resource management processes in organizations? We will discuss the theoretical and practical challenges that these issues present, and the ways by which data can help resolve them. In doing so, we will explore various data analytic methods and different data types, as well as the pitfalls and ethical issues their use introduces.",
+        "repeatable": "false",
+        "grading": "GSB Letter Graded",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "222058",
+        "number": "HRMGT 503",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "HRMGT",
+        "code": "691",
+        "title": "PhD Directed Reading (ACCT 691, FINANCE 691, GSBGEN 691, MGTECON 691, MKTG 691, OB 691, OIT 691, POLECON 691, STRAMGT 691)",
+        "description": "This course is offered for students requiring specialized training in an area not covered by existing courses. To register, a student must obtain permission from the faculty member who is willing to supervise the reading.",
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "1",
+        "unitsMax": "15",
+        "sections": [],
+        "gers": [],
+        "objectID": "101403",
+        "number": "HRMGT 691",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "HRMGT",
+        "code": "692",
+        "title": "PhD Dissertation Research (ACCT 692, FINANCE 692, GSBGEN 692, MGTECON 692, MKTG 692, OB 692, OIT 692, POLECON 692, STRAMGT 692)",
+        "description": "This course is elected as soon as a student is ready to begin research for the dissertation, usually shortly after admission to candidacy. To register, a student must obtain permission from the faculty member who is willing to supervise the research.",
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "1",
+        "unitsMax": "15",
+        "sections": [],
+        "gers": [],
+        "objectID": "101406",
+        "number": "HRMGT 692",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "HRMGT",
+        "code": "802",
+        "title": "TGR Dissertation (ACCT 802, FINANCE 802, GSBGEN 802, MGTECON 802, MKTG 802, OB 802, OIT 802, POLECON 802, STRAMGT 802)",
+        "description": null,
+        "repeatable": "true",
+        "grading": "GSB Pass/Fail",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [],
+        "gers": [],
+        "objectID": "101410",
+        "number": "HRMGT 802",
+        "units": [
+            0
+        ]
+    }
+]

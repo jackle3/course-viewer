@@ -1,0 +1,724 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "1",
+        "title": "ARMY ROTC LAB",
+        "description": "Leadership laboratories, held weekly for three hours, are required of all students. Performance during lab periods is reflected in the student's course grade. Labs include activities such as rappelling, terrain navigation, marksmanship, drill and ceremonies, and tactical field training exercises.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Course held at Santa Clara University.  Room: Day 207.",
+                "classId": "15021",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15745",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15239",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213955",
+        "number": "ROTCARMY 1",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "11",
+        "title": "Leadership and Personal Development",
+        "description": "Introduces students to the personal challenges and competencies that are critical for effective leadership. Students learn how the personal development of life skills such as goal setting, time management, physical fitness, and stress management relate to leadership and officership. Students develop their own personal fitness program under the guidance of an Army master fitness trainer.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Course held at Santa Clara University.  Room: Varsi 231.",
+                "classId": "15020",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213944",
+        "number": "ROTCARMY 11",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "12",
+        "title": "Foundations in Leadership I",
+        "description": "An overview of leadership fundamentals such as setting direction, problem solving, listening, presenting briefs, providing feedback and using effective writing skills. Students begin to explore leadership dimensions and values.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15800",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214012",
+        "number": "ROTCARMY 12",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "13",
+        "title": "Foundations in Leadership II",
+        "description": "An overview of the leadership framework with practical applications in fundamentals such as problem solving, listening, presenting briefs, and using effective writing skills. Students explore dimensions of leadership, values, attributes, skills, and actions in the context of practical, hands-on, and interactive exercises.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15298",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214013",
+        "number": "ROTCARMY 13",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "21",
+        "title": "Innovative Leadership",
+        "description": "Explores the dimensions of creative leadership strategies and styles by studying historical cases and engaging in interactive exercises. Students practice aspects of personal motivation and team building within the context of planning, executing and assessing team exercises. Focus will be on the continued development of the knowledge of leadership values and attributes through an understanding of organizational customs and courtesies. Leadership case studies provide tangible context for learning Individual Creeds and Organizational Ethos.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course held at Santa Clara University.  Room Day 201.",
+                "classId": "15010",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213945",
+        "number": "ROTCARMY 21",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "22",
+        "title": "Leadership in Changing Environments I",
+        "description": "Examines the challenges of leadership in complex contemporary operational environments. Dimensions of the cross-cultural challenges of leadership in a constantly changing world and their application to leadership tasks and situations. Case studies stressing importance of teamwork and tactics in real-world settings.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15797",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213949",
+        "number": "ROTCARMY 22",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "23",
+        "title": "Leadership in Changing Environments II",
+        "description": "Examines the decision-making process and plans/orders that enable small units to complete assigned tasks. Planning techniques used to develop orders and briefing plans and decisions.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15292",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213950",
+        "number": "ROTCARMY 23",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "131",
+        "title": "Adaptive Team Leadership",
+        "description": "Challenges students to study, practice, and evaluate adaptive leadership skills as they are presented with the demands of the ROTC Leader Development Assessment Course. Challenging scenarios related to small unit tactical operations are used to develop self-awareness and critical thinking skills. Students receive systematic and specific feedback on their leadership abilities.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course held at Santa Clara University.  Room:  Varsi 231.",
+                "classId": "15011",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213946",
+        "number": "ROTCARMY 131",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "132",
+        "title": "Situational Leadership I",
+        "description": "Study of intense situational leadership challenges to build student awareness and skills in leading small units. Skills in decision-making, persuading, and motivating team members when &quot;under fire&quot; are explored, evaluated, and developed.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15798",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213951",
+        "number": "ROTCARMY 132",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "133",
+        "title": "Situational Leadership II",
+        "description": "Practical applications of intense situational leadership challenges that will provide awareness and specific feedback on leadership abilities. Student skills are evaluated using practical applications in decision making, persuading, and motivating team members when under fire.  Aspects of military operations are reviewed as a means of preparing for the ROTC Leader Development Assessment Course (LDAC).",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15293",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213952",
+        "number": "ROTCARMY 133",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "141",
+        "title": "Developing Adaptive Leaders",
+        "description": "Students develop proficiency in planning, executing, and assessing complex operations; in functioning as a member of a staff; and in providing leadership performance feedback to subordinates. Students are given situational opportunities to assess risk, make ethical decisions, and provide coaching to fellow ROTC students. Students are challenged to instruct younger students. Students identify responsibilities of key staff roles and use situational opportunities to develop subordinates.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course held at Santa Clara University.  Room: Varsi 231.",
+                "classId": "15012",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213947",
+        "number": "ROTCARMY 141",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "142",
+        "title": "Leadership in a Complex World I",
+        "description": "Explores the dynamics of leadership in the complexity of current military operations. Students examine customs and courtesies, military law, principles of war and rules of engagement in the face of international terrorism. Aspects of interacting with nongovernmental organizations, civilians on the battlefield, and host nation support are examined and evaluated.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15799",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213953",
+        "number": "ROTCARMY 142",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "143",
+        "title": "Leadership in a Complex World II",
+        "description": "Significant emphasis is placed on preparing students for their first unit of assignment and transition to lieutenant. Case studies, scenarios, and exercises are used to prepare students to face the complex ethical and practical demands of leading as commissioned officers in the U.S. Army.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15294",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213954",
+        "number": "ROTCARMY 143",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ROTCARMY",
+        "code": "176",
+        "title": "Military History",
+        "description": "A survey of the military and diplomatic aspects of American involvement in conflicts from the Anglo-Indian Wars to the present.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15796",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Course held at Santa Clara University.",
+                "classId": "15301",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Morales, M.",
+                                "sunet": "mcm16"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "213948",
+        "number": "ROTCARMY 176",
+        "units": [
+            2
+        ],
+        "totalSections": 2
+    }
+]

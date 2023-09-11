@@ -1,0 +1,1399 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "1",
+        "title": "Introduction to Science, Technology & Society",
+        "description": "The course introduces students to critical perspectives on the history, social context, epistemology, and ethics of science, technology, and medicine. The goal of the course is to learn about major concepts and methods from science &amp; technology studies, introduced in the context of real-world issues. STS 1 is the required gateway course for the major in Science, Technology &amp; Society, but is open to students from all departments and disciplines. A final paper will be required.  There will be no final exam.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "14970",
+                "currentClassSize": "0",
+                "maxClassSize": "200",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mullaney, T.",
+                                "sunet": "tsm1978"
+                            },
+                            {
+                                "name": "Martinez, N.",
+                                "sunet": "nicolemz"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-SocSci",
+            "WAY-A-II",
+            "WAY-SI"
+        ],
+        "objectID": "213791",
+        "number": "STS 1",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "10SI",
+        "title": "Introduction to AI Alignment",
+        "description": "As we delegate more and more societal responsibilities to Artificial Intelligence, we raise pressing ethical questions about what will happen if these systems aren?t aligned with our values. Increasingly many AI experts across academia and industry believe there is an urgent need for both technical and societal progress across AI alignment, ethics, and governance to understand and mitigate risks from advanced AI systems and ensure that their contributions benefit humanity and the world. Intro to AI Alignment explores these questions in lectures and small discussion-based environments led by student facilitators with targeted readings, weekly quizzes and group discussions, and a small final project. After recapping recent advancements in AI development, we will start by exploring two sides of the AI alignment problem that prevent us from building AI systems that reliably understand and follow human-compatible values. Next, we?ll discuss current harms from AI as well as risks that future systems could pose and arguments for and against the importance of various AI safety work. Finally, we will learn about existing AI safety technical research, efforts to implement policy and governance measures that reduce AI risk, and how you can personally contribute to AI safety. Basic knowledge about machine learning helps but is not required. You must attend the first class meeting and submit the subsequent section preference form to participate in the class either for credit or auditing. View the full syllabus at https://linktr.ee/stanfordaialignment",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "32312",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "160-129",
+                        "instructors": [
+                            {
+                                "name": "Edwards, P.",
+                                "sunet": "pedwards"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224772",
+        "number": "STS 10SI",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "20SI",
+        "title": "Advanced AI Alignment",
+        "description": "This advanced follow-up to STS 10SI: Intro to AI Alignment explores the frontier of current AI alignment research directions and helps you develop your own inside view on AI safety research. In Advanced AI Alignment, we will first spend 7 weeks discussing readings and completing technical alignment exercises in small groups. Like STS 10SI, you will meet in small discussion groups for up to 1.5 hours each week to discuss the week's content. In weeks 6 and 7, your group will choose between three branches of content: Eliciting Latent Knowledge, Agent Foundations, or Science of Deep Learning. In weeks 8-10, you will develop a literature review or a research proposal on an AI alignment topic of your choice to set yourself up for impactful AI safety research after the class, and you will have the opportunity to present your work at Stanford AI Alignment's quarterly Research Symposium during finals week. Prerequisite: STS 10SI or equivalent intro AI alignment knowledge; a course in AI or ML. Enrollment is limited and by application only. View the full syllabus and apply at https://linktr.ee/stanfordaialignment. Enrollment is only by instructor permission. The deadline to apply is Sunday, March 26, 2023 by 9:00pm",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "224916",
+        "number": "STS 20SI",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "51D",
+        "title": "Ethical STEM: Race, Justice, and Embodied Practice (AFRICAAM 151, ARTSINST 151C, CSRE 151C, ETHICSOC 151C, SYMSYS 151D, TAPS 151D)",
+        "description": "What role do science and technology play in the creation of a just society? How do we confront and redress the impact of racism and bias within the history, theory, and practice of these disciplines? This course invites students to grapple with the complex intersections between race, inequality, justice, and the STEM fields. We orient to these questions from an artistically-informed position, asking how we can rally the embodied practices of artists to address how we think, make, and respond to each other. Combining readings from the history of science, technology, and medicine, ethics and pedagogy, as well as the fine and performing arts, we will embark together on understanding how our STEM practices have emerged, how we participate today, and what we can imagine for them in the future. The course will involve workshops, field trips (as possible), and invited guests. All students, from any discipline, field, interest, and background, are welcome! This course does build upon the STS 51 series from 2020-21, though it is not a prerequisite for this course.  Please contact the professor if you have any questions!",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "14334",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": "Pigott Theatre",
+                        "instructors": [
+                            {
+                                "name": "Robinson, A.",
+                                "sunet": "aikr"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223762",
+        "number": "STS 51D",
+        "units": [
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "132",
+        "title": "Earth, Space, Bits: The Future of Existential Security",
+        "description": "Is colonizing other planets the only way to avoid human extinction? Could you guarantee the continuation of humanity by simulating human lives on orbital computers? Or might attempts to develop these kinds of technologies constitute an existential risk in their own right? This course surveys a range of competing programs for how best to ensure the long term survival of humanity when confronting planet-scale problems such as nuclear weapons, ecological collapse, and the runaway results of human ingenuity. It begins by illustrating how the scientific and philosophical developments of the mid-20th century redefined what many mean by 'humanity' and, by extension, how best to secure its future. The course proceeds to compare three competing schools of thought: (1) bioconservative 'earthbound' thinkers who approach humanity as an integral part of the Earth System that cannot be separated from it; (2) 'posthumanists' who approach humanity as a malleable organism that can be engineered to inhabit whatever cosmic environment it desires; and (3) 'transhumanists' who approach humanity as an information process that can be replicated digitally. This course offers students the opportunity to explore the rival ethical, political, and policy prescriptions that these divergent 'humanities' entail by engaging with a wide range of primary source documents, secondary scholarship, and works of speculative fiction.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "31459",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Zimmer, D.",
+                                "sunet": "zimmerd"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225466",
+        "number": "STS 132",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "139",
+        "title": "Designing Regenerative Societies (EARTHSYS 139A)",
+        "description": "The world is changing in contradictory ways. Emerging technology, the evolving geopolitical economy, and ecological challenges present opportunities but also cascading risks. The pathway from our current destructive and extractive economy towards a more regenerative economy is unclear. There is a stark tension between gigascale opportunities such as AI, fusion energy, nanotech, quantum tech, space colonization, and biomanufacturing on the one hand, and degrowth necessities such as rethinking growth and using less resources on the other. This tension is steeped in political choices constrained by industrial power dynamics and conditioned by inequality. To what extent do visions and incentives align across industry, government, and social movements? What would the choice to scale or descale entail in each case - and are they mutually exclusive? The course introduces empirically driven systems thinking with in-depth modules on both emerging tech and degrowth, and scenario-based tech foresight. We combine the tools of technology foresight, gaming, scenarios, speculative fiction, and worldbuilding, exploring and assessing utopian or dystopian trends, visions, and projects (e.g. the Eden project, biomanufacturing at scale, smart cities, the Metaverse, generation spaceships, space colonization, human longevity, mega-disruptive startups, global health governance, radical longtermism, and religious `heavens'). The goal of the course is to gain clarity on the innovation boundaries within which the next 50 years might develop. The course prepares students to become disruptors of governance principles, strategies, and leadership of corporations, philanthropies, economies, and civilizations.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "31110",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Undheim, T.",
+                                "sunet": "trondun"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225415",
+        "number": "STS 139",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "144",
+        "title": "Adventures in Video Gaming and Society",
+        "description": "By framing video games as complex sociotechnical systems, this course works to reveal the threads of identity, power, and politics present throughout the video games that, in turn, configure players and play. Although the primary 'texts' of the course will be video games themselves, we will intersect these readings with work in STS, the Philosophy of Technology, and constellated fields to draw out the deeper social orders video games reproduce, amplify, and challenge. Material understanding will be evaluated via discussion, debate, written assessments, and a final conceptual design of a video game.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "29348",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "200-013",
+                        "instructors": [
+                            {
+                                "name": "Fox, A.",
+                                "sunet": "fox31"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225400",
+        "number": "STS 144",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "156",
+        "title": "The Future of Global Systemic Risk (EARTHSYS 156, SOC 128)",
+        "description": "The global risk environment is changing. Seemingly distinct large-scale risks affect what we now realize are mutually interdependent human, socio-technical, and ecological systems. As a result, consequences are more catastrophic, and costs are set to accelerate. How do we determine the top risks of this decade to prioritize actions, and how are both risks and actions likely to evolve and interact? This course investigates the data, methods, and insights mobilized by key actors such as corporations, governments, and academics to assess systemic risk, create future scenarios, and generate predictions. What are the track records of recognized systemic risk assessment and modeling toolkits? Going forward, how can we get better at risk prevention and mitigation? This year, the course will focus on combined risks from the environmental, health, and emerging tech domains. The key objective is to quickly learn relevant vocabularies (risk, tech, and futurist) by engaging with both traditional and emerging assessment methods, in order to discover how to shape positive societal outcomes in the next decade and beyond. The course prepares students for key roles in the assessment, management, and prediction of risks, technologies, markets, industries, infrastructures, and futures. People with these skills can affect the governance principles, strategies, and leadership of corporations, philanthropies, states, economies, and entire societies.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "31111",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Undheim, T.",
+                                "sunet": "trondun"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224737",
+        "number": "STS 156",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "158",
+        "title": "The Science and Politics of Apocalypse (HISTORY 241F, POLISCI 232)",
+        "description": "For millennia, an apocalypse has been just around the corner. This course examines how expectations surrounding the end of the world - and the role that human beings might play in bringing it about - have transformed over the last two centuries. After a brief look at traditional religious apocalypticism, we explore how apocalypse came to be reconsidered as an entirely this-worldly phenomenon that falls within human power to achieve and demands political attention. Along the way, the course addresses the discovery of entropy in the 19th century, development of the hydrogen bomb in the mid-20th, and the planetary science that has transformed the Apocalypse into a primarily ecological concern over the last half-century.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "31460",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Zimmer, D.",
+                                "sunet": "zimmerd"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224738",
+        "number": "STS 158",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "177",
+        "title": "The Cultural Politics of Food and Eating: Technology, History, and Justice",
+        "description": "This course will examine our everyday food practices as a site of politics where culture, technology, history, and issues of ethics and justice intersect. Through a survey of academic, journalistic, and artistic works on food and eating, the course will explore a set of key analytical frameworks and conceptual tools in STS, such as the politics of technology, classification and identity, the reproduction of inequality, ethical and responsible innovation, and nature/culture boundaries. The topics covered include: the industrialization of agriculture; globalization and local foodways; food justice and ethics; new technologies in food practices (e.g., biotechnology, delivery apps); health and diet trends; and food and global challenges (e.g., climate change, COVID-19). Through food as a window, the course intends to achieve two broad intellectual goals. First, students will explore various theoretical and methodological approaches in STS and related fields (e.g., anthropology, history, sociology). Second, students will develop a set of basic skills and tools for their own critical thinking and empirical research, and design and conduct independent research on a topic related to food.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "12847",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "Encina Center 464",
+                        "instructors": [
+                            {
+                                "name": "Sato, K.",
+                                "sunet": "kyokos"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "221701",
+        "number": "STS 177",
+        "units": [
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "190",
+        "title": "Environment and Society",
+        "description": "Humans have long shaped and reshaped the natural world with science and technology. Once a menacing presence to conquer or an infinite reserve for resources, nature is now understood to require constant protection from damage and loss. Global challenges such as climate change have been further forcing us to reconsider our fundamental ideas not only about nature, but also about ethics and justice. This course will examine humanity's varied relationships with the environment, with a focus on the role of science and technology. Topics include: industrialization and modernism, diversity in environmentalism, environmental justice and inequalities, climate politics, global-local tensions, nuclear technology, the Anthropocene debate, and COVID-19 and the environment. Students will explore theoretical and methodological approaches in STS and related fields in social sciences, and conduct original research that engages with environmental issues of their choice. Enrollment limited to juniors and seniors, or with consent of instructor.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "201625",
+        "number": "STS 190",
+        "units": [
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "191W",
+        "title": "Doing STS: Introduction to Research",
+        "description": "This seminar introduces key analytical approaches and methodologies in the interdisciplinary field of STS, as well as basic tools for designing and conducting original research in STS and related social sciences. Students survey a series of influential studies that examined the intersection of science, technology and society; identify productive questions of their own interest; and explore how to pursue them through strong research design. By completing smaller writing assignments throughout the quarter, you will produce a fully developed research proposal as final assignment. This final proposal can serve as an honors prospectus for students who seek to participate in the STS honors program.  First week attendance is mandatory.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "13044",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sato, K.",
+                                "sunet": "kyokos"
+                            },
+                            {
+                                "name": "Ball, J.",
+                                "sunet": "jonball"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220751",
+        "number": "STS 191W",
+        "units": [
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "198",
+        "title": "Independent Research",
+        "description": "Independent research. Student develops own project with supervision by an STS faculty affiliate. Students must email Prof. Edwards with brief project description and name of faculty supervisor. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28251",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Edwards, P.",
+                                "sunet": "pedwards"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30294",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Edwards, P.",
+                                "sunet": "pedwards"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30107",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Edwards, P.",
+                                "sunet": "pedwards"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223064",
+        "number": "STS 198",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "199",
+        "title": "Independent Study",
+        "description": "Every unit of credit is understood to represent three hours of work per week per term and is to be agreed upon between the student and the faculty member. Instructor consent required. Please contact the department for a permission number.",
+        "repeatable": "true",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26903",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Edwards, P.",
+                                "sunet": "pedwards"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28752",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Edwards, P.",
+                                "sunet": "pedwards"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28416",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Edwards, P.",
+                                "sunet": "pedwards"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "124866",
+        "number": "STS 199",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "199A",
+        "title": "Curricular Practical Training",
+        "description": "Students obtain internship in a relevant research or industrial activity to enhance their professional experience consistent with their degree program and area of concentration. Prior to enrolling students must get internship approved by the STS Program Director. At the end of the quarter, a one-page final report must be supplied documenting work done and relevance to degree program. Meets the requirements for Curricular Practical Training for students on F-1 visas. Student is responsible for arranging own internship. Limited to declared STS majors only. Course may be repeated twice. Instructor consent required. Please contact the department for a permission number.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "13702",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Edwards, P.",
+                                "sunet": "pedwards"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "13205",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Edwards, P.",
+                                "sunet": "pedwards"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ITR",
+                "notes": null,
+                "classId": "13120",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Edwards, P.",
+                                "sunet": "pedwards"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216853",
+        "number": "STS 199A",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "199J",
+        "title": "Editing a Science Technology and Society Journal",
+        "description": "The Science Technology and Society (STS) Program has a student journal, Intersect, that has been publishing STS student papers for a number of years. This course involves learning about how to serve as an editor of a peer-reviewed journal, while serving as one of the listed editors of Intersect. Entirely operated online, the journal uses a work-flow management to help with the submission process, peer-review, editing, and publication. Student editors learn by being involved in the publishing process, from soliciting manuscripts to publishing the journal's annual issue, while working in consultation with the instructor. Students will also learn about current practices and institutional frameworks around open access and digital publishing.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Students should be a STS major, and can work for two quarters (ideally) on the journal and at times convenient to their schedules.",
+                "classId": "11159",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Willinsky, J.",
+                                "sunet": "willinsk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "11400",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Willinsky, J.",
+                                "sunet": "willinsk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Students should be a STS major, and can work for two quarters (ideally) on the journal and at times convenient to their schedules.",
+                "classId": "10932",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Willinsky, J.",
+                                "sunet": "willinsk"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212836",
+        "number": "STS 199J",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "200J",
+        "title": "Technometabolism: Technology, Society, and the Anthropocene",
+        "description": "The technosphere - the global sum of all infrastructure - metabolizes energy, materials, and information to feed human consumption. It runs on fossil fuels and solar energy, metabolized through such processes as photosynthesis (agriculture), photovoltaics, wind, and hydroelectric power. The technosphere also metabolizes information, ingesting some kinds of data as inputs and producing other data as outputs. Techno-metabolism's waste products, such as greenhouse gases, plastics, and nuclear waste, are currently transforming the atmosphere, biosphere, and hydrosphere, with radically different effects on disparate peoples and places. Scientists, historians, engineers, and others have proposed new ways to conceptualize techno-metabolism, seeking to reduce its energy requirements and material waste. Students will develop creative ways to visualize, understand, and change the interplay of energy, materials, and information to respond to environmental crises in the Anthropocene era.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "29498",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "STLC 104",
+                        "instructors": [
+                            {
+                                "name": "Nguot, T.",
+                                "sunet": "twal"
+                            },
+                            {
+                                "name": "Edwards, P.",
+                                "sunet": "pedwards"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219919",
+        "number": "STS 200J",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "200N",
+        "title": "Funkentelechy: Technologies, Social Justice and Black Vernacular Cultures (AFRICAAM 200N, CSRE 314, EDUC 314)",
+        "description": "From texts to techne, from artifacts to discourses on science and technology, this course is an examination of how Black people in this society have engaged with the mutually consitutive relationships that endure between humans and technologies. We will focus on these engagements in vernacular cultural spaces, from storytelling traditions to music and move to ways academic and aesthetic movements have imagined these relationships. Finally, we will consider the implications for work with technologies in both school and community contexts for work in the pursuit of social and racial justice.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "14518",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "9:30:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banks, A.",
+                                "sunet": "ajbanks"
+                            }
+                        ],
+                        "startTimestamp": 34200.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219610",
+        "number": "STS 200N",
+        "units": [
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "200Q",
+        "title": "Sociology of Science (EDUC 120, EDUC 320, SOC 330)",
+        "description": "This course explores the social construction of scientific knowledge from various perspectives. The course begins by taking stock of core philosophical theories on scientific knowledge and then it proceeds to ask how various authors have described and characterized this knowledge as socially embedded and constructed. Through this course we will ask what sort of knowledge is considered scientific or not? And then from there, a variety of social, institutional and historical factors will enter and influence not only how scientific knowledge is discovered and developed, but also how we evaluate it. This course is suitable to advanced undergraduates and doctoral students.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "13206",
+                "currentClassSize": "0",
+                "maxClassSize": "24",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "160-326",
+                        "instructors": [
+                            {
+                                "name": "LiCausi, T.",
+                                "sunet": "tlicausi"
+                            },
+                            {
+                                "name": "McFarland, D.",
+                                "sunet": "dmcfarla"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "210305",
+        "number": "STS 200Q",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "200R",
+        "title": "What is Social Science? (EDUC 472, SOC 325)",
+        "description": "This course explores a series of foundational questions concerning the social sciences (e.g., sociology, economics, political science, anthropology, history, and applied fields of education and business). What is social science? Where did it come from and how did it emerge? What topics does it concern? Are social science topics different from topics and subject matter in other fields like the science and the humanities? Are the goals and questions of social science different from that of science and the humanities? How so? What sort of knowledge does social science try to establish? What kinds of methods does it employ? What sorts of disputes persist within the social sciences? What similarities and divisions exist among social scientific fields and why? This course is a graduate level seminar where students are asked to read challenging texts, discuss them, and offer constructive critiques in writing. Advanced undergraduates need instructor permission to register.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "31457",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Ceras 204",
+                        "instructors": [
+                            {
+                                "name": "McFarland, D.",
+                                "sunet": "dmcfarla"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225058",
+        "number": "STS 200R",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "200U",
+        "title": "The Age of Plague: Medicine and Society, 1300-1750 (HISTORY 234P)",
+        "description": "(Undergraduates, enroll in 234P. Graduates, enroll in 334P) The arrival of plague in Eurasia in 1347-51 affected many late medieval and early modern societies.  It transformed their understanding of disease, raised questions about the efficacy of medical knowledge, and inspired new notions of public health.  This class explores the history of medicine in the medieval Islamic and European worlds.  Changing ideas about the body, the roles of different healers and religion in healing, the growth of hospitals and universities, and the evolution of medical theory and practice will be discussed.  How did medicine and society change in the age of plague?",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "222473",
+        "number": "STS 200U",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "200W",
+        "title": "Are We Really All Cyborgs?: Bodies as Technoscience",
+        "description": "This course explores the way humans engage with technoscience through their bodies. Science and biomedicine constantly inform how we understand and approach our bodies, and we routinely integrate technology into our bodies whenever we wear glasses or smartwatches, take medications, or drive. Importantly, technological artifacts and scientific knowledge themselves embody and negotiate human values and politics. We examine the dynamic and intricate interplay of the body, the technical, and the social through the analysis of a variety of domains: from communication, VR and AI to gender, race, and disability to healthcare, pollution, and disasters. The readings address such conceptual lenses as the politics of design, biopower, health and environmental justice, ethical and responsible innovation, cyborgs, and hybridity. Ultimately, we interrogate what kinds of societies and futures we are creating through our practices involving technoscience and the body.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "32257",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sato, K.",
+                                "sunet": "kyokos"
+                            },
+                            {
+                                "name": "Fox, A.",
+                                "sunet": "fox31"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225520",
+        "number": "STS 200W",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "298",
+        "title": "STS Honors Meeting",
+        "description": "This is a required monthly meeting for STS Honors students.",
+        "repeatable": "true",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "12848",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sato, K.",
+                                "sunet": "kyokos"
+                            },
+                            {
+                                "name": "Hurwitz, J.",
+                                "sunet": "jomohu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "13359",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sato, K.",
+                                "sunet": "kyokos"
+                            },
+                            {
+                                "name": "Hurwitz, J.",
+                                "sunet": "jomohu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "13121",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sato, K.",
+                                "sunet": "kyokos"
+                            },
+                            {
+                                "name": "Hurwitz, J.",
+                                "sunet": "jomohu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221710",
+        "number": "STS 298",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "STS",
+        "code": "299",
+        "title": "Advanced Individual Work",
+        "description": "For students in the STS Honors program. Every unit of credit is understood to represent three hours of work per week per term and is to be agreed upon between the student and the faculty member.  May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28753",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sato, K.",
+                                "sunet": "kyokos"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28417",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Sato, K.",
+                                "sunet": "kyokos"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "26904",
+                "currentClassSize": "0",
+                "maxClassSize": "99",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lemons, C.",
+                                "sunet": "cjlemons"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "124881",
+        "number": "STS 299",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 3
+    }
+]

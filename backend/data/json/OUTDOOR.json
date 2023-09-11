@@ -1,0 +1,1213 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "5",
+        "title": "Winter Camping and Travel",
+        "description": "Learn basic skills for winter camping and travel including thermoregulation, avalanche awareness, proper winter weather clothing and equipment, common cold weather medical issues, and LNT for camping and travel. Field experience includes practicing travel techniques, snow shelter construction, snow slope evaluation, use of avalanche beacons, and winter route finding",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "220367",
+        "number": "OUTDOOR 5",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "9",
+        "title": "Travel as a Sacred Journey Towards Presence, Practice, and Purpose",
+        "description": "Engage travel and pilgrimage as intentional contemplative practice for exploring one's life purpose. Experientially investigate, both individually and collectively, outer journeying as a support for inner reflection on meaning making and values creation. While immersed in environments ranging from nature settings to retreat communities learn about, contemplate, and practice a range of methods, informed by multiple spiritual and philosophical traditions, meant to enhance insight and human flourishing. All backgrounds and identities welcome.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "218070",
+        "number": "OUTDOOR 9",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "10",
+        "title": "Rock Climbing I: Beginning",
+        "description": "This course is an introductory course. Students will learn skills necessary to get started exploring the world of indoor climbing.  These skills include technical safety skills for bouldering and top-roped climbing, essential physical and mental skills, and strategies for training.  Students will be taught with industry standard best practices in regards to safety, and provided with a multi-disciplinary approach to overall health and wellness.  No experience necessary.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class meets starting the second week of the quarter. If you are on a waiting list please plan on attending the first class.  This class has a $125 course fee.",
+                "classId": "16356",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "AOERC Climbing Wall 1",
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class meets starting the second week of the quarter. If you are on a waiting list please plan on attending the first class.  This class has a $125 course fee.",
+                "classId": "16825",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "AOERC Climbing Wall 1",
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Enrollment for Outdoor 10 will open on Sept 20 at 6 pm . This class meets starting the second week of the quarter. If you are on a waiting list please plan on attending the first class.  This class has a $125 course fee.",
+                "classId": "16252",
+                "currentClassSize": "0",
+                "maxClassSize": "0",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "3:20:00 PM",
+                        "location": "AOERC Climbing Wall 1",
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 55200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "ACT",
+                "notes": "This class meets starting the second week of the quarter. If you are on a waiting list please plan on attending the first class.  This class has a $125 course fee.",
+                "classId": "16361",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "AOERC Climbing Wall 1",
+                        "instructors": [
+                            {
+                                "name": "Earhart, D.",
+                                "sunet": "dearhart"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "ACT",
+                "notes": "Enrollment for Outdoor 10 will open on Sept 20 at 6 pm .This class meets starting the second week of the quarter. If you are on a waiting list please plan on attending the first class.  This class has a $125 course fee.",
+                "classId": "16255",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "AOERC Climbing Wall 1",
+                        "instructors": [
+                            {
+                                "name": "Earhart, D.",
+                                "sunet": "dearhart"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217104",
+        "number": "OUTDOOR 10",
+        "units": [
+            1
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "11",
+        "title": "Rock Climbing II: Intermediate",
+        "description": "In this course students will have the opportunity to build upon basic principles associated with rock climbing.  Student will further explore variations in climbing efficiency techniques, crack climbing techniques, and training methodologies to enhance their climbing experience and help prevent injuries.  Students will be taught with industry standard best practices in regards to safety, and provided with a multi-disciplinary approach to overall health and wellness.Prerequisites:  Rock Climbing 1 or at least 3 months previous climbing experience, current top-rope belay certification at the Stanford Climbing Wall",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class meets starting the second week of the quarter. If you are on a waiting list please plan on attending the first class.  This class has a $125 course fee.",
+                "classId": "31084",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "AOERC Climbing Wall 1",
+                        "instructors": [
+                            {
+                                "name": "Earhart, D.",
+                                "sunet": "dearhart"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class meets starting the second week of the quarter. If you are on a waiting list please plan on attending the first class.  This class has a $125 course fee.",
+                "classId": "30836",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "AOERC Climbing Wall 1",
+                        "instructors": [
+                            {
+                                "name": "Earhart, D.",
+                                "sunet": "dearhart"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Enrollment for Outdoor 10 will open on Sept 20 at 6 pm . This class meets starting the second week of the quarter. If you are on a waiting list please plan on attending the first class.  This class has a $125 course fee.",
+                "classId": "29105",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": "12:00:00 PM",
+                        "endTime": "1:20:00 PM",
+                        "location": "AOERC Climbing Wall 1",
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 43200.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217101",
+        "number": "OUTDOOR 11",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "12",
+        "title": "Indoor Lead Climbing",
+        "description": "Learn technical and safety skills pertaining to sport lead climibing. Apply specific physical and mental training principals to assist improving lead climbing performance and preventing over use injuries.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class meets starting the second week of the quarter. If you are on a waiting list please plan on attending the first class.  This class has a $125 course fee.",
+                "classId": "31089",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "AOERC Climbing Wall 1",
+                        "instructors": [
+                            {
+                                "name": "Earhart, D.",
+                                "sunet": "dearhart"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221102",
+        "number": "OUTDOOR 12",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "14",
+        "title": "Rock Climbing: Gym to CRAG",
+        "description": "Learn how to transition from indoor climbing facilities to outdoor rock climbing venues. Emphasis will be placed on evaluating risk, along with constructing and assessing safe anchoring systems using natural and bolted anchors.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class begins on the second week of classes and includes a required field weekend of camping and continued skill building on May 17-19 at Pinnacles National Park. All field sections depart at 12PM on Friday. All required gear will be provided on a loaner basis through the Outdoor Center and is covered by your course fee. Also, all meals are provided for the duration of the trip and are covered by your $150 course fee. Please note, only documented medical food allergies will be accommodated. We will travel in group vans for the duration of the trip. All backgrounds and identities are welcome.  This class has a $150 course fee.",
+                "classId": "16357",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "3:30:00 PM",
+                        "endTime": "4:50:00 PM",
+                        "location": "AOERC Climbing Wall 2",
+                        "instructors": [
+                            {
+                                "name": "Earhart, D.",
+                                "sunet": "dearhart"
+                            }
+                        ],
+                        "startTimestamp": 55800.0,
+                        "endTimestamp": 60600.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Threre is a required field weekend at Pinnacles National Park where rock anchoring skills will be practiced. This will be an overnight (2 nights) experience and will involve camping. The field weekend is scheduled for 11/10-11/12. We will meet to pack depart at 12 noon on 11/10and return to campus by 6 pm on 11/12 . The course fee covers expenses of the field experience. Required: you are responsible for providing some personal outdoor equipment, clothing, and footwear for the overnight camping field section.  This class has a $150 course fee.",
+                "classId": "16254",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "AOERC Climbing Wall 2",
+                        "instructors": [
+                            {
+                                "name": "Earhart, D.",
+                                "sunet": "dearhart"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220366",
+        "number": "OUTDOOR 14",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "15",
+        "title": "Rock Climbing: Intermediate Anchors",
+        "description": "Explore climbing safety systems as they apply to anchor building, self-rescue, impact forces, and belaying. Emphasis will be placed on constructing and evaluating safe traditional anchor systems as well as learning techniques for self-rescue in the single pitch outdoor rock climbing environment.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This is a field intensive course. There will be 2 pre trip meetings (TBA) to reivew basic climibng safety techniques at the rock climbing wall. There will also be course readings and online assignments. The majority of course will take place in Joshua Tree National Park between 3/22 (7 am) - 3/28 (7 pm). Transportation, meals, camping and climbing gear will be provided. There is a $300 fee to cover the costs of the field course.  This class has a $300 course fee.",
+                "classId": "31090",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "5:30:00 PM",
+                        "endTime": "6:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 63000.0,
+                        "endTimestamp": 67800.0,
+                        "days": "Tuesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This is a field intensive course. There will be 2 pre trip meetings (TBA) to reivew basic climibng safety techniques at the rock climbing wall. There will also be course readings and online assignments. The majority of course will take place in Joshua Tree National Park between 11/17 (7 am) - 11/22 (7 pm). Transportation, meals, camping and climbing gear will be provided. There is a $300 fee to cover the costs of the field course.  This class has a $300 course fee.",
+                "classId": "29106",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "5:30:00 PM",
+                        "endTime": "6:50:00 PM",
+                        "location": "40-42A",
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 63000.0,
+                        "endTimestamp": 67800.0,
+                        "days": "Tuesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220490",
+        "number": "OUTDOOR 15",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "25",
+        "title": "Introduction to Whitewater Kayaking",
+        "description": "Instructs paddlers in whitewater kayaking techniques. Emphasizes basic skills needed for paddling class II, II whitewater rivers including paddle strokes, boat control, and essential whitewater safety information. Students will have to pass a swimming test to participate.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "219414",
+        "number": "OUTDOOR 25",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "30",
+        "title": "Sea Kayaking I: Introduction to Sea Kayaking",
+        "description": "Learn the  fundamental skills and safety pracices for coastal sea kayaking.  Topics include essential gear, strokes and maneuvering, rescues and recoveries, and understanding tides and currents. This course will consist of several trips to Half Moon Bay and other near by coastal kayak areas. Active participation is required. Course culminates in a student-planned trip to a local kayaking destination.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "The first class will meet on Friday of WEEK 1. After the first session the class will travel to near by water way locations including Redwood City and Half Moon Bay. There is a required weekend day paddle excursion on Saturday May 11 from 8am-5pm. Transportation will be provided for all off campus activities.  This class has a $150 course fee.",
+                "classId": "16366",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "5:30:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 63000.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class has a $150 course fee.",
+                "classId": "30268",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "The first class will meet on Friday of WEEK 1 (We will meet in the Outdoor Center). After the first session the class will travel to near by water way locations near Redwood City and Half Moon Bay. There is a required weekend day paddle excursion on Saturday November 4 from 8am-5 pm. Transportation will be provided for all off campus activities.  This class has a $150 course fee.",
+                "classId": "16271",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "5:30:00 PM",
+                        "location": "120-314",
+                        "instructors": [
+                            {
+                                "name": "Lowley, S.",
+                                "sunet": "slowley"
+                            },
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 63000.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222912",
+        "number": "OUTDOOR 30",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "43",
+        "title": "Strength & Conditioning for Climbing",
+        "description": "This course is for the intermediate to advanced climber looking to increase their climbing fitness.  Students will be exposed to both general and climbing specific training principles to help improve climbing fitness and prevent common overuse injuries.  Students will be taught with industry standard best practices with regards to safety and provided with a multi-disciplinary approach to overall health and wellness.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class meets starting the second week of the quarter. If you are on a waiting list please plan on attending the first class.  This class has a $125 course fee.",
+                "classId": "16831",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "AOERC Climbing Wall 1",
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class meets starting the second week of the quarter. If you are on a waiting list please plan on attending the first class.  This class has a $125 course fee.",
+                "classId": "30837",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "AOERC Climbing Wall 1",
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222564",
+        "number": "OUTDOOR 43",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "60",
+        "title": "Introduction to Flyfishing",
+        "description": "Introduces students to flyfishing and its constituent components as a sport and an art. Emphasizes basic skills needed to learn how to cast and tie knots. Students will learn basic stream ecology in order to better understand complex aquatic ecosystems, and thus, &quot;read&quot; water and make appropriate fly selections.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "219398",
+        "number": "OUTDOOR 60",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "70",
+        "title": "SCUBA Diving Open Water: Beginner",
+        "description": "Acquire knowledge and skills to safely enjoy and gain limited experience in the diving environment under normal open water diving conditions. This course prepares students for Open Water SCUBA Diving PADI Certification. Topics include diving equipment, diving physics, medical aspects of diving, diving emergencies, the diving environment, diving practices, diving activities, and SCUBA diving skills.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "218066",
+        "number": "OUTDOOR 70",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "71",
+        "title": "SCUBA Diving Open Water: Advanced",
+        "description": "Develop a diver who is confident, safe, relaxed, aware, and more able to enjoy the underwater world. Skills include: confidence to dive to deeper depths; night diving experience; boat diving techniques; river diving; ocean diving, currents, and marine environment; underwater navigation; and search and recovery techniques. This class is an excellent choice for certified divers who have not been diving for a while, and need to regain confidence.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "218068",
+        "number": "OUTDOOR 71",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "72",
+        "title": "SCUBA Diving Open Water: Rescue",
+        "description": "Acquire knowledge and skills for individuals to effectively perform diver rescues and assists, manage diving accident situations, and render proper first aid. Prerequisites:  Outdoor 70, Outdoor 71, EMED 110, EMED 224, or Instructor Permission.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "218067",
+        "number": "OUTDOOR 72",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "101",
+        "title": "Introduction to Outdoor Education",
+        "description": "Examine outdoor adventure activties through the perspective of a trip leader. Discuss risk management, judgment and decision making, group facilitaiton, program standard operating procedures, and legal liability.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "216784",
+        "number": "OUTDOOR 101",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "103",
+        "title": "Foundations of Outdoor Education",
+        "description": "Explore topics  about adventure activity risk assessment, leadership style and values, industry standards, and wilderness equity and inlcusion through class activites, discussions, and reflections. Develop essential skills for individual and group sustainability in a backcountry setting including shelter in outdoor environments, equipment selection and use, travel techniques, water and nutrition needs, planning and preparation, and risk management. Course includes the participation in a weekend backcountry experience.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "This course begins on the second week of classes and includes a required field weekend backpacking experience. You will need to be available to attend one following overnight field section dates: 2/16-2/18 OR 2/24-2/26 The exact weekend will depend on winter weather conditions. . All field sections depart at 12PM on Friday. There is a course fee of $75 to cover the cost of the camping weekend. Class meets beginning the 2nd week of the term.  This class has a $75 course fee.",
+                "classId": "16838",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "AOERC 103B",
+                        "instructors": [
+                            {
+                                "name": "Zollweg, B.",
+                                "sunet": "bzollweg"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Class begins the second week of the quarter and includes a required field weekend backpacking experience. You must select one of the following two off-campus, overnight field sections: 11/3-11/5 or 11/10-11/12. All field sections meet to pack up and depart at 12PM on Friday. The course fee covers the cost of the camping weekend.  This class has a $75 course fee.",
+                "classId": "16261",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "AOERC 103B",
+                        "instructors": [
+                            {
+                                "name": "Zollweg, B.",
+                                "sunet": "bzollweg"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "This course begins on the second week of classes and includes a required field weekend backpacking experience. You must select one of the following two off-campus, overnight field section dates: May 10-12 OR May 17-19. All field sections depart at 12PM on Friday. All food, gear, and transportation is covered by your course fee. Please note, only documented medical food allergies will be accommodated. All backgrounds and identities are welcome.  This class has a $75 course fee.",
+                "classId": "16365",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Zollweg, B.",
+                                "sunet": "bzollweg"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "SEM",
+                "notes": "Class begins the second week of the quarter and includes a required field weekend backpacking experience. You must select one of the following two off-campus, overnight field sections: 11/3-11/5 or 11/10-11/12. All field sections meet to pack up and depart at 12PM on Friday. The course fee covers the cost of the camping weekend.  This class has a $75 course fee.",
+                "classId": "16263",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": "AOERC 103B",
+                        "instructors": [
+                            {
+                                "name": "Zollweg, B.",
+                                "sunet": "bzollweg"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "SEM",
+                "notes": "This course begins on the second week of classes and includes a required  field weekend backpacking experience.  You must select one of the following two off-campus, overnight field section dates: May 12-14 or May 19-21.  All field sections depart at 12PM on Friday. All required gear will be provided on a loaner basis through the Outdoor Center and is covered by your course fee.  Please note, only documented medical food allergies will be accommodated. All backgrounds and identities are welcome.  This class has a $75 course fee.",
+                "classId": "16369",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Zollweg, B.",
+                                "sunet": "bzollweg"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 64200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221923",
+        "number": "OUTDOOR 103",
+        "units": [
+            2
+        ],
+        "totalSections": 5
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "105",
+        "title": "Outdoor Living Skills",
+        "description": "Introduction to essential skills for individual and group sustainability in a backcountry setting including shelter in outdoor environments, equipment selection and use, travel techniques, water and nutrition needs, planning and preparation, and risk management. Course includes the participation in a weekend backcountry experience. Corequisite: Outdoor 101",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "217191",
+        "number": "OUTDOOR 105",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "106",
+        "title": "Outdoor Leadership Practicum",
+        "description": "Outdoor education and leadership theory integration through intensive field-based experiences.  During these field-based experiences, students will engage with critical self-assessment process to better understand their own levels of competence leading others.  Prerequisite:  OUTDOOR 103",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "Outdoor 106 is a field intensive experience that is designed to begin to prepare you to lead and facilitate outdoor wilderness-based experiences. This courses will require that you carry a backpack weighing up to 50 libs over rugged terrain. The course will have several meetings prior to departing for the field experience in Plumas National Forest June 13-18.  This class has a $125 course fee.",
+                "classId": "16372",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "5:30:00 PM",
+                        "endTime": "6:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Zollweg, B.",
+                                "sunet": "bzollweg"
+                            }
+                        ],
+                        "startTimestamp": 63000.0,
+                        "endTimestamp": 66000.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "This is a field intensive course. The majority of course will take place in Joshua Tree National Park between 3/22 (7 am) - 3/28 (7 pm). Transportation, meals, camping and climbing gear will be provided. There is a $ 100 fee to cover the costs of the field course.  This class has a $125 course fee.",
+                "classId": "31098",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:20:00 PM",
+                        "location": "AOERC 103B",
+                        "instructors": [
+                            {
+                                "name": "Zollweg, B.",
+                                "sunet": "bzollweg"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 62400.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "This is a field intensive course. The majority of course will take place in Joshua Tree National Park between 11/17 (7 am) - 11/22 (7 pm). Transportation, meals, camping and climbing gear will be provided. There is a $ 100 fee to cover the costs of the field course.  This class has a $125 course fee.",
+                "classId": "29108",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "5:20:00 PM",
+                        "location": "AOERC 103B",
+                        "instructors": [
+                            {
+                                "name": "Zollweg, B.",
+                                "sunet": "bzollweg"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 62400.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "217192",
+        "number": "OUTDOOR 106",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "119",
+        "title": "Outdoor Educator Apprenticeship",
+        "description": "This course provides the student an opportunity to lead a multi-day outdoor experiences in an official capacity. Experience includes: outdoor living skills, planning and logistics, leadership, risk management, environmental integration, and education. Students will plan and co-lead field outings.  Prerequisites: OUTDOOR 103",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "This course will provide students with an opportunity to explore in depth technical skills and /or advanced leadership instruction. Prior knowledge or experience with the adventure based skill sets will be required. Eligibility for the class will be determined by the instructor. Class will meet based on the availability of the other students and course instructor. Please contact Alyson Chun with more details about this course. achun2@stanford.edu.  This class has a $100 course fee.",
+                "classId": "30954",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "This course will provide students with an opportunity to explore in depth technical skills and /or advanced leadership instruction. Prior knowledge or experience with the adventure based skill sets will be required. Eligibility for the class will be determined by the instructor. Class will meet based on the availability of the other students and course instructor. Please contact Alyson Chun with more details about this course. achun2@stanford.edu.  This class has a $100 course fee.",
+                "classId": "31199",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "This course will provide students with an opportunity to explore in depth technical skills and /or advanced leadership instruction. Prior knowledge or experience with the adventure based skill sets will be required. Eligibility for the class will be determined by the instructor. Class will meet based on the availability of the other students and course instructor. Please contact Alyson Chun with more details about this course. achun2@stanford.edu.  This class has a $100 course fee.",
+                "classId": "29305",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "212917",
+        "number": "OUTDOOR 119",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "198",
+        "title": "Directed Reading and Individual Studies: Outdoor",
+        "description": "Translate theoretical knowledge and acquired skills into actionable projects or initiatives that make positive impact within and/or beyond the Stanford community. Students work in collaborative groups or individually under the mentorship of the course instructor(s) to design, deliver, and evaluate an initiative or project.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "210694",
+        "number": "OUTDOOR 198",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OUTDOOR",
+        "code": "199",
+        "title": "Selected Topics: Outdoor",
+        "description": "Exploration of a topic (to be determined) not covered by the standard curriculum but of interest to faculty and students in a particular quarter. May be repeated with change of content. For more information regarding specific course titles and topics, please refer to the notes of each course section.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "This course is designed as a certification upgrade from Wilderness First Aid to Wilderness First Responder. Students will have needed to successfully completed the EMED 124 course in AY22-23 in order to to be eligible to enroll. Attendance will be a required for a on campus field weekend to take place 12/1 ( 6-9pm) 12/2-12/3 (9am - 5 pm).",
+                "classId": "29304",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "4:30:00 PM",
+                        "endTime": "6:20:00 PM",
+                        "location": "AOERC 103B",
+                        "instructors": [
+                            {
+                                "name": "Lowley, S.",
+                                "sunet": "slowley"
+                            }
+                        ],
+                        "startTimestamp": 59400.0,
+                        "endTimestamp": 66000.0,
+                        "days": "Monday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "The topic for this quarter will be muli-pitch rock climbing. The course will run as a field intensive from June 13-18th. There will be meetings announced at a later date that will occur during the academic quarter. Student will need to have either taken Outdoor 15 or be able to understand and build rock anchors using traditional gear placements. Student need to be able to climb comfortable at the 5.8 level and have or obtain a lead belaying certification from Stanford Climbing Gym, Please contact instructor Alyson Chun (achun2@stanford.edu) for more information.",
+                "classId": "30955",
+                "currentClassSize": "0",
+                "maxClassSize": "6",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chun, A.",
+                                "sunet": "achun2"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223363",
+        "number": "OUTDOOR 199",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 2
+    }
+]

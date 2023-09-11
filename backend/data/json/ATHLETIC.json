@@ -1,0 +1,2478 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "1",
+        "title": "Thriving in Athletics: Health and Wellness Concepts",
+        "description": "Develops the understanding, self-awareness, confidence, and skills necessary for students to serve as a resource for their peers in the areas of building resilience, promoting wellbeing, and supporting emotional balance. Examines personal values, identity, signature strengths, self-care and stress management practices, signs and symptoms of common mental health concerns, and barriers for care-seeking in the student population. Develops skills for enhancing personal well-being, communication, connecting students with existing resources, and promoting a culture of support, health and wellness.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "220267",
+        "number": "ATHLETIC 1",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "10",
+        "title": "Varsity Sport Experience",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Baseball.",
+                "classId": "30662",
+                "currentClassSize": "0",
+                "maxClassSize": "75",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Esquer, D.",
+                                "sunet": "dcesquer"
+                            },
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Baseball.",
+                "classId": "28639",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Esquer, D.",
+                                "sunet": "dcesquer"
+                            },
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Baseball.",
+                "classId": "30484",
+                "currentClassSize": "0",
+                "maxClassSize": "75",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Esquer, D.",
+                                "sunet": "dcesquer"
+                            },
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "ACT",
+                "notes": "Men's Basketball.",
+                "classId": "30663",
+                "currentClassSize": "0",
+                "maxClassSize": "75",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Haase, J.",
+                                "sunet": "jerod"
+                            },
+                            {
+                                "name": "Berkun, D.",
+                                "sunet": "dberkun"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "ACT",
+                "notes": "Men's Basketball.",
+                "classId": "28640",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Haase, J.",
+                                "sunet": "jerod"
+                            },
+                            {
+                                "name": "Berkun, D.",
+                                "sunet": "dberkun"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "ACT",
+                "notes": "Men's Basketball.",
+                "classId": "30485",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Haase, J.",
+                                "sunet": "jerod"
+                            },
+                            {
+                                "name": "Berkun, D.",
+                                "sunet": "dberkun"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "ACT",
+                "notes": "Women's Basketball.",
+                "classId": "30664",
+                "currentClassSize": "0",
+                "maxClassSize": "75",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "VanDerveer, T.",
+                                "sunet": "tarahoop"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "ACT",
+                "notes": "Women's Basketball.",
+                "classId": "28641",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "VanDerveer, T.",
+                                "sunet": "tarahoop"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "ACT",
+                "notes": "Women's Basketball.",
+                "classId": "30486",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "VanDerveer, T.",
+                                "sunet": "tarahoop"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "ACT",
+                "notes": "Men's and Women's Cross Country and Track & Field.",
+                "classId": "30487",
+                "currentClassSize": "0",
+                "maxClassSize": "350",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Clark, J.",
+                                "sunet": "jjclark1"
+                            },
+                            {
+                                "name": "Worthy, L.",
+                                "sunet": "lworthy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "ACT",
+                "notes": "Men's and Women's Cross Country and Track & Field.",
+                "classId": "28642",
+                "currentClassSize": "0",
+                "maxClassSize": "350",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Clark, J.",
+                                "sunet": "jjclark1"
+                            },
+                            {
+                                "name": "Worthy, L.",
+                                "sunet": "lworthy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "ACT",
+                "notes": "Men's and Women's Cross Country and Track & Field.",
+                "classId": "30665",
+                "currentClassSize": "0",
+                "maxClassSize": "350",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Clark, J.",
+                                "sunet": "jjclark1"
+                            },
+                            {
+                                "name": "Worthy, L.",
+                                "sunet": "lworthy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "ACT",
+                "notes": "Fencing.",
+                "classId": "30666",
+                "currentClassSize": "0",
+                "maxClassSize": "200",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Posthumus, L.",
+                                "sunet": "lmilgram"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "ACT",
+                "notes": "Fencing.",
+                "classId": "28643",
+                "currentClassSize": "0",
+                "maxClassSize": "200",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Posthumus, L.",
+                                "sunet": "lmilgram"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "ACT",
+                "notes": "Fencing.",
+                "classId": "30488",
+                "currentClassSize": "0",
+                "maxClassSize": "150",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Posthumus, L.",
+                                "sunet": "lmilgram"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "ACT",
+                "notes": "Field Hockey.",
+                "classId": "30667",
+                "currentClassSize": "0",
+                "maxClassSize": "150",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Ellis, R.",
+                                "sunet": "raellis"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "ACT",
+                "notes": "Field Hockey.",
+                "classId": "28644",
+                "currentClassSize": "0",
+                "maxClassSize": "75",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Ellis, R.",
+                                "sunet": "raellis"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "ACT",
+                "notes": "Field Hockey.",
+                "classId": "30489",
+                "currentClassSize": "0",
+                "maxClassSize": "150",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Ellis, R.",
+                                "sunet": "raellis"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "ACT",
+                "notes": "Football.",
+                "classId": "28645",
+                "currentClassSize": "0",
+                "maxClassSize": "500",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Miraglia, T.",
+                                "sunet": "trm"
+                            },
+                            {
+                                "name": "Taylor, T.",
+                                "sunet": "tstaylor"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "ACT",
+                "notes": "Football.",
+                "classId": "30668",
+                "currentClassSize": "0",
+                "maxClassSize": "125",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Miraglia, T.",
+                                "sunet": "trm"
+                            },
+                            {
+                                "name": "Taylor, T.",
+                                "sunet": "tstaylor"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222796",
+        "number": "ATHLETIC 10",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 93
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "11",
+        "title": "Athletic Team Manager",
+        "description": "For student managers of intercollegiate teams. Limit 1 credit per quarter with a maximum of 8 credits able to be applied towards graduation. Prerequisite: consent of respective varsity team head coach. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Baseball.",
+                "classId": "16221",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Esquer, D.",
+                                "sunet": "dcesquer"
+                            },
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Baseball.",
+                "classId": "16792",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Esquer, D.",
+                                "sunet": "dcesquer"
+                            },
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Baseball.",
+                "classId": "16323",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Esquer, D.",
+                                "sunet": "dcesquer"
+                            },
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "ACT",
+                "notes": "Men's Basketball.",
+                "classId": "16224",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Haase, J.",
+                                "sunet": "jerod"
+                            },
+                            {
+                                "name": "Berkun, D.",
+                                "sunet": "dberkun"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "ACT",
+                "notes": "Men's Basketball.",
+                "classId": "16796",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Haase, J.",
+                                "sunet": "jerod"
+                            },
+                            {
+                                "name": "Berkun, D.",
+                                "sunet": "dberkun"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "ACT",
+                "notes": "Men's Basketball.",
+                "classId": "16327",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Haase, J.",
+                                "sunet": "jerod"
+                            },
+                            {
+                                "name": "Berkun, D.",
+                                "sunet": "dberkun"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "03",
+                "component": "ACT",
+                "notes": "Women's Basketball.",
+                "classId": "16225",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "VanDerveer, T.",
+                                "sunet": "tarahoop"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "ACT",
+                "notes": "Women's Basketball.",
+                "classId": "16797",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "VanDerveer, T.",
+                                "sunet": "tarahoop"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "ACT",
+                "notes": "Women's Basketball.",
+                "classId": "16326",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "VanDerveer, T.",
+                                "sunet": "tarahoop"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "04",
+                "component": "ACT",
+                "notes": "Men's and Women's Cross Country and Track & Field.",
+                "classId": "16226",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Clark, J.",
+                                "sunet": "jjclark1"
+                            },
+                            {
+                                "name": "Worthy, L.",
+                                "sunet": "lworthy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "ACT",
+                "notes": "Men's and Women's Cross Country and Track & Field.",
+                "classId": "16798",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Clark, J.",
+                                "sunet": "jjclark1"
+                            },
+                            {
+                                "name": "Worthy, L.",
+                                "sunet": "lworthy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "ACT",
+                "notes": "Men's and Women's Cross Country and Track & Field.",
+                "classId": "16328",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Clark, J.",
+                                "sunet": "jjclark1"
+                            },
+                            {
+                                "name": "Worthy, L.",
+                                "sunet": "lworthy"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "05",
+                "component": "ACT",
+                "notes": "Fencing.",
+                "classId": "16227",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Posthumus, L.",
+                                "sunet": "lmilgram"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "ACT",
+                "notes": "Fencing.",
+                "classId": "16799",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Posthumus, L.",
+                                "sunet": "lmilgram"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "ACT",
+                "notes": "Fencing.",
+                "classId": "16329",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Posthumus, L.",
+                                "sunet": "lmilgram"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "06",
+                "component": "ACT",
+                "notes": "Field Hockey.",
+                "classId": "16228",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Ellis, R.",
+                                "sunet": "raellis"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "ACT",
+                "notes": "Field Hockey.",
+                "classId": "16800",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Ellis, R.",
+                                "sunet": "raellis"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "ACT",
+                "notes": "Field Hockey.",
+                "classId": "16330",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Ellis, R.",
+                                "sunet": "raellis"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "ACT",
+                "notes": "Football.",
+                "classId": "16801",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Miraglia, T.",
+                                "sunet": "trm"
+                            },
+                            {
+                                "name": "Taylor, T.",
+                                "sunet": "tstaylor"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "07",
+                "component": "ACT",
+                "notes": "Football.",
+                "classId": "16229",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Miraglia, T.",
+                                "sunet": "trm"
+                            },
+                            {
+                                "name": "Taylor, T.",
+                                "sunet": "tstaylor"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "102447",
+        "number": "ATHLETIC 11",
+        "units": [
+            1
+        ],
+        "totalSections": 93
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "12",
+        "title": "VARSITY - Baseball",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102306",
+        "number": "ATHLETIC 12",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "13",
+        "title": "VARSITY - Basketball (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102315",
+        "number": "ATHLETIC 13",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "14",
+        "title": "VARSITY - Basketball (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201021",
+        "number": "ATHLETIC 14",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "15",
+        "title": "VARSITY - Cross Country (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102341",
+        "number": "ATHLETIC 15",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "16",
+        "title": "VARSITY - Cross Country (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201025",
+        "number": "ATHLETIC 16",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "17",
+        "title": "VARSITY - Track and Field (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102704",
+        "number": "ATHLETIC 17",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "18",
+        "title": "VARSITY - Track and Field (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201029",
+        "number": "ATHLETIC 18",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "19",
+        "title": "VARSITY - Fencing (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102368",
+        "number": "ATHLETIC 19",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "20",
+        "title": "VARSITY - Fencing (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201032",
+        "number": "ATHLETIC 20",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "21",
+        "title": "VARSITY - Field Hockey",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102372",
+        "number": "ATHLETIC 21",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "22",
+        "title": "VARSITY - Football",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102378",
+        "number": "ATHLETIC 22",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "23",
+        "title": "VARSITY - Golf (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102395",
+        "number": "ATHLETIC 23",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "24",
+        "title": "VARSITY - Golf (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201034",
+        "number": "ATHLETIC 24",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "25",
+        "title": "VARSITY - Gymnastics (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201035",
+        "number": "ATHLETIC 25",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "26",
+        "title": "VARSITY - Gymnastics (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102414",
+        "number": "ATHLETIC 26",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "27",
+        "title": "VARSITY - Lacrosse",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102441",
+        "number": "ATHLETIC 27",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "28",
+        "title": "VARSITY - Rowing (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102336",
+        "number": "ATHLETIC 28",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "29",
+        "title": "VARSITY - Rowing (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201022",
+        "number": "ATHLETIC 29",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "30",
+        "title": "VARSITY - Lightweight Rowing",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "219727",
+        "number": "ATHLETIC 30",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "31",
+        "title": "VARSITY - Sailing (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102499",
+        "number": "ATHLETIC 31",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "32",
+        "title": "VARSITY - Sailing (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201023",
+        "number": "ATHLETIC 32",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "33",
+        "title": "VARSITY - Soccer (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201024",
+        "number": "ATHLETIC 33",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "34",
+        "title": "VARSITY - Soccer (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102550",
+        "number": "ATHLETIC 34",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "35",
+        "title": "VARSITY - Softball",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102555",
+        "number": "ATHLETIC 35",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "36",
+        "title": "VARSITY - Squash",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "205660",
+        "number": "ATHLETIC 36",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "37",
+        "title": "VARSITY - Swimming (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102599",
+        "number": "ATHLETIC 37",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "38",
+        "title": "VARSITY - Swimming (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201026",
+        "number": "ATHLETIC 38",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "39",
+        "title": "VARSITY - Diving (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102352",
+        "number": "ATHLETIC 39",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "40",
+        "title": "VARSITY - Diving (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201028",
+        "number": "ATHLETIC 40",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "41",
+        "title": "VARSITY - Synchronized Swimming",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102592",
+        "number": "ATHLETIC 41",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "42",
+        "title": "VARSITY - Tennis (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102694",
+        "number": "ATHLETIC 42",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "43",
+        "title": "VARSITY - Tennis (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201027",
+        "number": "ATHLETIC 43",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "44",
+        "title": "VARSITY - Volleyball (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102717",
+        "number": "ATHLETIC 44",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "45",
+        "title": "VARSITY - Volleyball (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201031",
+        "number": "ATHLETIC 45",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "46",
+        "title": "VARSITY - Beach Volleyball",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "219728",
+        "number": "ATHLETIC 46",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "47",
+        "title": "VARSITY - Water Polo (Men)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102730",
+        "number": "ATHLETIC 47",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "48",
+        "title": "VARSITY - Water Polo (Women)",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "201033",
+        "number": "ATHLETIC 48",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "49",
+        "title": "VARSITY - Wrestling",
+        "description": "Designed for the Varsity Athlete; conditioning; practice; game preparation; and weight training. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a Varsity Athlete in the specific sport; Permission of appropriate sport administrator. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "102792",
+        "number": "ATHLETIC 49",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "50",
+        "title": "Olympic Training",
+        "description": "Designed for students training for Olympic competition; conditioning; practice; competition preparation; weight training; and leadership skill development. Limit 2 credits per quarter with a maximum of 8 activity units may be applied towards graduation. Prerequisite: Must be a verified candidate for an Olympic team with a specified training schedule calling for at least 30 hours (1 unit) or 60 hours (2 units) of training time in the 10 week quarter. Instructor approval required. May repeat for credit.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": null,
+                "classId": "16262",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Basil, M.",
+                                "sunet": "mbasil"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "If you are interested in registering for this course, please contact Meredith Basil (Meredmbasil@stanford.edu).",
+                "classId": "16833",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Basil, M.",
+                                "sunet": "mbasil"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "If you are interested in registering for this course, please contact Meredith Basil (Meredmbasil@stanford.edu).",
+                "classId": "16367",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Basil, M.",
+                                "sunet": "mbasil"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222065",
+        "number": "ATHLETIC 50",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "60",
+        "title": "CLUB - Sport Experience",
+        "description": "This course is offered to club sport athletes who participate on credit approved Club Sports teams. Teams who are eligible to receive credit, are required to have a coach and/or administrator to supervise their class. To be eligible to receive a unit, teams and athletes on the team must complete at least 30 hours (1 unit) of participation in the quarter.  May repeat for credit. A maximum of 8 activity units may be applied towards graduation. Prerequisite: All fitness levels are welcome.  Permission of club sport administrator.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Club Sports.  This class has a $10 course fee.",
+                "classId": "16368",
+                "currentClassSize": "0",
+                "maxClassSize": "500",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Adams, W.",
+                                "sunet": "cwadams"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Club Sports.  This class has a $10 course fee.",
+                "classId": "16834",
+                "currentClassSize": "0",
+                "maxClassSize": "500",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Adams, W.",
+                                "sunet": "cwadams"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "Club Sports.  This class has a $10 course fee.",
+                "classId": "16264",
+                "currentClassSize": "0",
+                "maxClassSize": "500",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Adams, W.",
+                                "sunet": "cwadams"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218812",
+        "number": "ATHLETIC 60",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "61",
+        "title": "CLUB - Martial Arts Experience",
+        "description": "This course is offered to Martial Arts athletes who participate on credit approved Martial Arts teams. All teams and athletes on the team must complete 30 hours of participation during the quarter. To be eligible for credit, teams must practice 2x a week for a maximum total of 4 hours and participate in 1-3 competitions in the quarter. Prerequisite: Permission of martial arts administrator. May repeat for credit. A maximum of 8 activity units may be applied towards graduation.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "219731",
+        "number": "ATHLETIC 61",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "62",
+        "title": "CLUB - Band",
+        "description": "This course is offered to club members who participate on credit approved Club Sports teams. All members must complete 30 hours of participation during the quarter. To be eligible for credit, the club must practice 2x a week for a maximum total of 4 hours and participate in 1-3 events in the quarter. Prerequisite: Permission of club sport administrator. May repeat for credit. A maximum of 8 activity units may be applied towards graduation.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class has a $10 course fee.",
+                "classId": "16223",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gray, T.",
+                                "sunet": "tcgray"
+                            },
+                            {
+                                "name": "Gavin, R.",
+                                "sunet": "rgavin"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class has a $10 course fee.",
+                "classId": "16795",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gray, T.",
+                                "sunet": "tcgray"
+                            },
+                            {
+                                "name": "Gavin, R.",
+                                "sunet": "rgavin"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "ACT",
+                "notes": "This class has a $10 course fee.",
+                "classId": "16325",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Lillie, T.",
+                                "sunet": "tlillie"
+                            },
+                            {
+                                "name": "Gavin, R.",
+                                "sunet": "rgavin"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "102304",
+        "number": "ATHLETIC 62",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "63",
+        "title": "CLUB - Climbing",
+        "description": "his course is offered to club sport athletes who participate on credit approved Club Sports teams. All teams and athletes on the team must complete 30 hours of participation during the quarter. To be eligible for credit, teams must practice 2x a week for a maximum total of 4 hours and participate in 1-3 competitions in the quarter. Prerequisite: Permission of club sport administrator. May repeat for credit. A maximum of 8 activity units may be applied towards graduation.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "216514",
+        "number": "ATHLETIC 63",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "64",
+        "title": "CLUB - Equestrian",
+        "description": "This course is offered to club sport athletes who participate on credit approved Club Sports teams. All teams and athletes on the team must complete 30 hours of participation during the quarter. To be eligible for credit, teams must practice 2x a week for a maximum total of 4 hours and participate in 1-3 competitions in the quarter. Prerequisite: Permission of club sport administrator. May repeat for credit. A maximum of 8 activity units may be applied towards graduation.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "102355",
+        "number": "ATHLETIC 64",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "65",
+        "title": "CLUB - Rugby (Men)",
+        "description": "This course is offered to club sport athletes who participate on credit approved Club Sports teams. All teams and athletes on the team must complete 30 hours of participation during the quarter. To be eligible for credit, teams must practice 2x a week for a maximum total of 4 hours and participate in 1-3 competitions in the quarter. Prerequisite: Permission of club sport administrator. May repeat for credit. A maximum of 8 activity units may be applied towards graduation.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "102484",
+        "number": "ATHLETIC 65",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "66",
+        "title": "CLUB - Rugby (Women)",
+        "description": "This course is offered to club sport athletes who participate on credit approved Club Sports teams. All teams and athletes on the team must complete 30 hours of participation during the quarter. To be eligible for credit, teams must practice 2x a week for a maximum total of 4 hours and participate in 1-3 competitions in the quarter. Prerequisite: Permission of club sport administrator. May repeat for credit. A maximum of 8 activity units may be applied towards graduation.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "201020",
+        "number": "ATHLETIC 66",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ATHLETIC",
+        "code": "67",
+        "title": "CLUB - Squash (Men)",
+        "description": "This course is offered to club sport athletes who participate on credit approved Club Sports teams. All teams and athletes on the team must complete 30 hours of participation during the quarter. To be eligible for credit, teams must practice 2x a week for a maximum total of 4 hours and participate in 1-3 competitions in the quarter. Prerequisite: Permission of club sport administrator. May repeat for credit. A maximum of 8 activity units may be applied towards graduation.",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "102557",
+        "number": "ATHLETIC 67",
+        "units": [
+            1
+        ]
+    }
+]

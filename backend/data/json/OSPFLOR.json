@@ -1,0 +1,2972 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "1A",
+        "title": "Accelerated First-Year Italian, Part 1",
+        "description": "Accelerated sequence that completes first-year Italian in two rather than three quarters. For students with previous knowledge of Italian or with a strong background in another Romance language. Prerequisite: advanced-level proficiency in another Romance language Prerequisite: Placement .",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15807",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15310",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bottazzi, D.",
+                                "sunet": "bottazzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15080",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banchi, F.",
+                                "sunet": "fbanchi"
+                            },
+                            {
+                                "name": "Bottazzi, D.",
+                                "sunet": "bottazzi"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.  This class section has been cancelled!",
+                "classId": "15164",
+                "currentClassSize": "0",
+                "maxClassSize": "0",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "215195",
+        "number": "OSPFLOR 1A",
+        "units": [
+            5
+        ],
+        "totalSections": 4
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "1F",
+        "title": "First-Year Italian, First Quarter",
+        "description": "All-in-Italian communicative and interactive approach. Emphasis is on the development of appropriate discourse in contemporary cultural contexts. Interpretation of authentic materials, written and oral presentations, and plenty of conversational practice. Language lab, multimedia, and online activities.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15806",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banchi, F.",
+                                "sunet": "fbanchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15306",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banchi, F.",
+                                "sunet": "fbanchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15079",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banchi, F.",
+                                "sunet": "fbanchi"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "16004",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bottazzi, D.",
+                                "sunet": "bottazzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": null,
+                "classId": "15510",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bottazzi, D.",
+                                "sunet": "bottazzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15156",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bottazzi, D.",
+                                "sunet": "bottazzi"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "215194",
+        "number": "OSPFLOR 1F",
+        "units": [
+            5
+        ],
+        "totalSections": 6
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "2A",
+        "title": "Accelerated First-Year Italian, Part 2",
+        "description": "Continuation of ITALLANG 1A. Accelerated sequence that completes first-year Italian in two rather than three quarters. For students with previous knowledge of Italian or with a strong background in another Romance language. Prerequisite: Placement Test, ITALLANG 1A or consent of instructor. Fulfills the University language requirement.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15311",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15808",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.  This class section has been cancelled!",
+                "classId": "15081",
+                "currentClassSize": "0",
+                "maxClassSize": "0",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "215196",
+        "number": "OSPFLOR 2A",
+        "units": [
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "2F",
+        "title": "First-Year Italian, Second Quarter",
+        "description": "Continuation of ITALLANG 1. All-in-Italian communicative and interactive approach. Emphasis is on the development of appropriate discourse in contemporary cultural contexts. Interpretation of authentic materials, written and oral presentations, and plenty of conversational practice. Language lab, multimedia, and online activities. Prerequisite: Placement Test, ITALLANG 2",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15312",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banchi, F.",
+                                "sunet": "fbanchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15809",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15145",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banchi, F.",
+                                "sunet": "fbanchi"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "215197",
+        "number": "OSPFLOR 2F",
+        "units": [
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "3F",
+        "title": "First-Year Italian, Third Quarter",
+        "description": "Continuation of ITALLANG 2. All-in-Italian communicative and interactive approach. Emphasis is on the development of appropriate discourse in contemporary cultural contexts. Interpretation of authentic materials, written and oral presentations, and plenty of conversational practice. Language lab, multimedia, and online activities. Prerequisite: Placement Test, ITALLANG 2 or consent of instructor. Fulfills the University language requirement.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15810",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15305",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bottazzi, D.",
+                                "sunet": "bottazzi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15103",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banchi, F.",
+                                "sunet": "fbanchi"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "Language"
+        ],
+        "objectID": "215198",
+        "number": "OSPFLOR 3F",
+        "units": [
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "11",
+        "title": "Film, Food and the Italian Identity",
+        "description": "Food in Italian cinema staged as an allegory of Italy's social, political and cultural milieu. Intersections between food, history and culture as they are reflected in and shaped by Italian cinema from the early 1900s until today.  Topics include: farmer's tradition during Fascism; lack of food during WWII and its aftermath; the Economic Miracle; food and the Americanization of Italy; La Dolce Vita; the Italian family; ethnicity, globalization and the re-discovery of regional culinary identity in contemporary Italy. Impact of cinema in both reflecting and defining the relationship between food and culture.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "GER:DB-Hum",
+            "GER:EC-GlobalCom",
+            "WAY-A-II"
+        ],
+        "objectID": "215643",
+        "number": "OSPFLOR 11",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "13",
+        "title": "Galileo, Leonardo da Vinci, and the Scientific Revolution in Italy",
+        "description": "Italy was central to the Scientific Revolution during the Renaissance. The work of Galileo Galilei, Leonardo da Vinci, and others in Italy and across Europe, catalyzed the emergence of modern science, with profound changes in our worldview. The work of these Italians contributed to the rise of the scientific method, the development of modern sciences (especially astronomy, biology, physics, and mathematics), and the study of human anatomy and medicine. Technologic innovations, such as the telescope, microscope, accurate timepieces, and the printing press, were also pivotal for the Scientific Revolution. In this course we will explore the emergence of science and technology during the Renaissance and their connections to modern day scientific practice and principles, with a focus on key Italian pioneers. We will take advantage of Florence's location to visit museums and sites, and better appreciate their contributions to scientific methods and thinking.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "221221",
+        "number": "OSPFLOR 13",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "15",
+        "title": "Contemporary Italian Society",
+        "description": "Today's Italy through a series of thematic lectures covering a wide range of subjects, from politics to contemporary art and from sexual mores to the Mafia. Nature of contemporary Italian society, insights into the economic challenges facing Italy, as well as keys to deciphering Italian politics, and the elements required to make sense of what can be read, seen and heard in the Italian media. Assesing modern Italian culture in terms of the society that has produced it.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15316",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bonizzoni, P.",
+                                "sunet": "pbon"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15082",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Vigotti, L.",
+                                "sunet": "vigotti"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15825",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Vigotti, L.",
+                                "sunet": "vigotti"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218670",
+        "number": "OSPFLOR 15",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "15M",
+        "title": "Accademia del Maggio Musicale Fiorentino",
+        "description": "Musicians coming to Florence who wish to continue their study can do so with private instructors at the Accademia del Maggio Musicale Fiorentino. The Accademia offers one on one instruction in voice, piano, string and wind instruments, and percussion. Contact the Stanford in Florence staff for further information.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15197",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only. Interested students coming to Florence in the winter quarter must apply by November 15. Details on the application process can be found at: nhttps://bosp.stanford.edu/explore/florence/academics/classes-local-institutions.",
+                "classId": "15891",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "Notes: For students participating in the Bing Overseas Studies Program in Florence only. Interested students coming to Florence in the spring quarter must apply by February 1. Details on the application process can be found at: https://bosp.stanford.edu/explore/florence/academics/classes-local-institutions.",
+                "classId": "15355",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222155",
+        "number": "OSPFLOR 15M",
+        "units": [
+            1,
+            2,
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "16",
+        "title": "Silicon Valley: The Modern Day Rebirth of Renaissance Florence",
+        "description": "Over the last few decades, Silicon Valley has originated a remarkable period of innovation, wealth creation, and impact on the world. Many describe this golden age of technology as the modern day rebirth of Renaissance Florence. But how could lightning strike twice, not to mention 6000 miles away and 700 years apart? What combination of elements enabled two relatively small valleys to rise up and change the world?",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "221605",
+        "number": "OSPFLOR 16",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "19",
+        "title": "Florence for Foodies: Discovering the Italian Culinary Tradition",
+        "description": "A look at modern Florentine and Italian cuisine in light of historical heritage and foreign influences. Hands-on participation in three cooking classes with professional chefs. Understanding of the past and present of Italian food culture and its most important governing principles: the Mediterranean Diet, fresh and local ingredients, the market culture, and the Slow Food philosophy",
+        "repeatable": "true",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15367",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15198",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Montanari, M.",
+                                "sunet": "billy49s"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15892",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Montanari, M.",
+                                "sunet": "billy49s"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "215875",
+        "number": "OSPFLOR 19",
+        "units": [
+            1
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "21",
+        "title": "\"Help - It's the Turks!: Italy and the Islamic Mediterranean",
+        "description": "Passed down through popular lore, the phrase &quot;mamma gli turchi!&quot; is still known to Italians today. This course explores the history, culture, and contemporary politics of Italy through the lens of the country's relations with Muslims and Islamic societies in the Mediterranean region. We begin in the first millennium of the common era, when Muslims ruled over large parts of Europe, including Iberia and Sicily. We then move into the Renaissance period to cover Italy's extensive relations with Islamic empires such as the Mamluks of Egypt and the Ottomans of the eastern Mediterranean and North Africa (often simply called, &quot;the Turks&quot;). Moving into the modern period, we will then examine how Italian national identity was moulded in contrast to an imagined Muslim counterpart, tracing how these ideas informed Italian colonialism in North Africa. The last part of the course focuses on contemporary issues: over the past several decades and still today, Italy has maintained particularly close relations with Muslim countries in the region. Nonetheless, immigration and the supposed menace of Islam have come to play a large role in Italian politics today. We will study these topics using a range of sources including first-hand accounts (in translation), art, and film. Key themes in the course include conquest, coexistence, conversion, migration &amp; immigration, trade, colonialism, national identity formation, the Cold War, and global political movements.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "32969",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Karamustafa, A.",
+                                "sunet": "aakaramu"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "224769",
+        "number": "OSPFLOR 21",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "21F",
+        "title": "Accelerated Second-Year Italian, Part A",
+        "description": "Review of grammatical structures; grammar in its communicative context. Listening, speaking, reading, and writing skills practiced and developed through authentic material such as songs, newspaper articles, video clips, and literature. Insight into the Italian culture and crosscultural understanding. Prerequisite: one year of college Italian or ITALLANG 21",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15227",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banchi, F.",
+                                "sunet": "fbanchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15755",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15004",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banchi, F.",
+                                "sunet": "fbanchi"
+                            },
+                            {
+                                "name": "Bottazzi, D.",
+                                "sunet": "bottazzi"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "202547",
+        "number": "OSPFLOR 21F",
+        "units": [
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "22A",
+        "title": "Food, Culture and Italian Identity",
+        "description": "Food is not just fuel for living, but an essential element for building and understanding a culture. Food history will be discussed in its essential lines, moving through narrative, literary and scientific sources, including iconography, to offer examples of document interpretation and an introduction to proper historical work",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "224765",
+        "number": "OSPFLOR 22A",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "22F",
+        "title": "Accelerated Second-Year Italian Part B",
+        "description": "Grammatical structures, listening, reading, writing, speaking skills, and insight into the Italian culture through authentic materials. Intermediate to advanced grammar. Content-based course, using songs, video, and literature, to provide cultural background for academic courses. Prerequisite: ITALLANG 21 within two quarters of arriving in Florence or ITALLANG 21A or OSPFLOR 21F",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29158",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15226",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banchi, F.",
+                                "sunet": "fbanchi"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15003",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Banchi, F.",
+                                "sunet": "fbanchi"
+                            },
+                            {
+                                "name": "Bottazzi, D.",
+                                "sunet": "bottazzi"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "201381",
+        "number": "OSPFLOR 22F",
+        "units": [
+            5
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "25",
+        "title": "Photographic Interventions in Contemporary Fine Art Practice",
+        "description": "This course offers a fluid approach to image making, understanding photography as an art form that encompasses multiple approaches including performative, sculptural, pictorial and cinematographic practices. While introducing students to a series of printing techniques and photographic processes along with studio lighting and digital postproduction methods, this course will encourage visual experimentation, theoretical contextualisation, and active research processes.  Students will be guided through the processes of developing a critical framework for their practice through tutorials and through theory seminars mapping some of the major developments and theoretical concerns within contemporary practice.  They will also be shown researching methods to reach relevant audiences: from physical installations, exhibitions and publications, to new media and the web.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "29982",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-CE"
+        ],
+        "objectID": "222110",
+        "number": "OSPFLOR 25",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "25F",
+        "title": "Sculpting the Renaissance: Aesthetics, Materials & Innovation",
+        "description": "The course aims to present a history of Florentine sculpture between the fifteenth and sixteenth centuries, with a focus on materiality, the symbolic value of mediums, as well as the commissioning and execution of each work of art. The classes will be inspired by current methodologies, linked to a tradition interested in the objecthood of artistic creation and the relationship between stylistic choices and the limitations of technologies. The collections of the Florentine museums and the city's extraordinary heritage, will allow direct contact with the works we will discuss in class. Proximity will also make it possible to gain knowledge about places of production and procurement of materials (the Carrara quarries, the ancient casting places, for example). This approach will not only problematize fundamental issues pertaining to the very concept of the &quot;artisticness&quot; of an artifact, but-in following a chronological span-will reflect on the periodization of formal languages characterizing the early modern era, at the same time confronting topics relevant to the current historiographical debate. Such investigations, in addition to offering an updated and problematic look at some of the most iconic figurative texts for the art-historical discussion about early modern period (from Donatello's David to Michelangelo's, via masterpieces by artists such as Luca della Robbia, Benvenuto Cellini and Giambologna), will provide students with useful paraphernalia for confronting canonized and, so to speak, sacralized figurative testimonies, putting into context the drives and motives, the conditioning and expectations behind their very creation.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "28496",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Mozzati, T.",
+                                "sunet": "tmozzati"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-A-II"
+        ],
+        "objectID": "225127",
+        "number": "OSPFLOR 25F",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "26",
+        "title": "Economics of the EU",
+        "description": "Discussion and analysis of the European Crisis, which started in Greece in 2009 and continues. Critical comprehension of the inner functioning of the European Union's economics, politics and institutions, understanding of the reasons for the crisis and the solutions undertaken. Comparative analysis with the United States to show the complexity entailed in having one monetary policy and nineteen distinct national budgets. Discussion of key challenges in Europe and next steps in the progress of European integration.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "29272",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "De Romanis, V.",
+                                "sunet": "vderoman"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "216909",
+        "number": "OSPFLOR 26",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "27",
+        "title": "Pasta, Soccer, and Opera: A Sampler of Economics and Data Analysis in Italy",
+        "description": "The goal of this course is to introduce students to fun, real-world and sometimes surprising economic phenomena with modern and historical Italy as the centerpiece. Examples include the game theory of penalty kicks in Italian soccer, the salt monopoly that led to Tuscany's famous salt-less bread, the causal effect of BBC radio on Italian resistance efforts during World War II, the economic effects of the Mafia, and the effects of Napoleon's victories on Italian opera quality (through adoption of copyright laws).  Students will learn basic economic concepts and econometric tools, as well as a basic introduction to coding in R.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-AQR",
+            "WAY-SI"
+        ],
+        "objectID": "224249",
+        "number": "OSPFLOR 27",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "29",
+        "title": "The People Amid the Monuments",
+        "description": "From both chronological and thematic approaches, examine the efforts of English-speaking writers (and, latterly, film-makers) to get to grips with Italy and the Italians. Beginning in the England of Queen Elizabeth and ending at the present day, cover a variety of themes such as Italy's historical role as a haven for the LGBT community and the modern interest in neglected southern Italy. Illustrative multimedia content with visits to sites of relevance in Florence.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29870",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-A-II",
+            "WAY-EDP"
+        ],
+        "objectID": "221277",
+        "number": "OSPFLOR 29",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "31F",
+        "title": "Advanced Oral Communication: Italian",
+        "description": "Refine language skills and develop insight into Italian culture using authentic materials. Group work and individual meetings with instructor. Minimum enrollment required. Prerequisite: ITALLANG 22A, 23 or placement.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": null,
+                "classId": "29192",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15781",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LNG",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.  This class section has been cancelled!",
+                "classId": "15008",
+                "currentClassSize": "0",
+                "maxClassSize": "0",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "210104",
+        "number": "OSPFLOR 31F",
+        "units": [
+            3
+        ],
+        "totalSections": 3
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "33",
+        "title": "The Body of Love: Romance, Love and Sex in Italian Cinema",
+        "description": "This course looks at the many ways in which cinema has represented and thematized the seemingly universal concept of love.  Discussion of the &quot;love&quot; genres of classical Hollywood  melodrama. Focus on Italian cinema and its multifaceted portrayals of love, many of which question and challenge the Hollywood canon.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "30191",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "29276",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-A-II"
+        ],
+        "objectID": "223508",
+        "number": "OSPFLOR 33",
+        "units": [
+            3
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "34",
+        "title": "The Virgin Mother, Goddess of Beauty, Grand Duchess, and the Lady: Women in Florentine Art",
+        "description": "Influence and position of women in the history of Florence as revealed in its art. Sculptural, pictorial, and architectural sources from a social, historical, and art historical point of view. Themes: the virgin mother (middle ages); the goddess of beauty (Botticelli to mannerism); the grand duchess (late Renaissance, Baroque); the lady, the woman (19th-20th centuries).",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "GER:DB-Hum",
+            "GER:EC-Gender",
+            "WAY-A-II"
+        ],
+        "objectID": "207625",
+        "number": "OSPFLOR 34",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "40",
+        "title": "\"I am Italy too!\" Issues of Race, Identity and Citizenship in contemporary Italy",
+        "description": "The course will investigate the role of theories on race for the construction of Italian national identity and the impact of these legacies on today's Italian society. These issues will be considered in light of the immediacy of contemporary global challenges. Instructor: Angelica Pesarini",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "223311",
+        "number": "OSPFLOR 40",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "41",
+        "title": "The Florentine Sketchbook: A Visual Arts Practicum",
+        "description": "The ever-changing and multifaceted scene of contemporary art through visual and sensorial stimulation. How art is thought of and produced in Italy today. Hands-on experience. Sketching and exercises on-site at museums and exhibits, plus workshops on techniques. Limited enrollment.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-CE"
+        ],
+        "objectID": "108116",
+        "number": "OSPFLOR 41",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "42",
+        "title": "Academic Internship",
+        "description": "Mentored internships in fashion, education, engineering, the fine arts, health, media, not-for-profit organizations, and publishing (among others). May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "108106",
+        "number": "OSPFLOR 42",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "45",
+        "title": "Europe: The State of the Union",
+        "description": "Learn about, debate, and analyze the most pressing and critical issues that Italy and the EU are facing today.  As former Prime Minister, and in current capacity as head of the Democratic Party, the instructor has been dealing with these issues firsthand for a number of years. On questions such as the current migrant/refugee crises, issues of citizenship and national identity, the Euro, and Brexit (just to name a few), the approach will be informed by political and economic theories and will be presented in an objective academic context; the instructor will also share not only his take on these questions but also his experiences in addressing them as an insider.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [],
+        "gers": [],
+        "objectID": "219898",
+        "number": "OSPFLOR 45",
+        "units": [
+            1
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "46",
+        "title": "Images of Evil in Criminal Justice",
+        "description": "Iconographic component of criminal law; reasons and functions of the visual representation of criminal wrongdoing. Historical roots of &quot;evil typecasting;&quot;  consideration of its variations with respect to common law and civil law systems. Fundamental features of the two legal systems. Sources, actors, enforcement mechanisms of the criminal law compared; study of cases in the area of murder, sex offences, organized crime and terrorism. Different techniques of image typecasting highlighted and discussed. International criminal law, which takes the burden to describe, typecast and punish forms of &quot;enormous, disproportionate evil,&quot; such as genocide and other mass atrocities.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "GER:DB-SocSci",
+            "WAY-ER"
+        ],
+        "objectID": "214356",
+        "number": "OSPFLOR 46",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "47",
+        "title": "Faith, Science, and the Classical Tradition in Renaissance Florence",
+        "description": "The Renaissance was a pivotal period in the history of European thought when the Christian religious worldview was challenged by the recovery of classical secular philosophy. In particular, Stephen Greenblatt's Pulitzer-prize-winning The Swerve argues that the rediscovery of Lucretius' On the Nature of Things reoriented European intellectual history toward modern scientific materialism.Readings from Renaissance philosophers and site visits to see the magnificent works of Florentine art will suggest a more complex interaction between religious experiences and secular thought. This course will aim to develop students' capacity for historical criticism, to enhance students' knowledge and appreciation of the philosophy and art of Renaissance Florence, and to illustrate how contemporary social science can be used to deepen our understanding of historical change.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "221225",
+        "number": "OSPFLOR 47",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "48",
+        "title": "Sharing Beauty in Florence: Collectors, Collections and the Shaping of the Western Museum Tradition",
+        "description": "The city's art and theories of how art should be presented. The history and typology of world-class collections. Social, economic, political, and aesthetic issues in museum planning and management. Collections include the Medici, English and American collectors of the Victorian era, and modern corporate and public patrons.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "GER:DB-Hum",
+            "WAY-A-II"
+        ],
+        "objectID": "205486",
+        "number": "OSPFLOR 48",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "49",
+        "title": "On-Screen Battles: Filmic Portrayals of Fascism and World War II",
+        "description": "Structural and ideological attributes of narrative cinema, and theories of visual and cinematic representation. How film directors have translated history into stories, and war journals into visual images. Topics: the role of fascism in the development of Italian cinema and its phenomenology in film texts; cinema as a way of producing and reproducing constructions of history; film narratives as fictive metaphors of Italian cultural identity; film image, ideology, and politics of style.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "GER:DB-Hum",
+            "WAY-A-II"
+        ],
+        "objectID": "200187",
+        "number": "OSPFLOR 49",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "50M",
+        "title": "Introductory Science of Materials",
+        "description": "Topics include: the relationship between atomic structure and macroscopic properties of man-made and natural materials; mechanical and thermodynamic behavior of surgical implants including alloys, ceramics, and polymers; and materials selection for biotechnology applications such as contact lenses, artificial joints, and cardiovascular stents. No prerequisite.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29314",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-EngrAppSci",
+            "WAY-AQR",
+            "WAY-SMA"
+        ],
+        "objectID": "212688",
+        "number": "OSPFLOR 50M",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "51",
+        "title": "Globalization and Social Divisions",
+        "description": "The course examines how social diversity and inequality are produced, understood, and enacted in the context of growing global integration. It will explore how existing social arrangements create and maintain social differences among people &iquest; social class; race and ethnicity; age, gender and sexuality; citizenship and nationality &iquest; and are influenced by cultural, economic and political processes that are increasingly spanning across borders. Analyzing the implications of global forces, relations, and institutions &iquest; e.g. the media and cultural industry, tourism, religion, social movements and the human rights regime &iquest; will help students understand why the social construction of diversity and inequality today should overcome the &quot;methodological nationalism&quot; that often characterizes the study of social divisions.  nnInstructor: Paola Bonizzoni",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "30042",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "222556",
+        "number": "OSPFLOR 51",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "54",
+        "title": "High Renaissance and Mannerism: the Great Italian Masters of the 15th and 16th Centuries",
+        "description": "The development of 15th- and early 16th-century art in Florence and Rome. Epochal changes in the art of Michelangelo and Raphael in the service of Pope Julius II. The impact of Roman High Renaissance art on masters such as Fra' Bartolomeo and Andrea del Sarto. The tragic circumstances surrounding the early <i>maniera:</i> Pontormo and Rosso Fiorentino and the transformation of early Mannerism into the elegant style of the Medicean court. Contemporary developments in Venice.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28789",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-Hum",
+            "WAY-A-II"
+        ],
+        "objectID": "200190",
+        "number": "OSPFLOR 54",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "55",
+        "title": "Academy of Fine Arts: Studio Art",
+        "description": "Courses through the <i>Academia delle Belle Arti.</i> Details upon arrival. Minimum Autumn and Winter Quarter enrollment required; 1-3 units in Autumn. May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "28790",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "200191",
+        "number": "OSPFLOR 55",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "55A",
+        "title": "Italy through the Eye of the Camera",
+        "description": "This course is ambitious in its aim and scope.  It has two main objectives.  One, to analyze and discuss Italian cinema and its history; two, to develop your skills in cinematic formal analysis and in film theory.  We will start with the cinema in the Fascist years (1922-1945), we will then focus on the revolutionary and heavily politicized practice by the Neorealists (Zavattini, Rossellini, De Sica), in the aftermath of WWII (1945-1949).  We will turn to the great Italian auteurs such as Federico Fellini; Michelangelo Antonioni, and Bernardo Bertolucci.  Further, we will analyze the so called &iquest;comedy Italian style,&iquest; the &iquest;spaghetti westerns&iquest; as well as the politically committed films of the 1980s and 90s.  Finally, we will explore the &iquest;new Italian cinema,&iquest; with its many and sometimes contradictory forms.  Studying and enjoying Italian cinema will help us to uncover the socio-political, economic and cultural developments in Italian life during the 20th and 21st century (the family, otherness, gender roles, politics, etc.).",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "224925",
+        "number": "OSPFLOR 55A",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "55F",
+        "title": "Florence and the Global Renaissance",
+        "description": "Introduction to the geographic reaches of the Renaissance, focus on global artistic exchange within the city of Florence. The course aims to reconnect the city-state of Florence and its artistic production to distant spaces with which it had historical contact, from the Ottoman Empire to Mesoamerica",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-A-II",
+            "WAY-EDP"
+        ],
+        "objectID": "224766",
+        "number": "OSPFLOR 55F",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "56",
+        "title": "University of Florence Courses",
+        "description": "May be repeated for credit.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28791",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "200192",
+        "number": "OSPFLOR 56",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "57",
+        "title": "Accademia Italiana",
+        "description": "The Accademia Italiana is an international institute of art, fashion and design with an Italian and international student body. Interested students coming to Florence in the winter quarter must apply by November 15. Details on the application process can be found at: https://bosp.stanford.edu/explore/florence/academics/on-site-requirements.Courses are taught in English, some laboratory-based design classes are taught in both English and Italian. Enrollment is limited, preference given to students majoring in Studio Art.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15221",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "32971",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223600",
+        "number": "OSPFLOR 57",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "58",
+        "title": "Space as History: Social Vision and Urban Change",
+        "description": "A thousand years of intentional change in Florence. Phases include programmatic enlargement of ecclesiastical structures begun in the 11th century; aggressive expansion of religious and civic space in the 13th and 14th centuries; aggrandizement of private and public buildings in the 15th century; transformation of Florence into a princely capital from the 16th through the 18th centuries; traumatic remaking of the city's historic core in the 19th century; and development of new residential areas on the outskirts and in neighboring towns in the 20th and 21st centuries.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29130",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-Hum",
+            "WAY-A-II"
+        ],
+        "objectID": "208485",
+        "number": "OSPFLOR 58",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "61",
+        "title": "Rinascimento conteso: Florence's Early Modern Art Reframed",
+        "description": "This course focuses on the artistic production of fifteenth to sixteenth-century Florence as paradigmatic of the tensions, anxieties, and eccentric trends that emerged in Europe's visual culture during the Early Modern Age.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-A-II"
+        ],
+        "objectID": "224931",
+        "number": "OSPFLOR 61",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "62",
+        "title": "Un)fashionable Entanglements: Development, Workers' Movements and Regulation in Global Garment Value",
+        "description": "Fashion and garment production is an old trade, and it is one of Italy's most important sectors in terms of global prestige, cultural effervescence, and exportation. Fashion entangles creativity, culture, style, and ways of life. At the same time, garment production entails complex and globalized manufacturing processes that tie together segmented labor forces with differentiated levels of work quality, rights, and regions embedded in the world economy in diverse positions and at different levels of their developmental path. Garment manufacturing is an industry forerunner in terms of productive globalization, and it is considered a starter industrial sector for economically underdeveloped regions. Early on, it presented signs of technological revolutions, the growing role of intangible assets over production, and the restructuring dynamics of production in complex, globalized and functionally integrated value chains. The sector, therefore, serves as a guide and a lens to scrutinize wide-ranging phenomena and to engage with broader theoretical debates. By analyzing the garment/fashion complex, it is possible to study globalizing production and consumption processes, the role of decent work in global production networks, and the crucial issues of economic development and transnational regulations. This course focuses on the literature that deals with garment production in Global Value Chains and explores different analytical approaches in between the theoretical traditions of economic and labor sociology and international political economy. The focus on garments allows students to deepen their knowledge of related and wider issues such as theories of development, feminist political economy, analyses of labor organizations, and the regulations for decent work across national boundaries. The course, therefore, touches upon issues of gendered exploitative mechanisms at work, labor control and surveillance, theories of labor agency and movements within the workplace and across national boundaries, as well as theories of private and public global governance for labor standards. While the course is global in its analytical scope, it pays specific attention to European and especially Italian dynamics. Readings on Italian case studies and current events are presented in almost all the weekly topics and two thematic units are dedicated entirely to an analysis of garment production processes in Prato and in Southern Italy.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "224231",
+        "number": "OSPFLOR 62",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "64",
+        "title": "Colonial Heritage, Euro-Mediterranean Relations, Migrations, Multiculturalism",
+        "description": "Analysis of colonialism during the 19th century, with particular reference to French colonialism, followed by discussion of the influence of the colonial heritage on current African and Euro-Mediterranean relations. Consideration from the perspective of colonial law. In addition, discussion of three aspects of Euro-Mediterranean relations: 1) the period from the establishment of the European Economic Community (EEC) up until the beginning of the &quot;Arab Spring&quot;; 2) the new EU policies after the uprisings of the &quot;Arab Spring&quot;, and 3) the new EU perspectives after the failure of the &quot;Arab Spring&quot; with the exception of Tunisia. Review of the European Neighbourhood Policy (ENP) in 2011 and in 2015 after the end of the &quot;Arab Spring&quot; revolts.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "221279",
+        "number": "OSPFLOR 64",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "65",
+        "title": "Exclusion/Inclusion Processes of Migrants in Italian Society",
+        "description": "Analysis of the processes of exclusion/inclusion of migrants into Italian society, in a country which has recently become a place of immigration from abroad. It is divided into five parts: 1. Migration theories. 2. Migration policies. 3. Labour market and social mobility. 4. Social representations of migrants. 5. Migration and criminality. Field trips to NGO's",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "221278",
+        "number": "OSPFLOR 65",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "67",
+        "title": "The Celluloid Gaze: Gender, Identity and Sexuality in Italian Cinema",
+        "description": "Film in the social construction of gender through the representation of the feminine, the female, and women. Female subjects, gaze, and identity through a historical, technical, and narrative frame. Emphasis is on gender, identity, and sexuality with references to feminist film theory from the early 70s to current methodologies based on semiotics, psychoanalysis, and cultural studies. Advantages and limitations of methods for textual analysis and the theories which inform them.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "15883",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "GER:DB-Hum",
+            "GER:EC-Gender",
+            "WAY-A-II",
+            "WAY-EDP"
+        ],
+        "objectID": "202064",
+        "number": "OSPFLOR 67",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "69",
+        "title": "Abstract Art: Creativity, Self-Expression and Depicting the Unimaginable",
+        "description": "Overview of the birth and evolution of abstract art with visual background necessary to produce works of art free of a realistic representation. Movements and trends in abstract art; experimentation with different media and techniques. Enrollment limited.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-CE"
+        ],
+        "objectID": "210337",
+        "number": "OSPFLOR 69",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "70",
+        "title": "The Value of Life: Philosophical Foundations",
+        "description": "Analysis of the value of life from a philosophical point of view, presenting lay foundations of bioethics. Three main steps. 1) The notion of life, which can be seen from different angles and with diverse intentions; comparative analysis of plural interpretations of the notion of life, economic, scientific, religious, and the limits of the notion itself. 2) Ethics as a theory of value, the metaphysical background of life, and the structure of bioethics; a vision of life as a &quot;critical choice&quot;, which implies respect for life and individual responsibility; some non-Western ideas on the value of life. 3) Practical issues such as the meaning of death, abortion and euthanasia",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-ER"
+        ],
+        "objectID": "220278",
+        "number": "OSPFLOR 70",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "71",
+        "title": "A Studio with a View: Drawing, Painting and Informing your Aesthetic in Florence",
+        "description": "Recent trends in art, current Italian artistic production, differences and the dialogue among visual arts. Events, schools, and movements of the 20th century. Theoretical background and practical training in various media. Work at the Stanford Center and on site at museums, exhibits, and out in the city armed with a sketchbook and camera. Emphasis is on drawing as the key to the visual arts. Workshops to master the techniques introduced. Limited enrollment.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "28897",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-CE"
+        ],
+        "objectID": "202872",
+        "number": "OSPFLOR 71",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "73",
+        "title": "Fascism & World War II in Italy",
+        "description": "The purpose of this course is to explore the various dimensions of World War II in Italy. It will cover major military and diplomatic events, as well as the dramatic shifts in Italian fortunes at war, including: Mussolini's occupation policies in the Balkans, efforts to surrender to the Allies in 1943, the subsequent German occupation of northern Italy, the bitter fighting between the Wehrmacht and the Allies, and the growing power of and use of violence by the communist partisans.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "29208",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Naimark, N.",
+                                "sunet": "naimark"
+                            },
+                            {
+                                "name": "Jolluck, K.",
+                                "sunet": "katya"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "225122",
+        "number": "OSPFLOR 73",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "74",
+        "title": "The Politics of Race in Italy",
+        "description": "This course approaches the politics of race in Italy from an anthropological and historical perspective. It focuses on the historical formation of the range of attitudes, ideas and sentiments of race, including racism, found in Italy today. By taking an explicitly comparative approach to racial formation and racism, it requires students to critically reevaluate their understandings of race, identity, racial politics and racism. This includes rethinking not only what are conventionally viewed as &quot;minority&quot; racial identities but also white racial identity. The learning objectives of the course are: a) to understand the political and social history that has led to the formation of current attitudes, ideas and political stances on race in Italy; b) to understand the regional variation in these attitudes, ideas and political stances; and c) to extend this new understanding to the political and social history of race in the U.S.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "223866",
+        "number": "OSPFLOR 74",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "76",
+        "title": "Sociology of Migrations",
+        "description": "Conceptual tools to understand the social phenomena of international migrations; discussion of the most relevant theoretical approaches in the field, e.g. assimilation, transnationalism, and migration regimes, among others.Crucial topics: discussion of the causes of migration and the distinction between different types of migrants, analysis of current migration policies and the related issues of borders, asylum, irregular migration and possible paths toward legalization. Also, reaction of receiving societies towards migration, with the related increasing problems of racism, discrimination and the rise of far-right parties. Analysis of North-American, North-Western European and Southern European cases with particular attention to the Italian case.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "WAY-EDP"
+        ],
+        "objectID": "220744",
+        "number": "OSPFLOR 76",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "78",
+        "title": "EU Politics and Crisis",
+        "description": "Institutional design of EU, forthcoming changes, and comparison of the old and new designs. Interactions between the EU, member states, organized interests, and public opinion. Major policies of the EU that affect economics such as competition or cohesion policies, market deregulation, and single currency. Consequences of the expansion eastwards. The role of institutions as a set of constraints and opportunities for the economic actors; relationships between political developments and economic change in the context of regional integration; lessons for other parts of the world.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "GER:DB-SocSci",
+            "GER:EC-GlobalCom",
+            "WAY-SI"
+        ],
+        "objectID": "203075",
+        "number": "OSPFLOR 78",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "80",
+        "title": "Geomaterials of the Human Past and Future",
+        "description": "Sustainable development has spurred a growing interest in the intersections of geoscience and engineering, the human past and future. If, on the one hand, Earth's dynamics has set in motion an industrious factory floor for processes and materials, on the other hand, civilizations of all times have selected Earth materials for technology development and progress in manufacturing structural, architectural, and pigmenting materials. This course is intended for sophomores, juniors, and seniors of both STEM and Humanities majors, and has as objective to introduce students to the concept of rocks and geomaterials (i.e., inorganic raw materials derived from the Earth's crust after appropriate processing), the sought properties, and how their use impact sustainability. The course will also highlight two of the most iconic materials from the past that stand for timelessness, the Maya blue and Roman marine concrete, and look at future materials that advance the conversation on building a sustainable future &iquest; from decarbonizing concrete to cathode minerals for the next generation of lithium-ion batteries.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-SMA"
+        ],
+        "objectID": "224248",
+        "number": "OSPFLOR 80",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "81",
+        "title": "Communism(s)",
+        "description": "History of communism since 1917 as a factor in the making of the global world. Focus of the course will be on the intersections of communism with the colonial and post-colonial world, by analysing strategies, influences, and connections between the Soviet Union, Europe, and the Third World.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "15414",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Pons, S.",
+                                "sunet": "pons55"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "221280",
+        "number": "OSPFLOR 81",
+        "units": [
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "84",
+        "title": "Entrepreneurship and the Renaissance",
+        "description": "This course is intended for sophomores, juniors, and seniors of all majors. With an emphasis on the wisdom of ethical behavior,it is a rigorous introduction to both the entrepreneurial process and the role of the individual and teams within high-growth ventures. Case studies, lectures, workshops and projects cover ventures involving science and technology, with special attention on both the historical significance of the Renaissance and today's opportunity in Italy. No prerequisites are necessary. This course is based upon Engineering 145(http://e145.stanford.edu), which was first offered in 1999 and now given multiple times each year at Stanford.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "30022",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "222451",
+        "number": "OSPFLOR 84",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "87",
+        "title": "What is Love? The Amorous Discourse from Dante to Ferrante",
+        "description": "Talking about love was the main reason humans ever began to speak in the first place. From the moment words were invented, they have been used to interpret and describe, in verse and prose, this powerful and mysterious force, in an attempt to interpret and describe our very selves. Lyric poetry was specifically designed for that, but even when telling stories about war, adventure, or the meaning of life and death, as well as when narrating comic or tragic events, countless writers have often endeavored to answer the question: What is love? By combining close readings of texts with a study of their literary, cultural, and historical context, and by paying attention to individual innovations as well as one's dialogue with tradition (a gendered tradition, that nonetheless stimulates fluid and even queer responses from the Renaissance forward), we will discover Dante's love, a means of damnation or salvation; Petrarch's love, which is sinful distraction, the source of poetry, and a path to glory; Boccaccio's love, so sensual and yet so deeply rooted in the human soul as to cause the greatest joy or the deepest despair; Ariosto's love, a dangerous force that can drive people to madness in a world where, after all, everyone is somehow in love and therefore partly (and delightfully) crazy; Machiavelli's love, which can sharpen one's wits and bring with it great achievements, unless it clouds one's judgement and leads to failure; Aretino's love, so unabashedly physical and graphically explicit as to cause scandal and amazement all over Europe. We will also look at how love is described by Veronica Gambara, Vittoria Colonna, Gaspara Stampa and other women poets of the Renaissance who renewed the lyrical code from within, giving new meanings to old words. We will also listen to the various kinds of love put to music in operas from Don Giovanni to Traviata and Boh&egrave;me, and we will investigate how love interrelates with history in Manzoni's Promessi sposi and other Romantic historical novels. Finally, we will explore how the previous (male) narratives about love were reconfigured and reinvented by female novelists of the 20th century such as Goliarda Sapienza, Natalia Ginzburg and Elsa Morante, who will lead us to delve into Elena Ferrante's works, where love constantly interplays with friendship, and often confirms that, for better or for worse, appearances can be deceiving. Instructor: L. Degl'Innocenti",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-A-II"
+        ],
+        "objectID": "223214",
+        "number": "OSPFLOR 87",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "88",
+        "title": "Made in Italy: Heritage, Creativity, Sustainability",
+        "description": "This course discusses how the unique Italian heritage in manufacturing and in creative industry has been translated in economic value for the fashion and luxury industry. The module deals with the origin, development and evolution of Made in Italy by approaching its main characteristics, i.e. creativity, innovation and exclusivity. The course will offer students a comprehensive overview of the Made in Italy concept, of its actual implementation and present evolution within a globalized economy, looking in particular at the territorial dimension in the specific case of Tuscany and Florence. Students will be exposed to the fundamental theories relevant to understand the Made in Italy phenomenon but also to &quot;live cases&quot; related to Italian success stories that characterize Italian reputation. This approach will ensure students an in depth understanding of how territory, craftsmanship and heritage have strategically contributed to the shaping of &quot;Made in Italy&quot; and to its unique positioning on a global scale. Instructors: N. Bellini &amp; S. Rovai",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "223215",
+        "number": "OSPFLOR 88",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "89",
+        "title": "The Dark Side of the Renaissance: Contagion, Emotions, Beliefs in times of Epidemics",
+        "description": null,
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-SI"
+        ],
+        "objectID": "223841",
+        "number": "OSPFLOR 89",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "90",
+        "title": "Ma(s)king Race in Contemporary Post and Decolonial Italy",
+        "description": "The course aims to introduce students to contemporary academic debates on race and racism in Italy. Issues of race, ethnicity and belonging will be explored through a sociological approach and an intersectional lens. Gender and class, as well as other particular - systemic and not - oppressions, will be taken into account in order to define how they interlock with each other in 2020 Italy. Instructor: Mackda Ghebremariam Tesfau'",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15356",
+                "currentClassSize": "0",
+                "maxClassSize": "45",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Ghebremariam Tesfau', M.",
+                                "sunet": "mackdagt"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-EDP"
+        ],
+        "objectID": "223216",
+        "number": "OSPFLOR 90",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "92",
+        "title": "No Planet B: Class, Climate Change, and Environmental Justice",
+        "description": "Why do strong green parties emerge in some countries and not in others? What differences and commonalities exist in environmentalist movements and their forms of contention across Europe? How do new and old environmentalist movements relate to social justice struggles and other societal actors? And how do environmentalist groups shape political decisions at the local, national and European Union level? This course draws on debates developed in the political economy, social movement studies, urban political ecology, and labor environmentalism literatures to analyses environmentalist social movements and political environmentalist parties in Italy and in Europe. Through the discussion of specific and existing case studies of environmentalist mobilizations, this course investigates the different opportunity structures under which environmentalist actors and coalitions emerge, the differentiated frames and repertoire of contention they adopt, and the various forms of their institutionalization. More specifically, the mobilizations against illegal toxic dumping in the 'Terra dei fuochi' in Southern Italy, the movements against environmental degradation caused by the steel plants in Piombino and Taranto, the environmentalist opposition against the petrochemical facilities in Porto Marghera and the construction of high-speed train infrastructures in Northern Italy will be used as cases to discuss the literature on environmentalist social movements. In the second section of the course, the processes of institutionalization of social movements and their transformation into political parties is discussed. The lack of a consolidated green party in Italian politics is contrasted with other successful experiences in central Europe, and the structural and actor-centered drivers of such differences are analyzed. Lastly, the role of transnational environmentalist social movements and advocacy groups is analyzed on the European and global levels. The role of environmentalist actors in the making of international environmental agreements (carbon trading mechanisms and international treaties on climate change) and in the politics of environmental policy-making in the EU (European Green Deal and its national implementation plans) are investigated. The rise of new, transnational movements such as Fridays for Future and Extinction Rebellion will be discussed.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "28500",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Bagnardi, F.",
+                                "sunet": "bagnardi"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "225130",
+        "number": "OSPFLOR 92",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "93",
+        "title": "Beyond Tomatoes: The Botany of Traditional Tuscan Life",
+        "description": "There are more than seven billion humans on the planet, each of whom need to eat every day: inefficient food production and distribution practices are contributing to faster use of non-renewable fossil fuels and accelerating environmental degradation. What modes of food production and consumption may be viable, sustainable responses to this problem? What are some alternative models of food production? How are people responding to increasing inequalities relating to food availability? What can we learn from Italian food cultures in terms of sustainability? This course focuses on the radical increase in food production over the last 70 years and the ecological and social problems it has created. It will explore the possible solutions that have been suggested that include incorporating historical agricultural techniques that are more responsive to local ecology: the organic movement, regenerative farming, Slow Food, and the shift towards local food. We will critically assess these movements and analyze their potential to change the trajectory of the global food production system, which is likely to collapse without some form of rapid intervention.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "225128",
+        "number": "OSPFLOR 93",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "94",
+        "title": "\"Brothers of Italy\": The Gendered and Racial Making of the Italian Nation",
+        "description": "This course introduces an interdisciplinary understanding of the concepts of gender and race and their intersectionality as a theoretical tool to trace a gendered and racial genealogy of the Italian nation. The aim of the course is to work through a variety of disciplinary approaches, from history to sociology to political philosophy, to learn to critically employ the concepts of gender, race, and nation by understanding their relationality, reciprocity, and their specific application in the field of contemporary Italian history. The course therefore includes a first part of work on the conceptual history of gender and race as well as their roots and key articulations in political history and modern philosophical thought. The work focuses on the main texts and authors of critical political thought on race and gender, with particular reference to Black feminist epistemology, decolonial philosophy and critical race theories. Critical analysis of primary sources and moments of collective debates will cross the learning path. The second part focuses on Italy as a gendered and colonial construction both in material and symbolic terms. Sources from feminist philosophy, political sociology, and Italian colonial and postcolonial history will provide tools for critical analysis and guided exercises. The third part will involve the applicative use of the whole conceptual apparatus. Participatory research and social inquiry will pivot on some past and present biographical trajectories of historical and political significance in contemporary Italian history from an intersectional perspective. The historical and social framework in which biographies are inscribed will provide a critical application field for the conceptual apparatus mastered during the course.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "For students participating in the Bing Overseas Studies Program in Florence only.",
+                "classId": "15219",
+                "currentClassSize": "0",
+                "maxClassSize": "50",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Moise, M.",
+                                "sunet": "m4moise"
+                            },
+                            {
+                                "name": "Campani, E.",
+                                "sunet": "campani"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-EDP",
+            "WAY-SI"
+        ],
+        "objectID": "223444",
+        "number": "OSPFLOR 94",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "96",
+        "title": "Leonardo!",
+        "description": "In this 500th anniversary year of the death of Leonardo this class will be an immersive and interactive experience with this most remarkable and complex artist and thinker. Focus on Leonardo's insights into human perception, tapping the very sounds and sights of the city that drove his fascination and inspired his work. Leonardo's conviction that the soul was the point of convergence of all the senses, prompted him to ponder how sensory information is received and processed. His writings foreshadow gestalt psychology and psychoacoustics centuries before these were studied by scientists. Leonardo's fascination with perception and emotion are manifest in his art and in his inventions. Together we will explore the city that inspired da Vinci's work, and delve into the deep implications of some of his insights and inventions as they effect contemporary art, science and life.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-A-II",
+            "WAY-CE"
+        ],
+        "objectID": "221220",
+        "number": "OSPFLOR 96",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "99",
+        "title": "Independent Study in Medicine and Health",
+        "description": "Students will develop an independent project, meeting weekly with the instructor. Potential topics could include: a) health care systems in Italy and the United States; b) topics in the history of science or medicine; c) aspects of the epidemiology, prevention, or treatment of heart disease; d) nutrition and health; and e) evaluation of medical technology.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "29865",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221223",
+        "number": "OSPFLOR 99",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "106V",
+        "title": "Policing, Punishment and Democracy: Beccaria and the Modern Politics of Crime",
+        "description": "This course will ask how police, prosecutors, and prisons should operate in an open, democratic society, and what opportunities and challenges democracy creates for making those institutions fair, effective, and humane. Our entry point will be Cesare Beccaria's 1764 treatise, Of Crimes and Punishments, which linked criminal justice reform with the struggle against despotism. Beccaria was a key figure in the Italian Enlightenment, and his treatise laid the foundation for virtually all subsequent efforts at criminal justice reform, in the United States as well as in Europe. Beccaria's ideas heavily influenced the American Revolutionaries, found expression in the Bill of Rights, and continue to shape discussions of policing and punishment today. We will read Beccaria's treatise, as well as secondary materials placing him in historical context and tracing his influence on the reform of criminal justice institutions in Europe, the United Kingdom, and the United States. We will also examine a series of contemporary debates about policing, prosecution, and punishment, including calls for prison abolition and for defunding the police, and we will ask what light Beccaria's ideas can throw on those debates.  We will consider, too, the criminal-justice dimensions of the recent rise of populism and nativism, both in the United States and in Europe, and the increasing overlap between debates about crime and debates about immigration. Studying Beccaria will provide a window into the Italian Enlightenment, and tracing his influence will help us place modern debates about mass incarceration, police violence, and prosecutorial discretion in historical perspective. We may take field trips to the sites of former prisons in Florence and to Milan, where Beccaria lived and worked.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-ER",
+            "WAY-SI"
+        ],
+        "objectID": "224244",
+        "number": "OSPFLOR 106V",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "111Y",
+        "title": "Florence and the Renaissance: The 15th Century",
+        "description": "Lectures, site visits, and readings reconstruct the circumstances that favored the flowering of architecture, sculpture, and painting in Florence and Italy, late 13th to early 16th century. Emphasis is on the classical roots; the particular relationship with nature; the commitment to human expressiveness; and rootedness in the real-world experience, translated in sculpture and painting as powerful plasticity, perspective space, and interest in movement and emotion.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "GER:DB-Hum",
+            "WAY-A-II"
+        ],
+        "objectID": "108213",
+        "number": "OSPFLOR 111Y",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "OSPFLOR",
+        "code": "115Y",
+        "title": "Building the Cathedral and the Town Hall: Constructing and Deconstructing Symbols of a Civilization",
+        "description": "The history, history of art, and symbolism of the two principal monuments of Florence: the cathedral and the town hall. Common meaning and ideological differences between the religious and civic symbols of Florence's history from the time of Giotto and the first Guelf republic to Bronzino and Giovanni da Bologna and the Grand Duchy.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "GER:DB-Hum",
+            "WAY-A-II"
+        ],
+        "objectID": "108216",
+        "number": "OSPFLOR 115Y",
+        "units": [
+            4
+        ]
+    }
+]

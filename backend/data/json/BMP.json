@@ -1,0 +1,1723 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "202",
+        "title": "The Basic Science of Radiation and Cancer Biology (RADO 202)",
+        "description": "For residents or fellows in the training program in the Division of Radiation Therapy, and for interested medical students.  Basic processes of radiation biology that underly the treatment of malignant diseases by radiation. Carcinogenesis and mutagenesis by radiation are also covered.  Prerequisite: familiarity with cell biology and physiology; consent of instructor.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27474",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Giaccia, A.",
+                                "sunet": "giaccia"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "128582",
+        "number": "BMP 202",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "206",
+        "title": "Mixed-Reality in Medicine (BIOE 206, RAD 206)",
+        "description": "Mixed reality uses transparent displays to place virtual objects in the user's field of vision such that they can be aligned to and interact with actual objects. This has tremendous potential for medical applications. The course aims to teach the basics of mixed-reality device technology, and to directly connect engineering students to physicians for real-world applications. Student teams will complete guided assignments on developing new mixed-reality technology and a final project applying mixed-reality to solve real medical challenges. Prerequisites: (1) Programming competency in a language such as C, C++. or Python. (2) A basic signal processing course such as EE102B (Digital Signal Processing), while not required, will be helpful.  (3) A medical imaging course, while not required, will be helpful. Please contact the instructors with any questions about prerequisites.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28001",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Departmental Room",
+                        "instructors": [
+                            {
+                                "name": "Hargreaves, B.",
+                                "sunet": "bah"
+                            },
+                            {
+                                "name": "Daniel, B.",
+                                "sunet": "bdaniel"
+                            },
+                            {
+                                "name": "Leuze, C.",
+                                "sunet": "cleuze"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220951",
+        "number": "BMP 206",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "210",
+        "title": "Seminar Series for Biomedical Physics (RAD 210)",
+        "description": "This seminar series is designed for students interested in biomedical physics, radiation therapy, image-guided therapy, diagnostic, interventional, and molecular imaging, and other forms of disease detection and characterization including molecular diagnostics. Speakers include Stanford faculty and research scientists, as well as industry professionals.",
+        "repeatable": "true",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": "Lucas Center, Room P083 (Glazer Learning Center).",
+                "classId": "27740",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "3:30:00 PM",
+                        "endTime": "4:50:00 PM",
+                        "location": "Departmental Room",
+                        "instructors": [
+                            {
+                                "name": "Pitteri, S.",
+                                "sunet": "spitteri"
+                            },
+                            {
+                                "name": "Kogan, F.",
+                                "sunet": "fkogan"
+                            }
+                        ],
+                        "startTimestamp": 55800.0,
+                        "endTimestamp": 60600.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "26215",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "3:30:00 PM",
+                        "endTime": "4:50:00 PM",
+                        "location": "Departmental Room",
+                        "instructors": [
+                            {
+                                "name": "Kogan, F.",
+                                "sunet": "fkogan"
+                            },
+                            {
+                                "name": "Rusu, M.",
+                                "sunet": "mrusu"
+                            }
+                        ],
+                        "startTimestamp": 55800.0,
+                        "endTimestamp": 60600.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224385",
+        "number": "BMP 210",
+        "units": [
+            1
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "211",
+        "title": "Biomedical Signals I (RAD 211)",
+        "description": "This course builds the foundational skills for analyzing biomedical signals and systems. Students will learn about biomedical signal processing (with emphasis on two-dimensional signals), linear systems and their properties, the Fourier transform and its applications, spatial/time domain vs frequency domain, and sampling theory. Examples will be drawn from medical imaging modalities such as MR, x-ray, CT, and ultrasound to demonstrate linear systems analysis and medical image reconstruction using Fourier transform methods.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "26292",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "School of Medicine Room",
+                        "instructors": [
+                            {
+                                "name": "McNab, J.",
+                                "sunet": "mcnabj"
+                            },
+                            {
+                                "name": "Kogan, F.",
+                                "sunet": "fkogan"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224290",
+        "number": "BMP 211",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "212",
+        "title": "Biomedical Signals II (RAD 212)",
+        "description": "This course examines the stochastic nature of biomedical signals and systems and introduces concepts from statistical signal processing to characterize and account for noise in signals and images. Students will learn about random variables, random processes, estimation theory, and image quality. Examples will be drawn from medical imaging modalities such as x-ray, CT, ultrasound, and MR to demonstrate how noise can be modeled and how information is extracted from noisy signals.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27830",
+                "currentClassSize": "0",
+                "maxClassSize": "18",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:50:00 AM",
+                        "location": "Departmental Room",
+                        "instructors": [
+                            {
+                                "name": "Wang, A.",
+                                "sunet": "adamwang"
+                            },
+                            {
+                                "name": "Dahl, J.",
+                                "sunet": "jjdahl"
+                            },
+                            {
+                                "name": "Yang, Y.",
+                                "sunet": "yryangd"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 42600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224289",
+        "number": "BMP 212",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "220",
+        "title": "Introduction to Imaging and Image-based Human Anatomy (BIOE 220, RAD 220)",
+        "description": "Focus on learning the fundamentals of each imaging modality including X-ray Imaging, Ultrasound, CT, and MRI, to learn normal human anatomy and how it appears on medical images, to learn the relative strengths of the modalities, and to answer, &quot;What am I looking at?&quot; Course website:&nbsp;http://bioe220.stanford.edu",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27831",
+                "currentClassSize": "0",
+                "maxClassSize": "40",
+                "schedules": [
+                    {
+                        "startTime": "3:30:00 PM",
+                        "endTime": "5:20:00 PM",
+                        "location": "Departmental Room",
+                        "instructors": [
+                            {
+                                "name": "Ghanouni, P.",
+                                "sunet": "ghanouni"
+                            },
+                            {
+                                "name": "Pauly, K.",
+                                "sunet": "kimbutts"
+                            },
+                            {
+                                "name": "Airan, R.",
+                                "sunet": "rairan"
+                            }
+                        ],
+                        "startTimestamp": 55800.0,
+                        "endTimestamp": 62400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "202262",
+        "number": "BMP 220",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "221",
+        "title": "Physics and Engineering of Radionuclide-based Medical Imaging (BIOE 221, RAD 221)",
+        "description": "Physics, instrumentation, and algorithms for radionuclide-based medical imaging, with a focus on positron emission tomography (PET) and single photon emission computed tomography (SPECT). Topics include basic physics of photon emission from the body and detection, sensors, readout and data acquisition electronics, system design, strategies for tomographic image reconstruction, system calibration and data correction algorithms, methods of image quantification, and image quality assessment, and current developments in the field. Prerequisites: A year of university-level mathematics and physics.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29774",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Clark Center S361",
+                        "instructors": [
+                            {
+                                "name": "Levin, C.",
+                                "sunet": "cslevin"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216221",
+        "number": "BMP 221",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "222",
+        "title": "Physics and Engineering Principles of Multi-modality Molecular Imaging of Living Subjects (BIOE 222, RAD 222)",
+        "description": "Physics and Engineering Principles of Multi-modality Molecular Imaging of Living Subjects (RAD 222A). Focuses on instruments, algorithms and other technologies for non-invasive imaging of molecular processes in living subjects. Introduces research and clinical molecular imaging modalities, including PET, SPECT, MRI, Ultrasound, Optics, and Photoacoustics. For each modality, lectures cover the basics of the origin and properties of imaging signal generation, instrumentation physics and engineering of signal detection, signal processing, image reconstruction, image data quantification, applications of machine learning, and applications of molecular imaging in medicine and biology research.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "26293",
+                "currentClassSize": "0",
+                "maxClassSize": "12",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Clark Center S361",
+                        "instructors": [
+                            {
+                                "name": "Levin, C.",
+                                "sunet": "cslevin"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "204254",
+        "number": "BMP 222",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "224",
+        "title": "Probes and Applications for Multi-modality Molecular Imaging of Living Subjects (BIOE 224, RAD 224)",
+        "description": "We will focus on design, development, and application of imaging agents that target specific cellular and molecular aspects of disease. Covers the strengths and limitations of different imaging agents and how to optimize their design for image-guided intra-operative procedures, brain imaging, probing infection, or interrogating tumor metabolism. Emphasis this year will be on clinical molecular imaging, state-of-the-art strategies for early detection of dementia, imaging response to cancer immunotherapy, and how 'Deep Learning' can be used for probe design and high-throughput automated image analysis.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Class meets in ALWAY M 106 all dates except January 12th when class meets in LK 120.",
+                "classId": "27832",
+                "currentClassSize": "0",
+                "maxClassSize": "35",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": "MSOBX303",
+                        "instructors": [
+                            {
+                                "name": "James, M.",
+                                "sunet": "mljames"
+                            },
+                            {
+                                "name": "Kare, A.",
+                                "sunet": "ariskare"
+                            },
+                            {
+                                "name": "Beinat, C.",
+                                "sunet": "cbeinat"
+                            },
+                            {
+                                "name": "Moseley, M.",
+                                "sunet": "moseley"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "206386",
+        "number": "BMP 224",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "225",
+        "title": "Transcranial Ultrasound Neuromodulation: Physics, Neurophysiology, and Applications (BIOE 225, RAD 225)",
+        "description": "This course covers the basic concepts of ultrasound neuromodulation, including basic neurophysiology, ultrasound physics and applications, and comparison to other neuromodulation modalities. The physics component will include acoustic properties of biological tissues, transducer hardware, beam formation, and beam modeling. Lectures on applications will include ultrasonic manipulation of behavior with therapeutic implications.Comparisons will be made to other neuromodulation modalities including DBS and TMS. We will include guest appearances from world-class experts in the field. Lectures will be online for asynchronous viewing. In-class components will include hands-on laboratories to demonstrate the techniques described in lecture and discussions with ourselves and the external speakers. Course website: http://bioe225.stanford.edu.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [],
+        "objectID": "213663",
+        "number": "BMP 225",
+        "units": [
+            3
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "226",
+        "title": "MRI Spin Physics, Relaxation Theory, and Contrast Mechanisms (BIOE 226, RAD 226)",
+        "description": "This course covers fundamental principles of magnetic resonance imaging (MRI) and spectroscopy (MRS) focusing on the analytic tools needed to understand interactions among nuclear spins, relaxation processes, and image contrast. Starting from a quantum mechanical description of NMR, we'll study J-coupling, the most mathematically tractable coupling mechanism, and its fundamental importance in MRS. Next, we will extend these concepts to develop NMR relaxation theory, which provides the foundation for analyzing multiple in vivo MRI contrast mechanisms and contrast agents..",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Class Will Meet In Lucas Building, Glazer Learning Center, Room P080.",
+                "classId": "27475",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "11:00:00 AM",
+                        "endTime": "12:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Spielman, D.",
+                                "sunet": "spielman"
+                            }
+                        ],
+                        "startTimestamp": 39600.0,
+                        "endTimestamp": 43200.0,
+                        "days": "Monday Wednesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "214116",
+        "number": "BMP 226",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "227",
+        "title": "Functional MRI Methods (BIOE 227, BIOPHYS 227, RAD 227)",
+        "description": "Basics of functional magnetic resonance neuroimaging, including data acquisition, analysis, and experimental design. Journal club sections. Cognitive neuroscience and clinical applications. Prerequisites: basic physics, mathematics; neuroscience recommended.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Lucas Building, Room P083 (Glazer Learning Center).",
+                "classId": "27698",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "3:30:00 PM",
+                        "endTime": "5:00:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Glover, G.",
+                                "sunet": "garyg"
+                            }
+                        ],
+                        "startTimestamp": 55800.0,
+                        "endTimestamp": 61200.0,
+                        "days": "Tuesday Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "205588",
+        "number": "BMP 227",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "228",
+        "title": "Magnetic Resonance Imaging Programming Topics (RAD 228)",
+        "description": "Primarily for students working on research projects involving MRI pulse sequence programming. Introductory and student-initiated topics in seminars and hands-on labs. Image contrast mechanisms achieved by pulse sequences that control radiofrequency and gradient magnetic fields in real time, while acquiring data in an organized manner for image reconstruction. Prerequisites: EE 369B and consent of instructor.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "29098",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "207240",
+        "number": "BMP 228",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "229",
+        "title": "MRI Sequences and Signals (RAD 229)",
+        "description": "Magnetic Resonance Imaging (MRI) uses sequences of radiofrequency excitation and magnetic field gradients to generate a signal and form images. Numerous common and advanced sequences will be studied, including analysis techniques to predict signal and contrast levels, and to measure and reduce unwanted image artifacts. Prerequisite: EE 369B.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27476",
+                "currentClassSize": "0",
+                "maxClassSize": "30",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hargreaves, B.",
+                                "sunet": "bah"
+                            },
+                            {
+                                "name": "Ennis, D.",
+                                "sunet": "dbe"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216045",
+        "number": "BMP 229",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "230",
+        "title": "Ultrasound Beamforming and Array Processing (RAD 230)",
+        "description": "The course covers the fundamentals of beamforming and array processing as applied to medical ultrasound imaging. Topics of the course include the physics of wave propagation, sampling requirements for aperture data, beamforming in the time and frequency domains, noise in beamforming, and ultrasound data acquisition geometries. Students will learn how to analyze and implement different beamforming techniques through project-based assignments.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "219134",
+        "number": "BMP 230",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "235",
+        "title": "Advanced Ultrasound Imaging (RAD 235)",
+        "description": "The focus of this course is on advanced ultrasound imaging techniques for medical imaging applications. Topics include beamforming, adaptive beamforming, Fourier beamforming, synthetic aperture techniques, speckle, speckle reduction, k-space, harmonic imaging, coherence imaging, phase aberration, radiation force imaging, elastography, quantitative ultrasound, Doppler and flow imaging, ultrasounds modeling and advanced ultrasound theory.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "29935",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "1:30:00 PM",
+                        "endTime": "2:50:00 PM",
+                        "location": "Alway Building, Room M108",
+                        "instructors": [
+                            {
+                                "name": "Dahl, J.",
+                                "sunet": "jjdahl"
+                            },
+                            {
+                                "name": "Hyun, D.",
+                                "sunet": "dhyun"
+                            }
+                        ],
+                        "startTimestamp": 48600.0,
+                        "endTimestamp": 53400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "218890",
+        "number": "BMP 235",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "251",
+        "title": "Medical Physics and Dosimetry (RADO 251)",
+        "description": "This course covers concepts of radiological physics and dosimetry that are fundamental for understanding and exploring the most common medical application of physics in imaging and therapy. The course comprises two major parts. Part I focuses on the interaction of ionizing radiation with matter as the basis for understanding radiation/human body interactions. Part II focuses on radiation measurement devices and techniques for accurate assessment of imaging and therapeutic doses of radiation. Prerequisites: Undergraduate degree in Physics, Engineering, or other closely related scientific discipline. Students with non-Physics backgrounds must have had a coursework satisfying the requirements for an undergraduate minor in Physics. This includes the calculus based introductory general physics sequence and three upper division (junior or senior level) topical physics courses that would be taken by a physics major. Examples of upper division courses include Modern Physics or Electricity and Magnetism.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28433",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:50:00 PM",
+                        "location": "Alway Building, Room M112",
+                        "instructors": [
+                            {
+                                "name": "Hristov, D.",
+                                "sunet": "dhristov"
+                            },
+                            {
+                                "name": "Szalkowski, G.",
+                                "sunet": "gszalkow"
+                            },
+                            {
+                                "name": "Charyyev, S.",
+                                "sunet": "charyyev"
+                            },
+                            {
+                                "name": "Gu, X.",
+                                "sunet": "xuejungu"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 60600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224340",
+        "number": "BMP 251",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "252",
+        "title": "Physics of Radiation Therapy (RADO 252)",
+        "description": "This course provides the students the basis for understanding the principals of physics application in a key cancer therapy regimen radiotherapy, including external beam radiotherapy, brachytherapy, treatment planning, radiotherapy devices and emergent particle radiotherapy.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "30504",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:50:00 PM",
+                        "location": "Alway Building, Room M106",
+                        "instructors": [
+                            {
+                                "name": "Hristov, D.",
+                                "sunet": "dhristov"
+                            },
+                            {
+                                "name": "Szalkowski, G.",
+                                "sunet": "gszalkow"
+                            },
+                            {
+                                "name": "Charyyev, S.",
+                                "sunet": "charyyev"
+                            },
+                            {
+                                "name": "Gu, X.",
+                                "sunet": "xuejungu"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 60600.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224341",
+        "number": "BMP 252",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "253",
+        "title": "Radiation Biology and Protection (RADO 253)",
+        "description": "Gives a comprehensive overview of the principles by which ionizing radiation interacts with biological organisms, presented in the context of human health and disease. Students will learn about the basics of radiation physics and chemistry, DNA damage and repair, radiobiological models, radiosensitivity, radiation effects, risk estimation, radiation therapy, clinical radiobiology, and radiation protection. No pre-requisites.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "27428",
+                "currentClassSize": "0",
+                "maxClassSize": "25",
+                "schedules": [
+                    {
+                        "startTime": "9:00:00 AM",
+                        "endTime": "10:20:00 AM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Graves, E.",
+                                "sunet": "egraves"
+                            },
+                            {
+                                "name": "Pratx, G.",
+                                "sunet": "pratx"
+                            },
+                            {
+                                "name": "Xing, L.",
+                                "sunet": "lei"
+                            }
+                        ],
+                        "startTimestamp": 32400.0,
+                        "endTimestamp": 37200.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224342",
+        "number": "BMP 253",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "254",
+        "title": "AI and Data Driven Methods in Biomedical Imaging and Physics",
+        "description": "Data-driven biomedical imaging and physics is an emerging interdisciplinary field that combines advanced medical physics concepts, deep learning algorithms, and biomedical imaging technologies to develop new approaches for diagnosis, treatment, and research in the biomedical field. The main goal of this course is to provide background knowledge of biomedical imaging and physics, introduce the fundamentals of deep learning and data-driven techniques, describe the problems and data-driven solutions in imaging and medical physics, and present clinical use cases and successful examples in data-driven biomedical physics. It is anticipated that the students will gain useful knowledge and practical skills to advance the field of data-driven biomedical imaging and physics in the near future.",
+        "repeatable": "false",
+        "grading": "Medical Satisfactory/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "28544",
+                "currentClassSize": "0",
+                "maxClassSize": "60",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "11:20:00 AM",
+                        "location": "Li Ka Shing Center, room 120",
+                        "instructors": [
+                            {
+                                "name": "Liu, L.",
+                                "sunet": "llliu"
+                            },
+                            {
+                                "name": "Islam, M.",
+                                "sunet": "tauhid"
+                            },
+                            {
+                                "name": "Xing, L.",
+                                "sunet": "lei"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 40800.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225231",
+        "number": "BMP 254",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "260",
+        "title": "Computational Methods for Biomedical Image Analysis and Interpretation (BIOMEDIN 260, CS 235, RAD 260)",
+        "description": "The latest biological and medical imaging modalities and their applications in research and medicine. Focus is on computational analytic and interpretive approaches to optimize extraction and use of biological and clinical imaging data for diagnostic and therapeutic translational medical applications. Topics include major image databases, fundamental methods in image processing and quantitative extraction of image features, structured recording of image information including semantic features and ontologies, indexing, search and content-based image retrieval. Case studies include linking image data to genomic,  phenotypic and clinical data, developing representations of image phenotypes for use in medical decision support and research applications and the role that biomedical imaging informatics plays in new questions in biomedical science. Includes a project. Enrollment for 3 units requires instructor consent. Prerequisites: programming ability at the level of CS 106A, familiarity with statistics, basic biology. Knowledge of Matlab or Python highly recommended.",
+        "repeatable": "false",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "3",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": "Class meets in LK101/102 all dates except 4/3, 4/10, 4/1717 when class meets in M106.",
+                "classId": "27477",
+                "currentClassSize": "0",
+                "maxClassSize": "100",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "12:50:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Rubin, D.",
+                                "sunet": "rubin"
+                            },
+                            {
+                                "name": "Zambrano Chaves, J.",
+                                "sunet": "jmz"
+                            },
+                            {
+                                "name": "Cousins, H.",
+                                "sunet": "cousinsh"
+                            },
+                            {
+                                "name": "Bravo Sanchez, L.",
+                                "sunet": "lmbravo"
+                            },
+                            {
+                                "name": "Rusu, M.",
+                                "sunet": "mrusu"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 46200.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "211782",
+        "number": "BMP 260",
+        "units": [
+            3,
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "269B",
+        "title": "Medical Imaging Systems II (EE 369B)",
+        "description": "Imaging internal structures within the body using magnetic resonance studied from a systems viewpoint. Analysis of magnetic resonance imaging systems including physics, Fourier properties of image formation, effects of system imperfections, image contrast, and noise. Pre- or corequisite: EE 261 or equivalent",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "28197",
+                "currentClassSize": "0",
+                "maxClassSize": "13",
+                "schedules": [
+                    {
+                        "startTime": "3:00:00 PM",
+                        "endTime": "4:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Pauly, J.",
+                                "sunet": "pauly"
+                            },
+                            {
+                                "name": "Setsompop, K.",
+                                "sunet": "kawins"
+                            }
+                        ],
+                        "startTimestamp": 54000.0,
+                        "endTimestamp": 58800.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "104049",
+        "number": "BMP 269B",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "399",
+        "title": "Graduate Research",
+        "description": "Students undertake investigations sponsored by individual faculty members. Prerequisite: consent of instructor.",
+        "repeatable": "true",
+        "grading": "Medical Option (Med-Ltr-CR/NC)",
+        "unitsMin": "1",
+        "unitsMax": "18",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "28477",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30531",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "INS",
+                "notes": null,
+                "classId": "30385",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "28135",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Graves, E.",
+                                "sunet": "egraves"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "02",
+                "component": "INS",
+                "notes": null,
+                "classId": "27725",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Zeineh, M.",
+                                "sunet": "mzeineh"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "28136",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Pitteri, S.",
+                                "sunet": "spitteri"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "03",
+                "component": "INS",
+                "notes": null,
+                "classId": "27843",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Setsompop, K.",
+                                "sunet": "kawins"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "28137",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Pratx, G.",
+                                "sunet": "pratx"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "04",
+                "component": "INS",
+                "notes": null,
+                "classId": "27849",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Chu, S.",
+                                "sunet": "schu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "28138",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Xing, L.",
+                                "sunet": "lei"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "05",
+                "component": "INS",
+                "notes": null,
+                "classId": "27852",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "James, M.",
+                                "sunet": "mljames"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "28139",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Li, R.",
+                                "sunet": "rli2"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "06",
+                "component": "INS",
+                "notes": null,
+                "classId": "27853",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Hargreaves, B.",
+                                "sunet": "bah"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "07",
+                "component": "INS",
+                "notes": null,
+                "classId": "28140",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Setsompop, K.",
+                                "sunet": "kawins"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "08",
+                "component": "INS",
+                "notes": null,
+                "classId": "28141",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Levin, C.",
+                                "sunet": "cslevin"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "09",
+                "component": "INS",
+                "notes": null,
+                "classId": "28142",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Li, R.",
+                                "sunet": "rli2"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "10",
+                "component": "INS",
+                "notes": null,
+                "classId": "28143",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Liu, W.",
+                                "sunet": "wuliu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "11",
+                "component": "INS",
+                "notes": null,
+                "classId": "28144",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Kogan, F.",
+                                "sunet": "fkogan"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "12",
+                "component": "INS",
+                "notes": null,
+                "classId": "28145",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Gu, X.",
+                                "sunet": "xuejungu"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "13",
+                "component": "INS",
+                "notes": null,
+                "classId": "28148",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "James, M.",
+                                "sunet": "mljames"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224921",
+        "number": "BMP 399",
+        "units": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "totalSections": 28
+    },
+    {
+        "year": "2023-2024",
+        "subject": "BMP",
+        "code": "802",
+        "title": "TGR Dissertation (RAD 802)",
+        "description": "TGR Dissertation",
+        "repeatable": "true",
+        "grading": "TGR",
+        "unitsMin": "0",
+        "unitsMax": "0",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "27933",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "30012",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "T/D",
+                "notes": null,
+                "classId": "29744",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "220128",
+        "number": "BMP 802",
+        "units": [
+            0
+        ],
+        "totalSections": 3
+    }
+]

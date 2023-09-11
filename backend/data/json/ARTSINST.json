@@ -1,0 +1,634 @@
+[
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "6F",
+        "title": "Professional Development in Music (MUSIC 6F)",
+        "description": "Open to majors and non-majors. This course is designed for students who are considering careers in performance or the music industry to explore their personal and artistic identity. Weekly guest speakers provide real world insight on topics related to professional advancement.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "LEC",
+                "notes": null,
+                "classId": "15142",
+                "currentClassSize": "0",
+                "maxClassSize": "10",
+                "schedules": [
+                    {
+                        "startTime": "6:30:00 PM",
+                        "endTime": "7:20:00 PM",
+                        "location": "Braun 102",
+                        "instructors": [
+                            {
+                                "name": "Lee, J.",
+                                "sunet": "joomee"
+                            }
+                        ],
+                        "startTimestamp": 66600.0,
+                        "endTimestamp": 69600.0,
+                        "days": "Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "216479",
+        "number": "ARTSINST 6F",
+        "units": [
+            1,
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "6G",
+        "title": "Entrepreneurial Development for Classical Musicians (MUSIC 6G)",
+        "description": "Open to majors and non-majors. This course is designed for students who are interested in professional opportunities in classical music, whether conservatory bound or just exploring possible careers in classical music performance or related interests. Students will examine a wide range of entrepreneurial tools to help develop their personal and artistic identities. The class discussion covers a broad scope of conservatory topics, a survey of professions in classical music, and entrepreneurial skills. Guest speakers are invited to provide real world insight on topics related to professional advancement.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "224481",
+        "number": "ARTSINST 6G",
+        "units": [
+            1,
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "11Q",
+        "title": "Art in the Metropolis (ARTSTUDI 11Q, ENGLISH 11Q, FILMEDIA 11Q, MUSIC 11Q, TAPS 11Q)",
+        "description": "This seminar is offered in conjunction with the annual &quot;Arts Immersion&quot; trip to New York that takes place over the spring break and is organized by the Stanford Arts Institute (SAI). Enrollment in this course is a requirement for taking part in the spring break trip. The program is designed to provide a group of students with the opportunity to immerse themselves in the cultural life of New York City guided by faculty and SAI staff. Students will experience a broad range and variety of art forms (visual arts, theater, opera, dance, etc.) and will meet with prominent arts administrators and practitioners, some of whom are Stanford alumni. For further details please visit the Stanford Arts Institute website: https://arts.stanford.edu/for-students/academics/arts-immersion/new-york/In the seminar, we will prepare for the diverse experiences the trip affords and develop individual projects related to particular works of art, exhibitions, and performances that we?ll encounter in person during the stay in New York. Class time will be divided between readings, presentations, and one studio based creative project. The urban setting in which the various forms of art are created, presented, and received will form a special point of focus. A principal aim of the seminar will be to develop aesthetic sensibilities through writing critically about the art that interests and engages us and making art. Meet the Instructor:Terry Berlier is an interdisciplinary artist who investigates the evolution of human interaction with queerness and ecologies. She has exhibited in solo and group shows in North America, Europe, Asia, South America, and Australia including the Marc Chagall National Museum in France, Museum of Old and New Art in Australia, Contemporary Art + Spirits in Osaka, Japan, the Yerba Buena Center for the Arts, The Contemporary Jewish Museum in San Francisco, and the San Jose Institute of Contemporary Art. She has received numerous residencies and grants including the Creative Work Fund Grant, Center for Cultural Innovation Grant, the Zellerbach Foundation, and the Arts Council Silicon Valley Artist Fellowship. Her work has been reviewed in the Art in America, BBC News Magazine, San Francisco Chronicle, is published in the book ?Seeing Gertrude Stein? by Wanda Corn and Tirza Latimer through University of California Press, and ?Slant Step Book: The Mysterious Object and The Artworks it Inspired? by Francesca Wilmott. She received a Masters in Fine Arts in Studio Art from University of California, Davis and a Bachelors of Fine Arts from Miami University in Oxford, Ohio. Berlier is a Professor and Director of the Sculpture Lab in the Department of Art and Art History at Stanford University.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "ISS",
+                "notes": "Introductory Seminar. Open to undergrads at all levels. Application required, due 11:59pm on Friday, October 20, 2023; apply at https://arts.stanford.edu/for-students/academics/arts-immersion/.",
+                "classId": "14961",
+                "currentClassSize": "0",
+                "maxClassSize": "16",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Berlier, T.",
+                                "sunet": "berlier"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-A-II"
+        ],
+        "objectID": "213247",
+        "number": "ARTSINST 11Q",
+        "units": [
+            3
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "12AX",
+        "title": "Los Angeles Arts Immersion (ARTHIST 10AX)",
+        "description": "In this Arts Intensive, students will learn about the dynamic art histories of Mexican American/Chicanx and Black American artists in Los Angeles. Students will visit museums, galleries, and community centers dedicated to nurturing, showcasing, and archiving the art of people of color, including Black- and Latinx-founded art institutions. Students will meet curators, artists and other art professionals, be given private tours to view historical sites and modern and contemporary art, and will participate in at least one artist-led art-making workshop. Once back at Stanford, students will continue to explore the art histories of Black and Brown peoples through class discussions of primary texts, films, and artist interviews.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "224118",
+        "number": "ARTSINST 12AX",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "20AX",
+        "title": "Arts Immersion Independent Study",
+        "description": "This 1-unit independent study allows students who have taken an arts immersion as part of the summer Arts Intensive program to further develop the project they began in AI. Successful completion of this course following completion of a summer arts immersion course will fulfill the experiential arts requirement for the Inter-Arts Minor. Must be taken autumn quarter following successful completion of one of these summer quarter courses: ARTSINST 12AX or ARTSINST 21AX. Must be taken for a letter grade.",
+        "repeatable": "false",
+        "grading": "Letter (ABCD/NP)",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "API",
+                "notes": null,
+                "classId": "14423",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Piggott, J.",
+                                "sunet": "jpiggott"
+                            }
+                        ],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "224298",
+        "number": "ARTSINST 20AX",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "100",
+        "title": "The Questions of Clay: Craft, Creativity and Scientific Process (APPPHYS 100)",
+        "description": "Students will create individual studio portfolios of ceramic work and pursue technical investigations of clay properties and the firing process using modern scientific equipment. Emphasis on development of creative process; parallels between science and traditional craft; integration of creative expression with scientific method and analysis. Prior ceramics experience desirable but not necessary. Limited enrollment. Prerequisites: any level of background in physics, Instructor permission.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "5",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [
+            "WAY-CE",
+            "WAY-SMA"
+        ],
+        "objectID": "216006",
+        "number": "ARTSINST 100",
+        "units": [
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "100B",
+        "title": "The Questions of Cloth: Weaving, Pattern Complexity and Structures of Fabric (APPPHYS 100B)",
+        "description": "Students will learn to weave on a table loom while examining textile structures from historic, artistic and scientific perspectives.  Emphasis on analyzing patterns and structures generated by weaving, with elementary introductions to information-scientific notions of algorithmic complexity, image compression, and source coding.  This class is primarily intended for non-STEM majors with little or no prior experience in working with textiles.  Limited enrollment.  Prerequisites: Instructor permission.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-FR"
+        ],
+        "objectID": "222694",
+        "number": "ARTSINST 100B",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "101",
+        "title": "Introduction to the Arts: Black Artistry (TAPS 101T)",
+        "description": "Charting a course from colonial America to contemporary London, this course explores the long history of Black performance throughout an Atlantic diaspora. Defining performance as &quot;forms of cultural staging,&quot; from Thomas DeFrantz and Anita Gonzalez's Black Performance Theory, this course takes up scripted plays, live theatre, devised works, performance art, and cinematic performance in its survey of the field. We will engage with theorists, performer, artists, and revolutionaries such as Ignatius Sancho, Maria Stewart, William Wells Brown, Zora Neale Hurston, Derek Walcott, Danai Gurira, and Yvonne Orji. We will address questions around Black identity, history, time, and futurity, as well as other essential strategies Black performers have engaged in their performance making. The course includes essential methodological readings for Black Studies as well as formational writings in Black performance theory and theatre studies. Students will establish a foothold in both AAAS (theory &amp; methodology) and in performance history (plays and performances). As a WIM course, students will gain expertise in devising, drafting, and revising written essays. This course, as a required course for the Interdisciplinary Arts Minor, will provide foundational readings and perspectives.  All students interested in Honors in the Arts and/or IDA should consider enrolling!",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "30424",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223689",
+        "number": "ARTSINST 101",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "141",
+        "title": "Network Performance Practice (MUSIC 153A)",
+        "description": "JackTrip software, developed at Stanford, provides the means for ultra-low-latency, uncompressed sound transmission for live music-making. Remote ensemble rehearsals, coaching, music lessons, jamming and concert broadcasting make use of the technology. The open-source project continues to develop, especially in its ability to support large ensembles of home-to-home connections. The course will cover recent features, history and theory of JackTrip and engage in a series of practical, participatory performance sessions. Students will learn the software and related network and audio principles with a focus on intuition building and ear training. Course participants will work from home and be able to use CCRMA facilities remotely. The course can be audited or coordinated with another course.",
+        "repeatable": "true",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "1",
+        "unitsMax": "1",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": "This class section has been cancelled!",
+                "classId": "14378",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "219499",
+        "number": "ARTSINST 141",
+        "units": [
+            1
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "142",
+        "title": "Drawing with Code (ARTSTUDI 163)",
+        "description": "This studio course will engage coding practices as drawing tools. What makes a good algorithmic composition? How do we craft rule-sets and parameters to shape an interesting work? What changes if we conceive of still outputs, ongoing processes, or interactive processes as the &quot;finished&quot; work? We will look at the history of algorithmic drawing, including analog precedents like Sol LeWitt and other conceptual artists, along with current pioneers like John Simon Jr., Casey Reas, and LIA. Outputs will involve prints as well as screen-based works. Some basic coding experience is helpful, but not required. Assignments are based on conceptual principals that students can engage with at different coding skill levels. This is a good way for non CS students to explore coding practices as well as for CS students to hone their skills. We will work primarily in the free Processing software for our explorations.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "PRA",
+                "notes": null,
+                "classId": "14501",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": null,
+                        "instructors": [
+                            {
+                                "name": "Utterback, C.",
+                                "sunet": "camilleu"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Monday Wednesday"
+                    }
+                ]
+            }
+        ],
+        "gers": [
+            "WAY-CE"
+        ],
+        "objectID": "216941",
+        "number": "ARTSINST 142",
+        "units": [
+            4
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "150G",
+        "title": "Performing Race, Gender, and Sexuality (CSRE 150G, CSRE 350G, FEMGEN 150G, LIFE 150G, TAPS 150G)",
+        "description": "In this theory and practice-based course, students will examine performances by and scholarly texts about artists who critically and mindfully engage race, gender, and sexuality. Students will cultivate their skills as artist-scholars through written assignments and the creation of performances in response to the assigned material. Attendance and written reflection about a live performance event on campus are required. Students will also learn various meditation practices as tools for making and critiquing performance, in both our seminar discussions and performance workshops. We will approach mindfulness as method and theory in our own practice, as well as in relation to the works studied. We will also consider the ethics and current debates concerning the mindfulness industry. Examples of artists studied include James Luna, Nao Bustamante, Renee Cox, William Pope.L, Cassils, boychild, Curious, Adrian Piper, Xandra Ibarra, Val&eacute;rie Reding, Guillermo Gomez-Pe&ntilde;a, and Ana Mendieta.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [
+            "WAY-CE",
+            "WAY-EDP"
+        ],
+        "objectID": "219536",
+        "number": "ARTSINST 150G",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "151C",
+        "title": "Ethical STEM: Race, Justice, and Embodied Practice (AFRICAAM 151, CSRE 151C, ETHICSOC 151C, STS 51D, SYMSYS 151D, TAPS 151D)",
+        "description": "What role do science and technology play in the creation of a just society? How do we confront and redress the impact of racism and bias within the history, theory, and practice of these disciplines? This course invites students to grapple with the complex intersections between race, inequality, justice, and the STEM fields. We orient to these questions from an artistically-informed position, asking how we can rally the embodied practices of artists to address how we think, make, and respond to each other. Combining readings from the history of science, technology, and medicine, ethics and pedagogy, as well as the fine and performing arts, we will embark together on understanding how our STEM practices have emerged, how we participate today, and what we can imagine for them in the future. The course will involve workshops, field trips (as possible), and invited guests. All students, from any discipline, field, interest, and background, are welcome! This course does build upon the STS 51 series from 2020-21, though it is not a prerequisite for this course.  Please contact the professor if you have any questions!",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Winter",
+                "termId": "1244",
+                "sectionNumber": "01",
+                "component": "SEM",
+                "notes": null,
+                "classId": "15401",
+                "currentClassSize": "0",
+                "maxClassSize": "15",
+                "schedules": [
+                    {
+                        "startTime": "11:30:00 AM",
+                        "endTime": "1:20:00 PM",
+                        "location": "Pigott Theatre",
+                        "instructors": [
+                            {
+                                "name": "Robinson, A.",
+                                "sunet": "aikr"
+                            }
+                        ],
+                        "startTimestamp": 41400.0,
+                        "endTimestamp": 48000.0,
+                        "days": "Tuesday Thursday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "223762",
+        "number": "ARTSINST 151C",
+        "units": [
+            4,
+            5
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "197",
+        "title": "Industry Immersion: Film and Media",
+        "description": "This course is designed to give students the opportunity to immerse themselves in the exciting and ever-changing TV, Film, and emerging media industries. The entertainment industry as a whole is facing issues and trends surrounding inclusivity and equity, the democratization of content development, and evolving revenue and distribution models.  This course will introduce and explore these topics via readings, lectures, workshops and projects.  Eight weeks of the course will include visits to our class by influential industry professionals who will share information about their company and current role, and their perspectives on one or more of the topics above.  In addition to the lecture, each class will include a workshop element drawn from everyday efforts to address these issues.  Guest lecturers will have a range of experience and viewpoints of the changing landscape of the industry.  The course will be 10 weeks long. Priority will be given to Sophomores, Juniors and Seniors interested in careers in TV, Film, and emerging media.  Credit will be based on attendance, class participation, assignments and a final presentation.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [
+            {
+                "term": "2023-2024 Spring",
+                "termId": "1246",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": null,
+                "classId": "29854",
+                "currentClassSize": "0",
+                "maxClassSize": "999",
+                "schedules": [
+                    {
+                        "startTime": null,
+                        "endTime": null,
+                        "location": null,
+                        "instructors": [],
+                        "startTimestamp": 0,
+                        "endTimestamp": 0,
+                        "days": null
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "221081",
+        "number": "ARTSINST 197",
+        "units": [
+            2
+        ],
+        "totalSections": 1
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "197B",
+        "title": "Industry Immersion: Fashion",
+        "description": "This course is designed to give students the opportunity to immerse themselves in the expanding and evolving fashion industry. Currently the three most relevant issues and trends impacting the fashion industry are designing for diverse audiences, sustainable practices, and the impact of technology. nnThis course will introduce and explore these topics via readings, lectures, workshops and projects. Six weeks of the course will include visits to our class by influential industry professionals who will share information about their company and current role, and their perspectives on one or more of the topics above.  In addition to the lecture, each class will include a workshop element drawn from everyday efforts to address these issues. Guest lecturers will have a range of experience and viewpoints of the changing landscape. Credit will be based on attendance, class participation, assignments and a final presentation.",
+        "repeatable": "false",
+        "grading": "Satisfactory/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "2",
+        "sections": [],
+        "gers": [],
+        "objectID": "222006",
+        "number": "ARTSINST 197B",
+        "units": [
+            2
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "201A",
+        "title": "Honors in the Arts Capstone Workshop",
+        "description": "First in a three-quarter series required of all Honors in the Arts students. Students initiate and develop interdisciplinary creative projects with the support of peers and mentors in a small, workshop format. Required enrollment in 201 A,B,C.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "5",
+        "sections": [
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "01",
+                "component": "WKS",
+                "notes": null,
+                "classId": "29375",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "10:30:00 AM",
+                        "endTime": "12:20:00 PM",
+                        "location": "Lathrop 294",
+                        "instructors": [
+                            {
+                                "name": "Piggott, J.",
+                                "sunet": "jpiggott"
+                            }
+                        ],
+                        "startTimestamp": 37800.0,
+                        "endTimestamp": 44400.0,
+                        "days": "Friday"
+                    }
+                ]
+            },
+            {
+                "term": "2023-2024 Autumn",
+                "termId": "1242",
+                "sectionNumber": "02",
+                "component": "WKS",
+                "notes": null,
+                "classId": "29376",
+                "currentClassSize": "0",
+                "maxClassSize": "20",
+                "schedules": [
+                    {
+                        "startTime": "12:30:00 PM",
+                        "endTime": "2:20:00 PM",
+                        "location": "Lathrop 294",
+                        "instructors": [
+                            {
+                                "name": "Piggott, J.",
+                                "sunet": "jpiggott"
+                            }
+                        ],
+                        "startTimestamp": 45000.0,
+                        "endTimestamp": 51600.0,
+                        "days": "Friday"
+                    }
+                ]
+            }
+        ],
+        "gers": [],
+        "objectID": "225442",
+        "number": "ARTSINST 201A",
+        "units": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "totalSections": 2
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "201B",
+        "title": "Honors in the Arts Capstone Workshop",
+        "description": "Second in a three-quarter series required of all Honors in the Arts students. Students initiate and develop interdisciplinary creative projects with the support of peers and mentors in a small, workshop format. Required enrollment in 201 A,B,C.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "225444",
+        "number": "ARTSINST 201B",
+        "units": [
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "201C",
+        "title": "Honors in the Arts Capstone Workshop",
+        "description": "Third in a three-quarter series required of all Honors in the Arts students. Students initiate and develop interdisciplinary creative projects with the support of peers and mentors in a small, workshop format. Required enrollment in 201 A,B,C.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "2",
+        "unitsMax": "5",
+        "sections": [],
+        "gers": [],
+        "objectID": "225445",
+        "number": "ARTSINST 201C",
+        "units": [
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "215",
+        "title": "Metaspore: The Networked Sensorium (ARTSTUDI 215)",
+        "description": "Metaspore is a research initiative founded by conceptual artist Anicka Yi to generate &quot;spores&quot; of social trust and interdisciplinary exploration for the 21st century. Recognizing a planetary paradigm shift fueled by the multivalent advances and crises of our time, Metaspore applies Yi's artistic practice as a philosophy for bringing the arts and sciences together in action before a new paradigm solidifies. For Metaspore: The Networked Sensorium, Yi and instructor Miguel Novelo will guide students through immersive media and extended reality experiments exploring both the human and more-than-human sensorium. This class will question how we can augment our own perceptions and intuitions, while also considering the diverse sensory ecologies of other life forms and incorporating these ideas into our immersive practices. Technologies explored include game engines, 360 video, 3D scanning, photogrammetry, spatial audio, etc.  Field work will include lab and studio visits, as well as a nature retreat within the Bay Area. Limited enrollment; students must submit application (http://bit.ly/3WAf6fT) for consideration by March 1, 2023. Please contact Stanford Arts Institute artsinstitute@stanford.edu for more information.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "4",
+        "unitsMax": "4",
+        "sections": [],
+        "gers": [],
+        "objectID": "224964",
+        "number": "ARTSINST 215",
+        "units": [
+            4
+        ]
+    },
+    {
+        "year": "2023-2024",
+        "subject": "ARTSINST",
+        "code": "280",
+        "title": "Art, Meditation, and Creation (ARTHIST 180, LIFE 180)",
+        "description": "Art and meditation invite us to be fully present in our minds and bodies. This class will give you tools to integrate mind and body as you explore artworks on display at the university's museums and throughout campus. In your engagement with activity-based learning at these venues, you will attend to perception and embodiment in the process of writing and making creative work about art. You will also learn meditation techniques and be exposed to authors who foreground the importance of the body in both writing and making art. For your meditation-centered and research-based final creative project, you will have the option of writing an experimental visual analysis or devising a performance.",
+        "repeatable": "false",
+        "grading": "Letter or Credit/No Credit",
+        "unitsMin": "3",
+        "unitsMax": "3",
+        "sections": [],
+        "gers": [
+            "WAY-A-II",
+            "WAY-CE"
+        ],
+        "objectID": "223361",
+        "number": "ARTSINST 280",
+        "units": [
+            3
+        ]
+    }
+]
