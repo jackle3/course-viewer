@@ -3,7 +3,8 @@ const fs = require("fs");
 const csv = require("csv-parser");
 const path = require("path");
 
-require("dotenv").config();
+require('dotenv').config({ path: path.join(__dirname, '../.env') });
+
 
 function readAndParseCSV(csvFilePath) {
   return new Promise((resolve, reject) => {
@@ -35,9 +36,12 @@ files.forEach((file) => {
 
 const csvFilePath = "data/lookup.csv";
 
+console.log(`${jsonData.length} departments found`);
+
 async function main() {
   try {
     const csvData = await readAndParseCSV(csvFilePath);
+    console.log(`Updating ${csvData.length} courses`);
     const csvDataMap = new Map(
       csvData.map((csvEntry) => [csvEntry["Class"], csvEntry])
     );
@@ -63,6 +67,8 @@ async function main() {
         coursesToInsert.push(course);
       });
     });
+
+    console.log(`Updated ${jsonData.length} departments`);
 
     const courseSchema = new mongoose.Schema({
       year: String,
@@ -90,6 +96,11 @@ async function main() {
 
     const Course = mongoose.model("Course", courseSchema);
 
+    console.log("Created course collection and schema");
+
+    console.log("Connecting to MongoDB...");
+    console.log(`Found mongoDB url: ${process.env.MONGODB_URL}`);
+
     await mongoose.connect(
       process.env.MONGODB_URL || "mongodb://localhost/coursedatabase",
       {
@@ -100,6 +111,7 @@ async function main() {
     console.log("MongoDB Connected...");
 
     await Course.deleteMany({});
+    console.log("Successfully wiped collection...");
     await Course.insertMany(coursesToInsert);
 
     console.log("Data import successful!");

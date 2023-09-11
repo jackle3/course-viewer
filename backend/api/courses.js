@@ -29,7 +29,7 @@ module.exports = async (req, res) => {
 
     const course = await Course.find({ sanitizedNumber: { $regex: regex } });
 
-    if (course && course.length > 0) {
+    if (course) {
       res.json(course);
     } else {
       res.status(404).json({ message: "Course not found" });

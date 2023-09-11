@@ -10,6 +10,7 @@ const coursesEndpoint = require("./api/courses");
 
 const app = express();
 
+console.log(`Found mongoDB url: ${process.env.MONGODB_URL}`);
 mongoose.connect(
   process.env.MONGODB_URL || "mongodb://localhost/coursedatabase",
   {
