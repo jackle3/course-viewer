@@ -23,13 +23,13 @@ const Course = mongoose.model("Course", courseSchema);
 
 module.exports = async (req, res) => {
   try {
-    const code = req.query.code || req.params.code; 
+    const code = req.query.code || req.params.code;
+    const sanitizedCode = code.replace(/\s+/g, "").toLowerCase();
+    const regex = new RegExp(`^${sanitizedCode}`); // Prefix search on the sanitized field
 
-    const spacedCode = code.replace(/([a-zA-Z]+)(\d+)/, "$1 $2");
-    const sanitizedCode = spacedCode.replace(/\s+/g, "\\s*"); 
-    const regex = new RegExp(`^${sanitizedCode}`, "i"); 
-    const course = await Course.find({ number: { $regex: regex } });
-    if (course) {
+    const course = await Course.find({ sanitizedNumber: { $regex: regex } });
+
+    if (course && course.length > 0) {
       res.json(course);
     } else {
       res.status(404).json({ message: "Course not found" });
