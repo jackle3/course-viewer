@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+const LRU = require("lru-cache");
 require("dotenv").config();
 
 const courseSchema = new mongoose.Schema({
@@ -22,11 +23,23 @@ const courseSchema = new mongoose.Schema({
 
 const Course = mongoose.model("Course", courseSchema);
 
+// Initialize LRU cache
+const cache = new LRU({
+  max: 500, // Maximum number of items in cache
+  maxAge: 1000 * 60 * 60, // Cache results for 1 hour
+});
+
 module.exports = async (req, res) => {
   try {
     const code = req.query.code || req.params.code;
     const sanitizedCode = code.replace(/\s+/g, "").toLowerCase();
     const regex = new RegExp(`^${sanitizedCode}`);
+
+    // Check if the result is already in cache
+    const cachedResult = cache.get(sanitizedCode);
+    if (cachedResult) {
+      return res.json(cachedResult);
+    }
 
     const course = await Course.find({ sanitizedNumber: { $regex: regex } });
 
