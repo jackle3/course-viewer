@@ -5,14 +5,18 @@ const path = require("path");
 const cookieParser = require("cookie-parser");
 const logger = require("morgan");
 const cors = require("cors");
+require("dotenv").config();
 
 const app = express();
 
 // Connect to MongoDB
-mongoose.connect("mongodb://localhost/coursedatabase", {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-});
+mongoose.connect(
+  process.env.MONGODB_URL || "mongodb://localhost/coursedatabase",
+  {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  }
+);
 
 // Define Mongoose Schema and Model
 const courseSchema = new mongoose.Schema({
