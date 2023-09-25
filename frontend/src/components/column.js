@@ -18,11 +18,12 @@ const Column = ({ columnTitle, cells, data, search, onDelete }) => {
     for (const course of courses) {
       const hours = course.course.hours;
       const unitsMax = course.course.unitsMax;
+      const actualHours = hours ? hours <= 0 ? (unitsMax <= 0 ? -1 : unitsMax * 3) : hours : 0;
       if (unitsMax) {
         unitsMaxTotal += Math.max(0, unitsMax);
       }
-      if (hours) {
-        hoursTotal += Math.max(0, hours);
+      if (actualHours) {
+        hoursTotal += Math.max(0, actualHours);
       }
     }
 
