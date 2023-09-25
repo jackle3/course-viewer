@@ -16,8 +16,14 @@ const Column = ({ columnTitle, cells, data, search, onDelete }) => {
     let hoursTotal = 0;
 
     for (const course of courses) {
-      unitsMaxTotal += course.course.unitsMax || 0;
-      hoursTotal += course.course.hours || 0;
+      const hours = course.course.hours;
+      const unitsMax = course.course.unitsMax;
+      if (unitsMax) {
+        unitsMaxTotal += Math.max(0, unitsMax);
+      }
+      if (hours) {
+        hoursTotal += Math.max(0, hours);
+      }
     }
 
     const numClasses = courses.length;
@@ -36,7 +42,7 @@ const Column = ({ columnTitle, cells, data, search, onDelete }) => {
             <QuarterTitle>
               <span>{cell.name}</span>
               <QuarterTotals>
-              {numClasses} classes | {unitsMaxTotal} units | {hoursTotal} hours
+                {numClasses} classes | {unitsMaxTotal} units | {hoursTotal} hours
               </QuarterTotals>
             </QuarterTitle>
             <QuarterDropZone
